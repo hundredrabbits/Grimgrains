@@ -9,7 +9,9 @@ function DatabaseNode(id,rect)
   this.answer = function(q)
   {
     if(this.cache){ return cache; }
-    
-    console.log("!",q)
+
+    this.cache = this.request();
+
+    return this.cache;
   }
 }

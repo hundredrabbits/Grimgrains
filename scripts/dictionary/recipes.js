@@ -1,3 +1,4 @@
+DICTIONARY.recipes = `
 SPINACH PAJEON
   DATE : 2014-08-19
   TAGS : korean dinner sidedish
@@ -2151,5 +2152,4 @@ SPINACH FAUX CHEESE RAVIOLI
       All purpose flour : 1 cup
       Water : 2/3 cup
       Salt : 1/2 tsp
-
-
+`

@@ -161,7 +161,6 @@ function Node(id,rect={x:0,y:0,w:2,h:2})
       var answer = route.host.answer(q)
       if(!answer){ continue; }
       payload[route.host.id] = answer
-      
     }
     return payload
   }

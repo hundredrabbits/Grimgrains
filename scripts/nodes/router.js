@@ -7,10 +7,23 @@ function RouterNode(id,rect)
 
   this.receive = function(q)
   {
-    console.log(q)
+    var db = this.request("database").database;
+    
+    console.log(q,find(q,db))
 
-    console.log(this.request("database"))
     var page = {type:"custom"}
     this.send(page)
+  }
+
+  function find(key,db)
+  {
+    for(id in db){
+      var table = db[id].hash
+      console.log(table)
+      if(table[key]){
+        return id
+      }
+    }
+    return null
   }
 }

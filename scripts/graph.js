@@ -67,15 +67,16 @@ function graph()
     Ø("router").cast({x:2,y:2},RouterNode),
     Ø("database").cast({x:2,y:8},DatabaseNode),
     Ø("recipes").cast({x:2,y:14},DictionaryNode),
+    Ø("ingredients").cast({x:5,y:14},DictionaryNode),
   ])
 
-  Ø("view").mesh({x:14,y:0},[
+  Ø("view").mesh({x:15,y:0},[
     Ø("template").cast({x:2,y:2},TemplateNode),
     Ø("body").cast({x:2,y:8},ElementNode),
   ])
 
   Ø("router").syphon("database")
-  Ø("database").syphon("recipes")
+  Ø("database").syphon(["recipes","ingredients"])
 
   Ø("template").syphon("body")
 
