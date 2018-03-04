@@ -9,6 +9,8 @@ function RouterNode(id,rect)
   {
     var db = this.request("database").database;
     var type = find(q,db)
+
+    this.label = `Router(${type})`
     this.send({
       name:q,
       type:type,
