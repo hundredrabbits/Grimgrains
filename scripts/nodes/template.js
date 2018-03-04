@@ -6,6 +6,6 @@ function TemplateNode(id,rect)
 
   this.receive = function(page)
   {
-    console.log(page)
+    console.log("page",page)
   }
 }
