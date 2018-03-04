@@ -1,7 +1,4 @@
-~ NAME : Grigrains Pages
-~ NOTE : Hundred Rabbits
-~ AUTH : Devine Lu Linvega
-
+DICTIONARY.pages = `
 ABOUT
   BREF : I started {*Grim Grains*} once I realized that food could be artistically fulfilling. Cooking became an creative output, while the blog allowed me to document my progress and keep track of the things I made. The blog is about being artistically creative with food and colour. Colours for added nutrition, for contrast and for visual harmony. Most of my recipes are also nut-free and plant-based.
   LONG
@@ -28,3 +25,4 @@ DISCLAIMER
     & Any visitor personal information will be kept private and will not be shared/sold to another party. I am not responsible for the privacy practices or actions of any of my blog commenters.
     & I reserve the right to alter the blog at my own discretion, as well as to filter comments without notice.
     & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
+`

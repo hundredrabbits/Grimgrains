@@ -8,18 +8,18 @@ function RouterNode(id,rect)
   this.receive = function(q)
   {
     var db = this.request("database").database;
-    
-    console.log(q,find(q,db))
-
-    var page = {type:"custom"}
-    this.send(page)
+    var type = find(q,db)
+    this.send({
+      name:q,
+      type:type,
+      body:db[type].hash[q]
+    })
   }
 
   function find(key,db)
   {
     for(id in db){
       var table = db[id].hash
-      console.log(table)
       if(table[key]){
         return id
       }
