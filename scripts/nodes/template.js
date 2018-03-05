@@ -15,5 +15,6 @@ function TemplateNode(id,rect)
       footer:"hello"
     }
     this.send({main:dom})
+    this.request()
   }
 }

@@ -9,15 +9,19 @@ function DomNode(id,rect)
   this.is_installed = false;
 
   this.receive = function(content)
-  {
-    if(!this.is_installed){
-      this.install(this.request());
-    }
-    
+  {    
     if(content[this.id]){
       this.update(content[this.id]);
       this.send(content[this.id])
     }
+  }
+
+  this.answer = function()
+  {
+    if(!this.is_installed){
+      this.install(this.request());
+    }
+    return this.el
   }
 
   this.install = function(elements)

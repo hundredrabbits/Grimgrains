@@ -87,7 +87,9 @@ function Node(id,rect={x:0,y:0,w:2,h:2})
     return node;
   }
 
-  this.connect = function(q,type)
+  // Connection
+
+  this.connect = function(q,type = ROUTE_TYPES.output)
   {
     if(q instanceof Array){
       for(id in q){
@@ -102,6 +104,12 @@ function Node(id,rect={x:0,y:0,w:2,h:2})
   this.syphon = function(q,type)
   {
     this.connect(q,ROUTE_TYPES.request)
+  }
+
+  this.bind = function(q)
+  {
+    this.connect(q)
+    this.syphon(q)
   }
 
   this.signal = function(target)
