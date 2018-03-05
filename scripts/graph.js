@@ -1,19 +1,7 @@
 
-function PrintNode(id,rect)
-{
-  Node.call(this,id,rect);
-  this.glyph = NODE_GLYPHS.render
-
-  this.receive = function(q)
-  {
-    this.label = q;
-  }
-}
-
 function graph()
 {
   Ø("query").cast({x:2,y:4},QueryNode)
-  Ø("print").cast({x:32,y:4},PrintNode)
 
   Ø("model").mesh({x:6,y:0},[
     Ø("router").cast({x:5,y:2},RouterNode),
@@ -24,20 +12,30 @@ function graph()
   ])
 
   Ø("view").mesh({x:18,y:0},[
-    Ø("dom").cast({x:5,y:2},DomNode),
-    Ø("header").cast({x:2,y:8},ElementNode),
-    Ø("body").cast({x:5,y:8},ElementNode),
-    Ø("footer").cast({x:8,y:8},ElementNode),
+    Ø("template").cast({x:2,y:2},TemplateNode),
+    Ø("main").cast({x:8,y:2},DomNode),
+
+    Ø("header").cast({x:14,y:2},DomNode),
+    Ø("logo").cast({x:20,y:2},DomNode),
+    Ø("search").cast({x:20,y:6},DomNode),
+    Ø("menu").cast({x:20,y:10},DomNode),
+
+    Ø("body").cast({x:14,y:10},DomNode),
+    Ø("related").cast({x:20,y:14},DomNode),
+
+    Ø("footer").cast({x:14,y:6},DomNode),
   ])
 
   Ø("router").syphon("database")
   Ø("database").syphon(["recipes","ingredients","pages"])
 
-  Ø("dom").syphon(["header","body","footer"])
-  Ø("dom").connect("print")
+  Ø("main").connect(["header","body","footer"])
+  Ø("body").connect(["related"])
+  Ø("header").connect(["logo","search","menu"])
 
   Ø("query").connect("router")
-  Ø("router").connect("dom")
+  Ø("router").connect("template")
+  Ø("template").connect("main")
 
   Ø("query").bang()
 }

@@ -5,29 +5,34 @@ function DomNode(id,rect)
   this.glyph = NODE_GLYPHS.dom
 
   this.el = document.createElement("yu")
+  this.el.id = this.id
   this.is_installed = false;
 
-  this.receive = function(page)
+  this.receive = function(content)
   {
     if(!this.is_installed){
       this.install(this.request());
     }
-
-    this.update(page);
+    
+    if(content[this.id]){
+      this.update(content[this.id]);
+      this.send(content[this.id])
+    }
   }
 
   this.install = function(elements)
   {
+    this.is_installed = true;
     for(id in elements){
-      var el = elements[id];
-      this.el.appendChild(el)
+      this.el.appendChild(elements[id])
     }
     document.body.appendChild(this.el)
-    this.is_installed = true;
   }
 
-  this.update = function()
+  this.update = function(content)
   {
-    
+    if(typeof content == "string"){
+      this.el.innerHTML = content;
+    }
   }
 }

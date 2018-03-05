@@ -2,7 +2,7 @@ function DatabaseNode(id,rect)
 {
   Node.call(this,id,rect);
 
-  this.glyph = NODE_GLYPHS.cache
+  this.glyph = NODE_GLYPHS ? NODE_GLYPHS.cache : ""
 
   this.cache = null;
 
