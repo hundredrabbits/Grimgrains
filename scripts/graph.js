@@ -24,22 +24,20 @@ function graph()
   ])
 
   Ø("view").mesh({x:18,y:0},[
-    Ø("template").cast({x:5,y:2},TemplateNode),
-    Ø("dom").cast({x:5,y:8},DomNode),
-    Ø("header").cast({x:2,y:14},ElementNode),
-    Ø("body").cast({x:5,y:14},ElementNode),
-    Ø("footer").cast({x:8,y:14},ElementNode),
+    Ø("dom").cast({x:5,y:2},DomNode),
+    Ø("header").cast({x:2,y:8},ElementNode),
+    Ø("body").cast({x:5,y:8},ElementNode),
+    Ø("footer").cast({x:8,y:8},ElementNode),
   ])
 
   Ø("router").syphon("database")
   Ø("database").syphon(["recipes","ingredients","pages"])
 
-  Ø("template").syphon("dom")
   Ø("dom").syphon(["header","body","footer"])
+  Ø("dom").connect("print")
 
   Ø("query").connect("router")
-  Ø("router").connect("template")
-  Ø("template").connect("print")
+  Ø("router").connect("dom")
 
   Ø("query").bang()
 }
