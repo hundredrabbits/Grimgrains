@@ -9,7 +9,7 @@ function QueryNode(id,rect)
   {
     var hash = window.location.hash.substring(1).replace(/[^0-9a-z]/gi," ").trim().toLowerCase()
     if(hash == ""){
-      hash = "home";
+      hash = "spinach";
     }
     this.label = hash
     this.send(hash)

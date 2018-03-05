@@ -1,29 +1,29 @@
 
 function graph()
 {
-  Ø("query").cast({x:2,y:4},QueryNode)
+  Ø("query").create({x:2,y:4},QueryNode)
 
   Ø("model").mesh({x:6,y:0},[
-    Ø("router").cast({x:5,y:2},RouterNode),
-    Ø("database").cast({x:5,y:9},DatabaseNode),
-    Ø("recipes").cast({x:2,y:17},DictionaryNode),
-    Ø("ingredients").cast({x:5,y:17},DictionaryNode),
-    Ø("pages").cast({x:8,y:17},DictionaryNode),
+    Ø("router").create({x:5,y:2},RouterNode),
+    Ø("database").create({x:5,y:9},DatabaseNode),
+    Ø("recipes").create({x:2,y:17},DictionaryNode),
+    Ø("ingredients").create({x:5,y:17},DictionaryNode),
+    Ø("pages").create({x:8,y:17},DictionaryNode),
   ])
 
-  Ø("view").mesh({x:18,y:0},[
-    Ø("template").cast({x:2,y:2},TemplateNode),
-    Ø("main").cast({x:8,y:7},DomNode),
+  Ø("view").mesh({x:19,y:0},[
+    Ø("template").create({x:2,y:2},TemplateNode),
+    Ø("main").create({x:8,y:7},DomNode),
 
-    Ø("header").cast({x:2,y:12},DomNode),
-    Ø("logo").cast({x:2,y:17},DomNode),
-    Ø("search").cast({x:6,y:17},DomNode),
-    Ø("menu").cast({x:10,y:17},DomNode),
+    Ø("header").create({x:2,y:12},DomNode),
+    Ø("logo").create({x:2,y:17},DomNode),
+    Ø("search").create({x:6,y:17},DomNode),
+    Ø("menu").create({x:10,y:17},DomNode),
 
-    Ø("body").cast({x:14,y:12},DomNode),
-    Ø("related").cast({x:14,y:17},DomNode),
+    Ø("body").create({x:14,y:12},DomNode),
+    Ø("related").create({x:14,y:17},DomNode),
 
-    Ø("footer").cast({x:10,y:12},DomNode),
+    Ø("footer").create({x:10,y:12},DomNode),
   ])
 
   Ø("router").syphon("database")
