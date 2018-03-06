@@ -8,13 +8,18 @@ function TemplateNode(id,rect)
 
   this.receive = function(q)
   {
+    var template = this.signal(q.type.slice(0, -1));
+
     var dom = {
       header:{
-        search:"test"
+        search:q.name
       },
+      body:template.answer(q),
       footer:"hello"
     }
     this.send({main:dom})
-    this.request()
+
+    // Install Dom
+    this.signal("main").request()
   }
 }

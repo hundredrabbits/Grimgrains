@@ -2,16 +2,15 @@ function DatabaseNode(id,rect)
 {
   Node.call(this,id,rect);
 
-  this.glyph = NODE_GLYPHS ? NODE_GLYPHS.cache : ""
+  this.glyph = NODE_GLYPHS.builder
 
   this.cache = null;
 
   this.answer = function(q)
   {
-    if(this.cache){ return cache; }
-
-    this.cache = this.request();
-
-    return this.cache;
+    this.cache = this.cache ? this.cache : this.request();
+    return this.request(this.cache);
   }
 }
+
+var DATABASE = {};

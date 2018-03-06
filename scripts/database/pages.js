@@ -1,4 +1,4 @@
-DICTIONARY.pages = `
+DATABASE.pages = `
 ABOUT
   BREF : I started {*Grim Grains*} once I realized that food could be artistically fulfilling. Cooking became an creative output, while the blog allowed me to document my progress and keep track of the things I made. The blog is about being artistically creative with food and colour. Colours for added nutrition, for contrast and for visual harmony. Most of my recipes are also nut-free and plant-based.
   LONG

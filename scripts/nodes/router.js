@@ -8,14 +8,20 @@ function RouterNode(id,rect)
   this.receive = function(q)
   {
     var db = this.request("database").database;
-    var type = find(q,db)
 
-    this.label = `Router(${type})`
-    this.send({
-      name:q,
-      type:type,
-      body:db[type].hash[q]
-    })
+    // var type = find(q,db)
+
+    console.log("-----")
+    console.log(db.recipes)
+    console.log("-----")
+
+    // this.label = `Router(${type})`
+    // this.send({
+    //   name:q,
+    //   type:type,
+    //   result:db[type].hash[q],
+    //   tables:db
+    // })
   }
 
   function find(key,db)

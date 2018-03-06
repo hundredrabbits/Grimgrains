@@ -1,4 +1,4 @@
-DICTIONARY.ingredients = `
+DATABASE.ingredients = `
 ~ LEGUMES
 
 Lentils

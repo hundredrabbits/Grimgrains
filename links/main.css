@@ -1,2 +1,5 @@
-body { background:blue; }
-yu { display: block; border:3px solid red; padding:10px; margin:10px; }
+body { background:white; }
+yu { display: block; border:1px solid #ccc; padding:10px; margin:10px; }
+
+list { display: block; background:red; }
+list ln { display: block }

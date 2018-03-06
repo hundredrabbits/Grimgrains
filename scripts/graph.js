@@ -6,13 +6,16 @@ function graph()
   Ø("model").mesh({x:6,y:0},[
     Ø("router").create({x:5,y:2},RouterNode),
     Ø("database").create({x:5,y:9},DatabaseNode),
-    Ø("recipes").create({x:2,y:17},DictionaryNode),
-    Ø("ingredients").create({x:5,y:17},DictionaryNode),
-    Ø("pages").create({x:8,y:17},DictionaryNode),
+    Ø("recipes").create({x:2,y:17},IndentalNode),
+    Ø("ingredients").create({x:5,y:17},IndentalNode),
+    Ø("pages").create({x:8,y:17},IndentalNode),
   ])
 
   Ø("view").mesh({x:19,y:0},[
     Ø("template").create({x:2,y:2},TemplateNode),
+
+    Ø("recipe").create({x:2,y:7},RecipeTemplate),
+
     Ø("main").create({x:8,y:7},DomNode),
 
     Ø("header").create({x:2,y:12},DomNode),
@@ -28,6 +31,8 @@ function graph()
 
   Ø("router").syphon("database")
   Ø("database").syphon(["recipes","ingredients","pages"])
+
+  Ø("template").syphon("recipe")
 
   Ø("template").bind("main")
   Ø("main").bind(["header","body","footer"])

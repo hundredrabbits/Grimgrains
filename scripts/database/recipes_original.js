@@ -1,4 +1,4 @@
-DICTIONARY.recipes = `
+DATABASE.recipes = `
 SPINACH PAJEON
   DATE : 2014-08-19
   TAGS : korean dinner sidedish
