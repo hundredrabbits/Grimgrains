@@ -130,10 +130,13 @@ Tomato
   Details : [paste#94191C dried heirloom#94191C] The tomatoes can also be dried with an oven.
   Tags
     other vegetables
+    
 Avocado
-  Details : [#006633] Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
+  Color   : #006633
+  Details : Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
   Tags
     other vegetables
+
 Pumpkin
   Details : [#FF6600] The darker the skin of the pumpkin, the higher the beta carotene content.
   Tags

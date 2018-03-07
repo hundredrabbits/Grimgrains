@@ -3,3 +3,5 @@ yu { display: block; border:1px solid #ccc; padding:10px; margin:10px; }
 
 list { display: block; background:red; }
 list ln { display: block }
+
+h1,h2,h3,h4 { font-weight: bold }

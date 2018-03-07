@@ -33,9 +33,8 @@ function graph()
 
   Ø("router").syphon("database")
   Ø("database").syphon(["recipes","ingredients","pages"])
-
-  Ø("template").syphon("recipe")
-  Ø("template").syphon("ingredient")
+  
+  Ø("template").syphon(["recipe","ingredient","page"])
 
   Ø("template").bind("main")
   Ø("main").bind(["header","body","footer"])
