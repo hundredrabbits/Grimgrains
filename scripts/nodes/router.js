@@ -7,27 +7,24 @@ function RouterNode(id,rect)
 
   this.receive = function(q)
   {
+    var q = q.toUpperCase();
     var db = this.request("database").database;
 
-    // var type = find(q,db)
+    var type = find(q,db)
 
-    console.log("-----")
-    console.log(db.recipes)
-    console.log("-----")
-
-    // this.label = `Router(${type})`
-    // this.send({
-    //   name:q,
-    //   type:type,
-    //   result:db[type].hash[q],
-    //   tables:db
-    // })
+    this.label = `Router(${type})`
+    this.send({
+      name:q,
+      type:type,
+      result:db[type][q],
+      tables:db
+    })
   }
 
   function find(key,db)
   {
     for(id in db){
-      var table = db[id].hash
+      var table = db[id]
       if(table[key]){
         return id
       }

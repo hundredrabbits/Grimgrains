@@ -15,8 +15,10 @@ function graph()
     Ø("template").create({x:2,y:2},TemplateNode),
 
     Ø("recipe").create({x:2,y:7},RecipeTemplate),
+    Ø("ingredient").create({x:5,y:7},IngredientTemplate),
+    Ø("page").create({x:8,y:7},PageTemplate),
 
-    Ø("main").create({x:8,y:7},DomNode),
+    Ø("main").create({x:12,y:7},DomNode),
 
     Ø("header").create({x:2,y:12},DomNode),
     Ø("logo").create({x:2,y:17},DomNode),
@@ -30,9 +32,10 @@ function graph()
   ])
 
   Ø("router").syphon("database")
-  Ø("database").syphon(["recipes"])
+  Ø("database").syphon(["recipes","ingredients","pages"])
 
   Ø("template").syphon("recipe")
+  Ø("template").syphon("ingredient")
 
   Ø("template").bind("main")
   Ø("main").bind(["header","body","footer"])

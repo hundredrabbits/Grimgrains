@@ -110,40 +110,73 @@ Onion
 
 Cucumber
   Details : [#006633 pickled] Cucumbers are usually more than 90% water.
+  Tags
+    other vegetables
 Eggplant
   Details : [#6620B3]
+  Tags
+    other vegetables
 Zucchini
   Details : [#006633]
+  Tags
+    other vegetables
 Chile
   Details : [#006633 green]
+  Tags
+    other vegetables
 Peppers
   Details : [red#94191C yellow#FFD800 green#006633] The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to europe. The word pepper was given to all spices in europe that had a hot and pungent taste.
 Tomato
   Details : [paste#94191C dried heirloom#94191C] The tomatoes can also be dried with an oven.
+  Tags
+    other vegetables
 Avocado
   Details : [#006633] Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
+  Tags
+    other vegetables
 Pumpkin
   Details : [#FF6600] The darker the skin of the pumpkin, the higher the beta carotene content.
+  Tags
+    other vegetables
 Olives
   Details : [green black]
+  Tags
+    other vegetables
 Palm
   Details : [#EFEFEF heart] Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad. 
 Squash
   Details : [#FF6600 acorn] The seeds of the acorn squash can be eaten, they're delicious when roasted!
+  Tags
+    other vegetables
 Artichokes
   Details : Missing.
+  Tags
+    other vegetables
 Asparagus
   Details : Missing.
+  Tags
+    other vegetables
 Bamboo shoots
   Details : Missing.
+  Tags
+    other vegetables
 Breadfruit
   Details : Missing
+  Tags
+    other vegetables
 Scallions
   Details : [#006633] In some countries scallions are mistakenly referred to as 'shallots'.
+  Tags
+    other vegetables
 Spinach
-  Details : [#006633] During the cold war, wine with added spinach juice was given to weakened soldiers.
+  Color : #006633
+  Desc : During the cold war, wine with added spinach juice was given to weakened soldiers.
+  Tags
+    other vegetables
 Alfaalfa sprouts
   Details : Missing
+  Tags
+    other vegetables
 
 ~ BERRIES
 

@@ -35,7 +35,7 @@ function IndentalNode(id,rect)
       for(id in lines){
         var line = lines[id];
         if(line.skip || line.indent > 0){ continue; }
-        h[line.content] = format(line)
+        h[line.content.toUpperCase()] = format(line)
       }
       return h
     }
@@ -46,9 +46,9 @@ function IndentalNode(id,rect)
       var h = {};
       for(id in line.children){
         var child = line.children[id];
-        if(child.key){ h[child.key] = child.value }
+        if(child.key){ h[child.key.toUpperCase()] = child.value }
         else if(child.children.length == 0){ a.push(child.content) }
-        else{ h[child.content] = format(child) }
+        else{ h[child.content.toUpperCase()] = format(child) }
       }
       return a.length > 0 ? a : h
     }
