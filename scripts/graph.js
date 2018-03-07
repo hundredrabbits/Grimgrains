@@ -30,7 +30,7 @@ function graph()
   ])
 
   Ø("router").syphon("database")
-  Ø("database").syphon(["recipes","ingredients","pages"])
+  Ø("database").syphon(["recipes"])
 
   Ø("template").syphon("recipe")
 
