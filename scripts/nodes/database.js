@@ -12,5 +12,3 @@ function DatabaseNode(id,rect)
     return this.request(this.cache);
   }
 }
-
-var DATABASE = {};

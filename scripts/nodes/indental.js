@@ -19,6 +19,7 @@ function IndentalNode(id,rect)
 
     function build(lines)
     {
+      // Assoc lines
       var stack = {}
       var target = lines[0]
       for(id in lines){
@@ -28,19 +29,14 @@ function IndentalNode(id,rect)
         if(target){ target.children.push(line) }
         stack[line.indent] = line
       }
-      return nip(lines); 
-    }
 
-    function nip(lines)
-    {
+      // Format
       var h = {}
-
       for(id in lines){
         var line = lines[id];
         if(line.skip || line.indent > 0){ continue; }
         h[line.content] = format(line)
       }
-
       return h
     }
 
@@ -50,15 +46,9 @@ function IndentalNode(id,rect)
       var h = {};
       for(id in line.children){
         var child = line.children[id];
-        if(child.key){
-          h[child.key] = child.value
-        }
-        else if(child.children.length == 0){
-          a.push(child.content)
-        }
-        else{
-          h[child.content] = format(child)
-        }
+        if(child.key){ h[child.key] = child.value }
+        else if(child.children.length == 0){ a.push(child.content) }
+        else{ h[child.content] = format(child) }
       }
       return a.length > 0 ? a : h
     }
@@ -76,3 +66,5 @@ function IndentalNode(id,rect)
     }
   }
 }
+
+var DATABASE = {};

@@ -1,12 +1,5 @@
 DATABASE.recipes = `
 
-ROOT
-  LEAF
-  LEAF
-    SOMETHING
-  LEAF
-
-
 SPINACH PAJEON
   DATE : 2014-08-19
   TAGS : korean dinner sidedish
@@ -15,7 +8,6 @@ SPINACH PAJEON
   DESC
     & A dish of korean inspiration! A delicious scallion pancake coloured green with spinach. This is a great way to add an extra portion of vegetables to your meal. 
     & Happy cooking!
-    ? Rekka
   INST
     * Pancake
     - Blend 1/2 cup of spinach with 1/2 cup of water until smooth. Set aside.
