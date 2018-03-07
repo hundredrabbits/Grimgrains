@@ -1,10 +1,9 @@
 DATABASE.recipes = `
 SPINACH PAJEON
-  INFO
-    DATE : 2014-08-19
-    TAGS : korean dinner sidedish
-    TIME : 15
-    SERV : 1 pancake
+  DATE : 2014-08-19
+  TAGS : korean dinner sidedish
+  TIME : 15
+  SERV : 1 pancake
   DESC
     & A dish of korean inspiration! A delicious scallion pancake coloured green with spinach. This is a great way to add an extra portion of vegetables to your meal. 
     & Happy cooking!
