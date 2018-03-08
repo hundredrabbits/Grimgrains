@@ -11,10 +11,9 @@ function TemplateNode(id,rect)
     // Select the right signal
     var assoc = this.signal(q.type.slice(0, -1));
     var payload = assoc.answer(q)
-    this.send({body:payload})
+    this.send({view:payload})
 
     // Install Dom
     document.body.appendChild(this.signal("view").answer())
-    
   }
 }

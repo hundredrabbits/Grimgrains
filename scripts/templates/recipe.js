@@ -25,12 +25,11 @@ function RecipeTemplate(id,rect)
     var html = "";
 
     html += `
-    <h1>${q.name}</h1>
-    <h2>${recipe.DATE}</h2>
-    <h3>${recipe.SERV} — ${recipe.TIME} minutes</h3>
+    <h1>${q.name.capitalize()}</h1>
+    <h2>${recipe.SERV} — ${recipe.TIME} minutes</h2>
     <p>${new Runic(recipe.DESC)}</p>
-    <h4>Ingredients</h4>
-    <list>${print_sub_list(recipe.INGR)}</list>`;
+    <h2>Ingredients</h2>
+    ${make_ingredients(recipe.INGR)}`;
 
     return html
   }
@@ -62,16 +61,25 @@ function RecipeTemplate(id,rect)
     return a.reverse();
   }
 
-  function print_sub_list(categories)
+  function make_ingredients(categories)
   {
     var html = "";
     for(id in categories){
       var elements = categories[id];
-      html += `<ln class='category'>${id}</ln>`
+      html += categories.length > 1 ? `<h3>${id.capitalize()}</h3>` : ''
+      html += `<list class='ingredients'>`
       for(id in elements){
         var element = elements[id];
-        html += `<ln><a href='#${id.to_url()}'>${id.capitalize()}</a></ln>`
+        html += `
+        <ln class='ingredient'>
+          <a href='#${id.to_url()}'>
+            <img src='media/ingredients/${id.to_path()}.png'/>
+          </a>
+          <t class='name'>${id.capitalize()}</t>
+          <t class='quantity'>${element}</t>
+        </ln>`
       }
+      html += `<hr /></list>`
     }
     return html
   }
