@@ -3,7 +3,6 @@ function RouterNode(id,rect)
   Node.call(this,id,rect);
 
   this.glyph = NODE_GLYPHS.router
-  this.label = "router"
 
   this.receive = function(q)
   {
@@ -12,7 +11,7 @@ function RouterNode(id,rect)
 
     var type = find(q,db)
 
-    this.label = `Router(${type})`
+    this.label = `${type}/${q}`
     this.send({
       name:q,
       type:type,

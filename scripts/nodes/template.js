@@ -8,18 +8,24 @@ function TemplateNode(id,rect)
 
   this.receive = function(q)
   {
-    var template = this.signal(q.type.slice(0, -1));
+    console.log(q)
+    // var template = this.signal(q.type.slice(0, -1));
+    // var related_template = this.signal("related");
 
-    var dom = {
-      header:{
-        search:q.name
-      },
-      body:template.answer(q),
-      footer:"hello"
-    }
-    this.send({main:dom})
+    // console.log(related_template)
+    // var dom = {
+    //   header:{
+    //     search:q.name
+    //   },
+    //   body:{
+    //     core: template.answer(q),
+    //     related: "qq"
+    //   },
+    //   footer:"hello"
+    // }
+    // this.send({main:dom})
 
-    // Install Dom
-    this.signal("main").request()
+    // // Install Dom
+    // this.signal("main").request()
   }
 }
