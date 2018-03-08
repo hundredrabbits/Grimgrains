@@ -52,7 +52,7 @@ function RecipeTemplate(id,rect)
       if(count > 1){ break; }
       count += 1
     }
-    return `<list class='related'>${html}<hr/></list>`    
+    return `${html}<hr/>`    
   }
 
   function count_ingredients(recipe)
@@ -87,8 +87,9 @@ function RecipeTemplate(id,rect)
     var html = "";
     for(id in categories){
       var elements = categories[id];
-      html += categories.length > 1 ? `<h3>${id.capitalize()}</h3>` : ''
+      
       html += `<list class='ingredients'>`
+      html += Object.keys(categories).length > 1 ? `<h3>${id.capitalize()}</h3>` : ""
       for(id in elements){
         var element = elements[id];
         html += `

@@ -16,10 +16,7 @@ function IngredientTemplate(id,rect)
       },
       core: {
         content: ingredient.DESC,
-        related:{
-          related_recipes:related_recipes(t.name,t.tables.recipes),
-          related_ingredients:related_ingredients(t.name,ingredient.TAGS[0],sort(t.tables.ingredients))
-        }
+        related:"hello"
       }
     }
   }
