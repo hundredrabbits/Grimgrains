@@ -15,7 +15,7 @@ function RouterNode(id,rect)
     this.send({
       name:q,
       type:type,
-      result:db[type][q],
+      result:db[type] ? db[type][q] : null,
       tables:db
     })
   }

@@ -103,7 +103,7 @@ NO KNEAD BLACK BREAD
   DESC
     & This black loaf of bread is what inspired this website. It took me a while to get my hands on bamboo charcoal powder, now that i have it, i will be baking a ton of these! Some months ago, I stumbled upon an image of an all-black loaf. I didn't know you could get bread to be that dark. 
     & Getting your hands on bamboo charcoal isn't easy. I saw stores on amazon.com that stocked it, but nothing in my area. I bought a small amount at a health food store where I live, but it was a very small jar (also crazy expensive). After much searching, I concluded that the best place to get it was in Japan. I assumed it would be relatively easy to get over there, wrong again. It's almost impossible to purchase in store, or maybe i wasn't taking to the right people, or going to the right places.
-    % no.knead.black.bread.1
+    % recipes/no.knead.black.bread.1.jpg
     & I finally found some available for purchase on amazon japan. Since i lived in temporary housing, shipping there wasn't ideal. Luckily, a good friend agreed to have it shipped to her place and it arrived before i left the country! That's how i got my hands on bamboo charcoal powder! Wasn't easy, but i got it from the best possible source! I got it through {{Taketora|http://www.taketora.co.jp}}, they've been growing and making things out of bamboo for years and years. They're true artisans.
     & Cooking with bamboo charcoal is a breeze, you don't need to add much to make your food black. It doesn't add taste to a recipe either, it's purely aesthetic. 
     & Happy cooking!
@@ -740,12 +740,12 @@ BASIC BLACK BREAD
     & Introducing, my basic black bread recipe. This bread is super light and fluffy, it's great great for morning toast or sandwiches.
     & I've been reading up a lot about bread, there's so many kinds out there. I wanted to understand how the ingredients we add, can change the texture of the bread. Also read about the differences in temperature, to knead or not to knead etc. 
     & Truth is, it depends on the type of bread you want.
-    % basic.black.bread.1
+    % recipes/basic.black.bread.1.jpg
     & I wanted to make a sandwich bread with a light crumb, the kind that bounces back when touched.
     & The one I made this time has more fat, which in turn makes it softer and fluffier. The fat that you use will also change the texture/taste of the bread. A lot of people wont like the idea of adding 'fat' to a recipe, know that fat isn't synonymous with unhealthy. Too much of it can be bad, but in moderation there really isn't anything to worry about. It also depends on what fat you choose, there are good and bad kinds of fat. 
     & There are many things you can do to help soften your bread, like brushing the outside with a little oil or fat. Do this as soon as you take it out of the oven, it will make the outside less crunchy. You can also substitute nut milk for the water, if you want a richer taste. There are so many different things to think about when baking!
     & I made this loaf for a brunch I had with friends, we wanted to have fondue with a set I got as a gift during the holidays. We  cut the loaf into cubes, and dunked them in! Soft bread is perfect for fondue!
-    % basic.black.bread.2
+    % recipes/basic.black.bread.2.jpg
     & So there you have it! A basic black bread! 
   INST
     * Loaf

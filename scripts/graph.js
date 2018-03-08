@@ -18,9 +18,9 @@ function graph()
     Ø("page").create({x:8,y:8},PageTemplate),
   ])
 
-  Ø("view").mesh({x:32,y:0},[
+  Ø("client").mesh({x:32,y:0},[
 
-    Ø("body").create({x:2,y:2},DomNode),
+    Ø("view").create({x:2,y:2},DomNode),
 
     Ø("header").create({x:2,y:8},DomNode),
     Ø("logo").create({x:2,y:14},DomNode),
@@ -41,8 +41,8 @@ function graph()
   // Assoc
   Ø("template").syphon(["recipe","ingredient","page"])
 
-  Ø("template").connect("body")
-  Ø("body").bind(["header","core","footer"])
+  Ø("template").connect("view")
+  Ø("view").bind(["header","core","footer"])
   Ø("core").bind(["content","related"])
   Ø("header").bind(["logo","search","menu"])
 

@@ -8,6 +8,19 @@ function RecipeTemplate(id,rect)
 
   this.answer = function(q)
   {
+    return {
+      header:{
+        search: q.name.capitalize()
+      },
+      core: {
+        content: make_content(q),
+        related: make_related(q)
+      }
+    }
+  }
+
+  function make_content(q)
+  {
     var recipe = q.result
     var html = "";
 
@@ -15,24 +28,38 @@ function RecipeTemplate(id,rect)
     <h1>${q.name}</h1>
     <h2>${recipe.DATE}</h2>
     <h3>${recipe.SERV} — ${recipe.TIME} minutes</h3>
-    <p>${recipe.DESC}</p>
+    <p>${new Runic(recipe.DESC)}</p>
     <h4>Ingredients</h4>
-    <list>${print_sub_list(recipe.INGR)}</list>
-    <h4>Related Recipes</h4>
-    <list>${print_list(related_recipes(recipe,q.tables.recipes))}</list>`;
+    <list>${print_sub_list(recipe.INGR)}</list>`;
 
     return html
   }
 
-  function print_list(elements)
+  function make_related(q)
   {
     var html = "";
-    for(id in elements){
-      var name = elements[id][0];
-      html += `<ln><a href='#${name.to_url()}'>${name.capitalize()}</a></ln>`
-      if(id > 5){ break; }
+    var recipe = q.result
+    var recipes = find_related(recipe,q.tables.recipes)
+
+    for(id in recipes){
+      var name = recipes[id][0];
+      html += `<ln><a href='#${name.to_url()}'>${name.capitalize()}</a>(${recipes[id][1]})</ln>`
     }
-    return html
+    return html    
+  }
+
+  function find_related(target,recipes)
+  {
+    var a = [];
+    for(id in recipes){
+      var recipe = recipes[id];
+      var index = similarity(target.TAGS,recipe.TAGS)
+      a.push([id,index])
+    }
+    a.sort(function(a, b) {
+      return a[1] - b[1];
+    });
+    return a.reverse();
   }
 
   function print_sub_list(categories)
@@ -47,20 +74,6 @@ function RecipeTemplate(id,rect)
       }
     }
     return html
-  }
-
-  function related_recipes(target,recipes)
-  {
-    var a = [];
-    for(id in recipes){
-      var recipe = recipes[id];
-      var index = similarity(target.TAGS,recipe.TAGS)
-      a.push([id,index])
-    }
-    a.sort(function(a, b) {
-      return a[1] - b[1];
-    });
-    return a.reverse();
   }
 
   function similarity(a,b)

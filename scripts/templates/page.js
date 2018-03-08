@@ -8,6 +8,20 @@ function PageTemplate(id,rect)
 
   this.answer = function(q)
   {
+    var recipe = t.result;
+
+    return {
+      header:{
+        search: t.name.capitalize()
+      },
+      core: {
+        content: recipe,
+        related:{
+          related_recipes:related_recipes(t.name,t.tables.recipes),
+          related_ingredients:related_ingredients(t.name,ingredient.TAGS[0],sort(t.tables.ingredients))
+        }
+      }
+    }
     console.log(q.result)
 
     var recipe = q.result

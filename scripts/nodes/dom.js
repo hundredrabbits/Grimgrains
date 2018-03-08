@@ -30,7 +30,6 @@ function DomNode(id,rect)
     for(id in elements){
       this.el.appendChild(elements[id])
     }
-    document.body.appendChild(this.el)
   }
 
   this.update = function(content)

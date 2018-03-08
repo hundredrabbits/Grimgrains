@@ -16,3 +16,5 @@ svg path.route { stroke:#555; stroke-width:2;  }
 svg path.route.request { stroke-dasharray: 5,5;  }
 svg path.route.bidirectional { stroke:#33; stroke-dasharray: 0,3;  }
 svg g:hover text { fill:#72dec2; cursor: pointer; }
+
+yu { display: none }
