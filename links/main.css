@@ -9,7 +9,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view { max-width: 800px; margin:0px auto; padding:90px 30px; }
 
-#view #header { position: absolute; top:0px; left:0px; padding:60px; z-index: 900; background:white}
+#view #header { }
 #view #header #logo img { max-width: 200px; display: block; margin:0px auto; }
 #view #header #search { display: none }
 

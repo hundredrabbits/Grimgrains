@@ -8,34 +8,22 @@ function PageTemplate(id,rect)
 
   this.answer = function(q)
   {
-    var recipe = t.result;
+    if(q.name == "HOME"){
+      this.label = `page:${q.name}`
+      return this.signal("home").answer(q)
+    }
+    if(!q.type){
+      this.label = `page:${q.name}`
+      return this.signal("search").answer(q)
+    }
+
+    var page = q.result
 
     return {
-      header:{
-        search: t.name.capitalize()
-      },
       core: {
-        content: recipe,
-        related:{
-          related_recipes:related_recipes(t.name,t.tables.recipes),
-          related_ingredients:related_ingredients(t.name,ingredient.TAGS[0],sort(t.tables.ingredients))
-        }
+        content: `<p>${page.BREF}</p>${new Runic(page.LONG).toString()}`
       }
     }
-    console.log(q.result)
-
-    var recipe = q.result
-    var html = "";
-
-    html += `
-    <h1>${q.name}</h1>
-    <h2>${recipe.date}</h2>
-    <h3>${recipe.serv} — ${recipe.time} minutes</h3>
-    <p>${recipe.desc}</p>
-    <h4>Ingredients</h4>
-    <list>${list(recipe.ingr)}</list>`;
-
-    return html
   }
 
   function list(items)

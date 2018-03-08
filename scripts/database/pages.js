@@ -3,7 +3,7 @@ ABOUT
   BREF : I started {*Grim Grains*} once I realized that food could be artistically fulfilling. Cooking became an creative output, while the blog allowed me to document my progress and keep track of the things I made. The blog is about being artistically creative with food and colour. Colours for added nutrition, for contrast and for visual harmony. Most of my recipes are also nut-free and plant-based.
   LONG
     & This website showcases some of my favourite creations, along with hand draw illustrations for {{each of their ingredients|ingredients-list}}.
-    % about
+    % pages/about.png
     & I am {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, living on a small sailboat somewhere on the shores of the Pacific Ocean.
     & You can contact me on my twitter {{@grimgrains|http://twitter.com/grimgrains}}.
 

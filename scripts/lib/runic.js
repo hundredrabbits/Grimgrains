@@ -58,8 +58,7 @@ function Runic(raw)
       var target = content.indexOf("|") > -1 ? content.split("|")[1] : content;
       var name = content.indexOf("|") > -1 ? content.split("|")[0] : content;
       var external = (target.indexOf("https:") > -1 || target.indexOf("http:") > -1 || target.indexOf("dat:") > -1);
-      var redlink = !external && !invoke.vessel.lexicon.has_term(target); if(redlink){ console.warn("broken link",target,html); }
-      html = html.replace(`{{${content}}}`,`<a target='${external ? "_blank" : "_self"}' href='${external ? target : target.to_url()}' class='${external ? "external" : "local"} ${redlink ? "redlink" : ""}'>${name}</a>`)
+      html = html.replace(`{{${content}}}`,`<a target='${external ? "_blank" : "_self"}' href='${external ? target : target.to_url()}' class='${external ? "external" : "local"}'>${name}</a>`)
     }
 
     return html;
