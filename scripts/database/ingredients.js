@@ -3,10 +3,19 @@ DATABASE.ingredients = `
 
 Lentils
   Details : [red#FF6600 beluga#000000 green] Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+
+Beluga Lentils
+  Color : #000000
+
 Tempeh
   Details : [#875A2C] Missing.
 Peanut
   Details : [butter] Missing.
+Peanut Butter
+  Details : Missing.
+
+
+
 Peanuts
   Details : Missing.
 Soy beans
@@ -28,8 +37,17 @@ Mungbeans
 
 Broccoli
   Details :  No description.
+
 Cabbage
   Details : [red#6620B3 sauerkraut#C820B3] Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+  Tags
+    Cruciferous
+
+Red Cabbage
+  Details : Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+  Tags
+    Cruciferous
+
 Kale
   Details : [#006633] Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable!
 Arugula
@@ -127,8 +145,14 @@ Chile
     other vegetables
 Peppers
   Details : [red#94191C yellow#FFD800 green#006633] The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to europe. The word pepper was given to all spices in europe that had a hot and pungent taste.
+
 Tomato
   Details : [paste#94191C dried heirloom#94191C] The tomatoes can also be dried with an oven.
+  Tags
+    other vegetables
+
+Tomato Paste
+  Details : The tomatoes can also be dried with an oven.
   Tags
     other vegetables
     
@@ -206,49 +230,129 @@ Mixed Berries
 ~ OTHER FRUITS
 
 Banana
-  Details : [#FFD800] Missing.
+  Details : Missing.
+  Color : #FFD800
+  Tags
+    Other Fruits
+
 Kiwi
-  Details : [#006633] Missing.
+  Details : Missing.
+  Color : 006633
+  Tags
+    Other Fruits
+
 Apple
   Details : [sauce juice] Missing.
+  Tags
+    Other Fruits
+
 Apples
   Details : Missing.
+  Tags
+    Other Fruits
+
 Lemon
-  Details : [#FFD800 juice zest] Lemon juice can be used as an invisible ink, revealed with heat.
+  Details : [juice zest] Lemon juice can be used as an invisible ink, revealed with heat.
+  Color : #FFD800
+  Tags
+    Other Fruits
+
 Orange
-  Details : [#FF6600 juice jam] In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
+  Details : [juice jam] In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
+  Color : #FF6600
+  Tags
+    Other Fruits
+
 Pear
-  Details : [#875A2C Bartlett Bosc]
+  Details : [Bartlett Bosc]
+  Color : #875A2C
+  Tags
+    Other Fruits
+
 Papaya
-  Details : [#FF6600]
+  Details : []
+  Color : #FF6600
+  Tags
+    Other Fruits
+
 Pomegranate
-  Details : [#94191C juice]
+  Details : [ juice]
+  Color : #94191C
+  Tags
+    Other Fruits
+
 Mango
-  Details : [#FFD800]
+  Details : []
+  Color : #FFD800
+  Tags
+    Other Fruits
+
 Lime
-  Details : [#006633 juice]
+  Details : [ juice]
+  Color : #006633
+  Tags
+    Other Fruits
+
 Persimmon
-  Details : [#FF6600 hachiya] Unripe persimmon can be frozen outside during winter to help speed up the ripening process.
+  Details : [ hachiya] Unripe persimmon can be frozen outside during winter to help speed up the ripening process.
+  Color : #FF6600
+  Tags
+    Other Fruits
+
 Dates
-  Details : [#875A2C deglet_noor caramel] Date palms have been around for at least 50 million years
+  Details : [ deglet_noor caramel] Date palms have been around for at least 50 million years
+  Color : #875A2C
+  Tags
+    Other Fruits
+
 Pamplemousse
   Details : [juice] Missing.
+  Tags
+    Other Fruits
+
 Rhubarb
   Details : [jam] Missing.
+  Tags
+    Other Fruits
+
 Apricot
   Details : [jam]Missing.
+  Tags
+    Other Fruits
+
 Starfruit
   Details : Missing.
+  Tags
+    Other Fruits
+
 Mixed fruits
   Details : Missing.
+  Tags
+    Other Fruits
+
 Coconut
   Details : Missing.
+  Tags
+    Other Fruits
+
 Date
   Details : Missing.
+  Tags
+    Other Fruits
+
 Plums
   Details : Missing.
+  Tags
+    Other Fruits
+
 Pineapple
+Tags
+  Other Fruits
+
   Details : Missing.
+  Tags
+    Other Fruits
+
 
 ~ SPICES
 
@@ -345,11 +449,20 @@ Corn
 Oats
   Details : [#EFEFEF] If oat flour is used alone in baking, the flour wont rise. Best to mix it with other types of flour!
 Rice
-  Details : [white#EFEFEF black#000000 puffed brown#875A2C basmati black_glutinous wholegrain_brown noodles] Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, it's also more nutritious and chewier than white rice. Brown rice is producted by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
+  Details : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, it's also more nutritious and chewier than white rice. Brown rice is producted by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
+Basmati Rice
+White Rice
+Black Rice
+Puffed Rice
+Brown Rice
+Black Glutinous Rice
+Wholegrain Brown Rice
+Rice Noodles
+
 Flour
   Details : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into! 
-Wheat
-  Details : [semolina noodles bread crackers pita] Missing.
+Wheat Semolina
+  Details :  Missing.
 Oatmeal
   Details : Missing.
 Cornmeal
@@ -417,16 +530,33 @@ B12 supplement
 
 ~ TEA
 
-Matcha
-  Details : [#006633 powder] Only Tencha can be used to make matcha.
+Matcha Powder
+  Details : Only Tencha can be used to make matcha.
+  Color : #006633
+  Tags
+    Tea
+
 Houjicha
-  Details : [#875A2C] KitKat in japan has a houjicha flavour.
+  Details : KitKat in japan has a houjicha flavour.
+  color : #875A2C
+  Tags
+    Tea
 Hibiscus
   Details : [tea] Missing.
+  Tags
+    Tea
+
 Mint tea
   Details : Missing.
+  Tags
+    Tea
+
 Lapsang souchong
   Details : Missing.
+  color : #875A2C
+  Tags
+    Tea
+
 
 ~ COFFEE
     

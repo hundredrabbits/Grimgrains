@@ -12,7 +12,7 @@ function QueryNode(id,rect)
       hash = "home";
     }
     this.label = `query:${hash}`
-    console.log(target)
+    window.scrollTo(0,0);
     this.send(target ? target : hash)
   }
 }
