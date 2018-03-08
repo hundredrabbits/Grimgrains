@@ -17,8 +17,21 @@ function RecipeTemplate(id,rect)
     <h3>${recipe.SERV} — ${recipe.TIME} minutes</h3>
     <p>${recipe.DESC}</p>
     <h4>Ingredients</h4>
-    <list>${print_sub_list(recipe.INGR)}</list>`;
+    <list>${print_sub_list(recipe.INGR)}</list>
+    <h4>Related Recipes</h4>
+    <list>${print_list(related_recipes(recipe,q.tables.recipes))}</list>`;
 
+    return html
+  }
+
+  function print_list(elements)
+  {
+    var html = "";
+    for(id in elements){
+      var name = elements[id][0];
+      html += `<ln><a href='#${name.to_url()}'>${name.capitalize()}</a></ln>`
+      if(id > 5){ break; }
+    }
     return html
   }
 
@@ -34,5 +47,32 @@ function RecipeTemplate(id,rect)
       }
     }
     return html
+  }
+
+  function related_recipes(target,recipes)
+  {
+    var a = [];
+    for(id in recipes){
+      var recipe = recipes[id];
+      var index = similarity(target.TAGS,recipe.TAGS)
+      a.push([id,index])
+    }
+    a.sort(function(a, b) {
+      return a[1] - b[1];
+    });
+    return a.reverse();
+  }
+
+  function similarity(a,b)
+  {
+    var score = 0
+    for(a_id in a){
+      var tag_a = a[a_id];
+      for(b_id in b){
+        var tag_b = b[b_id];
+        score += tag_a.toLowerCase() == tag_b.toLowerCase() ? 1 : 0
+      }
+    }
+    return score
   }
 }

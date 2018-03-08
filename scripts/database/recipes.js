@@ -2,7 +2,10 @@ DATABASE.recipes = `
 
 SPINACH PAJEON
   DATE : 2014-08-19
-  TAGS : korean dinner sidedish
+  TAGS
+    korean
+    dinner
+    sidedish
   TIME : 15
   SERV : 1 pancake
   DESC
@@ -36,7 +39,9 @@ SPINACH PAJEON
 
 HOUJICHA OVERNIGHT OATMEAL
   DATE : 2014-09-04
-  TAGS : morning japanese
+  TAGS
+    morning
+    japanese
   TIME : 10
   SERV : 1 serving
   DESC
@@ -58,7 +63,9 @@ HOUJICHA OVERNIGHT OATMEAL
 
 SEAWEED BITES
   DATE : 2014-09-13
-  TAGS : snack crackers
+  TAGS
+    snack
+    crackers
   TIME : 50
   SERV : 30 small cookies
   DESC
@@ -86,7 +93,11 @@ SEAWEED BITES
    
 NO KNEAD BLACK BREAD
   DATE : 2014-09-28
-  TAGS : bread sidedish sandwich black
+  TAGS
+    bread
+    sidedish
+    sandwich
+    black
   TIME : 60
   SERV : 2 loaves
   DESC
@@ -116,7 +127,8 @@ NO KNEAD BLACK BREAD
 
 OVERNIGHT BANANA SPINACH OATMEAL
   DATE : 2014-10-04
-  TAGS : morning
+  TAGS
+    morning
   TIME : 10
   SERV : 1 serving
   DESC
@@ -140,7 +152,10 @@ OVERNIGHT BANANA SPINACH OATMEAL
 
 AVOCADO CARROT SANDWICH
   DATE : 2014-10-07
-  TAGS : sandwich bread black
+  TAGS
+    sandwich
+    bread
+    black
   TIME : 10
   SERV : 2 servings
   DESC
@@ -168,7 +183,10 @@ AVOCADO CARROT SANDWICH
 
 BLACK PASTA
   DATE : 2014-10-13
-  TAGS : pasta black dinner
+  TAGS
+    pasta
+    black
+    dinner
   TIME : 60
   SERV : 6 servings
   DESC
@@ -207,7 +225,9 @@ BLACK PASTA
    
 ROASTED CARROTS WITH BELUGA LENTILS
   DATE : 2014-10-25
-  TAGS : dinner black
+  TAGS
+    dinner
+    black
   TIME : 30
   SERV : 2 servings
   DESC
@@ -246,7 +266,9 @@ ROASTED CARROTS WITH BELUGA LENTILS
 
 MATCHA PANCAKES
   DATE : 2014-10-28
-  TAGS : morning japanese
+  TAGS
+    morning
+    japanese
   TIME : 30
   SERV : 2 servings
   DESC
@@ -280,7 +302,11 @@ MATCHA PANCAKES
 
 KURO PRETZELS
   DATE : 2014-11-03
-  TAGS : bread snack black sidedish 
+  TAGS
+    bread
+    snack
+    black
+    sidedish 
   TIME : 130
   SERV : 4 pretzels
   DESC
@@ -321,7 +347,9 @@ KURO PRETZELS
 
 BLACK SESAME BRITTLE
   DATE : 2014-11-06
-  TAGS : dessert black
+  TAGS
+    dessert
+    black
   TIME : 20
   SERV : 10 pieces
   DESC
@@ -343,7 +371,9 @@ BLACK SESAME BRITTLE
 
 SPINACH OATMEAL COOKIES
   DATE : 2014-11-13
-  TAGS : cookies dessert
+  TAGS
+    cookies
+    dessert
   TIME : 20
   SERV : 5 pieces
   DESC
@@ -370,7 +400,9 @@ SPINACH OATMEAL COOKIES
 
 BORSCHT WITH TOFU SOUR CREAM
   DATE : 2014-11-16
-  TAGS : soup sidedish
+  TAGS
+    soup
+    sidedish
   TIME : 60
   SERV : 4 quarts
   DESC
@@ -413,7 +445,11 @@ BORSCHT WITH TOFU SOUR CREAM
 
 DARK YAKI GYOZA
   DATE : 2014-12-17
-  TAGS : japanese black dinner sidedish
+  TAGS
+    japanese
+    black
+    dinner
+    sidedish
   TIME : 60
   SERV : 40 wrappers
   DESC
@@ -482,7 +518,10 @@ DARK YAKI GYOZA
 
 RAISIN BEET BREAD
   DATE : 2014-12-20
-  TAGS : bread dessert morning
+  TAGS
+    bread
+    dessert
+    morning
   TIME : 60
   SERV : 1 loaf
   DESC
@@ -518,7 +557,10 @@ RAISIN BEET BREAD
 
 MISO VEGGIE PATE
   DATE : 2014-12-28
-  TAGS : sidedish dinner japanese
+  TAGS
+    sidedish
+    dinner
+    japanese
   TIME : 60
   SERV : 4 blocks
   DESC
@@ -551,7 +593,9 @@ MISO VEGGIE PATE
 
 PERSIMMON CURRY
   DATE : 2015-01-03
-  TAGS : rice indian
+  TAGS
+    rice
+    indian
   TIME : 30
   SERV : 2 servings
   DESC
@@ -586,7 +630,12 @@ PERSIMMON CURRY
 
 SIMPLE DOCTOR WHO CAKE
   DATE : 2015-01-06
-  TAGS : dessert geek vegan lemon cake
+  TAGS
+    dessert
+    geek
+    vegan
+    lemon
+    cake
   TIME : 60
   SERV : 12 servings
   DESC
@@ -645,7 +694,9 @@ SIMPLE DOCTOR WHO CAKE
 
 MASON JAR BREAD PUDDING
   DATE : 2015-01-08
-  TAGS : bread dessert
+  TAGS
+    bread
+    dessert
   TIME : 30
   SERV : 1 serving
   DESC
@@ -678,7 +729,11 @@ MASON JAR BREAD PUDDING
 
 BASIC BLACK BREAD
   DATE : 2015-01-11
-  TAGS : bread black sidedish sandwich
+  TAGS
+    bread
+    black
+    sidedish
+    sandwich
   TIME : 140
   SERV : 1 loaf
   DESC
@@ -728,7 +783,9 @@ BASIC BLACK BREAD
 
 SHICHIMI TOGARASHI CRACKERS
   DATE : 2015-01-14
-  TAGS : snack japanese
+  TAGS
+    snack
+    japanese
   TIME : 40
   SERV : 30 crackers
   DESC
@@ -758,7 +815,8 @@ SHICHIMI TOGARASHI CRACKERS
 
 ROASTED PUMPKIN SEEDS
   DATE : 2015-01-18
-  TAGS : snack
+  TAGS
+    snack
   TIME : 30
   SERV : 6 servings
   DESC
@@ -781,7 +839,10 @@ ROASTED PUMPKIN SEEDS
 
 BLACK GNOCCHI
   DATE : 2015-01-21
-  TAGS : pasta black dinner
+  TAGS
+    pasta
+    black
+    dinner
   TIME : 60
   SERV : 6 servings
   DESC
@@ -826,7 +887,9 @@ BLACK GNOCCHI
 
 ROASTED BEET LENTILS
   DATE : 2015-02-02
-  TAGS : dinner black
+  TAGS
+    dinner
+    black
   TIME : 60
   SERV : 2 servings
   DESC
@@ -869,7 +932,10 @@ ROASTED BEET LENTILS
 
 HEART BEET BAGELS
   DATE : 2015-02-12
-  TAGS : bread holiday morning
+  TAGS
+    bread
+    holiday
+    morning
   TIME : 120
   SERV : 10 servings
   DESC
@@ -907,7 +973,9 @@ HEART BEET BAGELS
 
 TERIYAKI CARROT PATTIES
   DATE : 2015-02-17
-  TAGS : entree sidedish
+  TAGS
+    entree
+    sidedish
   TIME : 40
   SERV : 2 servings
   DESC
@@ -954,7 +1022,9 @@ TERIYAKI CARROT PATTIES
 
 SAVOURY TURMERIC COOKIES
   DATE : 2015-02-19
-  TAGS : cookies dessert
+  TAGS
+    cookies
+    dessert
   TIME : 30
   SERV : 16 servings
   DESC
@@ -987,7 +1057,10 @@ SAVOURY TURMERIC COOKIES
 
 SWEET MOCK EEL NIGIRI
   DATE : 2015-02-24
-  TAGS : dinner japanese black
+  TAGS
+    dinner
+    japanese
+    black
   TIME : 50
   SERV : 2 servings
   DESC
@@ -1037,7 +1110,11 @@ SWEET MOCK EEL NIGIRI
 
 MANGO SESAME RICE PANCAKES
   DATE : 2015-02-26
-  TAGS : breakfast black dessert morning
+  TAGS
+    breakfast
+    black
+    dessert
+    morning
   TIME : 20
   SERV : 12 servings
   DESC
@@ -1069,7 +1146,10 @@ MANGO SESAME RICE PANCAKES
 
 MUSHROOM ZUCCHINI PASTA
   DATE : 2015-03-03
-  TAGS : pasta dinner japanese
+  TAGS
+    pasta
+    dinner
+    japanese
   TIME : 20
   SERV : 4 servings
   DESC
@@ -1102,7 +1182,8 @@ MUSHROOM ZUCCHINI PASTA
 
 PATE CHINOIS
   DATE : 2015-03-10
-  TAGS : dinner
+  TAGS
+    dinner
   TIME : 40
   SERV : 4 servings
   DESC
@@ -1138,7 +1219,9 @@ PATE CHINOIS
 
 GREEN CHILE MAC N CHEESE
   DATE : 2015-03-13
-  TAGS : pasta dinner
+  TAGS
+    pasta
+    dinner
   TIME : 40
   SERV : 2 servings
   DESC
@@ -1172,7 +1255,8 @@ GREEN CHILE MAC N CHEESE
 
 CHILI POMEGRANATE BROWNIES
   DATE : 2015-03-24
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 60
   SERV : 24 servings
   DESC
@@ -1222,7 +1306,10 @@ CHILI POMEGRANATE BROWNIES
 
 BLACK FRENCH TOAST
   DATE : 2015-03-23
-  TAGS : morning bread black
+  TAGS
+    morning
+    bread
+    black
   TIME : 20
   SERV : 4 servings
   DESC
@@ -1250,7 +1337,10 @@ BLACK FRENCH TOAST
 
 PANKO CHICKPEA FINGERS
   DATE : 2015-03-30
-  TAGS : sidedish entree dinner
+  TAGS
+    sidedish
+    entree
+    dinner
   TIME : 90
   SERV : 24 servings
   DESC
@@ -1288,7 +1378,9 @@ PANKO CHICKPEA FINGERS
 
 FLAUTAS DE COLIFLOR
   DATE : 2015-04-03
-  TAGS : dinner mexican
+  TAGS
+    dinner
+    mexican
   TIME : 30
   SERV : 5 servings
   DESC
@@ -1336,7 +1428,10 @@ FLAUTAS DE COLIFLOR
 
 UZUMAKI HUMMUS BITES
   DATE : 2015-04-29
-  TAGS : dinner sidedish entree
+  TAGS
+    dinner
+    sidedish
+    entree
   TIME : 50
   SERV : 11 tortillas
   DESC
@@ -1379,7 +1474,8 @@ UZUMAKI HUMMUS BITES
 
 BLACK SESAME ICE CREAM BARS
   DATE : 2015-05-04
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 120
   SERV : 4 large bars
   DESC
@@ -1415,7 +1511,8 @@ BLACK SESAME ICE CREAM BARS
 
 ANISE BREAD WITH SWEET PEAR SAUCE
   DATE : 2015-05-14
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 40
   SERV : 2 mini loaves
   DESC
@@ -1454,7 +1551,9 @@ ANISE BREAD WITH SWEET PEAR SAUCE
 
 WASABI SWIRL CHOCOLATE COOKIES
   DATE : 2015-05-18
-  TAGS : cookies dessert
+  TAGS
+    cookies
+    dessert
   TIME : 30
   SERV : 13 cookies
   DESC
@@ -1499,7 +1598,9 @@ WASABI SWIRL CHOCOLATE COOKIES
 
 BLACK BURGER BUNS
   DATE : 2015-05-26
-  TAGS : bread black
+  TAGS
+    bread
+    black
   TIME : 60
   SERV : 5 buns
   DESC
@@ -1531,7 +1632,8 @@ BLACK BURGER BUNS
 
 MANGO ICE CREAM WITH BLACK SESAME SYRUP
   DATE : 2015-06-01
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 120
   SERV : 2 servings
   DESC
@@ -1557,7 +1659,9 @@ MANGO ICE CREAM WITH BLACK SESAME SYRUP
 
 HOP ICE CREAM
   DATE : 2015-06-28
-  TAGS : dessert beer
+  TAGS
+    dessert
+    beer
   TIME : 600
   SERV : 1 quart
   DESC
@@ -1589,7 +1693,10 @@ HOP ICE CREAM
 
 SUNFLOWER HEIRLOOM CARROT PASTA
   DATE : 2015-07-16
-  TAGS : pasta dinner lunch
+  TAGS
+    pasta
+    dinner
+    lunch
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1621,7 +1728,9 @@ SUNFLOWER HEIRLOOM CARROT PASTA
 
 CARROT KINPIRA ONIGIRAZU
   DATE : 2015-07-31
-  TAGS : japanese lunch
+  TAGS
+    japanese
+    lunch
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1659,7 +1768,8 @@ CARROT KINPIRA ONIGIRAZU
 
 BALSAMIC BANANA ICE CREAM
   DATE : 2015-08-05
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 120
   SERV : 2 servings
   DESC
@@ -1686,7 +1796,6 @@ BALSAMIC BANANA ICE CREAM
 
 CURRIED PUMPKIN SEED PATE
   DATE : 2015-08-29
-  TAGS : lunch dinner
   TIME : 60
   SERV : 4 blocks
   DESC
@@ -1716,10 +1825,16 @@ CURRIED PUMPKIN SEED PATE
       Garam masala : 1 tsp
       Ground turmeric : 1 tsp
       Water : 1/3 cup
+  TAGS
+    lunch 
+    dinner
 
 FRESH PESTO PASTA
   DATE : 2015-09-22
-  TAGS : pasta dinner lunch
+  TAGS
+    pasta
+    dinner
+    lunch
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1751,7 +1866,8 @@ FRESH PESTO PASTA
 
 VEGEMITE CARAMEL 
   DATE : 2015-09-27
-  TAGS : dessert
+  TAGS
+    dessert
   TIME : 20
   SERV : 1/2 pint
   DESC
@@ -1776,7 +1892,10 @@ VEGEMITE CARAMEL
 
 HALLOWEEN PUMPKIN COOKIES
   DATE : 2015-10-10
-  TAGS : cookies halloween dessert
+  TAGS
+    cookies
+    halloween
+    dessert
   TIME : 30
   SERV : 15 cookies
   DESC
@@ -1819,7 +1938,9 @@ HALLOWEEN PUMPKIN COOKIES
 
 ROASTED YELLOW PEPPER PASTA
   DATE : 2015-10-25
-  TAGS : pasta black
+  TAGS
+    pasta
+    black
   TIME : 30
   SERV : 2 servings
   DESC
@@ -1847,7 +1968,9 @@ ROASTED YELLOW PEPPER PASTA
  
 SALTED CARAMEL CAROB CHIP COOKIES
   DATE : 2015-11-15
-  TAGS : cookies sweet
+  TAGS
+    cookies
+    sweet
   TIME : 20
   SERV : 20 cookies
   DESC
@@ -1883,7 +2006,11 @@ SALTED CARAMEL CAROB CHIP COOKIES
 
 HIJIKI SOBA
   DATE : 2015-12-12
-  TAGS : japanese pasta dinner lunch
+  TAGS
+    japanese
+    pasta
+    dinner
+    lunch
   TIME : 40
   SERV : 2 portions
   DESC
@@ -1915,7 +2042,10 @@ HIJIKI SOBA
 
 CHICKPEA KELP SANDWICH
   DATE : 2016-01-18
-  TAGS : sandwich lunch seaweed
+  TAGS
+    sandwich
+    lunch
+    seaweed
   TIME : 20
   SERV : 4 portions
   DESC
@@ -1945,7 +2075,10 @@ CHICKPEA KELP SANDWICH
 
 BEER BREAD
   DATE : 2016-09-20
-  TAGS : bread beer sailboat
+  TAGS
+    bread
+    beer
+    sailboat
   TIME : 60
   SERV : 1 loaf
   DESC
@@ -1972,7 +2105,10 @@ BEER BREAD
 
 CHARCOAL TOOTHPASTE
   DATE : 2016-11-05
-  TAGS : lifestyle toothpaste black
+  TAGS
+    lifestyle
+    toothpaste
+    black
   TIME : 5
   SERV : 1 jar
   DESC
@@ -1996,7 +2132,10 @@ CHARCOAL TOOTHPASTE
 
 PAPAYA BRUSCHETTA TOPPING
   DATE : 2017-19-20
-  TAGS : sidedish fruit payapa
+  TAGS
+    sidedish
+    fruit
+    payapa
   TIME : 5
   SERV : 2-3 people
   DESC
@@ -2017,7 +2156,9 @@ PAPAYA BRUSCHETTA TOPPING
 
 PAN FRIED BREADFRUIT
   DATE : 2017-07-03
-  TAGS : breadfruit mushroom
+  TAGS
+    breadfruit
+    mushroom
   TIME : 1h30
   SERV : 4 people
   DESC
@@ -2048,7 +2189,9 @@ PAN FRIED BREADFRUIT
 
 CORN DUMPLINGS 
   DATE : 2017-14-08
-  TAGS : cornmeal, asian
+  TAGS
+    cornmeal
+    asian
   TIME : 40
   SERV : 2 people
   DESC
@@ -2087,7 +2230,9 @@ CORN DUMPLINGS
 
 BREADFRUIT GNOCCHI
   DATE : 2017-16-10
-  TAGS : breadfruit pasta
+  TAGS
+    breadfruit
+    pasta
   TIME : 90
   SERV : 4 people
   DESC
@@ -2113,7 +2258,9 @@ BREADFRUIT GNOCCHI
 
 SPINACH FAUX CHEESE RAVIOLI
   DATE : 2017-16-10
-  TAGS : cheese, pasta
+  TAGS
+    cheese
+    pasta
   TIME : 40
   SERV : 2 people
   DESC
