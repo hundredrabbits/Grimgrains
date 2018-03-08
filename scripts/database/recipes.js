@@ -193,7 +193,7 @@ BLACK PASTA
     & Black pasta is visually striking. I remember the first time I saw it on a shelf, in a grocery store. Ever since then, I've been dying to make my own. Happy to say that i can finally cross that off my list!
     & Making fresh pasta at home is easy, it doesn't require a lot of preparation. It's something you can do on a weekend. Kneading dough is relaxing, just put some music on, pour yourself a glass of wine and start cooking! It's something you can do by yourself, but it's actually cool to do with a friend. Me and Devine made these while our friend Max was around.
     & The secret ingredient to making black pasta, is Bamboo Charcoal powder. It's seldomly used to make pasta, most of the time people will use squid ink. While it's harder to find, it works better in pasta as it will not alter the taste or smell of your dough. You can also make black pasta with black rice, although the consistency and ingredients are very different.
-    % black.pasta.1
+    % recipes/black.pasta.1.jpg
     & To make pasta, I use a pasta machine but you can easily do it by hand, using just a rolling pin and a knife. I've made pasta using both methods, it's good to try by hand first. Your first batch may not be perfect, but that's ok! You'll only get better with practice! It doesn't really matter anyway if they're uneven, your noodles will still be delicious. The more batches you make, the better they'll get!
     ? Rekka
   INST
@@ -408,7 +408,7 @@ BORSCHT WITH TOFU SOUR CREAM
   DESC
     & Funny to think that when i was a kid, i didn't want to go anywhere near beets. For the longest time, it was this thing that my family served around xmas time and that i didn't like. How things change! I buy beets regularly now, I use it to make pasta sauce, to serve over salads, to mix into smoothies and now to make Borscht!
     & Devine has been taking russian classes every week, and he comes back from his lessons with new words to teach me. Last week, he not only returned with new words, he also brought back a Borscht recipe. Borscht fits perfectly in the Grim Grains universe - It's bright, red, beautiful and delicious! This recipe was inspired by hers.
-    % borscht.with.tofu.sour.cream.1
+    % recipes/borscht.with.tofu.sour.cream.1.jpg
     & Borscht is traditionally served with sour cream, so evidently i needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
   INST
     * Tofu sour cream
@@ -454,17 +454,17 @@ DARK YAKI GYOZA
   SERV : 40 wrappers
   DESC
     & Late-night gyoza at izakaya, is one of the things i miss the most about living in Tokyo. Maybe not one of the healthiest late-night eats, but a DELICIOUS one. These are very unconventional gyoza, black on the outside, and red and orange on the inside.
-    % dark.yaki.gyoza.1
+    % recipes/dark.yaki.gyoza.1.jpg
     & We made homemade gyoza dough with some friends a few weeks back, it took FOREVER. Devine had the amazing idea of using our pasta maker to do it. We still needed to do a bit of kneading, to get it through the machine the first time. After that, it's easy and sweat-free!
-    % dark.yaki.gyoza.2
+    % recipes/dark.yaki.gyoza.2.jpg
     & We didn't have any round cookie cutters, the last time we tried i was using upside down glasses. Didn't work well because the rims aren't sharp. Again, Devine had a stroke of genius. Cans! I had an empty chickpea pan lying around, it was about the size of a gyoza wrapper so we used that to poke holes through the dough.
     ? Genius right?
     & I know not everyone has a pasta maker, you don't need one to make wrappers. You can just use a rolling pin.
-    % dark.yaki.gyoza.3
+    % recipes/dark.yaki.gyoza.3.jpg
     & The fillings was another experiment, since i like to cook with colours in mind, i wanted something that would contrast the black. Beet and carrots seemed like an obvious choice. Unconventional, as far as traditional japanese gyozas go, but very delicious and very beautiful.
-    % dark.yaki.gyoza.4
+    % recipes/dark.yaki.gyoza.4.jpg
     & We had a lot of fun making these gyoza, it's best made and eaten with friends!
-    % dark.yaki.gyoza.5
+    % recipes/dark.yaki.gyoza.5.jpg
     & Gyoza wrapper techniques and ratios were based on the recipe from {{Just one cookbook|http://www.justonecookbook.com/recipes/gyoza-wrappers/}}. She explains it really well too on her blog it's worth taking a look. I learned a lot from her even if our techniques differ slightly. While I preferred not to knead by hand, or with a rolling pin, i did do it her way the first time.
   INST
     * Dough
@@ -527,7 +527,7 @@ RAISIN BEET BREAD
   DESC
     & I present to you a sweet bread that you can have in the morning for breakfast, or as a dessert.
     & I baked a similar bread for my dad a few weeks ago. He's truly the best dad, whenever me or my sisters ask for help, he always says yes. No hesitation, ever. He wouldn't ever think of refusing, the thought probably never even crosses his mind. Can't say how thankful I am to have someone like that in my life. Because of everything he does for me, once in a while I bring him some raisin bread.
-    % raisin.beet.bread.1
+    % recipes/raisin.beet.bread.1.jpg
     & If like my dad you like raisin bread, you will love this sweet raisin beet bread. It's halfway between a cake and bread. Adapted from one of my mom's old cookbook by Margo Oliver \"les menus de margo oliver\"
     & It's simple to make, and you can replace the raisins for cranberries or even chocolate chips for a different taste! If you make my recipe, just be sure to add plenty of raisins on top! I emptied a bag on it, without regret. They'll get super crispy, and will develop a sweet crispy caramelized taste. Was hard to keep myself from picking them off, Devine hates it when I do that.
   INST
@@ -643,11 +643,11 @@ SIMPLE DOCTOR WHO CAKE
     & Something old. Something new. Something borrowed...
     & Something blue!
     & You guessed correctly, you wonderful nerd you! A tardis!
-    % simple.doctor.who.cake.1
+    % recipes/simple.doctor.who.cake.1.jpg
     & They asked for a quote from their favourite bakery, they do great work but were charging a too much for it. So my parents turned to me, and my cake-baking adventure began!
     & My sister loves lemon cake, that part is simple. Getting the cake to be tardis blue though, is another matter entirely. That colour is unnatural, those royal blue 'raw blueberry pinterest cakes' are complete bull (they really, really are). I had to use food colouring, it's not ideal but it was necessary to get that tardis blue. I went ahead and bought Wilton's royal blue and violet colouring to mix, to get it be that specific shade. Using royal blue alone would have made it go turquoise.
     & The cake noob that i am, I searched around and found a very awesome <a href=\"http://thegreenforks.com/vegan-birthday-cake/\">lemon cake recipe</a> by Laura, author of The Green forks. I adapted her recipe, and it turned out perfect. I referenced her cake batter recipe, while the tofu lemon curd filling was inspired by <a href=\"http://www.culinate.com/recipes/collections/Contributors/Zena+Chew/vegan_lemon_layer_cake\">Zena Chews</a>. Couldn't have done it without their recipes, thanks girls.
-    % simple.doctor.who.cake.2
+    % recipes/simple.doctor.who.cake.2.jpg
     & I didn't want to make an overly sweet cake, so i decided to not add frosting. Opted for a 'powdered sugar-dusted' cake. Most Tardis cakes on the internet are made with fondant, and thusly taste like liquid unicorn. I don't have the tastebuds of a 5 years old, can't deal with that level of sweet. I have no interest in tasting the rainbow.
     & I wanted to make a minimalistic and simple lemon cake. Then came the image of the tardis drifting through space. That image was simple, evocative. So i cut out a tardis stencil and added powdered sugar! Voila! My sister had a vegan lemon birthday cake! This cake is a safe bet, even for non-vegans. Even my parents, who dislike tofu, really enjoyed it!  
  
@@ -701,12 +701,12 @@ MASON JAR BREAD PUDDING
   SERV : 1 serving
   DESC
     & Bread pudding was one of my favourite desserts when I was a kid. We would usually have some after the holidays, thanks to my aunt's crust-less sandwiches! She would usually just give the bag of crusts to my mom, which she in turn, used to make bread pudding.
-    % mason.jar.bread.pudding.1
+    % recipes/mason.jar.bread.pudding.1.jpg
     & I asked my mom for her personal bread pudding recipe, but she told me that it was best to just watch her do it. There aren't really any specific measurements, she just makes it from memory. That's the case with most of her recipes, most of them have never been written down. That's about to change though, I asked her to make a little booklet for me.
     & I like the idea of having a book of 'mom food', mom food is the best.
     & When she makes bread pudding, she makes a basin-full of it. My dad never has trouble going through all of it, he sure loves his desserts!
     & As much as i'd like to make a bucketload of bread pudding at home, me and Devine would NEVER get through the whole thing. I don't like eating the same thing for a week, so I adapted my mom's bread pudding into a single-serving one. The mason jar is a wide-mouthed 1/2 pint jar.
-    % mason.jar.bread.pudding.2
+    % recipes/mason.jar.bread.pudding.2.jpg
     & If ever you have some leftover crusts (even just a few) you can totally make this.
     & It's a quick and simple dessert, with a taste of home.
   INST
@@ -793,7 +793,7 @@ SHICHIMI TOGARASHI CRACKERS
     & Ume and shiso aren't anything like shichimi togarashi. Originally, i wanted to make senbei but since i recently purchased a bag of chickpea flour, i wanted to have a recipe using that. Senbei is typically made with rice flour and/or rice left-overs. I don't have rice left-overs on hand, we usually just eat it all on the same day. I never make extras.
     & When i decided i was going to make this, i didn't have any shichimi togarashi left, so I made my own! if you have a well-stocked spice rack, you can easily make it yourself. 'Shichimi togarashi' means '7-flavour chili pepper'. If you have some already at home just use that, but if you don't all you need is to grind these spices together - 
     & 2 tbsp chili flakes but if you don't all you need is to grind these together - 2 tbsp chili flakes 1 tbsp sanshou (sichuan peppercorns) 1 tbsp roasted orange peel 1 tbsp black sesame seeds 1 tbsp white sesame seeds 2 tsp ground ginger and 2 tbsp nori (or aonori).
-    % shichimi.togarashi.crackers.2
+    % recipes/shichimi.togarashi.crackers.2.jpg
     & Some people substitute sichuan peppercorns for black peppercorns, i don't reccommend doing that. They're not interchangeable, sichuan peppercorns is what makes it taste awesome. It's a numbing pepper, with a really distinctive taste and aroma. If you eat one peppercorn, you'll notice right away that it numbs your tongue and alters your sense of taste.
   INST
     - Preheat oven to 350F
@@ -848,12 +848,12 @@ BLACK GNOCCHI
   DESC
     & A few weeks ago, I asked people what they wanted to see me cook. Some of you asked for black gnocchi, so here they are! Made from scratch, beautiful and black. Topped with a light and sweet sauce, fresh scallions and daikon!
     & As it turns out, making gnocchi is long. It's well worth the effort, but if you're planning on making some, clear your afternoon or get a friend to help.
-    % black.gnocchi.1
+    % recipes/black.gnocchi.1.jpg
     & I started cooking these early in the day, around 9 in the morning. Every step takes time. You have to wait for the potatoes to bake, wait for them to cool down, you need to remove the skins etc. Skipping any of those steps will result in a gnocchi disaster, nothing worse than an uneatable meal. 
     & These turned out perfect! This is a large recipe, so if you're only two you'll have plenty left-over that you can let dry, freeze and eat later.
-    % black.gnocchi.2
+    % recipes/black.gnocchi.2.jpg
     & For the topping, I wanted a ton of scallions with mushrooms and seaweed. I miss the pasta in italian restaurants in japan, they always had some with japanese-style toppings. Since i'm currently on a shichimi togarashi binge, (left-over from my cracker recipe) I included some in this recipe as well.
-    % black.gnocchi.3
+    % recipes/black.gnocchi.3.jpg
     & Because the sauce and toppings are light and simple, you can focus on the texture of the gnocchi. 
   INST
     * Gnocchi
@@ -897,7 +897,7 @@ ROASTED BEET LENTILS
     & Yes, you could say i'm beet crazy. Trust me, if you're not a fan of this root vegetable, this sauce will make you change your mind.
     & I've had this sauce many times with pasta, or just as a simple vinaigrette for lazy weekday green bowls.
     & To prepare this recipe, wash the beets and cut them into wedges. Toss them with a bit of oil and herbs bake them in the oven for 40 minutes. It's that simple! If they're organic, you can keep the skins on, otherwise peeling them is better.
-    % roasted.beet.lentils.1
+    % recipes/roasted.beet.lentils.1.jpg
     & Beets make any dish beautiful, but it can do a number on your hands and fingers. Not to worry though it doesn't stay ;). You'll just look like you killed something.
     & Fresh mint is key in this recipe! Don't omit it! I wish i had a mint plant growing in my appartment, i had one last summer but it died. My plants always die, growing plants indoors has always been a challenge for me.
     & If you have a fresh healthy plant LUCKY YOU! Otherwise, store-bought herbs will do. Know that if you do buy a bouquet of mint, you can keep them fresh longer if you do these simple steps - Tear off any wilted leaves wash the mint gently put the stalks in a glass with a bit of water put a plastic bag over it and stick it in the fridge.
@@ -941,10 +941,10 @@ HEART BEET BAGELS
   DESC
     & These beautiful heart beet bagels can be made for valentine's day, but imagine how great a thing it would be, to make these for someone you care about on a random day... for no specific reason. We shouldn't wait for special occasions, to cook amazing food for the people we love. Make some pink bagels today, just because!
     & Bagels are definitely a montreal thing. Walking by Fairmount bagel or St-Viateur, and not purchasing freshly baked goods is next to impossible.
-    % heart.beet.bagels.2
+    % recipes/heart.beet.bagels.2.jpg
     & The smell is just amazing.
     & When i was a teen, i didn't get to go into town often but when i did we would always stop by Fairmount bagel. The place was, and is still open 24 hours a day.
-    % heart.beet.bagels.3
+    % recipes/heart.beet.bagels.3.jpg
     & I live close to it now, and yet i never go. I enjoy making my own, they may not be fairmount quality but they are pretty damn good!
     & ...and pink!
     & Make this for yourself or for someone you care about. Whether it be for v-day... or just because!
@@ -982,10 +982,10 @@ TERIYAKI CARROT PATTIES
     & If you're searching for entree ideas look no further! These curried carrot patties drizzled with teriyaki sauce, with a side of freshly baked kale chips will hit the spot.
     & Taking the time to cook good food, is important.
     & Someone said this to me ages ago, never forgot it.
-    % teriyaki.carrot.patties.1
+    % recipes/teriyaki.carrot.patties.1.jpg
     & Cooking isn't just about getting your hunger pangs to go away, it's also a time to be creative.
     & Eating is a truly complete sensory experience.
-    % teriyaki.carrot.patties.2
+    % recipes/teriyaki.carrot.patties.2.jpg
     & With this recipe, I wanted to make something beautiful. I didn't have to go out to get special ingredients, I just looked in my fridge and used whatever I had on hand. If you're planning a meal but are missing an item, try and see what else you can use instead. 
     & Doing this, will make you a more creative cook.
     & Cooking is important kids. Find the time to do it! !
@@ -1030,11 +1030,11 @@ SAVOURY TURMERIC COOKIES
   DESC
     & Sweet and savoury turmeric spiced cookies, are as delicious as they sound. These yellow treats will help brighten up cold, and grey winter days.
     & I did say I liked cooking by colour, this is what motivated this recipe.
-    % savoury.turmeric.cookies.1
+    % recipes/savoury.turmeric.cookies.1.jpg
     & Turmeric powder is often used as a dye for clothes, and thusly will make your cookies very yellow!
     & These cookies have the right amount of sweet.
     & I had some leftover spelt flour in my cupboard, a lonely portion that had been forgotten, hidden away under bags of rice flour. Of course, this recipe can be made without it, or by replacing it with whole wheat flour.
-    % savoury.turmeric.cookies.2
+    % recipes/savoury.turmeric.cookies.2.jpg
     & I suggest pairing these with tea, i always drink a ton of it come February. It's the toughest month to go through, temperature is still in the -15C average here in Montreal. Can't go grocery shopping without my hands and feet freezing over.
     & Hopefully these tea-side treats will help brighten your day!
   INST
@@ -1067,9 +1067,9 @@ SWEET MOCK EEL NIGIRI
     & I've had the image of a black nigiri on my mind for some time. It's been sitting there, in my list of ideas for months. Couldn't think of what to top it off with, then a little while ago, i found out about Burmese tofu.  
     & Yellow on black, needed to make it happen.
     & Burmese tofu is not really tofu, i know, that's confusing. At first, i thought it was tofu blended with turmeric. It has a yellow tint, and it's because Burmese tofu is chickpea based! The cool thing about it, is that it takes 10 minutes to make and sets 1 hour. It's a great soy-free alternative, and the texture is comparable to that of silken tofu.
-    % sweet.mock.eel.nigiri.1
+    % recipes/sweet.mock.eel.nigiri.1.jpg
     & I bought Chickpea flour for the first time around xmas, wasn't sure how to use it. I often purchase ingredients i don't know, and learn how to use them. I found a re-write of a chickpea tofu recipe online. The original recipe, I believe, was sourced from a book called <a href=\"http://www.amazon.com/gp/product/0871317680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871317680&linkCode=as2&tag=girl07-20\">The Burmese kitchen - recipes from the golden land</a> by Aung Thein.
-    % sweet.mock.eel.nigiri.2
+    % recipes/sweet.mock.eel.nigiri.2.jpg
     & This recipe will use up about half of the burmese tofu, which means you'll have a whole other half to use in other meals.
     & I decided to make a mock eel nigiri, like the one i made a few months ago. The sauce that is served over eel kabayaki is sweet, with hints of caramel. I thought it would taste great atop of the burmese tofu. 
     & Most japanese sauces are easy to make, and usually require around 3-4 ingredients. These almost always include soy sauce, sake, mirin, or rice vinegar. If you want to cook japanese food, having these around is a must. Hope you enjoy this mock-eel recipe!
@@ -1122,7 +1122,7 @@ MANGO SESAME RICE PANCAKES
     & Made matcha rice pancakes for Devine a few days ago, since I made a double recipe we ended up having left-over batter. It doesn't keep well, so we ate it that same night. I paired the remaining 2 pancakes with a bit of fresh mango and MAN! It tastes so damn GOOD together!
     & I made it into a recipe, but used ground black sesame instead of matcha. The nutty taste of sesame paired with mango is perfect. Dressing pancakes with maple syrup is fine, but the sugar high i get after is not. I feel like my heart is going to burst out of my chest, 'alien-style'.
     & No one likes that, i'd like my innards to stay where they are thank you!
-    % mango.sesame.rice.pancakes.1
+    % recipes/mango.sesame.rice.pancakes.1.jpg
     & Using fruit, instead of syrup is a good way to cut down on sugar. Mangos are sweet enough as is. 
   INST
     * Pancake
@@ -1156,10 +1156,10 @@ MUSHROOM ZUCCHINI PASTA
     & As much as i love pasta, i like to vary my food a lot day to day. Once in a while, I like to make zucchini noodles! They're ready in an instant, and are delicious when topped with a two-mushroom velouté sauce. This meal is also green on green, most of the ingredients are different shades of the same colour. 
     & Yes, those are the sort of details that I care about.
     & What green things can i add to this? Wakame! I don't always have fresh greens in my fridge, when i don't, I use wakame. It's handy to have around, it keeps for a long time and doesn't require a lot of prep. Wakame is also a good source of Iodine, essential for health.
-    % mushroom.zucchini.pasta.1
+    % recipes/mushroom.zucchini.pasta.1.jpg
     & Edamame is another green food that I like. I have the frozen, de-shelled kind in my fridge. It saves a lot of time. 
     & Mushrooms aren't green but they do add a TON of flavour to sauces. Shiitake mushrooms have a lot of flavour, shimeji mushrooms have a subtle taste but look nice in a dish.
-    % mushroom.zucchini.pasta.2
+    % recipes/mushroom.zucchini.pasta.2.jpg
     & You can make this recipe using regular pasta, but it wont be green... unless you use spinach pasta (which could look good too.) Or matcha pasta? A really awesome girl on twitter made some using my black pasta recipe as a base, they look gorgeous!
     & Hope you like the recipe, happy cooking!
   INST
@@ -1188,15 +1188,15 @@ PATE CHINOIS
   SERV : 4 servings
   DESC
     & Whenever i ask Devine what he wants to eat, he'll always say pasta. I don't always say yes to this, not unless i want to eat pasta everyday. Secondly, he'll ask for Pâté Chinois. It's always hard for me to say no to, so i succumb, peek into the fridge and see what variation of it i can make. It's a super versatile dish, my recipe has layers consisting of tofu and burmese tofu, green peas, sweet potato and cauliflower.
-    % pate.chinois.1
+    % recipes/pate.chinois.1.jpg
     & Pâté Chinois is very much like Shepherd's pie, which is why i will use these 2 terms interchangeably in this recipe. My mom made this all the time when i was a kid, she would make the traditional meat version, with corn and all. My meals are always meatless, but it has the same general idea. This dish inspires the same kind of comfort.
-    % pate.chinois.2
+    % recipes/pate.chinois.2.jpg
     & I've made versions of this dish with just cauliflower, or just using tofu, or just potatoes too. I've made it so often, i've gone through every possibility. This Pâté Chinois happened because me and Devine both wanted different things.
     & I wanted cauliflower... 
     & ...he wanted sweet potato. 
     & I wanted burmese tofu...
     & ...he wanted tofu.
-    % pate.chinois.3
+    % recipes/pate.chinois.3.jpg
     & So what did we do? We combined it all so both of us will get what we want! Ever since i discovered <a href=\"http://grimgrains.com/sweet+mock+eel+nigiri\">burmese tofu</a> i've been making it regularly, so it's simple for me to add it to recipes. If you don't have time to make it (it only takes 15 minute of active prep time), just using tofu alone will be delicious.
     &Hope you like this recipe!
   INST
@@ -1227,10 +1227,10 @@ GREEN CHILE MAC N CHEESE
   DESC
     & It's Macaroni and Cheese week in Montreal, as good a reason as any to make some at home. My mac n 'cheese' has whole grain macaroni noodles, served with a faux-cheese consisting of golden beets, roasted red peppers, nutritional yeast and other delicious ingredients. Also, topped with some roasted green chiles for a bit of a kick!
     & I've been experimenting a lot with faux-cheeses recently, my choices are somewhat limited because of my nut allergy. But it's all good, having limitations just means i need to get more creative! Everyday, i try and think of alternatives to things i used to eat, like cheese. I also like to find alternatives to things i like, like swapping out rice for cauliflower.
-    % green.chile.mac.n.cheese.1
+    % recipes/green.chile.mac.n.cheese.1.jpg
     & I've seen many great 'faux-cheese' recipes online, even some nut-free ones (so thankful for those). One of the inspirations for this recipe, was the awesome lady from <a href=\"https://www.youtube.com/watch?v=I7-RgLABm_U&index=5&list=FLB9JN60Dbk3ob18wRs-upwA\">Cooking with plants</a>. Would have never thought of adding red peppers to a faux-cheese. She uses a marinated kind, but using a fresh oven-roasted pepper is fine. 
     & For the faux-cheese sauce, i was going to use potatoes to make it more 'creamy'. I went to get the ingredients i needed for the recipe at the grocery, and i saw some golden beets on sale. Golden beets, being yellow, i thought wouldn't alter the colour of the sauce and it would be a nice alternative to potatoes. 
-    % green.chile.mac.n.cheese.2
+    % recipes/green.chile.mac.n.cheese.2.jpg
     & The taste is perfect, not too sweet. A bit cheesy, but not too much. This paired with the roasted vegetables, heaven in my mouth. I was so excited, i allowed myself a minute of maniacal laughter. Behold! My creation! IT LIVES.
   INST
     - Cook {_1 cup_} of {{whole grain macaroni}} according to package instructions.
@@ -1264,13 +1264,13 @@ CHILI POMEGRANATE BROWNIES
     & It took me a LONG time to decide on a mix of ingredients/flavours; I've had recipe notes lying around on my desktop for ages now, with ingredients added, or scratched off.
     & I would still be in brownie rut, if it hadn't been for Devine ; his birthday was coming up, when I asked him what he wanted as a dessert he said, 'BROWNIES!'
     & The recipe was adapted from Joanne Gallagher's fantastic blog, <a href=\"http://www.inspiredtaste.net/24412/cocoa-brownies-recipe/\">Inspired taste</a>. I'm not good enough  to freestyle brownies, using her recipe as a base - for quantities especially - helped me out a lot. At least, i can get a good idea of how many wet, fat and sweet elements I need.
-    % chili.pomegranate.brownies.1
+    % recipes/chili.pomegranate.brownies.1.jpg
     & Spent time thinking about what i wanted it to look like, and how i wanted to present it. I didn't a chocolate topping - i've never been a fan of double-chocolate anything. I, at least, knew i wanted a fruit topping. 
     & I wanted to make the brownies in a round cake pan, and decorate it with powdered sugar patterns, using stencils. Then, I stumbled upon a recipe online for a fish-based dish (they used a pomegranate syrup as garnish.) I'd never made syrup before, but i knew that's what i wanted as a coulis over my brownies.
     & I scrapped the round cake pan idea, as well as the powdered sugar. Devine's birthday brownies were going to be topped with fresh pomegranate seeds, and a pomegranate syrup coulis!
     & Again, something was missing...
     & I had some really good, spicy chocolate fleur de sel cookies at my old studio. The idea of putting chili peppers in cookies (or cake) had never ocurred to me before. I thought it was brilliant - and the chocolate and chili mix is just insane (in a good way.) Lindt makes dark chocolate with chili peppers, I guess it was inspired by those 2 things.
-    % chili.pomegranate.brownies.2
+    % recipes/chili.pomegranate.brownies.2.jpg
     & I put a LOT of chili pepper flakes in these, i have a higher tolerance to it but if you don't feel free to use less. The syrup has a fair amount in it too, if you're worried about the level of spicy, you can actually not put it in the brownie batter. But, be sure to infuse it in the pomegranate syrup, won't be the same without it.
     & These were a big success, Devine loved them! I cut them into 24 small squares, but feel free to make larger blocks. Smaller portions means you can have some longer, i like that idea.
     & In this recipe I substituted half of the fat for pureed pumpkin. In brownies you can only substitute half the amount, before it effects the texture. Hope you like it! 
@@ -1315,10 +1315,10 @@ BLACK FRENCH TOAST
   DESC
     & I baked a beautiful loaf of black sandwich bread, just to use in this recipe. Doesn't the idea of black french toast sound amazing? With a banana-base, and topped with freshly cut kiwi slices no less!
     & It was my first time baking black bread in a bread pan; usually I just opt for free-form loaves. But for sandwich and french toast purposes, it would work better if it was in that shape. You can make your own black bread, using my <a href=\"http://grimgrains.com/basic+black+bread\">basic black bread</a> recipe - it's very easy to make.
-    % black.french.toast.1
+    % recipes/black.french.toast.1.jpg
     & Usually when I make french toast, i'll use a soy milk as a base. I made some recently, using The simple veganista's <a href=\"http://thesimpleveganista.blogspot.ca/2013/02/banana-french-toastyes-please.html\">Banana french toast</a> recipe. I thought the idea was brilliant - i do love bananas in my breakfasts. By the way, she has a great 'orange french toast' recipe on her blog - you should make that too. 
     & Using bananas, makes for a more consistent morning meal. Most french toast recipes add nutmeg and cinnamon, but I prefer to just taste the fruit - Devine isn't a huge nutmeg fan anyway.
-    % black.french.toast.2
+    % recipes/black.french.toast.2.jpg
     & Made these on a weekday, tuesday morning french toast is great - fun breakfasts shouldn't only be reserved for weekends.
   INST
     - Puree 1 banana, 3/4 cup of soy milk and 1/2 tsp of vanilla extract using an immersion blender.
@@ -1346,12 +1346,12 @@ PANKO CHICKPEA FINGERS
   DESC
     & Was in the mood for some panko, didn't have tofu; but what I did have, was a jar full of chickpea flour. I prepared a batch of spicy, green scallion, 'chickpea tofu' and coated it with breadcrumbs. With this, I made baked panko chickpea fingers!
     & This dish was inspired off of Vegan Richa's <a href=\"http://www.veganricha.com/2015/03/parmesan-crusted-avocado-kale-florentine-with-smoked-paprika-hollandaise.html\">parmesan crusted avocado</a> recipe, I made it just last week! It reminded me how easy it is too make panko at home; never thought of using lemon juice, to make the panko stick.
-    % panko.chickpea.fingers.1
+    % recipes/panko.chickpea.fingers.1.jpg
     & The lemon juice adds flavour to the crumbs, no need for eggs or flour - simplicity at its best.
-    % panko.chickpea.fingers.2
+    % recipes/panko.chickpea.fingers.2.jpg
     & I had these with sambal oelek, it's spicy but I think it works well with the dish. I've been pairing this condiment with a lot of my foods lately, i bet these would be good with a sweet mustard dip!
     & If you don't have any panko, just make some yourself! All you need is some left-over bread; i had some i needed to use up. I tore the slices into smaller bits, and put them in my food processor to break them down. Once it was 'crumby' enough, I lined a baking sheet with some parchment paper, and put the crumbs down in a thin layer (for even browning). Preheat your oven at 300F, and bake the bread bits for 5 minutes. After the 5 minutes is up, shake them around, and bake them for an additional 5.
-    % panko.chickpea.fingers.3
+    % recipes/panko.chickpea.fingers.3.jpg
     & Keep an eye on me them, to make sure they don't burn! Let cool, and store in an airtight container - keeps for weeks at room temperature!
   INST
     - Bring 1 1/2 cups of vegetable bouillon to a rolling boil in a pot.
@@ -1387,7 +1387,7 @@ FLAUTAS DE COLIFLOR
     & Flautas de coliflor or 'Cauliflower flutes'; a delicious treat, consisting of curried cauliflower wrapped in corn tortillas, and draped with an avocado-coriander sauce. The flutes are also topped with some roasted, thyme-pumpkin bits.
     & Typically, this type of dish is fried in oil; i thought they would be just as delicious as cold wraps. For a hot version, place in pan with a bit of vegetable oil (canola or corn oil) and fry until browned on both sides. Then, add the sauce and toppings.
     & It's best to steam the tortillas, before spooning in the filling to help soften them. That way they can be folded easily, with no risk of tearing - No one wants torn tortillas.
-    % Flautas.de.coliflor.1
+    % recipes/Flautas.de.coliflor.1.jpg
     & Most people steam the tortillas beforehand with a microwave; to do this, put your tortillas in a bag, and heat for 30 seconds. Note that I don't have a microwave at home, it's an appliance I don't care to own. - i've always done well without it. If like me, you don't have one, you can use a big pot with a basket steamer, or a colander - it works just fine. Just make sure the water doesn't touch the bottom of your steamer, or colander; because what you will get are wet tortillas - much unpleasantness.
     & Made these on a lazy sunday afternoon, it's quick and very delicious!
   INST
@@ -1437,9 +1437,9 @@ UZUMAKI HUMMUS BITES
   DESC
     & Beet hummus bites, or 'uzumaki' bites, as i like to call them! Roasted beet hummus, black olives and aragula salad tucked into homemade bamboo charcoal tortillas.
     & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing i had trouble with, was making them into nice circular shapes. Not sure how people manage to do it, guess it takes practice. It's also because i'm short of a rolling pin, Devine broke the handles off the other day. I've been using the 'body' of the rolling pin, without the handles. It still works! Dans ta face, rolling pin!
-    % uzumaki.hummus.bites.2
+    % recipes/uzumaki.hummus.bites.2.jpg
     & Made the tortillas based on the recipe by Zerrin from <a href=\"http://www.giverecipe.com/basic-homemade-flour-tortillas.html\">Give recipe</a>. You should check out her page first, if you want to try and make your own tortillas. She describes it a lot better than I, not to mention her tortillas are circular. In my defense, she uses a tortilla press. 
-    % uzumaki.hummus.bites.3
+    % recipes/uzumaki.hummus.bites.3.jpg
     & Had a lot of fun making these, plus the end result is pretty! I feel like these would be really good, topped with a sauce of somekind. Any ideas?
   INST
     * Beet hummus
@@ -1483,7 +1483,7 @@ BLACK SESAME ICE CREAM BARS
     & Ok, so it's not black. Grey is fine though, grey is gorgeous. There should be more, naturally grey, foods.
     & Making crusts is always an ordeal for me, most of the time i don't have the ingredients to make it. A lot of recipes call for graham crackers, or dates. While I often do have dates, i don't have an endless supply of it. Was wondering if there was something i could do with oats, i always have a TON of steel cut oats on hand.
     & I looked up recipes for oat-based crusts, and found this awesome one by <a href=\"http://www.oatmealwithafork.com/2014/11/14/5-ingredient-no-roll-pie-crust-gluten-free-nut-free/\">Lauren Goslin</a> from 'oatmeal with a fork'. Her recipe called for olive oil, but I swapped it for coconut oil. Coconut oil suits desserts perfectly, assuming you like the taste of coconut . The flavour can be pretty strong.
-    % black.sesame.ice.cream.bars.1
+    % recipes/black.sesame.ice.cream.bars.1.jpg
     & As for the black sesame ice cream, this is actually my 3rd attempt. First one was good, made it with silken tofu and coconut milk. Didn't have any silken tofu left for this batch, so gave bananas a go, and it worked out great too! 
     & Being able to make black sesame ice cream at home makes me happy. Now that Japan is so far away, and that kombinis aren't 5 minutes away anymore. AH I miss the convenience of Kombinis.
   INST
@@ -1518,11 +1518,11 @@ ANISE BREAD WITH SWEET PEAR SAUCE
   DESC
     & It's mini loaf craze, love baking with the mini pans I bought. Been making mini everything. This time, i made some anise bread topped with a sweet sauce, loaded with caramelized pear chunks.
     & My bag of anise seeds has been sitting in my pantry, for way too long, begging to be given a purpose.
-    % anise.bread.with.sweet.pear.sauce.1
+    % recipes/anise.bread.with.sweet.pear.sauce.1.jpg
     & I'm sorry I neglected you for so long anise seeds, you're delicious, and you smell so so nice. No hard feelings? We're good you and I right?
     & Right.
     & This recipe was inspired by a Pineapple and anise seed 'pudding chomeur' recipe on <a href=\"http://willtravelforfood.com/2011/11/01/apollo-giovanni-recipe-pudding-chomeur/\">Will travel for food</a>! I ended up making little cake breads, instead of pudding. Making them egg-free worked out nicely too! My cake breads have a less sugar than the pinapple pudding chomeur too.
-    % anise.bread.with.sweet.pear.sauce.2
+    % recipes/anise.bread.with.sweet.pear.sauce.2.jpg
     & You guys should pay 'Will travel for food' a visit! It's a Montreal blog too, how cool is that? More montreal cooking friends!
   INST
     - Preheat oven to 325F.
@@ -1559,10 +1559,10 @@ WASABI SWIRL CHOCOLATE COOKIES
   DESC
     & Black sesame chocolate cookies with a wasabi glaze? Yep, you heard right! 
     & A few days ago was 'international chocolate chip cookie day'. Apparently there's a day for everything? How annoying. It was hard to ignore, had images of cookies on my twitter feed all day. So despite today not being a day devoted to cookies, I decided to go ahead and make some anyway, because yolo.
-    % wasabi.swirl.chocolate.cookies.1
+    % recipes/wasabi.swirl.chocolate.cookies.1.jpg
     & I don't know if you guys ever had this, the 'wasabi flavoured chocolate' that Lindt makes. I had some for the first time a few years back. I was intrigued by it, it's a strange idea. If you're used to having wasabi with sushi, wasabi mixed into anything else just feels weird. Why would anyone want that in a dessert? Goes to show, that sometimes it's a good idea to play around with flavours. Mixing tastes you like together will not always yield good results, but in this case, it did.
     & I wanted to mix the wasabi directly in the cookies at first, but after reading a lot about baking with it, I decided to just apply it after in the form of a glaze. People were saying that the taste fades significantly when heated, didn't want that! Wanted a wasabi 'punch-in-the-face' taste.
-    % wasabi.swirl.chocolate.cookies.2
+    % recipes/wasabi.swirl.chocolate.cookies.2.jpg
     & It doesn't taste too strong, and like 'Lindt wasabi chocolate bars', it adds just the right amount of kick! It isn't a 'punch-in-the-face', level of strong though, don't worry. I know not everyone likes that.
     & The cookie base was adapted from 'oh she glows' 's <a href=\"http://ohsheglows.com/2014/02/27/one-bowl-double-chocolate-chunk-cookies/\">Double chocolate chunk cookies recipe</a>. Visit her fantastic blog for more recipes! 
   INST
@@ -1639,7 +1639,7 @@ MANGO ICE CREAM WITH BLACK SESAME SYRUP
   DESC
     & Fancy it up with some easy-to-prepare mango ice cream with black sesame syrup! Made using only 4 ingredients, for colour enthusiasts!
     & Internet is full of recipes using just fruit for ice cream, yep this recipe is one of 'those'. I've made ice cream with other bases, like banana or coconut milk. Both are good dairy-free alternatives. Full fat coconut milk is expensive, so i don't use it too often. You need it to be full fat, otherwise it wont freeze well. I learned it the hard way. Using just 1 fruit is nice, because of how little preparation is required. Whether you're using bananas, watermelon, strawberries... all you need to do is cut the fruit up into chunks, and freeze it for a few hours. Depending on the fruit, it may take longer. Also, if like me, you don't have a food processor, you can cut it up into smaller chunks to make it easier to break down with an immersion blender. 
-    % mango.ice.cream.with.black.sesame.syrup.1
+    % recipes/mango.ice.cream.with.black.sesame.syrup.1.jpg
     & I like making syrups, or juice reductions a lot. It's simple, and you can use it in many other recipes afterwards! Reductions that aren't sweetened with sugar, you can use as add-on to sauces, or alone as a 'glaze'. My fridge has 3 different syrups in it right now.
     & 'What are those?' Devine would ask.
     & 'EXPERIMENTS' I would reply, wiggling my digits about, in a creepy fashion. 'You shall seeeee, oh yes, oh yes. YES. You shall seeee.'
@@ -1667,10 +1667,10 @@ HOP ICE CREAM
   DESC
     & Summers in Montreal, go hand in hand with beer. There is such a wide variety of brews here. My corner store has a TON, most are made locally too. Me and Devine like craft beer a lot, hard to not drink everyday. To help satisfy our evergrowing craving, I decided to try and make hop flavoured ice cream!
     & Sweet and bitter! SUPER TASTY! Felt like I used just the right amount. This ice cream is definitely for people who love the smell and taste of hops (as well as cold summer dairy-free treats)!
-    % hop.ice.cream.2
+    % recipes/hop.ice.cream.2.jpg
     & I wasn't sure how to 'infuse' the hops into the ice cream base, we tried making hop tea by infusing it overnight in the fridge, but the taste wasn't strong enough. Felt we would get better results and better flavour, if the hops were heated. The pouch method worked pretty well, the ice cream base was perfect! Full of delicious bitterness! Devine suggested to make a concentrate with the hops first, and then mix it into the base next time. Another experiment! We tried another batch of hop tea a few days after, adding twice as many hops and it ended up tasting too strong. We'll stick to warm infusions for now. 
     & The hops used in this recipe are an American variety called "Colombus". We got them from <a href=\"http://www.choppeabarrock.com\">La choppe a Barrock</a> on Villeneuve et Coloniale every time we make homebrews we pick up the ingredients there! You can buy a wide variety of hop buds there, you can even get the pellet kind.
-    % hop.ice.cream.3
+    % recipes/hop.ice.cream.3.jpg
     & It was my second time using the ice cream maker, I got it from the 'Free stuff Montreal' group on facebook. It looks like a little red pail, super cute. The woman I got it from even had the manual! You can make ice cream without a machine, although having one helps with the 'churning' process. It saves a lot of time and effort. If i hadn't gotten that ice cream maker for free, i dont think id have one but since it's here might as well use it!
     & This recipe wouldn't have happened without the instructions from <a href=\"http://www.thekitchn.com/how-to-make-vegan-ice-cream-cooking-lessons-from-the-kitchn-204755\">The Kitchn</a>. Their vegan ice cream tutorial was super helpful. They have a ton of images on their site too, so if you're more of a 'visual' cook you should check it out!
     & If you too, are having too many beers these days, try and cook with hops instead. Same taste, different format!
@@ -1735,12 +1735,12 @@ CARROT KINPIRA ONIGIRAZU
   SERV : 2 servings
   DESC
     & Even if I don't live in Tokyo anymore, I try and keep up with what's happening over there. I still follow the news, and try to translate some simple texts to see how many kanji i've forgotten. My favourite kanji, is the one for bone '骨' (pronounced 'ho-ne'). I also love the kanji combination for jellyfish or '水母' (pronounced 'ku-ra-ge'), which beautifully translates to 'water mother'. These two words come together to create this expression '水母の' or 'jellyfish bones'. It is used when talking about something that you would not expect to exist, like bones in a jellyfish. I could go on, but seeing as how this has nothing to with food, here goes. The recipe i'm sharing with you today is japanese inspired, and is also currently part of a craze over there. I made some onigirazu, a sort of hybrid, japanese rice ball sandwich.
-    % carrot.kinpira.onigirazu.1
+    % recipes/carrot.kinpira.onigirazu.1.jpg
     & The word onigiri (or nigiru) means to press into shape using your hands, while "razu" means the opposite. Free form onigiri! This is perfect for people who have a hard time making rice balls, as is the case for me. Onigirazu has the same great taste, without the fear of imperfection. All the shame is hidden away under a blanket of nori, and fillings.
     & The concept of this rice sandwich, is perfect when you don't have the right type of rice available for onigiri. You can use just about any type, i tested it out with some Minute Rice and it worked perfectly. I was given some coupons to try out their products, i'm all for experimentation so i picked up a box of whole grain brown Minute Rice. It was my fist time trying it, I generally purchase rice in bulk. Bulk is cheaper, and has a lot less packaging. After cooking with it though, i do see the appeal. The rice is 'parboiled', which means that you wont have to wait very long for your meal to be ready. Your rice will be cooked in 1/4 of the time it takes for traditional brown rice. As you all know sticky rice takes a long time to cook, I don't mind having to wait after my rice, but I know that not everyone has that luxury. It's a good thing that this option exists, it means it's even easier to cook great meals, rapidly at home.
-    % carrot.kinpira.onigirazu.2
+    % recipes/carrot.kinpira.onigirazu.2.jpg
     & The rice was seasoned with miso for added flavour, and was filled with carrot kinpira. Kinpira means "sauteed" (sually with a mixture of mirin soy sauce and chili peppers.) It's a sweet, and spicy dish that is often served in bentos. I knew I wanted this as a filling for my onigirazu, to satisfy my sudden craving for japanese food. This would have been amazing with gobo, but finding the root here in Montreal is no easy task.
-    % carrot.kinpira.onigirazu.3
+    % recipes/carrot.kinpira.onigirazu.3.jpg
     & You should try and make your own version of onigirazu at home! As i said, it's no-fail and with some parboiled rice it can ready in under 20 minutes (you can also parboil your own rice). I may not live near a 24h kombini, with readily available onigiri anymore, but i know i can make some at home easily, and quickly.
     
   INST
@@ -1774,9 +1774,9 @@ BALSAMIC BANANA ICE CREAM
   SERV : 2 servings
   DESC
     & When it comes to plant-based cold desserts, Montreal has a lot of options. The places I tried are all within walking distance, because generally when I want ice cream i don't want to have to go far to get it. Luckily, the 2 places that are near my home offer dairy-free options, though often this means sorbet. While I like sorbet, the flavors are rarely as creative as milk-based ice creams. When I don't want sorbet, I just make my own ice cream at home. I have many other ice cream recipes on this blog, but some of them require a bit more waiting time and effort, which admittedly I don't always care for. Banana ice cream to the rescue! A delicious and simple alternative to dairy or coconut based desserts.
-    % balsamic.banana.ice.cream.1
+    % recipes/balsamic.banana.ice.cream.1.jpg
     & I was introduced to vanilla ice cream with a balsamic vinegar coulis, at my friend Lisa's small, Shimokitazawa appartment. It was summer, we wanted to cool our insides. Tokyo summers are unbearably warm. I can't say I remember where I got the idea to put balsamic vinegar on ice cream, it might have been in a magazine or a restaurant. That evening, it came to mind, and we tested it out. It was fantastic! Not things i thought could go well together. 
-    % balsamic.banana.ice.cream.2
+    % recipes/balsamic.banana.ice.cream.2.jpg
     & I remembered that night today, and desperarely wanted to re-create a dairy-free version of it. Lots of blogs I love have also been making banana-based recipes, I first saw a recipe on the whole foods website for it. Making it is incredibly easy, you just put bananas in the freezer. While you wait for them to harden up, you can prepare your balsamic coulis and make your appartment reek of vinegar - yay! If you've ever boiled balsamic vinegar, you know what I'm talking about. I didn't want to pour the vinegar straight from the bottle over the ice cream, making a reduction makes it thick and syrupy, and it just works better as a topping.
     & I don't have a powerful blender or food processor at home, so reducing the 2 frozen banana chunks to a smooth puree was difficult. It took longer than i thought it would, and because of that my ice cream was melting when the time came to take photos. So pro-tip, don't use an immersion blender. If you're desperate and/or reckless and want to try it anyways, do it in batches.
   INST
@@ -1840,7 +1840,7 @@ FRESH PESTO PASTA
   DESC
     & Summer is over, temperature in Montreal started to dip into the lower 20's. Colder times means collecting the remaining fresh herbs from my balcony garden. This year, I'm happy to say that my plants have thrived - thank you <a target="_blank" href="https://www.amazon.com/gp/product/B017WY3PWQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017WY3PWQ&linkCode=as2&tag=hundredrabbit-20&linkId=343025663c1bc31d6cb19ca55ad039fd">Smart Pots</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hundredrabbit-20&l=am2&o=1&a=B017WY3PWQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. 
     & My basil plant was a real beauty, I harvested all I could from it and made pesto. With it, I made this recipe — the perfect way to end the summer.
-    % fresh.pesto.pasta.1
+    % recipes/fresh.pesto.pasta.1.jpg
     & The combination of carrots and zucchinis, look beautiful on a plate. To complete the dish, I added some roasted pumpkin seeds, and topped it off with cherry tomatoes. For bulk, I added scoobi do pasta to this dish. Scoobi do pasta happens to be my favorite pasta cut, it also has the best name ever. With tones of orange, green and brown this meal embodies autumn.
     & You can find the recipe for my roasted pepitas {{here|roasted pumpkin seeds}}! It's easy, and ready in 20 minutes. I usually make a double recipe, and add it to salads and other meals during the week. Enjoy!
   INST
@@ -1873,10 +1873,10 @@ VEGEMITE CARAMEL
   DESC
     & Cadbury released a vegemite chocolate bar earlier this year, as usual, I only found out about it this week (after everyone else o'course). I liked the idea so much, I decided to make something inspired from it. Ended up making some vegemite caramel.
     & I currently have two vegemite jars, a gift from a friend in Australia. It's delicious, but I don't always know what to make with it. It's great on toast, but aside from that - mind goes blank.
-    % vegemite.caramel.1
+    % recipes/vegemite.caramel.1.jpg
     & The vegemite caramel mix of the Cadbury bar intrigued me. Vegemite is very salty, but I happen to be a big fan of salted sweets – I'm looking at you sea salt chocolate. If I added some to date caramel (instead of salt) I knew it would taste good. I have Alissa from <a href=\"http://www.nourishingmeals.com/2010/09/raw-caramel-dip-for-apples.html\">Nourishing meals</a> to thank for the idea of date caramel. I used deglet noor dates for this recipe (because it's what I had). Feel free to use medjool dates instead. Medjool dates are great, but you don't have to use them. They're expensive, and their cheaper counterpart works just fine.
     & I was right, it tastes amazing. Cut a few apples up, and dip them right into the vegemite caramel! You can also spread it over some toast! This is a weird mix, but believe me, it tastes awesome. 
-    % vegemite.caramel.2
+    % recipes/vegemite.caramel.2.jpg
     & There are a few places in Montreal where you can get vegemite like, Ta pies on Park av. near Mont-royal street has some. Otherwise, you can get one of your nice Australian buddies to send you some! 
   INST
     - Soak 1 cup of deglet noor dates in boiling water for 5-10 minutes. Drain.
@@ -1901,7 +1901,7 @@ HALLOWEEN PUMPKIN COOKIES
   DESC
     & Halloween is coming up, this blog has a lot of recipes that are perfect for it. Here is a short list of my favorite ones: <a href=\"http://grimgrains.com/dark+yaki+gyoza\">Black yaki gyoza</a> <a href=\"http://grimgrains.com/basic+black+bread\">Basic black bread</a> and <a href=\"http://grimgrains.com/black+pasta\">Black pasta</a>. Those recipes aren't holiday-specific, but these cute pumpkin cookies sure are! They're super soft, and easy to prepare.
     & Been a while since I've baked cookies. It being pumpkin season, the choice was obvious - pumpkin cookies it is.
-    % halloween.pumpkin.cookies.2
+    % recipes/halloween.pumpkin.cookies.2.jpg
     & These are perfect if you don't like sweet deserts, coconut sugar has a subtle and more complex taste. Coconut sugar will make your cookies a darker shade of orange, almost brown. I think it fits nicely with the toned-down color of the pumpkin seeds. If you want a bold orange color, use white cane sugar instead.
   
   INST
@@ -1946,9 +1946,9 @@ ROASTED YELLOW PEPPER PASTA
   DESC
     & This weekend, I made a batch of black pasta and served it with some roasted yellow pepper sauce. The contrast between the yellow and black is so gorgeous, bamboo charcoal makes all food look cool. 
     & The sauce is simple to prepare and will look just as good over regular pasta. It would also look great over some spinach pasta, be creative with it!
-    % roasted.yellow.pepper.pasta.1
+    % recipes/roasted.yellow.pepper.pasta.1.jpg
     & Please refer to my <a href=\"http://grimgrains.com/black+pasta\">black pasta recipe</a> to learn how to make your own!
-    % roasted.yellow.pepper.pasta.2
+    % recipes/roasted.yellow.pepper.pasta.2.jpg
   INST
     - Preheat your oven to 450F.
     - Roast 2 whole yellow peppers on a baking sheet for 25 minutes. Flipping them halfway through.
@@ -1976,7 +1976,7 @@ SALTED CARAMEL CAROB CHIP COOKIES
   DESC
     & Got up early sunday morning with cookies on my mind. When I peeked into my fridge, I spotted a lonely jar of leftover date caramel. I decided to make some salted caramel cookies with unsweetened carob chips! 
     & The kind people at <a href=\"http://www.daybreakmill.com\">Daybreak Mill</a> sent me a bag of einkorn flour last week, I'd never heard of it before. Einkorn was one of the first domesticated and cultivated plants. It has a higher percentage of protein than regular wheat, with high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene. Another great thing about it, is that it isn't as toxic to people on gluten-free diets. This wasn't proven, but it's worth looking into!
-    % salted.caramel.carob.chip.cookies.1
+    % recipes/salted.caramel.carob.chip.cookies.1.jpg
     & I tried baking bread with it this week, it did not rise all that well. While it is a dense loaf, the texture is quite nice! It has a strong nutty taste, making it more flavorful than regular wheat. Einkorn bread is filling, I don't think I would use it to make a sandwich but it makes nice breakfast toast.
     & After my bread experiment, I decided to try and make something sweet. The dates, coconut sugar and carob chips create a strong caramel taste. The fleur de sel sprinkled overtop brings out the flavor nicely.
     & I can't thank Daybreak mill enough for sending me this gift, and for introducing me to einkorn flour! Their products are grown with the utmost care. You can get your own einkorn flour from their website, they also have a ton of other great products. Encouraging companies that share your outlook on food and life is important. 
@@ -2015,7 +2015,7 @@ HIJIKI SOBA
   SERV : 2 portions
   DESC
     & After Japan opened itself to the world, Japanese cooks began to adapt western dishes in their own style. For instance in the west, people use ketchup as a condiment, but the Japanese use it as a base for tomato sauces. Spaghetti naporitan was created just after World War II, after Shigetada (the head chef at the Hotel New Grand in Yokohama) saw occupying soldiers eating it. Nowadays, you can find spaghetti seasoned with soy sauce, and served with seaweed. 
-    % hijiki.soba.2
+    % recipes/hijiki.soba.2.jpg
     & While living in Tokyo, we spent many evenings at Saizeriya, a cheap Japanese food chain of family-style italian restaurants. I had my very first yoshoku-style (western style) pasta there.
     & This is a relatively simple recipe, and uses all of my favorite japanese condiments! If you've never had yoshoku pasta, i envy you. A world of creativity awaits!
   INST
@@ -2113,9 +2113,9 @@ CHARCOAL TOOTHPASTE
   SERV : 1 jar
   DESC
     & I've always liked making things from scratch, especially when cooking. I enjoy the process, making it myself means that i control the quality and quantity of each ingredient. In the last couple of years, I've removed most pre-made cleaning and hygiene products from my life. I make my own shampoo, deodorant, toilet cleaner, kitchen cleaner and I also make my own toothpaste.
-    % charcoal.toothpaste.1
+    % recipes/charcoal.toothpaste.1.jpg
     & Making it yourself is cheaper, and you're not burdened by wasteful packaging. Chances are you already have all of the ingredients at home to make it, there's nothing to it. The recipe consists of baking soda, foodgrade bamboo charcoal powder, coconut oil and peppermint oil (also food grade). You can omit the bamboo charcoal to make your own toothpaste, it will work just as well. If you want black toothpaste to match your black-everything though, this is a must. If you want some, make sure to get it from a reliable source. If you're a hardcore minimalist, you can also brush your teeth with a simple baking soda and water paste (though the saltiness can be overwhelming). Adding coconut and peppermint oil, makes for a better taste and texture. In colder climates, your toothpaste will solidify. Scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down. 
-    % charcoal.toothpaste.2
+    % recipes/charcoal.toothpaste.2.jpg
     & Baking soda you can purchase in bulk; you can use to make a ton of products. I use it almost everyday on the boat to polish metals, unclog drains etc. One day i will make a post about cleaning products, for now, enjoy the bamboo charcoal toothpaste recipe! Awaken the Ohaguro in you (be assured that the bamboo charcoal won't really stain your teeth).
     & You can order your own bamboo charcoal powder from {{Taketora|http://www.taketora.co.jp/fs/taketora/su00248}}, it's where i got mine. 
   INST
@@ -2164,7 +2164,7 @@ PAN FRIED BREADFRUIT
   DESC
     & Breadfruit trees are everywhere in French Polynesia, but sometimes the fruit aren’t mature enough to pick. To make things more difficult, grocery stores don’t sell them (they don’t sell fruit either). The Polynesians don't buy fruit, they don't have to! They have plenty growing on their property. If they don’t have something, they can trade with neighbours for theirs. Getting our hands on a breadfruit was no simple task, but we are patient. At every island, we would ask the locals, but again, the fruit weren’t ready to pick off yet. 
     & Devine & I had breadfruit when we first arrived in Nuku Hiva, the owner of snack Vaeki prepared some for us. The chef cooked it outside, over hot coals. The taste is hard to describe, it's very potato-ey. We had the cooked breadfruit with some fresh coconut milk - extracted from a fresh coconut before our very eyes. Since then, we’ve been looking to cook it ourselves. 
-    % pan.fried.breadfruit.1
+    % recipes/pan.fried.breadfruit.1.jpg
     & Then finally we got our chance! We bought a breadfruit at the Fare street market in Huahine. The seller at the fruit stand gave it a few knocks, and told us it was ready to eat! It was delicious with coconut milk, but we wanted to try something different; we cut the breadfruit into wedges and pan-fried it. We then served it with some button mushrooms, coated with sweetened soy sauce.
     & If you ever come by breadfruit fruit, please try it. It’s the perfect island food, and will keep you filled up for a long time! 
   INST
@@ -2265,9 +2265,9 @@ SPINACH FAUX CHEESE RAVIOLI
   SERV : 2 people
   DESC
     & We have arrived in New Zealand, the land of plenty. All of the foods that we like and miss are here. Foods like nutritional yeast, miso and soba (to name a few). With a fully re-stocked pantry, I started to make faux-cheese again, a recipe from Vegan Richa that is simple to make and that I love. The recipe is for a cheese that can be cut into wedges, or that can be grated over pizza. I had an idea to use this recipe to make filling for ravioli, the difference being that I won't add any agar agar (a seaweed based powder that makes liquids jellify). Making your own dough is simple, the whole process will take you less than 40 minutes.
-    % spinach.faux.cheese.ravioli.1
+    % recipes/spinach.faux.cheese.ravioli.1.jpg
     & I got the idea to make ravioli from an old 70's book about the cooking of Italy. This book is one of many that we found in a thrift shop here in Whangarei; we bought all the ones that we could find. Devine & I like picking through them, drawing inspiration from the images and ingredients.
-    % spinach.faux.cheese.ravioli.2
+    % recipes/spinach.faux.cheese.ravioli.2.jpg
     & A lot of the recipes in these books use meat and dairy, but it's easy to swap these ingredients out for something else. In New Zealand, the groceries are plentiful and finding everything we need is a breeze. We hope you enjoy this recipe, and that you try and make {{Richa's original pepper jack cheese recipe|http://www.veganricha.com/2014/08/almond-milk-pepper-jack-cheese-vegan-glutenfree-recipe.html}} too.
    
   INST

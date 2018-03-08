@@ -1,4 +1,4 @@
-body { background:white; font-family: 'Helvetica Neue', Helvetica, Arial }
+body { background:#fcfcfc; font-family: 'Helvetica Neue', Helvetica, Arial }
 yu { display: block; }
 hr { clear:both; }
 list { display: block; }
@@ -9,29 +9,34 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view { max-width: 800px; margin:0px auto; padding:90px 30px; }
 
-#view #header { }
-#view #header #logo img { max-width: 200px; display: block; margin:0px auto; }
+#view #header { margin-bottom:60px;}
+#view #header #logo img { max-width: 240px; display: block; margin:0px auto; }
 #view #header #search { display: none }
 
 #view #core { margin-bottom:30px; }
 
 #view #core #content { position: relative; z-index: 100; margin-bottom:45px; }
-#view #core #content h1 { text-transform: capitalize; font-size:36px; }
+#view #core #content h1 { text-transform: capitalize; font-size:36px; max-width:400px }
 #view #core #content h2 { text-transform: capitalize; font-size:28px; }
 #view #core #content h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 #view #core #content p { font-size:18px; margin-bottom: 30px; max-width:600px; }
 #view #core #content img { margin-bottom: 30px; border-radius: 2px }
+#view #core #content img.photo { width:100%; }
+#view #core #content columns { columns:2; display: block; margin-bottom:30px; column-gap: 30px }
 
-#view #core #content list.ingredients { display: inline-block; margin-right:15px; }
-#view #core #content list.ingredients ln.ingredient { width:100px; display: inline-block; text-align:center; vertical-align: top }
+#view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; }
+#view #core #content list.ingredients h3 { margin-left:-20px; }
+#view #core #content list.ingredients ln.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
+#view #core #content list.ingredients ln.ingredient:hover { border-color: black; cursor: pointer; background:white; z-index:900; position: relative; }
 #view #core #content list.ingredients ln.ingredient:hover t.name { text-decoration: underline; }
+#view #core #content list.ingredients ln.ingredient.missing t.name { color:red; }
 #view #core #content list.ingredients ln.ingredient img { max-width: 100% }
 #view #core #content list.ingredients ln.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
 #view #core #content list.ingredients ln.ingredient t.quantity { display: block; font-size:12px; }
 
 #view #core #related { width:100%; border-top:2px solid black; padding-top:45px;}
-#view #core #related ln { max-width: calc((100% / 3) - 10px); float:left; }
+#view #core #related ln { width: calc((100% / 3) - 10px); float:left; }
 #view #core #related ln:nth-child(1), #view #core #related ln:nth-child(2) { margin-right:15px;} 
-#view #core #related ln img { border-radius: 2px }
+#view #core #related ln a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; }
 #view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
 #view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }

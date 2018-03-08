@@ -103,8 +103,9 @@ Yuka
   Details : [#EFEFEF] Tapioca is actually a starch extracted from Yuca roots.
 Garlic
   Details : [#EFEFEF powder] Garlic has been used in many cultures around the world for thousands of years. Dating all the way back to the time the pyramids were built!
-Onion
-  Details : [yellow#FFD800 red#C820B3 green powder] There is a variety of red onions in italy that has a stronger and sweeter taste, it is sometimes made into marmalades.
+Red Onion
+  Color : #C820B3
+  Details : There is a variety of red onions in italy that has a stronger and sweeter taste, it is sometimes made into marmalades.
 
 ~ OTHER VEGETABLES
 

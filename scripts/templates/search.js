@@ -10,6 +10,13 @@ function SearchTemplate(id,rect)
   {
     var html = ""
 
+    return {
+      core: {
+        content: "sup",
+        related:"hello"
+      }
+    }
+
     return html
   }
 }

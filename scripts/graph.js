@@ -23,7 +23,7 @@ function graph()
   Ø("client").mesh({x:32,y:0},[
     Ø("view").create({x:2,y:2},DomNode),
     Ø("header").create({x:2,y:8},DomNode),
-    Ø("logo").create({x:2,y:14},DomNode,"wr","<a href='#home'><img src='media/interface/logo.png'/></a>"),
+    Ø("logo").create({x:2,y:14},DomNode,"wr",`<a href='#home' onclick="Ø('query').bang('home')" ><img src='media/interface/logo.png'/></a>`),
     Ø("menu").create({x:6,y:14},DomNode,"list"),
     Ø("core").create({x:10,y:8},DomNode),
     Ø("content").create({x:10,y:14},DomNode),

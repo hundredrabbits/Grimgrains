@@ -25,9 +25,11 @@ function RecipeTemplate(id,rect)
     var html = "";
 
     html += `
+    <img class='photo' src='media/recipes/${q.name.to_path()}.jpg'/>
     <h1>${q.name.capitalize()}</h1>
     <h2>${recipe.SERV} — ${recipe.TIME} minutes</h2>
-    <p>${new Runic(recipe.DESC)}</p>
+
+    <columns>${new Runic(recipe.DESC)}</columns>
     <h2>Ingredients</h2>
     ${make_ingredients(recipe.INGR)}`;
 
@@ -45,9 +47,9 @@ function RecipeTemplate(id,rect)
       var name = recipes[id][0];
       html += `
       <ln class='recipe'>
-        <a href='#${name.to_url()}'><img src='media/recipes/${name.to_path()}.jpg'/></a>
+        <a class='photo' onclick="Ø('query').bang('${name}')" href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
         <t class='name'>${name.capitalize()}</t>
-        <t class='details'>${q.tables.recipes[name].SERV}<br />${q.tables.recipes[name].TIME} minutes<br />${q.tables.recipes[name].INST.length} steps<br />${count_ingredients(q.tables.recipes[name])} ingredients</t>
+        <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</t>
       </ln>`
       if(count > 1){ break; }
       count += 1
@@ -90,14 +92,14 @@ function RecipeTemplate(id,rect)
       
       html += `<list class='ingredients'>`
       html += Object.keys(categories).length > 1 ? `<h3>${id.capitalize()}</h3>` : ""
-      for(id in elements){
-        var element = elements[id];
+      for(name in elements){
+        var element = elements[name];
         html += `
         <ln class='ingredient'>
-          <a href='#${id.to_url()}'>
-            <img src='media/ingredients/${id.to_path()}.png'/>
+          <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+            <img src='media/ingredients/${name.to_path()}.png'/>
           </a>
-          <t class='name'>${id.capitalize()}</t>
+          <t class='name'>${name.capitalize()}</t>
           <t class='quantity'>${element}</t>
         </ln>`
       }
