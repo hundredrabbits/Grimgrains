@@ -23,15 +23,15 @@ function graph()
     Ø("view").create({x:2,y:2},DomNode),
 
     Ø("header").create({x:2,y:8},DomNode),
-    Ø("logo").create({x:2,y:14},DomNode),
-    Ø("search").create({x:5,y:14},DomNode),
-    Ø("menu").create({x:8,y:14},DomNode),
+    Ø("logo").create({x:2,y:14},DomNode,"wr","<img src='media/interface/logo.png'/>"),
+    Ø("search").create({x:6,y:14},DomNode),
+    Ø("menu").create({x:10,y:14},DomNode),
 
-    Ø("core").create({x:11,y:8},DomNode),
-    Ø("content").create({x:11,y:14},DomNode),
-    Ø("related").create({x:14,y:14},DomNode),
+    Ø("core").create({x:14,y:8},DomNode),
+    Ø("content").create({x:14,y:14},DomNode),
+    Ø("related").create({x:18,y:14},DomNode,"list"),
 
-    Ø("footer").create({x:8,y:8},DomNode),
+    Ø("footer").create({x:6,y:8},DomNode),
   ])
 
   // Model

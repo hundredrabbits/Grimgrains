@@ -38,22 +38,43 @@ function RecipeTemplate(id,rect)
   {
     var html = "";
     var recipe = q.result
-    var recipes = find_related(recipe,q.tables.recipes)
+    var recipes = find_related(q.name,recipe,q.tables.recipes)
 
+    var count = 0;
     for(id in recipes){
       var name = recipes[id][0];
-      html += `<ln><a href='#${name.to_url()}'>${name.capitalize()}</a>(${recipes[id][1]})</ln>`
+      html += `
+      <ln class='recipe'>
+        <a href='#${name.to_url()}'><img src='media/recipes/${name.to_path()}.jpg'/></a>
+        <t class='name'>${name.capitalize()}</t>
+        <t class='details'>${q.tables.recipes[name].SERV}<br />${q.tables.recipes[name].TIME} minutes<br />${q.tables.recipes[name].INST.length} steps<br />${count_ingredients(q.tables.recipes[name])} ingredients</t>
+      </ln>`
+      if(count > 1){ break; }
+      count += 1
     }
-    return html    
+    return `<list class='related'>${html}<hr/></list>`    
   }
 
-  function find_related(target,recipes)
+  function count_ingredients(recipe)
+  {
+    var ingredients = {}
+    for(cat in recipe.INGR){
+      for(id in recipe.INGR[cat]){
+        ingredients[id] = 1
+      }
+    }
+    return Object.keys(ingredients).length
+  }
+
+  function find_related(name,target,recipes)
   {
     var a = [];
     for(id in recipes){
       var recipe = recipes[id];
       var index = similarity(target.TAGS,recipe.TAGS)
-      a.push([id,index])
+      if(id != name){
+        a.push([id,index])  
+      }
     }
     a.sort(function(a, b) {
       return a[1] - b[1];

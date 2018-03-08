@@ -328,7 +328,7 @@ KURO PRETZELS
     - Using a flat spatula, gently place one pretzel into the pot of boiling water for 30 seconds. Only put one piece in at a time. After, place them onto the baking sheet you prepared earlier.
     - Brush or spray the pretzels with some soy milk, and sprinkle with some fleur de sel.
     - Bake for 12 minutes and place on a cooling rack! 
- INGR
+  INGR
     Pretzels
       Water : 3/4 cup
       Maple syrup : 1/2 tbsp

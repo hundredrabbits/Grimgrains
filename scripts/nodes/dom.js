@@ -1,11 +1,21 @@
-function DomNode(id,rect)
+function DomNode(id,rect,...params)
 {
   Node.call(this,id,rect);
 
+  this.type = params[0] ? params[0] : "yu";
   this.glyph = NODE_GLYPHS.dom
+  this.label = `${this.id}:${this.type}`
 
-  this.el = document.createElement("yu")
+  console.log(params)
+
+  this.el = document.createElement(this.type)
   this.el.id = this.id
+
+  console.log(params)
+  if(params[1]){
+
+    this.el.innerHTML = params[1]
+  }
   this.is_installed = false;
 
   this.receive = function(content)

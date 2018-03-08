@@ -3,24 +3,34 @@ yu { display: block; }
 hr { clear:both; }
 list { display: block; }
 list ln { display: block }
+img { max-width: 100% }
 
 h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin-bottom: 30px }
 
 #view { max-width: 800px; margin:0px auto; padding:90px 30px; }
 
-#view #header { display: none }
+#view #header { position: absolute; top:0px; left:0px; padding:60px; z-index: 900; background:white}
+#view #header #logo img { max-width: 200px; display: block; margin:0px auto; }
+#view #header #search { display: none }
 
 #view #core { margin-bottom:30px; }
 
+#view #core #content { position: relative; z-index: 100 }
 #view #core #content h1 { text-transform: capitalize; font-size:36px; }
 #view #core #content h2 { text-transform: capitalize; font-size:28px; }
 #view #core #content h2 { text-transform: capitalize; font-size:24px; }
 #view #core #content p { font-size:18px; margin-bottom: 30px; max-width:600px; }
 #view #core #content img { margin-bottom: 30px; border-radius: 2px }
 
-#view #core #content list.ingredients { padding-left:20px; margin-bottom: 30px  }
+#view #core #content list.ingredients { padding-left:20px; margin-bottom: 60px  }
 #view #core #content list.ingredients ln.ingredient { width:100px; display: block; float:left; margin-left:-10px;text-align:center }
 #view #core #content list.ingredients ln.ingredient:hover t.name { text-decoration: underline; }
 #view #core #content list.ingredients ln.ingredient img { max-width: 100% }
 #view #core #content list.ingredients ln.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px }
 #view #core #content list.ingredients ln.ingredient t.quantity { display: block; font-size:12px; }
+
+#view #core #related { width:calc(100% + 60px); margin-left:-10px; }
+#view #core #related ln { max-width: calc((100% / 3) - 20px); float:left; padding:10px; }
+#view #core #related ln img { border-radius: 2px }
+#view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
+#view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }

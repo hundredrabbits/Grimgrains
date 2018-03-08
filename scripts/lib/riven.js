@@ -42,9 +42,9 @@ function Node(id,rect={x:0,y:0,w:2,h:2})
     this.ports.request = new Port(this,"request",PORT_TYPES.request)
   }
 
-  this.create = function(pos = {x:0,y:0},type = Node,param)
+  this.create = function(pos = {x:0,y:0},type = Node,...params)
   {
-    var node = new type(this.id,rect,param)  
+    var node = new type(this.id,rect,...params)  
     this.rect.x = pos.x
     this.rect.y = pos.y
     node.setup();
