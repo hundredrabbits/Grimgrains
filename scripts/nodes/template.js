@@ -11,9 +11,9 @@ function TemplateNode(id,rect)
     // Select the right signal
     var assoc = this.signal(q.type.slice(0, -1));
     
-    this.send({main:assoc.answer(q)})
+    this.send({body:assoc.answer(q)})
 
     // // Install Dom
-    this.signal("main").request()
+    this.signal("body").request()
   }
 }

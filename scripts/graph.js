@@ -20,18 +20,18 @@ function graph()
 
   Ø("view").mesh({x:32,y:0},[
 
-    Ø("main").create({x:2,y:2},DomNode),
+    Ø("body").create({x:2,y:2},DomNode),
 
     Ø("header").create({x:2,y:8},DomNode),
     Ø("logo").create({x:2,y:14},DomNode),
-    Ø("search").create({x:6,y:14},DomNode),
-    Ø("menu").create({x:10,y:14},DomNode),
+    Ø("search").create({x:5,y:14},DomNode),
+    Ø("menu").create({x:8,y:14},DomNode),
 
-    Ø("body").create({x:14,y:8},DomNode),
-    Ø("core").create({x:14,y:14},DomNode),
-    Ø("related").create({x:17,y:14},DomNode),
+    Ø("core").create({x:11,y:8},DomNode),
+    Ø("content").create({x:11,y:14},DomNode),
+    Ø("related").create({x:14,y:14},DomNode),
 
-    Ø("footer").create({x:10,y:8},DomNode),
+    Ø("footer").create({x:8,y:8},DomNode),
   ])
 
   // Model
@@ -41,9 +41,9 @@ function graph()
   // Assoc
   Ø("template").syphon(["recipe","ingredient","page"])
 
-  Ø("template").connect("main")
-  Ø("main").bind(["header","body","footer"])
-  Ø("body").bind(["core","related"])
+  Ø("template").connect("body")
+  Ø("body").bind(["header","core","footer"])
+  Ø("core").bind(["content","related"])
   Ø("header").bind(["logo","search","menu"])
 
   Ø("query").connect("router")
