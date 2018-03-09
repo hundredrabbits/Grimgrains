@@ -21,14 +21,15 @@ function graph()
   ])
 
   Ø("client").mesh({x:32,y:0},[
-    Ø("view").create({x:2,y:2},DomNode),
-    Ø("header").create({x:2,y:8},DomNode),
-    Ø("logo").create({x:2,y:14},DomNode,"wr",`<a href='#home' onclick="Ø('query').bang('home')" ><img src='media/interface/logo.png'/></a>`),
-    Ø("menu").create({x:6,y:14},DomNode,"list"),
-    Ø("core").create({x:10,y:8},DomNode),
-    Ø("content").create({x:10,y:14},DomNode),
-    Ø("related").create({x:14,y:14},DomNode,"list"),
-    Ø("footer").create({x:6,y:8},DomNode),
+    Ø("document").create({x:2,y:2},DocumentNode),
+    Ø("view").create({x:2,y:6},DomNode),
+    Ø("header").create({x:2,y:11},DomNode),
+    Ø("logo").create({x:2,y:16},DomNode,"wr",`<a href='#home' onclick="Ø('query').bang('home')" ><img src='media/interface/logo.png'/></a>`),
+    Ø("menu").create({x:6,y:16},DomNode,"list"),
+    Ø("core").create({x:10,y:11},DomNode),
+    Ø("content").create({x:10,y:16},DomNode),
+    Ø("related").create({x:14,y:16},DomNode,"list"),
+    Ø("footer").create({x:6,y:11},DomNode),
   ])
 
   // Model
@@ -39,7 +40,7 @@ function graph()
   Ø("template").syphon(["recipe","ingredient","page"])
   Ø("page").syphon(["home","search"])
 
-  Ø("template").connect("view")
+  Ø("template").connect(["view","document"])
   Ø("view").bind(["header","core","footer"])
   Ø("core").bind(["content","related"])
   Ø("header").bind(["logo","menu"])

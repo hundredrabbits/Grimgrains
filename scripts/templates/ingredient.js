@@ -11,9 +11,12 @@ function IngredientTemplate(id,rect)
     var ingredient = t.result;
 
     return {
-      core: {
-        content: make_ingredient(t.name,t.tables.recipes),
-        related:make_related(related_recipes(t.name,t.tables.recipes))
+      title:`GrimGrains — ${t.name.capitalize()}`,
+      view: {
+        core: {
+          content: make_ingredient(t.name,t.tables.recipes),
+          related:make_related(related_recipes(t.name,t.tables.recipes))
+        }
       }
     }
   }

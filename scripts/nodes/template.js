@@ -11,7 +11,7 @@ function TemplateNode(id,rect)
     var assoc = this.signal(q.type ? q.type.slice(0, -1) : "page");  
     var payload = assoc.answer(q)
 
-    this.send({view:payload})
+    this.send(payload)
     this.label = `template:${assoc.id}`
   
     // Install Dom

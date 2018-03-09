@@ -10,8 +10,11 @@ function HomeTemplate(id,rect)
     var sorted_ingredients = sort_ingredients(ingredients);  
 
     return {
-      core: {
-        content: make_ingredients(sorted_ingredients,q.tables.ingredients)
+      title:`GrimGrains — Home`,
+      view:{
+        core: {
+          content: make_ingredients(sorted_ingredients,q.tables.ingredients)
+        }  
       }
     }
   }

@@ -6,15 +6,18 @@ function RecipeTemplate(id,rect)
 
   // Create the recipe body
 
-  this.answer = function(q)
+  this.answer = function(t)
   {
     return {
-      header:{
-        search: q.name.capitalize()
-      },
-      core: {
-        content: make_content(q),
-        related: make_related(q)
+      title:`GrimGrains — ${t.name.capitalize()}`,
+      view:{
+        header:{
+          search: t.name.capitalize()
+        },
+        core: {
+          content: make_content(t),
+          related: make_related(t)
+        }
       }
     }
   }
