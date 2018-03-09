@@ -47,7 +47,6 @@ function IngredientTemplate(id,rect)
         <t class='name'>${name.capitalize()}</t>
       </ln>`
     }
-    console.log(similar_ingredients.length)
     return similar_ingredients.length > 1 ? `<h2>Related Ingredients</h2><list class='ingredients'>${html}<hr /></list>` : ''
   }
 

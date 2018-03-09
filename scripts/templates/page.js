@@ -8,9 +8,9 @@ function PageTemplate(id,rect)
 
   this.answer = function(q)
   {
-    if(q.name == "HOME"){
+    if(this.signal(q.name.toLowerCase())){
       this.label = `page:${q.name}`
-      return this.signal("home").answer(q)
+      return this.signal(q.name.toLowerCase()).answer(q)      
     }
     if(!q.type){
       this.label = `page:${q.name}`
@@ -18,10 +18,12 @@ function PageTemplate(id,rect)
     }
 
     var page = q.result
-
     return {
-      core: {
-        content: `<p>${page.BREF}</p>${new Runic(page.LONG).toString()}`
+      title:`GrimGrains — ${q.name.capitalize()}`,
+      view:{
+        core: {
+          content: `<h1>${q.name.capitalize()}</h1><p>${page.BREF.to_markup()}</p>${new Runic(page.LONG).toString()}`
+        }
       }
     }
   }

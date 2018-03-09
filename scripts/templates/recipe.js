@@ -48,7 +48,7 @@ function RecipeTemplate(id,rect)
 
     var count = 1
     for(cat in recipe.INST){
-      html += `<h3>Step ${count}: ${cat}</h3>`
+      html += `<h3>Step ${count}: ${cat.capitalize()}</h3>`
       var category = recipe.INST[cat];
       html += new Runic(category).toString();
       count += 1

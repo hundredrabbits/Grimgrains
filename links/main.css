@@ -26,10 +26,14 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view #core #content #instructions { margin-bottom:30px; }
 #view #core #content #instructions list { margin-bottom:30px; }
-#view #core #content #instructions list ln { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; }
+#view #core #content #instructions list ln { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px}
 #view #core #content #instructions list ln:before { content:"•"; position: absolute; left:0px; }
 #view #core #content #instructions list ln a { font-weight: bold }
 #view #core #content #instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
+#view #core #content #instructions a { font-weight: bold;  }
+#view #core #content #instructions a:hover { text-decoration: underline; cursor: pointer }
+#view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline;font-weight: bold;border-radius: 3px;color:#333 }
+#view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline;font-weight: bold;border-radius: 3px;border:2px solid black;}
 
 #view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; }
 #view #core #content list.ingredients h3 { margin-left:-20px; }
@@ -47,3 +51,8 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #related ln a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; }
 #view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
 #view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
+
+#view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:12px; margin-top:60px; }
+#view #footer a:hover { text-decoration: underline; cursor: pointer }
+
+

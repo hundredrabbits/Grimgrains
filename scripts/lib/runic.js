@@ -42,28 +42,6 @@ function Runic(raw)
     }
   }
 
-  this.markup = function(html)
-  {
-    html = html.replace(/{_/g,"<i>").replace(/_}/g,"</i>")
-    html = html.replace(/{\*/g,"<b>").replace(/\*}/g,"</b>")
-    html = html.replace(/{\#/g,"<code class='inline'>").replace(/\#}/g,"</code>")
-
-    var parts = html.split("{{")
-    for(id in parts){
-      var part = parts[id];
-      if(part.indexOf("}}") == -1){ continue; }
-      var content = part.split("}}")[0];
-      if(content.substr(0,1) == "$"){ html = html.replace(`{{${content}}}`, this.operation(content)); continue; }
-      if(content.substr(0,1) == "%"){ html = html.replace(`{{${content}}}`, this.media(content)); continue; }
-      var target = content.indexOf("|") > -1 ? content.split("|")[1] : content;
-      var name = content.indexOf("|") > -1 ? content.split("|")[0] : content;
-      var external = (target.indexOf("https:") > -1 || target.indexOf("http:") > -1 || target.indexOf("dat:") > -1);
-      html = html.replace(`{{${content}}}`,`<a target='${external ? "_blank" : "_self"}' href='${external ? target : target.to_url()}' class='${external ? "external" : "local"}'>${name}</a>`)
-    }
-
-    return html;
-  }
-
   this.media = function(val)
   {
     var service = val.split(" ")[0];
@@ -106,7 +84,7 @@ function Runic(raw)
       var char = lines[id].substr(0,1).trim().toString()
       var rune = this.runes[char];
       var trail = lines[id].substr(1,1);
-      var line = this.markup(lines[id].substr(2));
+      var line = lines[id].substr(2).to_markup();
       if(!line || line.trim() == ""){ continue; }
 
       if(!rune){ console.log(`Unknown rune:${char} : ${line}`); }
@@ -168,3 +146,26 @@ String.prototype.to_path = function()
 {
   return this.toLowerCase().replace(/ /g,".").replace(/[^0-9a-z\.]/gi,"").trim();
 }
+
+String.prototype.to_markup = function()
+{
+  html = this;
+  html = html.replace(/{_/g,"<i>").replace(/_}/g,"</i>")
+  html = html.replace(/{\*/g,"<b>").replace(/\*}/g,"</b>")
+  html = html.replace(/{\#/g,"<code class='inline'>").replace(/\#}/g,"</code>")
+
+  var parts = html.split("{{")
+  for(id in parts){
+    var part = parts[id];
+    if(part.indexOf("}}") == -1){ continue; }
+    var content = part.split("}}")[0];
+    if(content.substr(0,1) == "$"){ html = html.replace(`{{${content}}}`, this.operation(content)); continue; }
+    if(content.substr(0,1) == "%"){ html = html.replace(`{{${content}}}`, this.media(content)); continue; }
+    var target = content.indexOf("|") > -1 ? content.split("|")[1] : content;
+    var name = content.indexOf("|") > -1 ? content.split("|")[0] : content;
+    var external = (target.indexOf("https:") > -1 || target.indexOf("http:") > -1 || target.indexOf("dat:") > -1);
+    html = html.replace(`{{${content}}}`,`<a target='${external ? "_blank" : "_self"}' class='${external ? "external" : "local"}' onclick="Ø('query').bang('${target}')">${name}</a>`)
+  }
+  return html;
+}
+

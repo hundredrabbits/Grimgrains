@@ -13,8 +13,9 @@ function HomeTemplate(id,rect)
       title:`GrimGrains — Home`,
       view:{
         core: {
-          content: make_ingredients(sorted_ingredients,q.tables.ingredients)
-        }  
+          content: make_ingredients(sorted_ingredients,q.tables.ingredients),
+          related: ""
+        }
       }
     }
   }
@@ -61,5 +62,16 @@ function HomeTemplate(id,rect)
       </ln>`
     }
     return `<list class='ingredients'>${html}<hr/></list>`
+  }
+
+  function count_ingredients(recipe)
+  {
+    var ingredients = {}
+    for(cat in recipe.INGR){
+      for(id in recipe.INGR[cat]){
+        ingredients[id] = 1
+      }
+    }
+    return Object.keys(ingredients).length
   }
 }

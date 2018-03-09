@@ -614,14 +614,14 @@ PERSIMMON CURRY
     & Enjoy over some basmasti rice, or grated cauliflower rice for a lighter and grain-free meal.
   INST
     Rice
-      - Rince 1 cup of basmati rice under cold water, transfer to pot.
-      - Boil some water, pour 1 1/2 cups of it over the rice. Bring pot to a boil. Add bay leaf, lower heat and cover. Simmer for 15 minutes, remove from heat and let steam for an additional 5 minutes with the lid on.
-      - Remove bay leaf and serve.
+      - Rince {_1 cup_} of {{basmati rice}} under cold water, transfer to pot.
+      - Boil some water, pour {_1 1/2 cups_} of it over the rice. Bring pot to a boil. Add {{bay leaf}}, lower heat and cover. Simmer for {#15 minutes#}, remove from heat and let steam for an additional {#5 minutes#} with the lid on.
+      - Remove {{bay leaf}} and serve.
     Sauce
-      - Scoop the flesh out of 2 rippened hachiya persimmons, puree with a hand blender.
-      - Sauté 1 chopped onion, 2 minced garlic cloves, 1 tsp ginger root with a bit of olive oil in a pan over medium heat. Cook until onions become translucent.
-      - Add the 2 diced carrots and the handful of spinach. Stir for 2 minutes, then add the tbsp of curry powder. Cook for an additional minute.
-      - Add pureed persimmon, cook for 5 minutes and then season with salt. Serve over rice.
+      - Scoop the flesh out of 2 rippened {{hachiya persimmons}}, puree with a hand blender.
+      - Sauté 1 chopped {{onion}}, 2 minced {{garlic}} cloves, 1 tsp {{ginger root}} with a bit of {{olive oil}} in a pan over medium heat. Cook until onions become translucent.
+      - Add the 2 diced {{carrots}} and the handful of {{spinach}}. Stir for {#2 minutes#}, then add {_1 tbsp_} of {{curry powder}}. Cook for an additional minute.
+      - Add pureed persimmon, cook for {#5 minutes#} and then season with {{salt}}. Serve over rice.
   INGR
     Rice
       Basmati rice : 1 cup
