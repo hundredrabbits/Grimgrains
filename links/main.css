@@ -52,6 +52,10 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
 #view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
 
+#view #core #content #index { columns:3; font-size:14px; font-weight: bold}
+#view #core #content #index ln { display: block }
+
+
 #view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:12px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
 
