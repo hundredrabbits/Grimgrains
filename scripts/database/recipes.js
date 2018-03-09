@@ -72,15 +72,16 @@ SEAWEED BITES
     & In the mood for something a bit different? These seaweed bites will do the trick, while dosing you with your {*daily portion of iodine*}! Highly addictive and sweet enough to have as a dessert.
     & The cookies were adapted from a recipe by {{Kiuchi Yuki-san|http://www.food-sommelier.jp/recipe/R0123/173155.html}}
   INST
-    - Mix {_1 tbsp_} of ground {{flax seeds}} with {_3 tbsp_} of {{water}}. Let it sit until it thickens.
-    - In a bowl, mix {_3/4 cup_} of {{flour}} with {_4 tsp_} of {{cornstarch}}.
-    - In a separate bowl, cream {_4 1/2 tbsp_} of {{coconut sugar}} with {_6 tbsp_} of {{coconut oil}} and {_2 tbsp_} of {{soy milk}}. Stir in the flax seeds and water mix.
-    - Put the wet ingredients with the dry ones, add {_2 tsp_} of shredded {{wakame}} and mix well.
-    * Baking
-    - Form into a ball, put it in a bowl with a cover and stick it in the fridge for approximately {#20 minutes#}.
-    - Preheat your oven to {#350F#}. After the 20 minutes is up, take the dough out of the fridge and flatten it into a rectangle with a rolling pin to a thickness of about 1/2 cm. Cut into whatever shape you want! I had small flower-shaped cookie cutters so i used that, you can cut the dough into squares with a knife.
-    - Prepare a baking sheet lined with parchment paper, bake for about {#15 minutes#} until they brown on top. 
-    - Place on a cooling rack and enjoy!
+    Prepare
+      - Mix {_1 tbsp_} of ground {{flax seeds}} with {_3 tbsp_} of {{water}}. Let it sit until it thickens.
+      - In a bowl, mix {_3/4 cup_} of {{flour}} with {_4 tsp_} of {{cornstarch}}.
+      - In a separate bowl, cream {_4 1/2 tbsp_} of {{coconut sugar}} with {_6 tbsp_} of {{coconut oil}} and {_2 tbsp_} of {{soy milk}}. Stir in the flax seeds and water mix.
+      - Put the wet ingredients with the dry ones, add {_2 tsp_} of shredded {{wakame}} and mix well.
+    Baking
+      - Form into a ball, put it in a bowl with a cover and stick it in the fridge for approximately {#20 minutes#}.
+      - Preheat your oven to {#350F#}. After the 20 minutes is up, take the dough out of the fridge and flatten it into a rectangle with a rolling pin to a thickness of about 1/2 cm. Cut into whatever shape you want! I had small flower-shaped cookie cutters so i used that, you can cut the dough into squares with a knife.
+      - Prepare a baking sheet lined with parchment paper, bake for about {#15 minutes#} until they brown on top. 
+      - Place on a cooling rack and enjoy!
   INGR
     Main
       Flax seeds : 1 tbsp, ground
@@ -1074,21 +1075,21 @@ SWEET MOCK EEL NIGIRI
     & I decided to make a mock eel nigiri, like the one i made a few months ago. The sauce that is served over eel kabayaki is sweet, with hints of caramel. I thought it would taste great atop of the burmese tofu. 
     & Most japanese sauces are easy to make, and usually require around 3-4 ingredients. These almost always include soy sauce, sake, mirin, or rice vinegar. If you want to cook japanese food, having these around is a must. Hope you enjoy this mock-eel recipe!
   INST
-    * Rice
-    - Prepare the black glutinous rice, it needs to be prepared at a 2:1 water to rice ratio. If you prepare 1 cup of dry rice, you need 2 cups of water.
-    - Put 1 1/2 tbsp of rice vinegar, 1 tbsp of whole cane sugar and 1/2 tsp of sea salt in a sauce pan. Stir over low heat, until sugar dissolves.
-    - Once rice is cooked, transfer to a flat tray, and pour sushi dressing over it. Mix into rice, using a sideways cutting motion. Cover with a damp towel, and let cool.
-    * Unagi sauce
-    - Mix 2 tbsp soy sauce, 2 tbsp mirin, 1 tbsp whole cane sugar and 1 tbsp sake. Bring to a boil in a pan, lower heat and let thicken for a few minutes.
-    * Chickpea tofu
-    - Bring 1 1/2 cups of vegetable bouillon to a rolling boil in a pot.
-    - Mix 1 cup of chickpea flour with 1/4 tsp sea salt and 1/2 tsp of ground turmeric. Add an additional 1 1/2 cups of vegetable bouillon, and stir until the mixture is lump-free.
-    - Lower to medium heat, and pour in chickpea batter. Whisk continuously for 5-10 minutes, until thickened. Pour into a 8x8 baking dish lined with parchment paper. Smooth out top with the back of a spoon.
-    - Let cool and set for 1 hour, then refrigerate for a little while longer before cutting. This will give the 'tofu' time to set. Cut into 12 pieces, and then cut in 2 again lenghtwise to make them fit over nigiri. 
-    - Preheat oven to 350F.
-    - Line backing sheet with aluminium foil, line up pieces of chickpea tofu. Bake for 15 minutes. Remove from oven, brush chickpea tofu with unagi sauce and bake for an additional 15 minutes.
-    * Combine
-    - Shape tablespoons of black rice into oblongs, smear tops with a bit of wasabi, lay a nori strip texture-side up, place strip of chickpea tofu as well as the rice ball (wasabi side facing downwards) and finally fold nori over bottom of rice (cut off excess, you can wet the edges with a bit of water if ever it isn't sticking). Makes about 12 nigiri. <small>If you have nigiri molds, shaping the rice into ovals will be very easy. Otherwise use your hands, keep them moist so the rice doesn't stick. </small>
+    Rice
+      - Prepare the {{black glutinous rice}}, it needs to be prepared at a 2:1 water to rice ratio. If you prepare 1 cup of dry rice, you need 2 cups of water.
+      - Put 1 1/2 tbsp of {{rice vinegar}}, 1 tbsp of {{whole cane sugar}} and 1/2 tsp of {{sea salt}} in a sauce pan. Stir over low heat, until sugar dissolves.
+      - Once rice is cooked, transfer to a flat tray, and pour sushi dressing over it. Mix into rice, using a sideways cutting motion. Cover with a damp towel, and let cool.
+    Unagi sauce
+      - Mix 2 tbsp {{soy sauce}}, 2 tbsp {{mirin}}, 1 tbsp {{whole cane sugar}} and 1 tbsp {{sake}}. Bring to a boil in a pan, lower heat and let thicken for a few minutes.
+    Chickpea tofu
+      - Bring 1 1/2 cups of vegetable bouillon to a rolling boil in a pot.
+      - Mix 1 cup of chickpea flour with 1/4 tsp sea salt and 1/2 tsp of ground turmeric. Add an additional 1 1/2 cups of vegetable bouillon, and stir until the mixture is lump-free.
+      - Lower to medium heat, and pour in chickpea batter. Whisk continuously for 5-10 minutes, until thickened. Pour into a 8x8 baking dish lined with parchment paper. Smooth out top with the back of a spoon.
+      - Let cool and set for 1 hour, then refrigerate for a little while longer before cutting. This will give the 'tofu' time to set. Cut into 12 pieces, and then cut in 2 again lenghtwise to make them fit over nigiri. 
+      - Preheat oven to 350F.
+      - Line backing sheet with aluminium foil, line up pieces of chickpea tofu. Bake for 15 minutes. Remove from oven, brush chickpea tofu with unagi sauce and bake for an additional 15 minutes.
+    Combine
+      - Shape tablespoons of black rice into oblongs, smear tops with a bit of wasabi, lay a nori strip texture-side up, place strip of chickpea tofu as well as the rice ball (wasabi side facing downwards) and finally fold nori over bottom of rice (cut off excess, you can wet the edges with a bit of water if ever it isn't sticking). Makes about 12 nigiri. <small>If you have nigiri molds, shaping the rice into ovals will be very easy. Otherwise use your hands, keep them moist so the rice doesn't stick. </small>
   INGR
     Nigiri
       Black glutinous rice : 3/4 cup

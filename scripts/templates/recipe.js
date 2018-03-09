@@ -30,10 +30,28 @@ function RecipeTemplate(id,rect)
     <h2>${recipe.SERV} — ${recipe.TIME} minutes</h2>
 
     <columns>${new Runic(recipe.DESC)}</columns>
+    ${make_instructions(recipe)}
     <h2>Ingredients</h2>
     ${make_ingredients(recipe.INGR)}`;
 
     return html
+  }
+
+  function make_instructions(recipe)
+  {
+    var html = "";
+
+    html += `<h2>Instructions</h2>`
+
+    var count = 1
+    for(cat in recipe.INST){
+      html += `<h3>Step ${count}: ${cat}</h3>`
+      var category = recipe.INST[cat];
+      html += new Runic(category).toString();
+      count += 1
+    }
+
+    return `<yu id='instructions'>${html}</yu>` 
   }
 
   function make_related(q)

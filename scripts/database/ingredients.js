@@ -73,6 +73,7 @@ Bull kelp
   Details : [powder] No description.
 Nori
   Details : [#000000 sheets] Seaweed takes about 45 days to grow.
+Nori Sheets
 Shiitake
   Details : [#875A2C]
 Crimini
@@ -115,6 +116,8 @@ Ginger
   Details : [#FFD800 root powder jam cookies beer]
 Potatoes
   Details : [#EFEFEF russet sweet#FF6600 powder] Since vitamin A deficiency is a common problem in africa, people are encouraged to eat sweet potatoes.
+Russet Potatoes
+Sweet Potatoes
 Beets
   Details : [#94191C red golden#FFD800 juice#C820B3] Golden beets are rich in b-xanthin pigment, making it not a replacement to red beets (which contain betalain pigment). Both pigments offer different health benefits! Don't be alarmed, beet root juice will make your urine red for a day.
 Yuka
