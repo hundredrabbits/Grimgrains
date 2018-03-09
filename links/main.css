@@ -29,6 +29,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content #instructions list ln { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; }
 #view #core #content #instructions list ln:before { content:"•"; position: absolute; left:0px; }
 #view #core #content #instructions list ln a { font-weight: bold }
+#view #core #content #instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
 
 #view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; }
 #view #core #content list.ingredients h3 { margin-left:-20px; }
