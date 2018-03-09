@@ -70,7 +70,7 @@ function RecipeTemplate(id,rect)
       <ln class='recipe'>
         <a class='photo' onclick="Ø('query').bang('${name}')" href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
         <t class='name'>${name.capitalize()}</t>
-        <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</t>
+        <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${Object.keys(recipe.INST).length} step${Object.keys(recipe.INST).length > 1 ? 's' : ''}</t>
       </ln>`
       if(count > 1){ break; }
       count += 1

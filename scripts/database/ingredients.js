@@ -28,8 +28,10 @@ Chickpeas
   Details : [#FFD800] Missing.
 Chickpea
   Details : [#FFD800 flour hummus] Missing.
+Chickpea Flour
 Peas
   Details : [#006633 split green] Missing.
+Green Peas
 Mungbeans
   Details : [noodles sprouts] Missing.
 
@@ -54,6 +56,8 @@ Arugula
   Details : [#006633]
 Cauliflower
   Details : [#EFEFEF purple#6620B3 white] The oldest record of cauliflower dates back to the 6th century bc.
+White Cauliflower
+Purple Cauliflower
 Brussel sprouts
   Details : Missing.
 Daikon
@@ -67,10 +71,10 @@ Radish
 
 Wakame
   Details : [#006633] Wakame is a very invasive plant, its even banned in australia.
-Hijiki
+Dried Hijiki
   Details : [#000000 dried] Missing.
-Bull kelp
-  Details : [powder] No description.
+Bull kelp powder
+  Details : No description.
 Nori
   Details : [#000000 sheets] Seaweed takes about 45 days to grow.
 Nori Sheets
@@ -101,6 +105,8 @@ Pumpkin seeds
   Details : [#006633] Missing.
 Sesame seeds
   Details : [white#EFEFEF black#000000 butter] Tahini is made by grinding toasted hulled sesame seeds. It is used in baba ghanoush, halva, hummus and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
+White Sesame seeds
+Black Sesame seeds
 Tahini
   Details : Missing.
 pomegranate seeds
@@ -112,21 +118,28 @@ Chia seeds
 
 Carrots
   Details : [#FF6600 heirloom] Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
+Heirloom Carrots
 Ginger
   Details : [#FFD800 root powder jam cookies beer]
+Ginger Root
 Potatoes
   Details : [#EFEFEF russet sweet#FF6600 powder] Since vitamin A deficiency is a common problem in africa, people are encouraged to eat sweet potatoes.
 Russet Potatoes
 Sweet Potatoes
 Beets
   Details : [#94191C red golden#FFD800 juice#C820B3] Golden beets are rich in b-xanthin pigment, making it not a replacement to red beets (which contain betalain pigment). Both pigments offer different health benefits! Don't be alarmed, beet root juice will make your urine red for a day.
+Golden Beets
+Red Beets
 Yuka
   Details : [#EFEFEF] Tapioca is actually a starch extracted from Yuca roots.
 Garlic
   Details : [#EFEFEF powder] Garlic has been used in many cultures around the world for thousands of years. Dating all the way back to the time the pyramids were built!
+Garlic Powder
 Red Onion
   Color : #C820B3
   Details : There is a variety of red onions in italy that has a stronger and sweeter taste, it is sometimes made into marmalades.
+Onion Powder
+Yellow Onion
 
 ~ OTHER VEGETABLES
 
@@ -146,8 +159,12 @@ Chile
   Details : [#006633 green]
   Tags
     other vegetables
+Green Chile
 Peppers
   Details : [red#94191C yellow#FFD800 green#006633] The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to europe. The word pepper was given to all spices in europe that had a hot and pungent taste.
+Green Peppers
+Red Peppers
+Yellow Peppers
 
 Tomato
   Details : [paste#94191C dried heirloom#94191C] The tomatoes can also be dried with an oven.
@@ -173,6 +190,8 @@ Olives
   Details : [green black]
   Tags
     other vegetables
+Green Olives
+Black Olives
 Palm
   Details : [#EFEFEF heart] Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad. 
 Squash
@@ -213,6 +232,7 @@ Alfaalfa sprouts
 
 Raisins
   Details : [#875A2C, dried] Missing.
+Dried Raisins
 Blackberries
   Details : No description.
 Cherries
@@ -260,6 +280,9 @@ Lemon
   Tags
     Other Fruits
 
+Lemon Zest
+Lemon Juice
+
 Orange
   Details : [juice jam] In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
   Color : #FF6600
@@ -271,6 +294,8 @@ Pear
   Color : #875A2C
   Tags
     Other Fruits
+
+Bartlett Pear
 
 Papaya
   Details : []
@@ -284,6 +309,8 @@ Pomegranate
   Tags
     Other Fruits
 
+Pomegranate Juice
+
 Mango
   Details : []
   Color : #FFD800
@@ -296,6 +323,7 @@ Lime
   Tags
     Other Fruits
 
+Hachiya Persimmon
 Persimmon
   Details : [ hachiya] Unripe persimmon can be frozen outside during winter to help speed up the ripening process.
   Color : #FF6600
@@ -307,6 +335,8 @@ Dates
   Color : #875A2C
   Tags
     Other Fruits
+Deglet Noor Dates
+
 
 Pamplemousse
   Details : [juice] Missing.
@@ -318,7 +348,7 @@ Rhubarb
   Tags
     Other Fruits
 
-Apricot
+Apricot Jam
   Details : [jam]Missing.
   Tags
     Other Fruits
@@ -361,30 +391,39 @@ Tags
 
 Turmeric
   Details : [#FFD800 ground fresh] Its sometimes used as a fabric dye, namely for Buddhist Monk's robes. 
+Ground Turmeric
 Cinnamon
   Details : [#875A2C] Cinnamon and garlic and be used to preserve fried foods
 Rosemary
   Details : [#006633] Missing.
 Basil
+Dried Basil
   Details : [#006633 dried] When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts. 
 Wasabi
   Details : [#006633 powder] Missing.
+Wasabi Powder
+
 Sichuan peppercorns
   Details : [#875A2C] Missing.
 Coriander
   Details : [#006633] Missing
 Mint
   Details : [#006633 fresh] Oil derived from fresh mint can be used as a friendly insecticide.
+Fresh Mint
 Cocoa
   Details : [#6620B3 powder] Missing.
+Cocoa Powder
 Cayenne
   Details : [#94191C pepper] Missing.
+Cayenne Pepper
 Anise
   Details : [seeds] Missing
+Anise Seeds
 Nutritional yeast
   Details : [#FFD800] In the US it's sometimes referred to as "nooch".
 Vanilla
   Details : [extract] Missing.
+Vanilla Extract
 Nutmeg
   Details : [#875A2C] If consumed in high doses, raw nutmeg has psychoactive effects.
 Thyme
@@ -393,32 +432,40 @@ Poppy seeds
   Details : [#000000] Poppy seeds are less allergenic than a lot of other seeds or nuts.
 Paprika
   Details : [#94191C smoked] Paprika is used with henna to give a red tint.
+Smoked Paprika
 Curry
   Details : [#FFD800 powder green yellow] The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'
+Curry Powder
 Tamarind
   Details : [#875A2C paste] 
 Cumin
   Details : [#875A2C seeds] In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}
+Cumin Seeds
 Mustard
   Details : [#FFD800 seeds dijon] Canada is the top producer of mustard seeds, it produces over 200,700 tonnes of it per year. 
+Dijon Mustard
 Pepper
   Details : [#000000 black] Historically, black pepper is the world's most traded spice.
+Black Pepper
 Shichimi togarashi
   Details : [#94191C] 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
 Gojuchang
   Details : [#94191C] Traditionally, gojuchang was fermented outdoors in large earthen pots.
 Masala
   Details : [#875A2C garam]
+Garam Masala
 Panko
   Details : No description.
 Carob
   Details : [#875A2C chips]
+Carob Chips
 Peppercorn
   Details : [#000000 black]
 Bay leaf
   Details : [#006633]
 Chili
   Details : [#94191C flakes pepper peppers pepper_flakes] Chili pepper flakes have become a table top must over the years, it will often be present on a restaurant table alongside salt and pepper.
+Chili Pepper Flakes
 Hops
   Details : [#006633] There are many different varieties of hops around, from all corners of the globe.
 Dried orange peel
@@ -436,16 +483,22 @@ Fenugreek
 
 Buckwheat
   Details : [#875A2C noodles flour cookies pancakes] Missing.
+Buckwheat noodles
+Buckwheat flour
 Quinoa
   Details : No description.
 Whole wheat
   Details : [pitas flour#875A2C crackers bread] Missing.
 Einkorn
   Details : [flour] Missing.
+Einkorn Flour
 Spelt
   Details : [flour] Missing.
+Spelt Flour
 Corn
   Details : [#FFD800 pop semolina cornmeal hominy] Missing.
+Cornmeal
+Corn Semolina
 
 ~ GRAINS
 
@@ -461,9 +514,11 @@ Brown Rice
 Black Glutinous Rice
 Wholegrain Brown Rice
 Rice Noodles
+Rice Flour
 
 Flour
   Details : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into! 
+All Purpose Flour
 Wheat Semolina
   Details :  Missing.
 Oatmeal
@@ -477,8 +532,12 @@ Vegemite
   Details : [#875A2C] It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
 Miso
   Details : [white red#875A2C] Miso can be used to pickle vegetables.
+Red Miso
+White Miso
 Tofu
   Details : [#EFEFEF silken burmese#FFD800 mayo] The word {_bean curds_} for tofu has been used in the US since 1840.
+Silken Tofu
+Burmese Tofu
 Nutolene
   Details : Missing.
 Soy protein
@@ -646,8 +705,15 @@ Water
   Details : 70% of the fresh water used by people goes to agriculture.
 Sugar
   Details : [#EFEFEF brown#875A2C powdered whole_cane#875A2C coconut#875A2C] The average person consumes about 24kg of sugar per year, which is about 260 calories per day. Natural brown sugars that have been highly centrifuged go by the names of turbinado, demeara or raw sugar. Others that have been midly centrifuged and that have a higher molasses content go by Panela, rapadura, jaggery, muscovado etc. Powdered sugar is available in different degrees of fineness, the more X's the finer the grain.
+Powdered Sugar
+Whole Cane Sugar
+Coconut Sugar
+Brown Sugar
+
+
 Salt
   Details : [#EFEFEF sea] Some boutiques in hawaii sell black salt with powdered black lava added in. Fleur de sel is considered more of a garnish or a condiment, it creates contrast in sweet deserts.
+Sea Salt
 Chocolate
   Details : [dark]Missing
 `

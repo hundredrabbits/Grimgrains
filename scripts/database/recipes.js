@@ -49,10 +49,11 @@ HOUJICHA OVERNIGHT OATMEAL
     & Happy cooking!
     ? Rekka
   INST
-    - Boil 1 cup of water, then infuse 1 1/2 tsp of houjicha leaves in a tea strainer. <small>You can leave it anywhere from 1-3 min, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.</small>
-    - Remove the tea leaves and let it cool.
-    - Add a chopped banana, as well as the tbsp of ground flax seeds, blend until smooth. 
-    - Mix in 1/3 cup of oats, stir well, and then put it in the fridge overnight. Enjoy for breakfast the next day! 
+    Preparation
+      - Boil 1 cup of water, then infuse 1 1/2 tsp of houjicha leaves in a tea strainer. <small>You can leave it anywhere from 1-3 min, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.</small>
+      - Remove the tea leaves and let it cool.
+      - Add a chopped banana, as well as the tbsp of ground flax seeds, blend until smooth. 
+      - Mix in 1/3 cup of oats, stir well, and then put it in the fridge overnight. Enjoy for breakfast the next day! 
   INGR
     Main
       Water : 1 cup

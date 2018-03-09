@@ -7,6 +7,5 @@ function DocumentNode(id,rect,...params)
   this.receive = function(content)
   {    
     document.title = content.title
-    console.log(content)
   }
 }
