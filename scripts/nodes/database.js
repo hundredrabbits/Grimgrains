@@ -6,9 +6,9 @@ function DatabaseNode(id,rect)
 
   this.cache = null;
 
-  this.answer = function(q)
+  this.receive = function(q)
   {
     this.cache = this.cache ? this.cache : this.request();
-    return this.request(this.cache);
+    this.send(this.request(this.cache))
   }
 }
