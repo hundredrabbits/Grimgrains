@@ -10,13 +10,17 @@ function IndentalNode(id,rect)
       console.warn(`Missing /database/${this.id}.js`)
       return null;
     }
-    return new Parser(DATABASE[this.id]).result;
+    if(this.cache){
+      return this.cache;
+    }
+    this.cache = parse(DATABASE[this.id])
+    return this.cache;
   }
 
-  function Parser(data)
+  function parse(data)
   {
-    this.result = build(data.split("\n").map(liner))
-
+    return build(data.split("\n").map(liner))
+    
     function build(lines)
     {
       // Assoc lines
