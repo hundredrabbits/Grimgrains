@@ -39,7 +39,7 @@ function IndexTemplate(id,rect)
       html += "<list style='margin-bottom:15px'>"
       for(id in recipes){
         var recipe = recipes[id]
-        html += `<ln>${recipe.name.capitalize()}</ln>`
+        html += `<ln><a onclick="Ø('query').bang('${recipe.name.capitalize()}')">${recipe.name.capitalize()}</a></ln>`
 
       }
       html += "</list>"

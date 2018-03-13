@@ -54,7 +54,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view #core #content #index { columns:3; font-size:14px; font-weight: bold}
 #view #core #content #index ln { display: block }
-
+#view #core #content #index ln a:hover { text-decoration: underline; cursor: pointer; }
 
 #view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:12px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
