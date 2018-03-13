@@ -1,14 +1,26 @@
 DATABASE.ingredients = `
 
 Coffee
-  TYPE : Legume
   BREF : {{Coffee}} is considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
   LONG
-    & Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
-    & Lentils are considered to be one of the latin name for lentil. Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
-    - Item1
-    - Item2
-    - Item3
+    % blog/coffee.jpg
+    > <columns>
+    * Coffee on Pino
+    & Devine & I are coffee drinkers, we have a one per day. We have a second cup on occasion - or, second wind, as we like to call it. We drink it black, but enjoy having a flat white (has less milk than a latte) with a {{non-dairy milk|Soy Milk}} as a treat.
+    & Most times, we have a cup at home on {{Pino|http://100r.co}}, and so having good coffee gear is essential. We had two requirements: {{portability and durability|http://100r.co/resources.html#habitat}}. (Two of my glass presses have made friends with the floor in the past.)
+    & Our first buy, was a {{GSI outdoors french press|amzn.to/2FrWg8a}}. It's BPA-free (made from co-polyester), and shatter resistant - perfect for those of us prone to recurrent bouts of clumsiness.
+    & We like to grind our own beans, so we got a {{GSI outdoors coffee grinder|amzn.to/2p0pO2p}}. Non-electric, and portable.
+    & Sometimes, we use a stainless steel moka pot for espresso. The model is an {{ikea RADIG espresso pot|http://www.ikea.com/us/en/catalog/products/30149839/}}, we found it in a bin at the marina. I didn't know ikea made moka pots.  I can't say this would be my first choice, but it was free and it works so... ¯&#92;_(ツ)_/¯.
+    % blog/coffee.2.jpg
+    & I'm not saying that these brands are the very best, but they suit our needs. We bought these while in Victoria BC from MEC. GSI is the in-store brand for camping goods, their products have not failed us yet, and so we like to recommend them.
+    & To finish, here is a list of the coffee places we've tried (and loved) in our travels:
+    - {{Prado|https://pradocafe.co}} - Vancouver, CA
+    - {{Cafe Neve|http://www.cafeneve.com}} - Montreal, CA
+    - {{Sextant Coffee Roasters|https://sextantcoffee.com}} - San Francisco, CA, US
+    - {{Big Sur|https://www.facebook.com/BigSurCafeOrganico/}} - La Paz, Mexico
+    - {{Fat Camel|https://www.facebook.com/Fat-Camel-Israeli-Cafe-111529865551331/}} - Whangarei, NZ
+    > </columns>
+
 
 
 

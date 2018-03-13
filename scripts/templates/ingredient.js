@@ -27,8 +27,8 @@ function IngredientTemplate(id,rect)
     var html = ""
 
     html += `<h1>${ingredient.TYPE ? ingredient.TYPE.capitalize()+"/" : ''}${name.capitalize()}</h1>`
-    html += ingredient.BREF ? `<p>${ingredient.BREF.to_markup()}</p>` : ''
-    html += ingredient.LONG ? new Runic(ingredient.LONG) : ''
+    html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
+    html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
     html += `${make_similar(name,recipes)}`
     return html
   }
