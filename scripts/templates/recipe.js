@@ -66,6 +66,7 @@ function RecipeTemplate(id,rect)
     var count = 0;
     for(id in recipes){
       var name = recipes[id][0];
+      var recipe = q.tables.recipes[name]
       html += `
       <ln class='recipe'>
         <a class='photo' onclick="Ø('query').bang('${name}')" href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
