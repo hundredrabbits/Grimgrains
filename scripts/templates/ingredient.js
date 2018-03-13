@@ -14,18 +14,21 @@ function IngredientTemplate(id,rect)
       title:`GrimGrains — ${t.name.capitalize()}`,
       view: {
         core: {
-          content: make_ingredient(t.name,t.tables.recipes),
+          content: make_ingredient(t.name,ingredient,t.tables.recipes),
           related:make_related(related_recipes(t.name,t.tables.recipes))
         }
       }
     }
   }
 
-  function make_ingredient(name,recipes)
+  function make_ingredient(name,ingredient,recipes)
   {
+    console.log(ingredient)
     var html = ""
 
-    html += `<h1>${name.capitalize()}</h1>`
+    html += `<h1>${ingredient.TYPE ? ingredient.TYPE.capitalize()+"/" : ''}${name.capitalize()}</h1>`
+    html += ingredient.BREF ? `<p>${ingredient.BREF.to_markup()}</p>` : ''
+    html += ingredient.LONG ? new Runic(ingredient.LONG) : ''
     html += `${make_similar(name,recipes)}`
     return html
   }

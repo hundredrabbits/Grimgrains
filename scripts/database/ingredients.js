@@ -1,4 +1,18 @@
 DATABASE.ingredients = `
+
+Coffee
+  TYPE : Legume
+  BREF : {{Coffee}} is considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+  LONG
+    & Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+    & Lentils are considered to be one of the latin name for lentil. Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+    - Item1
+    - Item2
+    - Item3
+
+
+
+
 ~ LEGUMES
 
 Lentils
@@ -618,12 +632,6 @@ Lapsang souchong
   color : #875A2C
   Tags
     Tea
-
-
-~ COFFEE
-    
-Coffee
-  Details : Missing.
 
 ~ ALCOHOL
 
