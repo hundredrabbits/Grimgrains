@@ -1,7 +1,7 @@
 DATABASE.ingredients = `
 
 Coffee
-  BREF : {{Coffee}} Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant.
+  BREF : {{Coffee}} is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant.
   LONG
     % blog/coffee.jpg
     > <columns>
