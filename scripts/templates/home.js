@@ -7,6 +7,9 @@ function HomeTemplate(id,rect)
   this.answer = function(q)
   {
     var ingredients = find_ingredients(q.tables.recipes)
+
+    ingredients['coffee'] = 1
+
     var sorted_ingredients = sort_ingredients(ingredients);  
 
     return {

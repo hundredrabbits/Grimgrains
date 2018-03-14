@@ -507,6 +507,7 @@ Fenugreek
 
 ~ WHOLEGRAINS
 
+Whole wheat flour
 Buckwheat
   Details : [#875A2C noodles flour cookies pancakes] Missing.
 Buckwheat noodles
