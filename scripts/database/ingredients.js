@@ -1,7 +1,7 @@
 DATABASE.ingredients = `
 
 Coffee
-  BREF : {{Coffee}} is considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+  BREF : {{Coffee}} Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant.
   LONG
     % blog/coffee.jpg
     > <columns>
