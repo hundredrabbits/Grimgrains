@@ -1,7 +1,8 @@
-function IndentalNode(id,rect)
+function IndentalNode(id,rect,type)
 {
   Node.call(this,id,rect);
 
+  this.type = type;
   this.glyph = NODE_GLYPHS.database
 
   this.answer = function(q)
@@ -13,15 +14,17 @@ function IndentalNode(id,rect)
     if(this.cache){
       return this.cache;
     }
-    this.cache = parse(DATABASE[this.id])
+
+    this.label = this.type ? `${this.id}=${this.type.name}` : `${this.id}`;
+    this.cache = parse(DATABASE[this.id],this.type)
     return this.cache;
   }
 
-  function parse(data)
+  function parse(data,type)
   {
-    return build(data.split("\n").map(liner))
+    return build(data.split("\n").map(liner),type)
     
-    function build(lines)
+    function build(lines,type)
     {
       // Assoc lines
       var stack = {}
@@ -39,7 +42,8 @@ function IndentalNode(id,rect)
       for(id in lines){
         var line = lines[id];
         if(line.skip || line.indent > 0){ continue; }
-        h[line.content.toUpperCase()] = format(line)
+        var key = line.content.toUpperCase()
+        h[key] = type ? new type(key,format(line)) : format(line)
       }
       return h
     }
@@ -51,7 +55,7 @@ function IndentalNode(id,rect)
       for(id in line.children){
         var child = line.children[id];
         if(child.key){ h[child.key.toUpperCase()] = child.value }
-        else if(child.children.length == 0){ a.push(child.content) }
+        else if(child.children.length == 0 && child.content){ a.push(child.content) }
         else{ h[child.content.toUpperCase()] = format(child) }
       }
       return a.length > 0 ? a : h
