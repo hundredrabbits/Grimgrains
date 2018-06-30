@@ -12,11 +12,16 @@ function HomeTemplate(id,rect)
 
     var sorted_ingredients = sort_ingredients(ingredients);  
 
+    var html = `
+    ${make_ingredients(sorted_ingredients,q.tables.ingredients)}
+    <h1>Recipes</h1>
+    ${make_recipes(q.tables.recipes)}
+    `
     return {
       title:`GrimGrains — Home`,
       view:{
         core: {
-          content: make_ingredients(sorted_ingredients,q.tables.ingredients),
+          content: html,
           related: ""
         }
       }
@@ -76,5 +81,34 @@ function HomeTemplate(id,rect)
       }
     }
     return Object.keys(ingredients).length
+  }
+
+  function make_recipes(recipes)
+  {
+    var html = ""
+
+    // Sort by tag
+
+    var categorized = {}
+
+    for(name in recipes){
+      var recipe = recipes[name]
+      if(!categorized[recipe.TAGS[0]]){ categorized[recipe.TAGS[0]] = []; }
+      recipe.name = name
+      categorized[recipe.TAGS[0]].push(recipe)
+    }
+
+    for(cat in categorized){
+      var recipes = categorized[cat]
+      html += `<h3>${cat.capitalize()}</h3>`
+      html += "<list style='margin-bottom:15px'>"
+      for(id in recipes){
+        var recipe = recipes[id]
+        html += `<ln><a onclick="Ø('query').bang('${recipe.name.capitalize()}')">${recipe.name.capitalize()}</a></ln>`
+
+      }
+      html += "</list>"
+    }
+    return `<columns id='recipes'>${html}</columns>`;
   }
 }

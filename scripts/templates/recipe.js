@@ -33,9 +33,8 @@ function RecipeTemplate(id,rect)
     <h2>${recipe.SERV} — ${recipe.TIME} minutes</h2>
 
     <columns>${new Runic(recipe.DESC)}</columns>
-    ${make_instructions(recipe)}
-    <h2>Ingredients</h2>
-    ${make_ingredients(recipe.INGR)}`;
+    ${make_ingredients(recipe.INGR)}
+    ${make_instructions(recipe)}`;
 
     return html
   }
@@ -96,7 +95,7 @@ function RecipeTemplate(id,rect)
     for(id in recipes){
       var recipe = recipes[id];
       var index = similarity(target.TAGS,recipe.TAGS)
-      if(id != name){
+      if(id.toLowerCase() != name.toLowerCase()){
         a.push([id,index])  
       }
     }

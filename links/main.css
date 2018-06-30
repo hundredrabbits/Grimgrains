@@ -42,28 +42,33 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline;font-weight: bold;border-radius: 3px;color:#333 }
 #view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline;font-weight: bold;border-radius: 3px;border:2px solid black;}
 
-#view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; }
+#view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
 #view #core #content list.ingredients h3 { margin-left:-20px; }
 #view #core #content list.ingredients ln.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
-#view #core #content list.ingredients ln.ingredient:hover { border-color: black; cursor: pointer; background:white; z-index:900; position: relative; }
 #view #core #content list.ingredients ln.ingredient:hover t.name { text-decoration: underline; }
 #view #core #content list.ingredients ln.ingredient.missing t.name { font-style: italic }
 #view #core #content list.ingredients ln.ingredient img { max-width: 100% }
 #view #core #content list.ingredients ln.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
 #view #core #content list.ingredients ln.ingredient t.quantity { display: block; font-size:12px; }
 
-#view #core #related { width:100%; border-top:2px solid black; padding-top:45px;}
-#view #core #related ln { width: calc((100% / 3) - 10px); float:left; }
+#view #core #related { width:100%;}
+#view #core #related ln { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
 #view #core #related ln:nth-child(1), #view #core #related ln:nth-child(2) { margin-right:15px;} 
-#view #core #related ln a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; }
+#view #core #related ln a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
 #view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
 #view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
 
-#view #core #content #index { columns:3; font-size:14px; font-weight: bold}
-#view #core #content #index ln { display: block }
-#view #core #content #index ln a:hover { text-decoration: underline; cursor: pointer; }
+#view #core #content #recipes { columns:3; font-size:14px; font-weight: bold}
+#view #core #content #recipes ln { display: block }
+#view #core #content #recipes ln a:hover { text-decoration: underline; cursor: pointer; }
+#view #core #content #recipes h3 { margin-bottom:10px; }
 
 #view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:12px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
 
-
+@media (max-width: 950px) {
+  #view #core #content #recipes { columns:1; }
+  #view #core #content columns { columns:1; }
+  #view #core #related ln { width:100%; clear:both; float:none; height:330px; }
+  #view #core #related ln a.photo { height:200px; }
+}

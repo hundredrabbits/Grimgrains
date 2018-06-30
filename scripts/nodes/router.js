@@ -6,28 +6,34 @@ function RouterNode(id,rect)
 
   this.receive = function(q)
   {
-    var q = q.toUpperCase();
+    var target = q.indexOf(":") > -1 ? q.split(":")[0].replace(/\+/g," ") : q.replace(/\+/g," ")
+    var params = q.indexOf(":") > -1 ? q.split(":")[1] : null
     var db = this.request("database").database;
+    var data = find(target.toUpperCase(),db)
 
-    var type = find(q,db)
+    this.label = `${this.id}|${target}|${params}`
 
-    this.label = `router:${type}/${q}`
+    console.log(this.id,`${data ? data.type : '?'}->${target}[${params}]`);
+
     this.send({
-      name:q,
-      type:type,
-      result:db[type] ? db[type][q] : null,
+      name:target,
+      type:data ? data.type : null,
+      result:data ? data.result : null,
+      params:params,
       tables:db
     })
   }
 
   function find(key,db)
   {
+    if(parseInt(key) > 0){ return null; }
+    
     for(id in db){
       var table = db[id]
       if(table[key]){
-        return id
+        return {type:id,result:table[key]}
       }
     }
-    return null
+    return {type:null,result:null}
   }
 }

@@ -23,7 +23,6 @@ function IngredientTemplate(id,rect)
 
   function make_ingredient(name,ingredient,recipes)
   {
-    console.log(ingredient)
     var html = ""
 
     html += `<h1>${ingredient.TYPE ? ingredient.TYPE.capitalize()+"/" : ''}${name.capitalize()}</h1>`
@@ -73,8 +72,8 @@ function IngredientTemplate(id,rect)
     var a = [];
 
     for(id in ingredients){
-      var words = id.split(" ")
-      var index = similarity(name.split(" "),words);
+      var words = id.toLowerCase().split(" ")
+      var index = similarity(name.toLowerCase().split(" "),words);
       if(index > 0){
         a.push([id,index])  
       }
@@ -133,7 +132,7 @@ function IngredientTemplate(id,rect)
       for(i in recipe.INGR){
         var ingredients = recipe.INGR[i];
         for(n in ingredients){
-          if(n.indexOf(name) < 0){ continue; }
+          if(n.indexOf(name.toUpperCase()) < 0){ continue; }
           h[id] = recipes[id]
         }
       }

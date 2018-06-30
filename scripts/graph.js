@@ -15,7 +15,6 @@ function graph()
     Ø("template").create({x:5,y:2},TemplateNode),
     Ø("page").create({x:2,y:8},PageTemplate),
     Ø("search").create({x:5,y:14},SearchTemplate),
-    Ø("index").create({x:8,y:14},IndexTemplate),
     Ø("home").create({x:2,y:14},HomeTemplate),
     Ø("recipe").create({x:5,y:8},RecipeTemplate),
     Ø("ingredient").create({x:8,y:8},IngredientTemplate),
@@ -30,7 +29,7 @@ function graph()
     Ø("core").create({x:10,y:11},DomNode),
     Ø("content").create({x:10,y:16},DomNode),
     Ø("related").create({x:14,y:16},DomNode,"list"),
-    Ø("footer").create({x:6,y:11},DomNode,"wr",`<a onclick="Ø('query').bang('index')">See All Recipes List</a><br/><a onclick="Ø('query').bang('about')">Grimgrains</a> © 2014—2018<br/><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a>`),
+    Ø("footer").create({x:6,y:11},DomNode,"wr",`<a onclick="Ø('query').bang('about')">Grimgrains</a> © 2014—2018<br/><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a>`),
   ])
 
   // Model
@@ -39,7 +38,7 @@ function graph()
 
   // Assoc
   Ø("template").syphon(["recipe","ingredient","page"])
-  Ø("page").syphon(["home","search","index"])
+  Ø("page").syphon(["home","search"])
 
   Ø("template").connect(["view","document"])
   Ø("view").bind(["header","core","footer"])

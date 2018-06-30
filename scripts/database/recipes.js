@@ -2263,24 +2263,26 @@ BREADFRUIT GNOCCHI
   TIME : 90
   SERV : 4 people
   DESC
-    & We are about to leave Tonga, the tropics and the land of bountiful breadfruit. This versatile fruit can be cooked into fries, eaten with coconut milk, made into chips, or like this recipe suggests, it can be made into gnocchi.
-    & Breadfruit has a taste and texture that resembles that of potato. And so, it only makes sense that it too, can be made into gnocchi. The flesh of the fruit can be kneaded easily, especially if the fruit is very ripe. I have tried to knead it when half-ripe, it works too, but requires added moisture and more kneading - not to mention that it doesn't have as much flavor. Ripe breadfruit develops a sweet taste, it can be difficult to catch it at the right moment, like avocados, sometimes it'll overripen overnight and be rendered uneatable. Because we like it so much, we've bought many and have had time to better tell when it can be eaten. The outside becomes very soft to the touch, but only just. 
+    & We are about to leave Tonga, the tropics and the land of bountiful {{breadfruit}}. This versatile fruit can be cooked into fries, eaten with {{coconut milk}}, made into chips, or like this recipe suggests, it can be made into gnocchi.
+    % recipes/breadfruit.gnocchi.1.jpg
+    & Breadfruit has a taste and texture that resembles that of {{potato}}. And so, it only makes sense that it too, can be made into gnocchi. The flesh of the fruit can be kneaded easily, especially if the fruit is very ripe. I have tried to knead it when half-ripe, it works too, but requires added moisture and more kneading - not to mention that it doesn't have as much flavor. Ripe breadfruit develops a sweet taste, it can be difficult to catch it at the right moment, like avocados, sometimes it'll overripen overnight and be rendered uneatable. Because we like it so much, we've bought many and have had time to better tell when it can be eaten. The outside becomes very soft to the touch, but only just. 
     & We serve these with a light sauce, to better taste the gnocchi. A sauce that we enjoy, is minced garlic and chili peppers cooked in olive oil. The sauce is poured overtop and sprinkled with bits of shredded nori. 
     & If you happen by the south pacific and see a {{breadfruit|https://www.youtube.com/watch?v=hrZ5h0j8jTo}}, make some gnocchi. It's worth the effort.
+    % recipes/pan.fried.breadfruit.1.jpg
   INST
     Preparation
-      - Wait until your breadfruit is very ripe, soft to the touch. A softer breadfruit will be easier to knead, and will taste sweeter.
-      - Preheat oven to 425F. Rub outside of breadfruit with olive oil, and wrap with aluminium foil. Cook for 1 hour.
+      - Wait until your {{breadfruit}} is very ripe, soft to the touch. A softer breadfruit will be easier to knead, and will taste sweeter.
+      - Preheat oven to {#425F#}. Rub outside of breadfruit with {{olive oil}}, and wrap with aluminium foil. Cook for {#1 hour#}.
       - Remove foil, peel skin away, cut in half, and remove the seed. 
-      - Let cool, and mash with your hands into a cohesive dough. Add flour, 1/4 cup at a time, until the breadfruit flesh stops sticking to your fingers. You may need more, or less, depending on the size of your fruit. 
-      - Sprinkle your work surface with flour, take a golf-sized ball of dough, and roll it into a thin, finger-sized log. Cut the log into bite-sized pieces (around 2cm long) and repeat for the rest of the dough. 
-      - At this point, you can choose to freeze the gnocchi, or to prepare them straight away. To cook them, bring a pot of water to a boil, add the gnocchi, and cook for 5 minutes or so, or until they start to rise to the surface. 
+      - Let cool, and mash with your hands into a cohesive dough. Add {{flour}}, {#1/4 cup#} at a time, until the {{breadfruit}} flesh stops sticking to your fingers. You may need more, or less, depending on the size of your fruit. 
+      - Sprinkle your work surface with {{flour}}, take a golf-sized ball of dough, and roll it into a thin, finger-sized log. Cut the log into bite-sized pieces (around 2cm long) and repeat for the rest of the dough. 
+      - At this point, you can choose to freeze the gnocchi, or to prepare them straight away. To cook them, bring a pot of {{water}} to a boil, add the gnocchi, and cook for {#5 minutes#} or so, or {_until they start to rise to the surface_}. 
       - Serve with a light sauce, to better taste the subtle, but sweet flavor of the breadfruit gnocchi.
   INGR
     Main
       Breadfruit : 1 small
       Olive oil : 1 tsp
-      All purpose flour : 1 1/4 cup, roughly
+      All purpose flour : 1 1/4 cup
 
 SPINACH FAUX CHEESE RAVIOLI
   DATE : 2017-16-10

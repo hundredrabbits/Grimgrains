@@ -21,10 +21,6 @@ Coffee
     - {{Fat Camel|https://www.facebook.com/Fat-Camel-Israeli-Cafe-111529865551331/}} - Whangarei, NZ
     > </columns>
 
-
-
-
-
 ~ LEGUMES
 
 Lentils
