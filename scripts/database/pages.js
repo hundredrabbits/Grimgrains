@@ -20,11 +20,11 @@ ABOUT
     & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
 
 TOOLS
-  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. I made this list of notes on what to look for in a specialty tool, based on experience and research: 
+  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, filled with items that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
   LONG
-    & {*Durability*}: Choose a material that will last, or that can be composted.
-    & {*Simplicity*}: Prioritize unibody tools, they don't break as easily. The fewer parts the better, opting for non-electric is important for that same reason.
-    & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds. Its best to do away with it.
+    & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
+    & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
+    & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds. 
     * Cutting boards
     & Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
     & Wood doesn't scar as easily, and is the preferred material. After cleaning, it must be allowed to dry thoroughly. 
@@ -46,6 +46,10 @@ TOOLS
     * Shears (Nigiri)
     & Traditional Japanese shears, or Nigiri, are forged using a single piece of metal and spring back to the open position when released. While the design is simple and durable, it offers more precision than scissors. Nigiri can be used to cut some herbs from the garden to add to a meal, or cutting dried mushrooms or chilies into smaller bits, there are over 100 uses for it. 
     & Most shears are made from carbon steel, stainless steel is again, preferable. A pair with blades that make more than half of the length of the tool, will permit for a greater variety of uses. The shears rest inside your hand, between your index finger and thumb, giving greater control of the speed of the cut. This tool, is also ideal for left-handed people, making cutting a pain-free experience. 
+    * Rolling pin
+    & A simple tool, essential for baking at home. A good rolling pin will not have handles, and will often cost less. According to some experts, having no handles gives a better sense of the dough. Aim for a tapered french-style pin, its shape permits rolling the dough into rounds and oblongs with ease. Choosing a hardwood like maple is recommended, because of its strength and because of how easy it is to clean. 
+    & _________________________________
+    & {{The best rolling pin|https://thewirecutter.com/reviews/best-rolling-pin/}} Wirecutter, 2017
 
 INGREDIENTS
   BREF : Here is an unsorted list of all the ingredients used in GrimGrains recipes!
