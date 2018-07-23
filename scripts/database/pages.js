@@ -11,11 +11,9 @@ ABOUT
     & Opinions expressed by any third parties are theirs and do not reflect my own.
     * Disclaimer
     & The content of grimgrains.com, unless stated otherwise, is © Rekka Bell. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without my permission.
-    & All recipes featured on grimgrains.com are my own, unless stated otherwise. The information is for food enthusiasts like myself, i do not claim to be an all-knowing food guru. Nor am I a health professional. My views are my own, i encourage curiosity whenever possible.
+    & All recipes featured on grimgrains.com are my own, unless stated otherwise. The information is for food enthusiasts like myself, i do not claim to be all-knowing. Nor am I a health professional. My views are my own, I encourage curiosity whenever possible.
     * Privacy statement
-    & Ads on the website are from third parties such as google, who may store information about your online coming and goings to provide personalized advertisements. All concerns about browsing privacy should be addressed to google.
-    & Any visitor personal information will be kept private and will not be shared/sold to another party. I am not responsible for the privacy practices or actions of any of my blog commenters.
-    & I reserve the right to alter the blog at my own discretion, as well as to filter comments without notice.
+    & I reserve the right to alter the blog at my own discretion.
     & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
 
 TOOLS
