@@ -22,9 +22,9 @@ ABOUT
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. I made this list of notes on what to look for in a tool, based on experience and research: 
   LONG
-    & Durability- choose a material that will last, or that can be composted.
-    & Simplicity - prioritize unibody tools, they don't break as easily. The fewer parts the better, opting for non-electric is important for that same reason.
-    & Multi-functional - having too many tools that have a single function, adds clutter to our home and in our minds. Its best to do away with it.
+    & {*Durability*}: Choose a material that will last, or that can be composted.
+    & {*Simplicity*}: Prioritize unibody tools, they don't break as easily. The fewer parts the better, opting for non-electric is important for that same reason.
+    & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds. Its best to do away with it.
     * Cutting boards
     & Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
     & Wood doesn't scar as easily, and is the preferred material. After cleaning, it must be allowed to dry thoroughly. 
