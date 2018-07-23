@@ -24,7 +24,7 @@ function graph()
     Ø("document").create({x:2,y:2},DocumentNode),
     Ø("view").create({x:2,y:6},DomNode),
     Ø("header").create({x:2,y:11},DomNode),
-    Ø("logo").create({x:2,y:16},DomNode,"wr",`<a href='#home' onclick="Ø('query').bang('home')"><img src='media/interface/logo.png'/></a>`),
+    Ø("logo").create({x:2,y:16},DomNode,"wr",`{{<img src='media/interface/logo.png'/>|Home}}<list><a class="local home" onclick="Ø('query').bang('Home')">Home</a> • <a class="local about" onclick="Ø('query').bang('About')">About</a> • <a class="local tools" onclick="Ø('query').bang('Tools')">Tools</a> • <a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></list>`.to_markup()),
     Ø("menu").create({x:6,y:16},DomNode,"list"),
     Ø("core").create({x:10,y:11},DomNode),
     Ø("content").create({x:10,y:16},DomNode),

@@ -9,7 +9,7 @@ function QueryNode(id,rect)
   {
     var target = input.to_url() === '' ? 'home' : input.to_url()
 
-    Ø("view").el.className = "loading"
+    Ø("view").el.className = target.to_path()
     
     this.label = `${this.id}|${target}`
     this.send(target)

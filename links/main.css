@@ -9,9 +9,17 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view { max-width: 900px; margin:0px auto; padding:90px 30px; }
 
-#view #header { margin-bottom:60px;}
-#view #header #logo img { max-width: 240px; display: block; margin:0px auto; }
+#view #header { }
+#view #header #logo a { cursor: pointer; transition: all 250ms; }
+#view #header #logo a:hover { opacity: 0.7 }
+#view #header #logo a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px; }
+#view #header list { display: block;text-align: center;line-height: 30px; padding-bottom:15px; }
+#view #header list a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 30px; border-bottom:2px solid transparent }
+#view #header list a:hover { border-bottom:2px solid black }
 #view #header #search { display: none }
+#view.home #header list a.home { border-bottom-color: black}
+#view.about #header list a.about { border-bottom-color: black}
+#view.tools #header list a.tools { border-bottom-color: black}
 
 #view #core { margin-bottom:30px; }
 
