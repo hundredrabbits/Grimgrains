@@ -20,7 +20,7 @@ ABOUT
     & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
 
 TOOLS
-  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. I made this list of notes on what to look for in a tool, based on experience and research: 
+  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. I made this list of notes on what to look for in a specialty tool, based on experience and research: 
   LONG
     & {*Durability*}: Choose a material that will last, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, they don't break as easily. The fewer parts the better, opting for non-electric is important for that same reason.
@@ -32,7 +32,7 @@ TOOLS
     & {{Comparative studies on hygienic qualities of wood and plastic cutting boards in a laboratory|https://www.johnboos.com/mailchimppdf/WOODvsPLASTIC-GERMANSTUDY2015-V1.pdf}} Dr. Ulrike Kleiner, the Laboratory of Hygiene Research at the Anhalt University in Bernburg, Germany
     & {{Plastic and wooden cutting boards|media/blog/ucdavisfoodsafety.cuttingboard.pdf}} Dr. Dean O. Cliver, University of California, USA
     * Manual coffee grinder
-    & If you enjoy coffee, getting a grinder should be on the top of your list. Grinding your own beans, means you can choose the size of the grind to match the selected brewing method. 
+    & If you enjoy {{coffee|#coffee}}, getting a grinder should be on the top of your list. Grinding your own beans, means you can choose the size of the grind to match the selected brewing method. 
     & Choose a manual grinder with ceramic burrs, the two plates crush the beans into even grinds, and is the best way to release the oils that are responsible for the flavour of the coffee. Steel burrs, while cheaper, don't last as long as the ceramic kind. Aim for long-lasting, rather than cheap. As for blade grinders, they grind unevenly and will not do. 
     & _________________________________
     & {{The effect of bean origin and temperature on grinding roasted coffee|https://www.nature.com/articles/srep24483}} Uman, E. et al. Sci. Rep. 6, 24483; doi: 10.1038/srep24483, 2016
