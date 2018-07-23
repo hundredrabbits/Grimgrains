@@ -25,16 +25,17 @@ TOOLS
     & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
     & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds. 
+    % pages/tools.jpg
     * Cutting boards
     & Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
     & Wood doesn't scar as easily, and is the preferred material. After cleaning, it must be allowed to dry thoroughly. 
-    & _________________________________
+    > <hr class='stroke' />
     & {{Comparative studies on hygienic qualities of wood and plastic cutting boards in a laboratory|https://www.johnboos.com/mailchimppdf/WOODvsPLASTIC-GERMANSTUDY2015-V1.pdf}} Dr. Ulrike Kleiner, the Laboratory of Hygiene Research at the Anhalt University in Bernburg, Germany
     & {{Plastic and wooden cutting boards|media/blog/ucdavisfoodsafety.cuttingboard.pdf}} Dr. Dean O. Cliver, University of California, USA
     * Manual coffee grinder
     & If you enjoy {{coffee|#coffee}}, getting a grinder should be on the top of your list. Grinding your own beans, means you can choose the size of the grind to match the selected brewing method. 
     & Choose a manual grinder with ceramic burrs, the two plates crush the beans into even grinds, and is the best way to release the oils that are responsible for the flavour of the coffee. Steel burrs, while cheaper, don't last as long as the ceramic kind. Aim for long-lasting, rather than cheap. As for blade grinders, they grind unevenly and will not do. 
-    & _________________________________
+    > <hr class='stroke' />
     & {{The effect of bean origin and temperature on grinding roasted coffee|https://www.nature.com/articles/srep24483}} Uman, E. et al. Sci. Rep. 6, 24483; doi: 10.1038/srep24483, 2016
     * Mortar and pestle
     & Unlike other types of tools, your intended use will determine the choice of material of your future mortar and pestle. Will you grind spices with it? Nuts? Fibrous herbs? The best material, for the most varied jobs, is granite. Its weight and irregular surface makes it easy to grind most spices, nuts, and can handle fibrous herbs well enough. 
@@ -48,7 +49,7 @@ TOOLS
     & Most shears are made from carbon steel, stainless steel is again, preferable. A pair with blades that make more than half of the length of the tool, will permit for a greater variety of uses. The shears rest inside your hand, between your index finger and thumb, giving greater control of the speed of the cut. This tool, is also ideal for left-handed people, making cutting a pain-free experience. 
     * Rolling pin
     & A simple tool, essential for baking at home. A good rolling pin will not have handles, and will often cost less. According to some experts, having no handles gives a better sense of the dough. Aim for a tapered french-style pin, its shape permits rolling the dough into rounds and oblongs with ease. Choosing a hardwood like maple is recommended, because of its strength and because of how easy it is to clean. 
-    & _________________________________
+    > <hr class='stroke' />
     & {{The best rolling pin|https://thewirecutter.com/reviews/best-rolling-pin/}} Wirecutter, 2017
 
 INGREDIENTS

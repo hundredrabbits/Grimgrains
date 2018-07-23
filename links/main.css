@@ -27,6 +27,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content h1 { text-transform: capitalize; font-size:36px; max-width:400px }
 #view #core #content h2 { text-transform: capitalize; font-size:28px; }
 #view #core #content h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
+#view #core #content hr.stroke { border-bottom:2px solid black; max-width: 600px; margin-bottom:30px; }
 #view #core #content p { font-size:18px; margin-bottom: 30px; max-width:600px; line-height: 26px }
 #view #core #content p.bref { font-size:28px; margin-bottom: 45px; line-height: 34px }
 #view #core #content p a { font-weight: bold }
