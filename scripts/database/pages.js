@@ -1,14 +1,13 @@
 DATABASE.pages = `
 ABOUT
-  BREF : I started {*Grim Grains*} once I realized that food could be artistically fulfilling. Cooking became an creative output, while the blog allowed me to document my progress and keep track of the things I made. The blog is about being artistically creative with food and colour. Colours for added nutrition, for contrast and for visual harmony. Most of my recipes are also nut-free and plant-based.
+  BREF : I started {*Grim Grains*} in an attempt to educate others about the importance of cooking. Cooking for happiness, for health – cooking in itself is an enriching experience. This blog helps measure my progress, while giving me another creative output. I cook and travel, and adapt to the local produce whenever possible. All of the recipes I make are plant-based, and tree-nut free (due to my allergy to them).
   LONG
     * Rekka
-    & This website showcases some of my favourite creations, along with hand draw illustrations for {{each of their ingredients|ingredients-list}}.
-    % pages/about.png
+    & This website showcases my favourite creations, along with handdraw illustrations for {{each ingredient|ingredients-list}}.
     & I am {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, living on a small sailboat somewhere on the shores of the Pacific Ocean.
-    & You can contact me on my twitter {{@grimgrains|http://twitter.com/grimgrains}}.
+    & You can contact me on my twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
     * Copyright policy
-    & You may adapt one of my grim creations, but be sure to link back to the original recipe and to give proper credit.
+    & You may adapt one of my recipes, but be sure to link back to the original recipe and to give proper credit.
     & Opinions expressed by any third parties are theirs and do not reflect my own.
     * Disclaimer
     & The content of grimgrains.com, unless stated otherwise, is © Rekka Bell. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without my permission.
@@ -24,7 +23,7 @@ TOOLS
   LONG
     & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
-    & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds. 
+    & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds.  
     % pages/tools.jpg
     * Cutting boards
     & Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
@@ -51,6 +50,9 @@ TOOLS
     & A simple tool, essential for baking at home. A good rolling pin will not have handles, and will often cost less. According to some experts, having no handles gives a better sense of the dough. Aim for a tapered french-style pin, its shape permits rolling the dough into rounds and oblongs with ease. Choosing a hardwood like maple is recommended, because of its strength and because of how easy it is to clean. 
     > <hr class='stroke' />
     & {{The best rolling pin|https://thewirecutter.com/reviews/best-rolling-pin/}} Wirecutter, 2017
+    * Pressure cooker
+    * Cooking pan
+    & MORE TOOLS TO BE ADDED SOON...
 
 INGREDIENTS
   BREF : Here is an unsorted list of all the ingredients used in GrimGrains recipes!
