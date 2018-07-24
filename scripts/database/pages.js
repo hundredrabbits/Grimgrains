@@ -17,7 +17,7 @@ ABOUT
     & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
 
 TOOLS
-  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, filled with items that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
+  BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
   LONG
     & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
