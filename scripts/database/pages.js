@@ -64,7 +64,7 @@ TOOLS
     & Skillets are used to stir-fry, bake, simmer and cook a grand variety of dishes.
     & {*Material*}: Cast-iron is the material of choice, it is durable, cheaper, and offers more versatility than stainless steel skillets. It can be used to cook in the oven, safe past 500 degrees. Cast-iron cookware gets better with time as it develops layers of seasoning. Buying a pre-seasoned skillet is best.
     & {*Shape*}: A large cooking area is ideal, with large spouts to pour out contents with ease. The skillet will be heavy, rounded-stick handles make it easier and more comfortable to lift.
-
+    & MORE WILL BE ADDED SOON...
 INGREDIENTS
   BREF : Here is an unsorted list of all the ingredients used in GrimGrains recipes!
   LONG
