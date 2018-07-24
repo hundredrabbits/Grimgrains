@@ -53,9 +53,9 @@ TOOLS
     > <hr class='stroke' />
     & {{The best rolling pin|https://thewirecutter.com/reviews/best-rolling-pin/}} Wirecutter, 2017
     * Pressure cooker
-    & A stovetop pressure cooker will help save time and energy, while providing you with good meals quickly. Instead of a meal simmering for a hours, all can be done within an hour. 
+    & A stovetop pressure cooker will help save time and energy, while providing you with good meals quickly. Instead of a meal simmering for hours, all can be done within 60 minutes.
     & {*Material*}: Aim for Stainless Steel.
-    & {*Shape*}: Pick an 8-Quartmodel, with a spring-loaded valve and pressure indicator. If you chose well, this is a tool that you will follow you into old age. A model with a thicker base, of at least 7mm, will retain heat better, reach pressure more quickly and will keep food from burning. Pick a cooker that offers a low pressure setting of 8-9 PSI per square inch  and a high pressure setting of 15PSI, anything else is below standard, and will result in your food not cooking well. A pressure cooker can also serve as a regular large stock-pot without the lid.
+    & {*Shape*}: Pick an 8-Quart model, with a spring-loaded valve and pressure indicator. If you chose well, this is a tool that you will follow you into old age. A model with a thicker base, of at least 7mm, will retain heat better, reach pressure more quickly and will keep food from burning. Pick a cooker that offers a low pressure setting of 8-9 PSI per square inch  and a high pressure setting of 15PSI, anything else is below standard, and will result in your food not cooking well. A pressure cooker can also serve as a regular large stock-pot without the lid.
     > <hr class='stroke' />
     & {{The best pressure cooker|https://thewirecutter.com/reviews/best-pressure-cooker/}} Wirecutter, 2018
     & {{Stovetop pressure cooker|http://www.cooksillustrated.com/equipment_reviews/1398-stovetop-pressure-cookers?ref=new_search_experience_1&incode=MCSCD00L0}} Cook’s Illustrated, 2013
