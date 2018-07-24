@@ -16,5 +16,7 @@ function TemplateNode(id,rect)
   
     // Install Dom
     document.body.appendChild(this.signal("view").answer())
+
+    setTimeout(()=>{ Ø("view").el.className = `${q.name} ready` },250)
   }
 }

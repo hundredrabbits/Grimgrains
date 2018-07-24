@@ -9,6 +9,11 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view { max-width: 900px; margin:0px auto; padding:90px 30px; }
 
+#view.loading { opacity: 0 }
+#view.loading #header #photo { opacity: 0 }
+#view.ready { opacity: 1; transition: opacity 250ms }
+#view.ready #header #photo { opacity: 1 }
+
 #view #header { }
 #view #header #logo a { cursor: pointer; transition: all 250ms; }
 #view #header #logo a:hover { opacity: 0.7 }
