@@ -22,6 +22,7 @@ TOOLS
     & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
     & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds.  
+    & Note: If you look at the photo, you can see that my kitchenware doesn't have all the features listed below. That's because this list is an ideal, a study of what an ideal toolset would be. It may not be realistic to you, and that's okay. In the end, you've got to work with what you have. The resulting food matters {*more*} than the tools you use. 
     % pages/tools.jpg
     * Cutting boards
     & {*Material*}: Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
@@ -65,6 +66,7 @@ TOOLS
     & {*Material*}: Cast-iron is the material of choice, it is durable, cheaper, and offers more versatility than stainless steel skillets. It can be used to cook in the oven, safe past 500 degrees. Cast-iron cookware gets better with time as it develops layers of seasoning. Buying a pre-seasoned skillet is best.
     & {*Shape*}: A large cooking area is ideal, with large spouts to pour out contents with ease. The skillet will be heavy, rounded-stick handles make it easier and more comfortable to lift.
     & MORE WILL BE ADDED SOON...
+    
 INGREDIENTS
   BREF : Here is an unsorted list of all the ingredients used in GrimGrains recipes!
   LONG
