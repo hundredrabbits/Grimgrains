@@ -2232,6 +2232,7 @@ CORN DUMPLINGS
       - Bring 1 cup of water to a boil, pour into dry ingredients and mix well. When the dough is wet and sticky, form 1/2" balls with your hands. You can make larger or smaller balls, note that cooking time will change if the diameter is bigger (15 minutes will do it.)
       - Bring a big pot of water to a boil, add corn balls and boil for 10-15 minutes (i don't have a big pot, so i did it in batches.)
       - Drain, let cool.
+    Sauce
       - Mix all sauce ingredients together (all, except the cornstarch). 
       - Put 1 tsp of cornstarch in a bowl, and dissolve in 1/4 cup of water. Set aside.
       - Pour sauce into a pan, and bring to medium heat. Once the sauce starts to boil, add a few spoonfuls of the cornstarch mix to thicken the sauce. Once thickened, divide corn dumplings into bowls and pour sauce overtop. 
