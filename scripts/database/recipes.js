@@ -2345,7 +2345,7 @@ BREADFRUIT PASTA
     & Want to try learn a trick to cut pasta in even pieces? Rolling the flattened piece of dough and cutting them cross-wise is the key, the details on how to do this are in the instructions below.
     & If you come to Fiji and like to make pasta from scratch, try and find some breadfruit flour. That same company also produces cassava flour, but I've never tried it - a recipe for another time. 
     % recipes/breadfruit.pasta.3.jpg
-    & We like to eat breadfruit pasta with garlic, chilis and bitter melon, sauteed in olive oil - simple, and tasty.
+    & We like to eat breadfruit pasta with garlic, chilis and bitter melon, sauteed in olive oil with some shredded nori on top- simple, and tasty.
   INST
     Preparation
       - In a large bowl, mix {#3/4 cup#} of {{all purpose flour}} with {#3/4 cup#} of {{breadfruit flour}}.
