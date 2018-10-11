@@ -2302,13 +2302,13 @@ SPINACH FAUX CHEESE RAVIOLI
     Preparation
       - For the filling, mix all of the dry ingredients into a bowl, then add all the wet ones (including the spinach) and stir well until evenly mixed. 
       - Heat a pan at medium heat, pour the filling into it. The mixture will thicken, when it does, transfer it back to a bowl and keep it aside for later. 
-      - To make the dough, mix 1/2 tsp of salt with 1 cup of flour. Add 2/3 cup of water, knead the dough on a floured surface, working in some extra flour if the dough is too sticky. Once you have a smooth ball of dough, wrap it up and let it rest for at least 10 minutes. 
+      - To make the dough, mix {#1/2 tsp#} of {{salt}} with {#1 cup#} of {{all purpose flour}}. Add {#2/3 cup#} of water, knead the dough on a floured surface, working in some extra flour if the dough is too sticky. Once you have a smooth ball of dough, wrap it up and let it rest for at least {#10 minutes#}. 
       - Divide the dough into two pieces, and roll out the first half of the dough to make it as thin as possible (and as rectangular as possible). Roll out the second piece of dough into a similar size and thickess. 
       - On the first sheet of pasta, place a mound of filling of the faux-cheese and spinach mixture every 2 inches across and down the pasta (spaced out to look like a checker board).
       - Dip your finger into a bowl of water and make a line inbetween each row of filling (the water acts as a bond to hold the ravioli together). 
       - Place the second sheet of rolled-out pasta on top of the first one, pressing down firmly around the filling and along the wetted lines.
       - With a knife (or ravioli cutter, if you feel fancy), cut the pasta into squares along the wetted lines. Keep separated pieces of ravioli aside.
-      - Bring a pot of water to a boil, and add the ravioli. Stir them gently to keep them from sticking to another another or on the bottom of the pot. Cook for 7-8 minutes or until tender. 
+      - Bring a pot of water to a boil, and add the ravioli. Stir them gently to keep them from sticking to another another or on the bottom of the pot. Cook for {#7-8 minutes#} or until tender. 
       - Serve with a light sauce, we made one with chilis, fresh basil and olive oil. A light tomato sauce would also be delicious. Enjoy.
   INGR
     Cheese
@@ -2337,7 +2337,7 @@ BREADFRUIT PASTA
   TIME : 20
   SERV : 4 people
   DESC
-    & Yes, another breadfruit recipe - I'm that obssessed. This fruit is one of the most versatile ingredients i've ever cooked with, it's cheap to buy and it pairs well with just about anything! When we returned to the south pacific, you can be sure that the first thing we sought at the market was this lovely green lizard-skinned wonder. 
+    & Yes, another {{breadfruit}} recipe - I'm that obssessed. This fruit is one of the most versatile ingredients i've ever cooked with, it's cheap to buy and it pairs well with just about anything! When we returned to the south pacific, you can be sure that the first thing we sought at the market was this lovely green lizard-skinned wonder. 
     & While in a grocery store in Fiji, we spotted breadfruit flour! A company called {*{{Friend's Fiji style|http://friendfiji.com}}*} sells it in bags of 300g, it's good alternative if the fresh kind can't be found. It's something we'll also stock up on when we leave, so we continue to have breadfruit in our diet (in some form or another).
     % recipes/breadfruit.pasta.1.jpg
     & Making pasta from scratch requires your hands, a knife and a rolling pin (or bottle - whatever works). Making pasta that is even and thin by hand is a challenge, it's easier to do thick 'udon-style' noodles. Expert soba chefs in Japan can cut noodles thinly by hand, but this requires a good knife and experienced hands. We have a good blade, but lack the patience as well as the desire to cut even noodles. 
@@ -2347,14 +2347,15 @@ BREADFRUIT PASTA
     & We like to eat these with a light sauce, with sauteed garlic, chilis and bitter melon, soaked with olive oil - simple, and tasty.
   INST
     Preparation
-      - In a large bowl, mix 3/4 cup of white flour with 3/4 cup of breadfruit flour.
-      - Add 1/2 tsp of salt, mix well. 
-      - Add 3/4 cup of water, mix until it starts to clump up, then knead with your hands until you have a smooth dough.
-      - Separate dough in two, put one ball aside. Sprinkle flour on your working surface, and gradually roll one ball of dough into a flat rectangle, or oval, doesn't matter. Flip, repeat. Add more flour if dough starts to stick.
-      - Once you've rolled it to the desired thickness (ours were roughly ~0.3cm thick), sprinkle on some extra flour over the top and roll into a log. 
-      - Cut cross-wise into the log, again, at the desired thickness. Repeat all the steps for the other half of the dough. 
-      - Unroll each coil, to make sure they don't cook in that shape when you put them in the water (unless you want coil pasta :P).
-      - Bring water to a boil, add pasta, cook for a minute or so and serve with a light sauce! 
+      - In a large bowl, mix {#3/4 cup#} of {{all purpose flour}} with {#3/4 cup#} of {{breadfruit flour}}.
+      - Add {#1/2 tsp#} of {{salt}}, mix well. 
+      - Add {#3/4 cup#} of {{water}}, mix until it starts to clump up, then knead with your hands until you have a smooth dough. Let rest for {#20 mins#} (this will make it easier to roll).
+      - Separate dough in two, put one half aside. Separating the dough makes it easier to roll if you have limited counter space (like I do).
+      - Sprinkle flour on your working surface, flatten the ball out from the center to the outer edge. Continue to roll, flipping the dough over once or twice and dusting it with flour to prevent it sticking. Roll to desired thickness.
+      - Fold the sheet of dough into a flat roll, then {_cut into it cross-wise_} into 0.5cm strips. 
+      - Repeat all the steps for the other half of the dough. 
+      - Carefully unroll each coil with your fingers, then transfer to a floured surface.
+      - Bring water to a boil. Add pasta. Cook for a minute or so, and serve with a light sauce! 
   INGR
     Main
       Breadfruit flour : 3/4 cup
