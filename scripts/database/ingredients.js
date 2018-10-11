@@ -236,6 +236,10 @@ Breadfruit
   Details : Missing
   Tags
     other vegetables
+Breadfruit flour
+  Details : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
+  Tags
+    breadfruit pasta
 Scallions
   Details : [#006633] In some countries scallions are mistakenly referred to as 'shallots'.
   Tags
