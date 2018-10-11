@@ -2337,14 +2337,15 @@ BREADFRUIT PASTA
   TIME : 20
   SERV : 4 people
   DESC
-    & Yes, another {{breadfruit}} recipe - I'm that obssessed. This fruit is one of the most versatile ingredients i've ever cooked with, it's cheap to buy and it pairs well with just about anything! When we returned to the south pacific, you can be sure that the first thing we sought at the market was this lovely green lizard-skinned wonder. 
-    & While in a grocery store in Fiji, we spotted breadfruit flour! A company called {*{{Friend's Fiji style|http://friendfiji.com}}*} sells it in bags of 300g, it's good alternative if the fresh kind can't be found. It's something we'll also stock up on when we leave, so we continue to have breadfruit in our diet (in some form or another).
+    & Yes, another {{breadfruit}} recipe - I'm that obssessed. This fruit is one of the most versatile ingredients I've ever cooked with, it's cheap and it pairs well with just about anything. When we returned to the south pacific last june, you can be sure that the first thing we went looking for at the market was this lovely green wonder. It's become a staple for us, a treat and food we are excited to cook and eat.
+    & While in a grocery store in Fiji, we spotted breadfruit flour! A company called {*{{Friend's Fiji style|http://friendfiji.com}}*} sells it in bags of 300g, it's good alternative if the fresh kind can't be found. It's something we'll stock up on when we leave, so we continue to have breadfruit in our diet (in some form).
     % recipes/breadfruit.pasta.1.jpg
-    & Making pasta from scratch requires your hands, a knife and a rolling pin (or bottle - whatever works). Making pasta that is even and thin by hand is a challenge, it's easier to do thick 'udon-style' noodles. Expert soba chefs in Japan can cut noodles thinly by hand, but this requires a good knife and experienced hands. We have a good blade, but lack the patience as well as the desire to cut even noodles. 
+    & Making pasta from scratch requires your hands, a knife and a rolling pin (or bottle - whatever works). Making pasta that is even and thin by hand is a challenge, it's easier to opt for thicker 'udon-style' noodles. Expert soba chefs in Japan can cut noodles thinly by hand, but this requires experienced hands. We have a good blade, but lack the patience as well as the desire to cut even noodles - we're very okay with imperfect noodles.
     % recipes/breadfruit.pasta.2.jpg 
-    & Want to try learn a trick to cut pasta in even pieces? Rolling the flattened piece of dough and cutting them cross-wise is the key. This is definitely something to try, if you come to Fiji and find breadfruit flour. It adds a distinctive flavour to pasta, without being too present. 
+    & Want to try learn a trick to cut pasta in even pieces? Rolling the flattened piece of dough and cutting them cross-wise is the key, the details on how to do this are in the instructions below.
+    & If you come to Fiji and like to make pasta from scratch, try and find some breadfruit flour. That same company also produces cassava flour, but I've never tried it - a recipe for another time. 
     % recipes/breadfruit.pasta.3.jpg
-    & We like to eat these with a light sauce, with sauteed garlic, chilis and bitter melon, soaked with olive oil - simple, and tasty.
+    & We like to eat breadfruit pasta with garlic, chilis and bitter melon, sauteed in olive oil - simple, and tasty.
   INST
     Preparation
       - In a large bowl, mix {#3/4 cup#} of {{all purpose flour}} with {#3/4 cup#} of {{breadfruit flour}}.
