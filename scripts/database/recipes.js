@@ -2363,4 +2363,54 @@ BREADFRUIT PASTA
       All purpose flour : 3/4 cup
       Salt : 1/2 tsp
       Water : 3/4 cup
+
+PANDANUS FRUIT BREAD
+  DATE : 2018-11-10
+  TAGS
+    dessert
+  TIME : 40
+  SERV : 20 pieces
+  DESC
+    & We arrived in the {{Marshall Islands 3 weeks ago|https://100r.co/pages/the_promise_of_pancakes.html}}, we are mostly settled in, but one thing remains difficult for us: finding fresh produce. The vegetables in Majuro are imported from either Guam, or Hawaii by cargo ship, and because they spend much time at sea they are frozen. Freezing fresh whole vegetables is never a good idea, the vegetables are usually rotten even before they make it onto the shelves. When possible, we opt for local produce. Majuro has little fresh vegetables, but they do have some fruit and among these, is {*the pandanus fruit*}.
+    % recipes/pandanus.fruit.bread.2.jpg
+    & Pandanus, or {{Pandanus tectorius|https://en.wikipedia.org/wiki/Pandanus_tectorius}}, bears a fruit that look like a giant pinecone, it is made up of little wedge-like phalanges, commonly referred to as 'keys'. Each fruit has about 40-80 keys, the part of the keys that is attached to the core is soft, and a bright orange colour. In the Marshall Islands, people suck on the orange part which is sweet and tastes of cane sugar. The soft part can also be cut, and processed into juice. It is possible to make the juice yourself, this {*{{blog post|http://www.cuisinivity.com/globalfeast/pacific/Marshall_Islands/2012/Pandanus.php}}*} explains the process at length. 
+    & I don't have the space, nor the tools to prepare pandanus juice, but a store in Majuro sells frozen bags of puree. This is what I used to prepare this pandanus fruit cake, and the topping that goes with it. What does it taste like? It is similar to mango, sweet, but also bitter.
+    % recipes/pandanus.fruit.bread.1.jpg
+    & I bought a generous portion of frozen pandanus puree, and couldn't use most of it in the bread so I used the rest to make a topping. The topping is optional, but very, very delicious and I recommend it. The chia seeds don't act as a thickener and can omitted, but they add nutritional value to the meal.
+    & If you ever come across some pandanus fruit, please try it! Making pandanus juice from scratch requires some muscle and serious dedication, but in places where it grows, chances are you'll also find a 'processed' version. 
+    & Pandanus Tectorius photo credit: U. S. Geological Survey, USGS /Forest & Kim Starr.
+
+  INST
+    Pandanus bread
+      - Preheat oven to {#350F#}.
+      - Mix {#1/2 tsp#} of {{apple cider vinegar}} in {#1/4 cup#} of {{soy milk}}, this will make the milk curdle; it helps the bread rise while imparting flavour.
+      - In a bowl, combine {#1 1/2 cup#} of {{all purpose flour}}, {#1/2 cup#} of {{spelt flour}}, {#1 tsp#} of {#baking powder#}, {#1/2 tsp#} of {{baking soda}} and {#1/4 tsp#} of {{salt}}. Mix well.
+      - In yet, another bowl, cream {#1/4 cup#} of {{coconut oil}} with {#1/2 cup#} of {{whole cane sugar}}, stir in the curdled {{soy milk}}.
+      - Add the wet to the dry ingredients and stir until evenly mixed.
+      - Pour the batter into an oiled square baking pan. 
+      - Bake for {#45 minutes#}.
+    Topping
+      - In a saucepan, add 1 cup of pureed {{pandanus}} (add some water if too thick), {#1 tsp#} of {{chili flakes}} and {#2 tbsp#} of {{whole cane sugar}}. Stir well and bring to a boil.
+      - Reduce heat, cook for {#5 minutes#}, then remove from heat.
+      - When cool, stir in {#2 tbsp#} of {{chia seeds}}.
+      - Serve with the pandanus bread!
+
+  INGR
+    Pandanus bread
+      All purpose flour : 1 1/2 cup
+      Spelt flour : 1/2 cup
+      Soy milk : 1/4 cup
+      Apple cider vinegar : 1/2 tsp
+      Coconut oil : 1/4 cup
+      Whole cane sugar : 1/2 cup
+      Pandanus fruit : 1 1/2 cups, pureed
+      Baking powder : 1 tsp
+      Baking soda : 1/2 tsp
+      Salt : 1/4 tsp
+    Topping
+      Pandanus fruit : 1 cup
+      Chili pepper flakes : 1 tsp
+      Whole cane sugar : 2 tbsp
+      Chia seeds : 2 tbsp 
+
 `
