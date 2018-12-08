@@ -200,7 +200,7 @@ Tomato Paste
     
 Avocado
   Color   : #006633
-  BREF : Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
+  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. It is a good source of fat. Fun fact: Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
   Tags
     other vegetables
 
@@ -275,12 +275,12 @@ Mixed Berries
 ~ OTHER FRUITS
 
 Pandanus fruit
-  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable.
+  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable. 
   Tags 
     Other Fruits
 
 Banana
-  BREF : Missing.
+  BREF : A fruit (actually a berry) consummed the world over, and come from two wild species. It varies in size and color, and always grows in clusters at the top of the plant. They're 75% water. They can be used in a variety of ways in recipes, for both desserts and savoury meals. A low source of fat, it can be used to make non-dairy ice cream.
   Color : #FFD800
   Tags
     Other Fruits
