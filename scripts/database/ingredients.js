@@ -274,6 +274,11 @@ Mixed Berries
 
 ~ OTHER FRUITS
 
+Pandanus fruit
+  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable.
+  Tags 
+    Other Fruits
+
 Banana
   BREF : Missing.
   Color : #FFD800
