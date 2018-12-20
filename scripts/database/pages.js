@@ -1,6 +1,6 @@
 DATABASE.pages = `
 ABOUT
-  BREF : I started {*Grim Grains*} to teach myself how to cook. This blog, which now doubles as a travel diary, helps measure my progress, while giving me another creative output. I cook and travel, and adapt to the local produce whenever possible. All of the recipes I make are plant-based, and tree-nut free (due to my allergy to them).
+  BREF : I started {*Grim Grains*} to teach myself how to cook. This blog, which now doubles as a travel diary, helps measure my progress, while giving me another creative output. I cook and travel, and adapt to the local produce whenever possible. All of the recipes I make are plant-based, and tree-nut free (due to my allergy to them). 
   LONG
     * Rekka
     & This website showcases my favourite creations, along with handdraw illustrations for {{each ingredient|ingredients-list}}.

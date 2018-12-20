@@ -2376,7 +2376,7 @@ PANDANUS FRUIT BREAD
     & Pandanus, or {{Pandanus tectorius|https://en.wikipedia.org/wiki/Pandanus_tectorius}}, bears a fruit that look like a giant pinecone, it is made up of little wedge-like phalanges, commonly referred to as 'keys'. Each fruit has about 40-80 keys, the part of the keys that is attached to the core is soft, and a bright orange colour. In the Marshall Islands, people suck on the orange part which is sweet and tastes of cane sugar. The soft part can also be cut, and processed into juice. It is possible to make the juice yourself, this {*{{blog post|http://www.cuisinivity.com/globalfeast/pacific/Marshall_Islands/2012/Pandanus.php}}*} explains the process at length. 
     & I don't have the space, nor the tools to prepare pandanus juice, but a store in Majuro sells frozen bags of puree. This is what I used to prepare this pandanus fruit cake, and the topping that goes with it. What does it taste like? It is similar to mango, sweet, but also bitter.
     % recipes/pandanus.fruit.bread.1.jpg
-    & I bought a generous portion of frozen pandanus puree, and couldn't use most of it in the bread so I used the rest to make a topping. The topping is optional, but very, very delicious and I recommend it. The chia seeds don't act as a thickener and can omitted, but they add nutritional value to the meal.
+    & I bought a generous portion of frozen pandanus puree, and couldn't use most of it in the bread so I used the rest to make a topping. The topping is optional, but very, very delicious and I recommend it. The chia seeds don't act as a thickener and can be omitted, but they add nutritional value to the meal.
     & If you ever come across some pandanus fruit, please try it! Making pandanus juice from scratch requires some muscle and serious dedication, but in places where it grows, chances are you'll also find a 'processed' version. 
     & Pandanus Tectorius photo credit: U. S. Geological Survey, USGS /Forest & Kim Starr.
 
@@ -2412,5 +2412,36 @@ PANDANUS FRUIT BREAD
       Chili pepper flakes : 1 tsp
       Whole cane sugar : 2 tbsp
       Chia seeds : 2 tbsp 
+
+MUSTARD FROM SEED
+  DATE : 2018-12-21
+  TAGS
+    condiment
+    basic
+  TIME : 20
+  SERV : 1 quarter pint (150ml)
+  DESC
+    & We always try our hardest to buy as little packaged foods as we can, and if we do buy pre-made goods, we aim for glass. This, too, isn't always possible. 
+    & We ran out of mustard the other day, and couldn't find any at the store that wasn't packaged in plastic. We decided then, that it was better to make our own. It requires few ingredients, little time to prepare (25min for prep, few days for soaking), and is inexpensive. 
+    & How do you do you start? First, you have to find raw mustard seeds. You can choose between yellow, brown and black seeds; these, affect the 'heat' of the mustard. A dark seed imparts more flavour than the lighter variety, and is what we used in this recipe. The seeds are then soaked in a mixture of water and ACV (apple cider vinegar), although you can also use beer and white wine as a base. This recipe uses ACV. The water should be room temperature, or cold, using hot liquids denatures the enzymes that create the 'heat' in mustard.  
+    & We don't have {{tools|#tools}} onboard that requires electricity, to grind and crush seeds and herbs we use a {*heavy ceramic mortar and pestle*}. 
+    & After the mustard has been ground, it can stored in a glass jar at room temperature. Because of its antibacterial properties, mustard {*does not require refrigeration*} - another plus!
+    % recipes/mustard.from.seed.1.jpg
+    & The best thing about making it yourself, is that you can vary the quantities and base ingredients according to your personal preferences. If you don't like having a strong vinegar taste, you can lessen the amount of ACV and add more water instead. You can also add spices and sweeteners. For traditional 'yellow mustard', all you need to do is add turmeric (for color) and a sweetener - the possibilities are endless. Give it a shot, it's cheap, fun and there's no plastic involved! 
+
+  INST
+    Mustard
+      - Soak 1/4 cup of {{mustard seeds}} in a mixture of {#45ml#} of {{apple cider vinegar}} and {#20ml#} of water.
+      - Let soak for a few days, or until seeds have expanded 3 times their size (from 3 to 7 days). If the seeds have soaked up all of the liquids, add more water. 
+      - Drain the seeds from the liquids. Reserve liquids for later.
+      - If you've got a blender or food processor, puree the seeds until smooth. Otherwise, add a small quantity of seeds in your mortar and grind them down with your pestle. Repeat till all the seeds are crushed and pureed - doesn't need to be perfectly smooth.
+      - Add the reserved liquid from before, bit by bit, until you get a smooth consistency.
+      - Store into a glass jar at room temperature, and enjoy! 
+
+  INGR
+    Mustard
+      Mustard seeds : 1/4 cup
+      Apple cider vinegar : 45 ml
+      Water : 20 ml
 
 `
