@@ -587,7 +587,7 @@ Mirin
 Baking powder
   BREF : [#EFEFEF] Missing.
 Bamboo charcoal powder
-  BREF : [#000000] Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from 800 to 1200 °C. It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description).
+  BREF : [#000000] Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from 800 to 1200 °C. It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description). & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
 Cornstarch
   BREF : [#EFEFEF] Missing.
 Active dry yeast

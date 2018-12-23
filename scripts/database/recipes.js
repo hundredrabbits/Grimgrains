@@ -3,15 +3,11 @@ DATABASE.recipes = `
 SPINACH PAJEON
   DATE : 2014-08-19
   TAGS
-    korean
     dinner
-    sidedish
   TIME : 15
   SERV : 1 pancake
   DESC
     & A dish of korean inspiration! A delicious scallion pancake coloured green with spinach. This is a great way to add an extra portion of vegetables to your meal. 
-    & Happy cooking!
-    ? Rekka
   INST
     Pancake
       - Blend 1/2 cup of spinach with 1/2 cup of water until smooth. Set aside.
@@ -40,14 +36,11 @@ SPINACH PAJEON
 HOUJICHA OVERNIGHT OATMEAL
   DATE : 2014-09-04
   TAGS
-    morning
-    japanese
+    breakfast
   TIME : 10
   SERV : 1 serving
   DESC
-    & Start your morning off right, with the nutty and earthy flavour of houjicha oatmeal. If you're not familiar with houjicha, visit a tea shop and ask for it. It's a japanese roasted tea that is often served with sweet and savoury dishes. It's a good low-caffeine alternative to most teas, and adds just the right amount of flavour to oatmeal without overpowering it. Try it! 
-    & Happy cooking!
-    ? Rekka
+    & Mornings are made better with the nutty and earthy flavour of houjicha oatmeal. If you're not familiar with houjicha, visit a tea shop and ask for it, it's a japanese roasted tea that is often served with sweet and savoury dishes. It's a good low-caffeine alternative to most teas, and adds just the right amount of flavour to oatmeal without overpowering it. 
   INST
     Preparation
       - Boil 1 cup of water, then infuse 1 1/2 tsp of houjicha leaves in a tea strainer. <small>You can leave it anywhere from 1-3 min, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.</small>
@@ -66,11 +59,11 @@ SEAWEED BITES
   DATE : 2014-09-13
   TAGS
     snack
-    crackers
   TIME : 50
   SERV : 30 small cookies
   DESC
-    & In the mood for something a bit different? These seaweed bites will do the trick, while dosing you with your {*daily portion of iodine*}! Highly addictive and sweet enough to have as a dessert.
+    & Seaweed bites, a great snack packed with your a good dose of {*iodine*} - necessary for good health. These are highly addictive and sweet, beware :).
+    & I went all out this time, and used my fancy cookie cutters, but most times I just cut the sheets of dough into small squares with a regular knife. Using cookie cutters is longer, because I want to use every bit of the dough and that means re-using the bits around the cut outs. 
     & The cookies were adapted from a recipe by {{Kiuchi Yuki-san|http://www.food-sommelier.jp/recipe/R0123/173155.html}}
   INST
     Prepare
@@ -97,9 +90,6 @@ NO KNEAD BLACK BREAD
   DATE : 2014-09-28
   TAGS
     bread
-    sidedish
-    sandwich
-    black
   TIME : 60
   SERV : 2 loaves
   DESC
@@ -131,15 +121,13 @@ NO KNEAD BLACK BREAD
 OVERNIGHT BANANA SPINACH OATMEAL
   DATE : 2014-10-04
   TAGS
-    morning
+    breakfast
   TIME : 10
   SERV : 1 serving
   DESC
-    & I bet you all remember the scene in the movie Hook, when the lost boys are sitting in front of an invisible buffet. The boys are trying to make Peter understand that he needs to imagine there is food on the table. The moment when that little switch turns in his head, and he sees the feast, is one of my very favourites. A table covered with strange playdoh-like food, varying in colour, texture and shape. I've been wanting to re-create that buffet, to make something bizzare, yet eatable, and delicious. 
-    & This oatmeal is an attempt at doing just that, something that is very colourful, bizzare and beautiful. I like that can't identify what everything is right away - what is that green goo? Is it cake batter? Pesto (ew)? I like to challenge people's ideas about food, pasta doesn't need to be beige and neither does your oatmeal.
-    & For those who worry about having spinach in oatmeal, know that you can't taste it in this. Also, why shouldn't you have greens in the morning? We all have these pre-conceived ideas of what morning meals should look like, or what they should include. Of course, I'm not re-inventing breakfasts with this recipe, it's still oatmeal. I like to think that i'm taking it a step further, in terms of what a morning meal can look like.
-    & I'm one step closer to having my peter pan buffet! Now imagine a table full of dishes with this level of colour and texture! I'm in eatable play-doh food heaven.
-    ? Rekka
+    & I bet you all remember the scene in the movie Hook, when the lost boys are sitting in front of an invisible buffet; The boys are trying to make Peter understand that he needs to imagine there is food on the table. The moment when that little switch turns on in his head, and he sees the feast, is one of my very favourites. A table covered with strange playdoh-like food, varying in colour, texture and shape. I've been wanting to re-create that buffet, to make something bizzare, yet eatable, and delicious. 
+    & This oatmeal is an attempt at doing just that, something that is very colourful, bizzare and beautiful. Pasta doesn't need to be beige and neither does your oatmeal.
+    & For those who worry about having spinach in oatmeal, know that you can't taste it in this. Also, why shouldn't you have greens in the morning? We all have these pre-conceived ideas of what morning meals should look like, or what they should include. 
   INST
     Preparation
       - Combine 1/3 cup of rolled oats with 1/2 tsp of ground turmeric and a 2/3 cup of water (or your plant milk of choice) in a mason jar. Cover, and store in the refrigerator overnight.
@@ -157,16 +145,11 @@ OVERNIGHT BANANA SPINACH OATMEAL
 AVOCADO CARROT SANDWICH
   DATE : 2014-10-07
   TAGS
-    sandwich
     bread
-    black
   TIME : 10
   SERV : 2 servings
   DESC
     & I made a fresh loaf of black bread the other day, it only made sense to make another recipe with it! I made a spicy, lime-infused carrot and avocado sandwich! 
-    & I wanted something spicy, I love lime with avocado so that's how it started. Planning recipes according to colour is important, it creates more variety in your meal. The colours don't always have to contrast each other
-    & It really depends how i feel, i wouldnt mind having an all-green sandwich (future recipe maybe?)
-    ? Rekka
   INST
     Preparation
       - Grate 1 carrot and put in a small bowl, mix in 1 tsp of sriracha, 1/2 tsp of smoked paprika with 1 tsp of coconut sugar together. Set aside.
@@ -190,17 +173,14 @@ BLACK PASTA
   DATE : 2014-10-13
   TAGS
     pasta
-    black
-    dinner
   TIME : 60
   SERV : 6 servings
   DESC
-    & Black pasta is visually striking. I remember the first time I saw it on a shelf, in a grocery store. Ever since then, I've been dying to make my own. Happy to say that i can finally cross that off my list!
-    & Making fresh pasta at home is easy, it doesn't require a lot of preparation. It's something you can do on a weekend. Kneading dough is relaxing, just put some music on, pour yourself a glass of wine and start cooking! It's something you can do by yourself, but it's actually cool to do with a friend. Me and Devine made these while our friend Max was around.
-    & The secret ingredient to making black pasta, is Bamboo Charcoal powder. It's seldomly used to make pasta, most of the time people will use squid ink. While it's harder to find, it works better in pasta as it will not alter the taste or smell of your dough. You can also make black pasta with black rice, although the consistency and ingredients are very different.
+    & Black pasta is visually striking. I remember the first time I saw it on a shelf in a grocery store, ever since then, I've been dying to make my own - happy to say that i can finally cross that off my list!
+    & Making fresh pasta at home is easy. It doesn't require a lot of preparation, it's something you can do on a weekend. Kneading dough is relaxing. Just put some music on, pour yourself a glass of wine and start cooking! It's something you can do by yourself, but it's cool to do with a friend. Me and Devine made these while our friend Max was around.
+    & The secret ingredient to making black pasta, is {*Bamboo Charcoal powder*}. It's seldomly used to make pasta, most of the time people will use squid ink. While harder to find, it works better in pasta as it will not alter the taste or smell of your dough. You can also make black pasta with black rice, although the consistency and ingredients are very different.
     % recipes/black.pasta.1.jpg
-    & To make pasta, I use a pasta machine but you can easily do it by hand, using just a rolling pin and a knife. I've made pasta using both methods, it's good to try by hand first. Your first batch may not be perfect, but that's ok! You'll only get better with practice! It doesn't really matter anyway if they're uneven, your noodles will still be delicious. The more batches you make, the better they'll get!
-    ? Rekka
+    & To make pasta, I use a pasta machine but you can easily do it by hand, using just a rolling pin and a knife. I've made pasta using both methods, it's good to try by hand first. Your first batch may not be perfect, but that's ok! You'll only get better with practice! 
   INST
     Preparing the dough
       - Mix 2 cups of wheat semolina, 3/4 cup whole wheat flour and 1 tbsp of bamboo charcoal powder in a bowl. 
@@ -232,13 +212,12 @@ ROASTED CARROTS WITH BELUGA LENTILS
   DATE : 2014-10-25
   TAGS
     dinner
-    black
   TIME : 30
   SERV : 2 servings
   DESC
-    & My oven has been working overtime these days, i've been baking and roasting food almost everyday. Picked up a pack of heirloom carrots at atwater market last weekend, threw them in the oven with a bit of oil, and served them over a bed of beluga lentils. All this, topped with a delicious spicy peanut butter sauce!
-    & Roasted carrots becoming quite sweet, a nice change from eating them raw. I could have easily eaten all 8 carrots myself, but alas i also need to feed Devine.
-    & I like buying grains or flours in bulk. I don't always get to buy huge quantities, it's too heavy. I don't own a car, and walking long distances with it is bad is difficult. Since my bike accident, i haven't been able to carry heavy loads for too long. Luckily, i went to my parent's house on sunday. They have a car, and access to a terrific buy in bulk place. I bought a ton of black rice and some black beluga lentils! 
+    & My oven has been working overtime these days, I've been baking and roasting food almost everyday. I picked up a pack of heirloom carrots at the market last weekend, threw them in the oven with a bit of oil and served them over a bed of beluga lentils, all this, topped with a delicious spicy peanut butter sauce!
+    & Roasted carrots are sweet, a nice change from eating them raw. I could have easily eaten all 8 carrots myself, but alas i also need to feed Devine.
+    & I like buying grains or flours in bulk, but I don't always get to buy huge quantities; I don't own a car, and walking long distances with a heavy load can be difficult at times. Since my bike accident, i haven't been able to carry heavy stuff for too long. Luckily, I went to my parent's house on sunday, they have a car, and access to a terrific bulk food store. I bought a ton of black rice and some black beluga lentils! 
     & Beluga lentils aren't the cheapest kind you can get, but certainly a wonderful addition to my black food pantry.
     & Worth mentioning, that the idea to make a recipe with beluga lentils was inspired by Meike Peter's {{beluga lentil salad recipe|http://eatinmykitchen.meikepeters.com/beluga-lentil-salad-with-pear-blue-cheese-and-thyme/}}. 
   INST
@@ -272,8 +251,7 @@ ROASTED CARROTS WITH BELUGA LENTILS
 MATCHA PANCAKES
   DATE : 2014-10-28
   TAGS
-    morning
-    japanese
+    breakfast
   TIME : 30
   SERV : 2 servings
   DESC
@@ -309,15 +287,12 @@ KURO PRETZELS
   DATE : 2014-11-03
   TAGS
     bread
-    snack
-    black
-    sidedish 
   TIME : 130
   SERV : 4 pretzels
   DESC
-    & I don't buy bread anymore, since i've discovered the joys of home-baking! I still like to go to my neighbourhood  bakery though, to get ideas and inspiration. My latest bread experiment, is pretzels. 
-    & You can find black breads in some japanese bakeries, though it isn't common here in Montreal. If available, I wonder if people would buy them. Unfortunately, black is synonymous with 'burnt' and 'rotten'.
-    & Those who think this way are missing out! Black bread is as good as any other bread, and will please the dark abyss, that is your stomach.
+    & I don't buy bread anymore, since i've discovered the joys of home-baking! I still like to go to my neighbourhood bakery though, to get ideas and inspiration. My latest bread experiment, is pretzels. 
+    & You can find black breads in some japanese bakeries, though it isn't common in Montreal. If available, I wonder if people would buy them. Unfortunately, black is synonymous with 'burnt' and 'rotten'.
+    & Black bread is as good as any other bread, and will please the dark abyss that is your stomach.
     & This recipe was adapted from {{Alton Brown's|http://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe.html}}. I'm still new at baking, I'm learning a lot about it. It's great to have so many resources online to learn from! These pretzels are best eaten on the same day!
   INST
     Preparation
@@ -355,12 +330,11 @@ BLACK SESAME BRITTLE
   DATE : 2014-11-06
   TAGS
     dessert
-    black
   TIME : 20
   SERV : 10 pieces
   DESC
-    & Sesame brittle looks impressive when served over desserts, it looks like pieces of black coral. If you like the nutty taste of sesame seeds with a bit of sweet, you will love this recipe.
-    & It's simple to make, but requires all of your attention. The sugar syrup becomes solid when cool ,which means every step needs to be done quickly. These are no-bake, and are ready to eat almost instantly.
+    & Sesame brittle looks impressive when served over desserts, like pieces of black coral. If you like the nutty taste of sesame seeds with a bit of sweet, you will love this recipe.
+    & It's simple to make, but requires all of your attention. The sugar syrup becomes solid when cool, which means every step needs to be done quickly. These are no-bake, and are ready to eat almost instantly.
     & These should be served over desserts that aren't too sweet, the sweet of the sesame brittle can be a bit much. I suggest serving it with fruit, or kanten (agar agar based desserts).
   INST
     Preparation
@@ -380,17 +354,14 @@ SPINACH OATMEAL COOKIES
   DATE : 2014-11-13
   TAGS
     cookies
-    dessert
   TIME : 20
   SERV : 5 pieces
   DESC
-    & Wanted to make green cookies, didn't know what i wanted in them, but i knew i wanted THAT colour. Spinach was an obvious choice, plus i had some left-over from yesterday. 
-    & I've been having a lot of baking failures, I needed something simple to make that didnt involve flour. 
-    & Flour is fussy, flour is mean. 
-    & Using oats for bulk is a great, and healthier alternative to flour (plus it's hard to fuck up.) Failing at food is the worse, i can never bring myself to throw it away. It feels like a waste to trash it, so I end up storing it in the back of the fridge. In refrigerators, unlike on school buses, the cool kids don't hang out in the back. After 3 days my anger subsides, and I toss it in the garbage and deny ever making it.
+    & When making green cookies, spinach is an obvious choice. It adds colour, nutrition, and doesn't alter the flavour of the food.
+    & I've been having a lot of baking failures as of late, I needed something simple to make that didnt involve flour - flour is fussy, flour is mean. 
+    & Using oats for bulk is a great, and healthier alternative to flour (plus it's hard to mess up.) Failing at food is the worse. I can never bring myself to throw it away. It feels like a waste to trash it, so what happens is I end up storing it in the back of the fridge. In refrigerators, unlike on school buses, the cool kids don't hang out in the back. After 3 days my anger subsides, and I toss it in the garbage and deny ever making it.
     & On a brighter note, THESE cookies were crazy successful! Super moist, tasty and GREEN.
     & Plus, these don't take a very long time to make. It makes 5 small cookies, it's easy and doesn't make a mess. I never bake huge batches of desserts, but if you want more you can double or triple the recipe easily.
-    ? Rekka
   INST
     Preparation
       - Preheat oven to 350F
@@ -409,15 +380,14 @@ SPINACH OATMEAL COOKIES
 BORSCHT WITH TOFU SOUR CREAM
   DATE : 2014-11-16
   TAGS
-    soup
     sidedish
   TIME : 60
   SERV : 4 quarts
   DESC
-    & Funny to think that when i was a kid, i didn't want to go anywhere near beets. For the longest time, it was this thing that my family served around xmas time and that i didn't like. How things change! I buy beets regularly now, I use it to make pasta sauce, to serve over salads, to mix into smoothies and now to make Borscht!
-    & Devine has been taking russian classes every week, and he comes back from his lessons with new words to teach me. Last week, he not only returned with new words, he also brought back a Borscht recipe. Borscht fits perfectly in the Grim Grains universe - It's bright, red, beautiful and delicious! This recipe was inspired by hers.
+    & Funny to think that when I was a kid, I didn't want to go anywhere near beets. For the longest time, it was this thing that my family served around xmas time and that i didn't like. How things change! I buy beets regularly now, I use it to make pasta sauce, to serve over salads, to mix into smoothies and now to make Borscht!
+    & Devine has been taking russian classes every week, and he comes back from his lessons with new words to teach me. Last week, he not only returned with new words, he also brought back a Borscht recipe. Borscht fits perfectly in the Grim Grains universe - It's bright, red, beautiful and delicious! 
     % recipes/borscht.with.tofu.sour.cream.1.jpg
-    & Borscht is traditionally served with sour cream, so evidently i needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
+    & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
   INST
     Tofu sour cream
       - Drain the pack of silken tofu, press it lightly with a cloth or paper towels to remove some of the water.
@@ -454,19 +424,15 @@ BORSCHT WITH TOFU SOUR CREAM
 DARK YAKI GYOZA
   DATE : 2014-12-17
   TAGS
-    japanese
-    black
-    dinner
     sidedish
   TIME : 60
   SERV : 40 wrappers
   DESC
-    & Late-night gyoza at izakaya, is one of the things i miss the most about living in Tokyo. Maybe not one of the healthiest late-night eats, but a DELICIOUS one. These are very unconventional gyoza, black on the outside, and red and orange on the inside.
+    & Late night gyoza at izakaya, is one of the things i miss the most about living in Tokyo - maybe not one of the healthiest late night eats, but a DELICIOUS one. These are very unconventional gyoza, black on the outside, and red and orange on the inside.
     % recipes/dark.yaki.gyoza.1.jpg
-    & We made homemade gyoza dough with some friends a few weeks back, it took FOREVER. Devine had the amazing idea of using our pasta maker to do it. We still needed to do a bit of kneading, to get it through the machine the first time. After that, it's easy and sweat-free!
+    & We made homemade gyoza dough with some friends a few weeks back, and it took FOREVER. Devine had the amazing idea of using our pasta maker to do it. We still needed to do a bit of kneading, to get it through the machine the first time. After that, it's easy and sweat-free!
     % recipes/dark.yaki.gyoza.2.jpg
-    & We didn't have any round cookie cutters, the last time we tried i was using upside down glasses. Didn't work well because the rims aren't sharp. Again, Devine had a stroke of genius. Cans! I had an empty chickpea pan lying around, it was about the size of a gyoza wrapper so we used that to poke holes through the dough.
-    ? Genius right?
+    & We didn't have any round cookie cutters, the last time we tried I was using upside down glasses. Didn't work well because the rims aren't sharp and smooshes the dough down instead. Again, Devine had a stroke of genius: Cans! I had an empty chickpea pan lying around, it was about the size of a gyoza wrapper so we used that to poke holes through the dough. Genius right?
     & I know not everyone has a pasta maker, you don't need one to make wrappers. You can just use a rolling pin.
     % recipes/dark.yaki.gyoza.3.jpg
     & The fillings was another experiment, since i like to cook with colours in mind, i wanted something that would contrast the black. Beet and carrots seemed like an obvious choice. Unconventional, as far as traditional japanese gyozas go, but very delicious and very beautiful.
@@ -474,6 +440,7 @@ DARK YAKI GYOZA
     & We had a lot of fun making these gyoza, it's best made and eaten with friends!
     % recipes/dark.yaki.gyoza.5.jpg
     & Gyoza wrapper techniques and ratios were based on the recipe from {{Just one cookbook|http://www.justonecookbook.com/recipes/gyoza-wrappers/}}. She explains it really well too on her blog it's worth taking a look. I learned a lot from her even if our techniques differ slightly. While I preferred not to knead by hand, or with a rolling pin, i did do it her way the first time.
+    & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Dough
       - Mix 2 cups of all purpose flour with 1 tsp of bamboo charcoal powder in a bowl.
@@ -528,15 +495,13 @@ RAISIN BEET BREAD
   DATE : 2014-12-20
   TAGS
     bread
-    dessert
-    morning
   TIME : 60
   SERV : 1 loaf
   DESC
     & I present to you a sweet bread that you can have in the morning for breakfast, or as a dessert.
-    & I baked a similar bread for my dad a few weeks ago. He's truly the best dad, whenever me or my sisters ask for help, he always says yes. No hesitation, ever. He wouldn't ever think of refusing, the thought probably never even crosses his mind. Can't say how thankful I am to have someone like that in my life. Because of everything he does for me, once in a while I bring him some raisin bread.
+    & I baked a similar bread for my dad a few weeks ago. He's truly the best dad. Whenever me or my sisters ask for help, he always says yes. No hesitation, ever. He wouldn't ever think of refusing, the thought probably never even crosses his mind. Can't say how thankful I am to have someone like that in my life. Because of everything he does for me, once in a while I bring him some raisin bread.
     % recipes/raisin.beet.bread.1.jpg
-    & If like my dad you like raisin bread, you will love this sweet raisin beet bread. It's halfway between a cake and bread. Adapted from one of my mom's old cookbook by Margo Oliver \"les menus de margo oliver\"
+    & If like my dad you like raisin bread, you will love this sweet raisin beet bread. It's halfway between a cake and bread. Adapted from one of my mom's old cookbook by Margo Oliver {*les menus de margo oliver*}. 
     & It's simple to make, and you can replace the raisins for cranberries or even chocolate chips for a different taste! If you make my recipe, just be sure to add plenty of raisins on top! I emptied a bag on it, without regret. They'll get super crispy, and will develop a sweet crispy caramelized taste. Was hard to keep myself from picking them off, Devine hates it when I do that.
   INST
     Preparation
@@ -567,13 +532,10 @@ MISO VEGGIE PATE
   DATE : 2014-12-28
   TAGS
     sidedish
-    dinner
-    japanese
   TIME : 60
   SERV : 4 blocks
   DESC
     & Végé pâté is a quebec staple food, it's one of those things that you never think to make yourself. Every picnic i had this summer included this, it's great with veggies, on crackers and in sandwiches too! Purchasing it pre-made can get expensive, and not all kinds are good. This summer i decided to make it myself.
-    & I like japanese food a lot, I cook it every week. It's not surprising that my Végé pâté would contain japanese ingredients. 
     & A lot of végé pâté recipes call for whole wheat flour, I've made it using it before with great results. If you don't have oats, you can use whole wheat flour instead. AUsing oats as a substitute works great, I always have a bucket-load of steel-cut oats lying around. To grind it down into flour i use my blender stick, it takes more time but it works well! 
   INST
     Preparation
@@ -604,7 +566,6 @@ PERSIMMON CURRY
   DATE : 2015-01-03
   TAGS
     rice
-    indian
   TIME : 30
   SERV : 2 servings
   DESC
@@ -641,10 +602,6 @@ SIMPLE DOCTOR WHO CAKE
   DATE : 2015-01-06
   TAGS
     dessert
-    geek
-    vegan
-    lemon
-    cake
   TIME : 60
   SERV : 12 servings
   DESC
@@ -702,12 +659,11 @@ SIMPLE DOCTOR WHO CAKE
 MASON JAR BREAD PUDDING
   DATE : 2015-01-08
   TAGS
-    bread
     dessert
   TIME : 30
   SERV : 1 serving
   DESC
-    & Bread pudding was one of my favourite desserts when I was a kid. We would usually have some after the holidays, thanks to my aunt's crust-less sandwiches! She would usually just give the bag of crusts to my mom, which she in turn, used to make bread pudding.
+    & Bread pudding was one of my favourite desserts when I was a kid. We would usually have some after the holidays, thanks to my aunt's crust-free sandwiches! She would usually just give the bag of crusts to my mom, which she in turn, used to make bread pudding.
     % recipes/mason.jar.bread.pudding.1.jpg
     & I asked my mom for her personal bread pudding recipe, but she told me that it was best to just watch her do it. There aren't really any specific measurements, she just makes it from memory. That's the case with most of her recipes, most of them have never been written down. That's about to change though, I asked her to make a little booklet for me.
     & I like the idea of having a book of 'mom food', mom food is the best.
@@ -739,9 +695,6 @@ BASIC BLACK BREAD
   DATE : 2015-01-11
   TAGS
     bread
-    black
-    sidedish
-    sandwich
   TIME : 140
   SERV : 1 loaf
   DESC
@@ -755,6 +708,7 @@ BASIC BLACK BREAD
     & I made this loaf for a brunch I had with friends, we wanted to have fondue with a set I got as a gift during the holidays. We  cut the loaf into cubes, and dunked them in! Soft bread is perfect for fondue!
     % recipes/basic.black.bread.2.jpg
     & So there you have it! A basic black bread! 
+    & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Loaf
       - In a large bowl, stir 1 1/2 tsp of salt and 3/4 tbsp of maple syrup in 1 cup of warm water until dissolved. Sprinkle tsp of active dry yeast, let sit for 10 minutes.
@@ -793,11 +747,10 @@ SHICHIMI TOGARASHI CRACKERS
   DATE : 2015-01-14
   TAGS
     snack
-    japanese
   TIME : 40
   SERV : 30 crackers
   DESC
-    & Japanese konbini always have a ton of fun flavours for crackers and chips. Anything shiso, or ume flavoured are insta-buys for me. I remember chips with a wasabi and ume flavour <3. Stuff like that isn't as available in Montreal, but at least you can find other things like shichimi togarashi! If you like spicy savoury snacks, this is for you!
+    & Japanese konbini always have a ton of fun flavours for crackers and chips. Anything with shiso, or ume flavoured are insta-buys for me. Stuff like that isn't as available in Montreal, but at least you can find other things like shichimi togarashi! 
     & Ume and shiso aren't anything like shichimi togarashi. Originally, i wanted to make senbei but since i recently purchased a bag of chickpea flour, i wanted to have a recipe using that. Senbei is typically made with rice flour and/or rice left-overs. I don't have rice left-overs on hand, we usually just eat it all on the same day. I never make extras.
     & When i decided i was going to make this, i didn't have any shichimi togarashi left, so I made my own! if you have a well-stocked spice rack, you can easily make it yourself. 'Shichimi togarashi' means '7-flavour chili pepper'. If you have some already at home just use that, but if you don't all you need is to grind these spices together - 
     & 2 tbsp chili flakes but if you don't all you need is to grind these together - 2 tbsp chili flakes 1 tbsp sanshou (sichuan peppercorns) 1 tbsp roasted orange peel 1 tbsp black sesame seeds 1 tbsp white sesame seeds 2 tsp ground ginger and 2 tbsp nori (or aonori).
@@ -807,7 +760,7 @@ SHICHIMI TOGARASHI CRACKERS
     Preparation
       - Preheat oven to 350F
       - In a bowl, combine 1 cup chickpea flour, 1 tbsp ground flax seeds, a pinch of baking soda, 1/2 tsp sesame oil, 1/2 tsp of sea salt and 3 tsp shichimi togarashi.  Stir in 1/4 cup of water, mix until well combined and form into a ball. <small>Add extra chickpea flour if the dough is too sticky, 1 tbsp at a time</small>
-      - Flatten ball of dough in-between two sheets of parchment paper with a rolling pin, get it into a 1/4\" thick rectangle.
+      - Flatten ball of dough in-between two sheets of parchment paper with a rolling pin, get it into a 1/4" thick rectangle.
       - Cut about 10 half-inch wide strips of nori and line on top of flattened dough, leaving some space between each piece. If the nori doesn't stick you can brush the top with a bit of soy sauce (or water).
       - Slice the dough into squares and poke holes in  with a toothpick so the crackers so they don't puff up. Place on a baking sheet and bake for 15-20 minutes or until golden brown.
       - Let cool, snap pieces apart and enjoy!
@@ -856,7 +809,7 @@ BLACK GNOCCHI
   TIME : 60
   SERV : 6 servings
   DESC
-    & A few weeks ago, I asked people what they wanted to see me cook. Some of you asked for black gnocchi, so here they are! Made from scratch, beautiful and black. Topped with a light and sweet sauce, fresh scallions and daikon!
+    & A few weeks ago, I asked people what they wanted to see me cook. Some asked for black gnocchi, so here they are! Made from scratch, beautiful and black. Topped with a light and sweet sauce, fresh scallions and daikon!
     & As it turns out, making gnocchi is long. It's well worth the effort, but if you're planning on making some, clear your afternoon or get a friend to help.
     % recipes/black.gnocchi.1.jpg
     & I started cooking these early in the day, around 9 in the morning. Every step takes time. You have to wait for the potatoes to bake, wait for them to cool down, you need to remove the skins etc. Skipping any of those steps will result in a gnocchi disaster, nothing worse than an uneatable meal. 
@@ -865,6 +818,7 @@ BLACK GNOCCHI
     & For the topping, I wanted a ton of scallions with mushrooms and seaweed. I miss the pasta in italian restaurants in japan, they always had some with japanese-style toppings. Since i'm currently on a shichimi togarashi binge, (left-over from my cracker recipe) I included some in this recipe as well.
     % recipes/black.gnocchi.3.jpg
     & Because the sauce and toppings are light and simple, you can focus on the texture of the gnocchi. 
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Gnocchi
       - Preheat oven to 400F . Bake potatoes until fork tender. Peel skins off and mash them up with a fork or food processor. Let cool completely <small>You can also boil them until fork tender</small>
@@ -899,19 +853,16 @@ ROASTED BEET LENTILS
   DATE : 2015-02-02
   TAGS
     dinner
-    black
   TIME : 60
   SERV : 2 servings
   DESC
-    & I wasn't always a fan of beets, that is, until i started to oven-roast them. Since then, i've been making recipes with beets almost every week. Including this simple, and amazingly delicious beet sauce!
-    & Yes, you could say i'm beet crazy. Trust me, if you're not a fan of this root vegetable, this sauce will make you change your mind.
-    & I've had this sauce many times with pasta, or just as a simple vinaigrette for lazy weekday green bowls.
+    & I wasn't always a fan of beets, that is, until i started to oven-roast them. Since then, i've been making recipes with beets almost every week, including this simple, and amazingly delicious beet sauce!
+    & Yes, you could say i'm beet crazy. Trust me, if you're not a fan of this root vegetable, this sauce will make you change your mind. I've had this sauce many times with pasta, or just as a simple vinaigrette for lazy weekday green bowls.
     & To prepare this recipe, wash the beets and cut them into wedges. Toss them with a bit of oil and herbs bake them in the oven for 40 minutes. It's that simple! If they're organic, you can keep the skins on, otherwise peeling them is better.
     % recipes/roasted.beet.lentils.1.jpg
     & Beets make any dish beautiful, but it can do a number on your hands and fingers. Not to worry though it doesn't stay ;). You'll just look like you killed something.
     & Fresh mint is key in this recipe! Don't omit it! I wish i had a mint plant growing in my appartment, i had one last summer but it died. My plants always die, growing plants indoors has always been a challenge for me.
     & If you have a fresh healthy plant LUCKY YOU! Otherwise, store-bought herbs will do. Know that if you do buy a bouquet of mint, you can keep them fresh longer if you do these simple steps - Tear off any wilted leaves wash the mint gently put the stalks in a glass with a bit of water put a plastic bag over it and stick it in the fridge.
-    & Simple right?
   INST
     Lentils
       - Wash 1/2 cup of beluga lentils. Put 1 1/3 cup of vegetable bouillon in a pot and add the lentils, bring to a boil.
@@ -943,12 +894,10 @@ HEART BEET BAGELS
   DATE : 2015-02-12
   TAGS
     bread
-    holiday
-    morning
   TIME : 120
   SERV : 10 servings
   DESC
-    & These beautiful heart beet bagels can be made for valentine's day, but imagine how great a thing it would be, to make these for someone you care about on a random day... for no specific reason. We shouldn't wait for special occasions, to cook amazing food for the people we love. Make some pink bagels today, just because!
+    & These beautiful heart beet bagels can be made for valentine's day, but imagine how great a thing it would be, to make these for someone you care about on a random day... for no specific reason. We shouldn't wait for special occasions to cook amazing food for the people we love. Make some pink bagels today, just {*because*}!
     & Bagels are definitely a montreal thing. Walking by Fairmount bagel or St-Viateur, and not purchasing freshly baked goods is next to impossible.
     % recipes/heart.beet.bagels.2.jpg
     & The smell is just amazing.
@@ -984,20 +933,16 @@ HEART BEET BAGELS
 TERIYAKI CARROT PATTIES
   DATE : 2015-02-17
   TAGS
-    entree
     sidedish
   TIME : 40
   SERV : 2 servings
   DESC
-    & If you're searching for entree ideas look no further! These curried carrot patties drizzled with teriyaki sauce, with a side of freshly baked kale chips will hit the spot.
-    & Taking the time to cook good food, is important.
-    & Someone said this to me ages ago, never forgot it.
+    & Curried carrot patties drizzled with teriyaki sauce, with a side of freshly baked kale chips - yum!
+    & Taking the time to cook good food, is important. Someone said this to me ages ago, never forgot it, but it took me a while to understand and to do that myself. I now take the time, because food matters, a lot. 
     % recipes/teriyaki.carrot.patties.1.jpg
-    & Cooking isn't just about getting your hunger pangs to go away, it's also a time to be creative.
-    & Eating is a truly complete sensory experience.
+    & Cooking isn't just about getting your hunger pangs to go away, it's also a time to be creative. Eating is a truly complete sensory experience.
     % recipes/teriyaki.carrot.patties.2.jpg
-    & With this recipe, I wanted to make something beautiful. I didn't have to go out to get special ingredients, I just looked in my fridge and used whatever I had on hand. If you're planning a meal but are missing an item, try and see what else you can use instead. 
-    & Doing this, will make you a more creative cook.
+    & With this recipe, I wanted to make something beautiful. I didn't have to go out to get special ingredients, I just looked in my fridge and used whatever I had on hand. If you're planning a meal but are missing an item, try and see what else you can use instead. Doing this, will make you a more creative cook.
     & Cooking is important kids. Find the time to do it!
   INST
     Patties
@@ -1033,16 +978,12 @@ SAVOURY TURMERIC COOKIES
   DATE : 2015-02-19
   TAGS
     cookies
-    dessert
   TIME : 30
   SERV : 16 servings
   DESC
-    & Sweet and savoury turmeric spiced cookies, are as delicious as they sound. These yellow treats will help brighten up cold, and grey winter days.
-    & I did say I liked cooking by colour, this is what motivated this recipe.
+    & Sweet and savoury turmeric spiced cookies, are as delicious as they sound. These yellow treats will help brighten up cold, and grey winter days. I did say I liked cooking by colour, this is what motivated this recipe.
     % recipes/savoury.turmeric.cookies.1.jpg
-    & Turmeric powder is often used as a dye for clothes, and thusly will make your cookies very yellow!
-    & These cookies have the right amount of sweet.
-    & I had some leftover spelt flour in my cupboard, a lonely portion that had been forgotten, hidden away under bags of rice flour. Of course, this recipe can be made without it, or by replacing it with whole wheat flour.
+    & Turmeric powder is often used as a dye for clothes, and thusly will make your cookies very yellow! These cookies have the right amount of sweet. I had some leftover spelt flour in my cupboard, a lonely portion that had been forgotten, hidden away under bags of rice flour. Of course, this recipe can be made without it, or by replacing it with whole wheat flour.
     % recipes/savoury.turmeric.cookies.2.jpg
     & I suggest pairing these with tea, i always drink a ton of it come February. It's the toughest month to go through, temperature is still in the -15C average here in Montreal. Can't go grocery shopping without my hands and feet freezing over.
     & Hopefully these tea-side treats will help brighten your day!
@@ -1069,8 +1010,6 @@ SWEET MOCK EEL NIGIRI
   DATE : 2015-02-24
   TAGS
     dinner
-    japanese
-    black
   TIME : 50
   SERV : 2 servings
   DESC
@@ -1078,7 +1017,7 @@ SWEET MOCK EEL NIGIRI
     & Yellow on black, needed to make it happen.
     & Burmese tofu is not really tofu, i know, that's confusing. At first, i thought it was tofu blended with turmeric. It has a yellow tint, and it's because Burmese tofu is chickpea based! The cool thing about it, is that it takes 10 minutes to make and sets 1 hour. It's a great soy-free alternative, and the texture is comparable to that of silken tofu.
     % recipes/sweet.mock.eel.nigiri.1.jpg
-    & I bought Chickpea flour for the first time around xmas, wasn't sure how to use it. I often purchase ingredients i don't know, and learn how to use them. I found a re-write of a chickpea tofu recipe online. The original recipe, I believe, was sourced from a book called <a href=\"http://www.amazon.com/gp/product/0871317680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871317680&linkCode=as2&tag=girl07-20\">The Burmese kitchen - recipes from the golden land</a> by Aung Thein.
+    & I bought Chickpea flour for the first time around xmas, wasn't sure how to use it. I often purchase ingredients i don't know, and learn how to use them. I found a re-write of a chickpea tofu recipe online. The original recipe, I believe, was sourced from a book called {{The Burmese kitchen|http://www.amazon.com/gp/product/0871317680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871317680&linkCode=as2&tag=girl07-20}} by Aung Thein.
     % recipes/sweet.mock.eel.nigiri.2.jpg
     & This recipe will use up about half of the burmese tofu, which means you'll have a whole other half to use in other meals.
     & I decided to make a mock eel nigiri, like the one i made a few months ago. The sauce that is served over eel kabayaki is sweet, with hints of caramel. I thought it would taste great atop of the burmese tofu. 
@@ -1122,13 +1061,10 @@ MANGO SESAME RICE PANCAKES
   DATE : 2015-02-26
   TAGS
     breakfast
-    black
-    dessert
-    morning
   TIME : 20
   SERV : 12 servings
   DESC
-    & Black sesame rice pancakes, with a generous dollop of mango. Because sometimes, we all need a break from maple syrup.
+    & Black sesame rice pancakes, with a generous dollop of mango. Because sometimes, we all need a break from maple syrup. Okay, i hear you, no we don't - but here's something different anyway! 
     & Made matcha rice pancakes for Devine a few days ago, since I made a double recipe we ended up having left-over batter. It doesn't keep well, so we ate it that same night. I paired the remaining 2 pancakes with a bit of fresh mango and MAN! It tastes so damn GOOD together!
     & I made it into a recipe, but used ground black sesame instead of matcha. The nutty taste of sesame paired with mango is perfect. Dressing pancakes with maple syrup is fine, but the sugar high i get after is not. I feel like my heart is going to burst out of my chest, 'alien-style'.
     & No one likes that, i'd like my innards to stay where they are thank you!
@@ -1158,8 +1094,6 @@ MUSHROOM ZUCCHINI PASTA
   DATE : 2015-03-03
   TAGS
     pasta
-    dinner
-    japanese
   TIME : 20
   SERV : 4 servings
   DESC
@@ -1233,7 +1167,6 @@ GREEN CHILE MAC N CHEESE
   DATE : 2015-03-13
   TAGS
     pasta
-    dinner
   TIME : 40
   SERV : 2 servings
   DESC
@@ -1321,19 +1254,18 @@ CHILI POMEGRANATE BROWNIES
 BLACK FRENCH TOAST
   DATE : 2015-03-23
   TAGS
-    morning
-    bread
-    black
+    breakfast
   TIME : 20
   SERV : 4 servings
   DESC
     & I baked a beautiful loaf of black sandwich bread, just to use in this recipe. Doesn't the idea of black french toast sound amazing? With a banana-base, and topped with freshly cut kiwi slices no less!
-    & It was my first time baking black bread in a bread pan; usually I just opt for free-form loaves. But for sandwich and french toast purposes, it would work better if it was in that shape. You can make your own black bread, using my <a href=\"http://grimgrains.com/basic+black+bread\">basic black bread</a> recipe - it's very easy to make.
+    & It was my first time baking black bread in a bread pan; usually I just opt for free-form loaves. But for sandwich and french toast purposes, it would work better if it was in that shape. You can make your own black bread, using my {{Basic black bread|http://grimgrains.com/basic+black+bread">basic black bread}} recipe - it's very easy to make.
     % recipes/black.french.toast.1.jpg
-    & Usually when I make french toast, i'll use a soy milk as a base. I made some recently, using The simple veganista's <a href=\"http://thesimpleveganista.blogspot.ca/2013/02/banana-french-toastyes-please.html\">Banana french toast</a> recipe. I thought the idea was brilliant - i do love bananas in my breakfasts. By the way, she has a great 'orange french toast' recipe on her blog - you should make that too. 
+    & Usually when I make french toast, i'll use a soy milk as a base. I made some recently, using The simple veganista's {{banana french toast|http://thesimpleveganista.blogspot.ca/2013/02/banana-french-toastyes-please.html}} recipe. I thought the idea was brilliant - i do love bananas in my breakfasts. By the way, she has a great 'orange french toast' recipe on her blog - you should make that too. 
     & Using bananas, makes for a more consistent morning meal. Most french toast recipes add nutmeg and cinnamon, but I prefer to just taste the fruit - Devine isn't a huge nutmeg fan anyway.
     % recipes/black.french.toast.2.jpg
     & Made these on a weekday, tuesday morning french toast is great - fun breakfasts shouldn't only be reserved for weekends.
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Preparation
       - Puree 1 banana, 3/4 cup of soy milk and 1/2 tsp of vanilla extract using an immersion blender.
@@ -1354,8 +1286,6 @@ PANKO CHICKPEA FINGERS
   DATE : 2015-03-30
   TAGS
     sidedish
-    entree
-    dinner
   TIME : 90
   SERV : 24 servings
   DESC
@@ -1392,71 +1322,19 @@ PANKO CHICKPEA FINGERS
       Nutritional yeast : 1/4 cup
       Lemon juice : 4 tbsp
 
-FLAUTAS DE COLIFLOR
-  DATE : 2015-04-03
-  TAGS
-    dinner
-    mexican
-  TIME : 30
-  SERV : 5 servings
-  DESC
-    & Flautas de coliflor or 'Cauliflower flutes'; a delicious treat, consisting of curried cauliflower wrapped in corn tortillas, and draped with an avocado-coriander sauce. The flutes are also topped with some roasted, thyme-pumpkin bits.
-    & Typically, this type of dish is fried in oil; i thought they would be just as delicious as cold wraps. For a hot version, place in pan with a bit of vegetable oil (canola or corn oil) and fry until browned on both sides. Then, add the sauce and toppings.
-    & It's best to steam the tortillas, before spooning in the filling to help soften them. That way they can be folded easily, with no risk of tearing - No one wants torn tortillas.
-    % recipes/Flautas.de.coliflor.1.jpg
-    & Most people steam the tortillas beforehand with a microwave; to do this, put your tortillas in a bag, and heat for 30 seconds. Note that I don't have a microwave at home, it's an appliance I don't care to own. - i've always done well without it. If like me, you don't have one, you can use a big pot with a basket steamer, or a colander - it works just fine. Just make sure the water doesn't touch the bottom of your steamer, or colander; because what you will get are wet tortillas - much unpleasantness.
-    & Made these on a lazy sunday afternoon, it's quick and very delicious!
-  INST
-    Topping
-      - Preheat oven to 400F.
-      - Peel and cut pumpkin into cubes (~1/2 cup), toss with 1 tsp of olive oil and 1 tsp of dried thyme. Place on a baking sheet and bake for 25 minutes.
-    Sauce
-      - Puree 1 avocado with 3 tbsp lemon juice and 1/4 cup of fresh coriander. I added a 1/4 cup of water to thin it out. Season with black pepper and sea salt.
-    Tortillas
-      - Fill a large pot halfway with water, bring to a boil. Fit your steam basket in the pot, make sure the bottom doesn't the water. <small>alternatively you can use a metal colander, if yours is small enough to fit over your pot</small>
-      - Put a few tortillas inside and cover, let steam for a minute. If you're not going to be adding the filling right away, cover the tortillas with a damp cloth to keep them moist. 
-    Filling
-      - Put 2 cups of chopped cauliflower florets in a food processor, grind finely. 
-      - Heat 1 heaping tbsp of earth balance vegan butter in a pan at medium heat, add 1 chopped yellow onion as well as 1 tsp of cumin seeds. Cook until onions are translucent. Add the cauliflower onion mix as well as the 1/4 cup of soy milk, the tsp of curry powder and the tsp of turmeric. Mix well and season with black pepper and sea salt.
-      - Add the 2 minced garlic cloves near the end, let sit for 5 minutes and divide mixture into 5 tortillas.
-      - Pour sauce overtop as well as the pumpkin cubes!
-  INGR
-    Main
-      Corn tortillas : 5
-    Topping
-      Pumpkin : 1/2 cup, cubed
-      Olive oil : 1 tsp
-      Thyme : 1 tsp
-    Sauce
-      Avocado : 1
-      Lemon juice : 3 tbsp
-      Coriander : 1/4 cup
-      Water : 1/4 cup
-    Filling
-      White cauliflower : 2 cups
-      Vegan butter : 1 tbsp, earth balance
-      Yellow onion : 1/2
-      Cumin seeds : 1/4 tsp
-      Soy milk : 1/3 cup
-      Curry powder : 1 tsp
-      Ground turmeric : 1 tsp
-      Garlic : 2 cloves
-
 UZUMAKI HUMMUS BITES
   DATE : 2015-04-29
   TAGS
-    dinner
     sidedish
-    entree
   TIME : 50
   SERV : 11 tortillas
   DESC
     & Beet hummus bites, or 'uzumaki' bites, as i like to call them! Roasted beet hummus, black olives and aragula salad tucked into homemade bamboo charcoal tortillas.
     & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing i had trouble with, was making them into nice circular shapes. Not sure how people manage to do it, guess it takes practice. It's also because i'm short of a rolling pin, Devine broke the handles off the other day. I've been using the 'body' of the rolling pin, without the handles. It still works! Dans ta face, rolling pin!
     % recipes/uzumaki.hummus.bites.2.jpg
-    & Made the tortillas based on the recipe by Zerrin from <a href=\"http://www.giverecipe.com/basic-homemade-flour-tortillas.html\">Give recipe</a>. You should check out her page first, if you want to try and make your own tortillas. She describes it a lot better than I, not to mention her tortillas are circular. In my defense, she uses a tortilla press. 
+    & Made the tortillas based on the recipe by Zerrin from {{Give recipe|http://www.giverecipe.com/basic-homemade-flour-tortillas.html}} You should check out her page first, if you want to try and make your own tortillas. She describes it a lot better than I, not to mention her tortillas are circular. In my defense, she uses a tortilla press. 
     % recipes/uzumaki.hummus.bites.3.jpg
-    & Had a lot of fun making these, plus the end result is pretty! I feel like these would be really good, topped with a sauce of somekind. Any ideas?
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Beet hummus
       - Preheat oven to 375F.
@@ -1570,7 +1448,6 @@ WASABI SWIRL CHOCOLATE COOKIES
   DATE : 2015-05-18
   TAGS
     cookies
-    dessert
   TIME : 30
   SERV : 13 cookies
   DESC
@@ -1614,41 +1491,6 @@ WASABI SWIRL CHOCOLATE COOKIES
       Wasabi powder : 1 tbsp
       Soy milk : 1 1/2 tbsp
 
-BLACK BURGER BUNS
-  DATE : 2015-05-26
-  TAGS
-    bread
-    black
-  TIME : 60
-  SERV : 5 buns
-  DESC
-    & Simple black burger buns with white sesame seeds, ready in under 1 hour! Made with bamboo charcoal powder.
-    & There are days when I don't want to wait 3h for my bread to be ready, which was the case yesterday when I decided to make burger buns. Devine's sister was coming over for supper, and I had a lot of work to do that morning. Didn't want to spend the entire day running between my computer, and the kitchen. Making bread doesn't require a lot of active time, but i'd still need to check often. Sometimes, that's just enough to take all of my focus away.
-    & To minimize that, I made a quick savoury bread! The same one I made on Valentine's day that had a smoked paprika heart in the center (yes i know so cute. Paprika love.) That recipe was based off culinaire amoula's <a href=\"http://www.culinaireamoula.com/article-pain-au-cumin-et-paprika-118254678.html\">Cumin and paprika savoury bread</a>. I simplified the recipe, removing the spices, and divided it into 5 buns instead of two large loaves. I recommend trying out her recipe as well, it's so good. You can have the bread alone with green tea :).
-    % recipes/black.burger.buns.1.jpg
-    & I don't have a lot of experience with quick breads, i'm experimenting a lot though, to see what i can make in less time. Culinaire amoula's recipe helped me a lot, didn't think i could get bread that tasted this good, so quickly. It makes great burger buns! The bottom stays flat, so in the end you're not stuck with this weird 'ball bread.' My last burger was like that, and it made it hard to have it sit upright on a plate. No one wants to eat spherical burgers. 
-    & If you're in the mood for black burger buns, and need it done quickly, then try out this recipe!
-    & <h1>Try my other black bread recipes:</h1><a href=\"http://grimgrains.com/basic+black+bread\">Basic black bread</a><br><a href=\"http://grimgrains.com/no+knead+black+bread\">No-knead black bread</a>
-  INST
-    Preparation
-      - Put 1 tsp of sugar in 1/2 cup of warm water, let it dissolve. Sprinkle 1 tsp of active dry yeast over the water and let it stand for 10 min.
-      - Mix 1 1/2 cups of all purpose flour, 1/2 cup of whole wheat flour, 1 tsp of bamboo charcoal powder, 3 tbsp of sesame oil and a pinch of salt. 
-      - Pour wet into dry ingredients, knead into a smooth dough. Add more water as needed add 1 tbsp of water at a time
-      - Separate dough into 5 equal balls and let rest for 10 minutes, flatten down each ball into discs. Cover with a clean cloth and let rise in a warm place for 30 minutes. 
-      - Preheat oven to 350F . Brush the top of the burger breads with a bit of water, sprinkle some white sesame seeds on top pressing down gently to make sure they stick. 
-      - Bake for 20 minutes, optionally while they're still hot you can brush the top and sides of the buns with a bit of coconut oil to make the bread softer. Once the buns are cool, cut in two and serve with your choice of patty!
-  INGR
-    Main
-      Sugar : 1 tsp
-      Water : 1/2 cup, warm
-      Active dry yeast : 1 tsp
-      All purpose flour : 1 1/2 cups
-      Whole wheat flour : 1/2 cup
-      Bamboo charcoal powder : 1 tsp
-      Sesame oil : 3 tbsp
-      Sea salt : 1/4 tsp
-      White sesame seeds : 1 tbsp
-
 MANGO ICE CREAM WITH BLACK SESAME SYRUP
   DATE : 2015-06-01
   TAGS
@@ -1681,7 +1523,6 @@ HOP ICE CREAM
   DATE : 2015-06-28
   TAGS
     dessert
-    beer
   TIME : 600
   SERV : 1 quart
   DESC
@@ -1716,8 +1557,6 @@ SUNFLOWER HEIRLOOM CARROT PASTA
   DATE : 2015-07-16
   TAGS
     pasta
-    dinner
-    lunch
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1750,8 +1589,7 @@ SUNFLOWER HEIRLOOM CARROT PASTA
 CARROT KINPIRA ONIGIRAZU
   DATE : 2015-07-31
   TAGS
-    japanese
-    lunch
+    rice
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1817,11 +1655,13 @@ BALSAMIC BANANA ICE CREAM
 
 CURRIED PUMPKIN SEED PATE
   DATE : 2015-08-29
+  TAGS 
+    sidedish
   TIME : 60
   SERV : 4 blocks
   DESC
     & This time last year, Grim Grains was born. If you were there at the start of it all, you'll remember that the first recipe I posted was black scones (my lovely eatable meteorites). Cooking had become a passion, this blog needed to happen. I was freelancing back then, and had a lot of time to dedicate to the project. Nowadays, I work in studio all day and finding time to cook up new foods is tough. Because of this, my meals have become simpler. I feel my meals will continue to be simple, due to the fact that me and Devine will be embarking on an exciting new adventure next year: we want to live on a sailboat. If you've ever been on one, you know that space is an issue. I'm not only talking about storage, but also about refrigeration. Grim Grains will still happen, but will be very different. Hopefully, I'll still be able to make my own pâté.
-    & I wanted to try and re-create a curry pâté I had some time ago. While I didn't have sunflower seeds to use as a base, I had a jar full of pumpkin seeds! As you know, pumpkin seeds can be expensive, I recommend buying it in bulk (I ordered mine from Yupik.com). As with my veggie pate recipe, the seeds need to be soaked prior to blending. To learn more about the why's and how's of seed soaking check out the article <a href=\"http://healthyblenderrecipes.com/info/soaking_grains_nuts_seeds\">Soaking Nuts Seeds & Grains</a> by the Blender Girl.
+    & I wanted to try and re-create a curry pâté I had some time ago. While I didn't have sunflower seeds to use as a base, I had a jar full of pumpkin seeds! As you know, pumpkin seeds can be expensive, I recommend buying it in bulk (I ordered mine from Yupik.com). As with my veggie pate recipe, the seeds need to be soaked prior to blending. To learn more about the why's and how's of seed soaking check out the article {{Soaking nuts and seeds|http://healthyblenderrecipes.com/info/soaking_grains_nuts_seeds}} by the Blender Girl.
     & This pâté can be used on toast, sliced cucumbers or other veggies. Sometimes I cube it up and use it as a topping for salads and other meals.
   INST
     Preparation
@@ -1855,8 +1695,6 @@ FRESH PESTO PASTA
   DATE : 2015-09-22
   TAGS
     pasta
-    dinner
-    lunch
   TIME : 20
   SERV : 2 servings
   DESC
@@ -1917,8 +1755,6 @@ HALLOWEEN PUMPKIN COOKIES
   DATE : 2015-10-10
   TAGS
     cookies
-    halloween
-    dessert
   TIME : 30
   SERV : 15 cookies
   DESC
@@ -1962,7 +1798,6 @@ ROASTED YELLOW PEPPER PASTA
   DATE : 2015-10-25
   TAGS
     pasta
-    black
   TIME : 30
   SERV : 2 servings
   DESC
@@ -1971,6 +1806,7 @@ ROASTED YELLOW PEPPER PASTA
     % recipes/roasted.yellow.pepper.pasta.1.jpg
     & Please refer to my <a href=\"http://grimgrains.com/black+pasta\">black pasta recipe</a> to learn how to make your own!
     % recipes/roasted.yellow.pepper.pasta.2.jpg
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Preparation
       - Preheat your oven to 450F.
@@ -1993,7 +1829,6 @@ SALTED CARAMEL CAROB CHIP COOKIES
   DATE : 2015-11-15
   TAGS
     cookies
-    sweet
   TIME : 20
   SERV : 20 cookies
   DESC
@@ -2031,10 +1866,7 @@ SALTED CARAMEL CAROB CHIP COOKIES
 HIJIKI SOBA
   DATE : 2015-12-12
   TAGS
-    japanese
     pasta
-    dinner
-    lunch
   TIME : 40
   SERV : 2 portions
   DESC
@@ -2068,9 +1900,7 @@ HIJIKI SOBA
 CHICKPEA KELP SANDWICH
   DATE : 2016-01-18
   TAGS
-    sandwich
-    lunch
-    seaweed
+    dinner
   TIME : 20
   SERV : 4 portions
   DESC
@@ -2101,8 +1931,6 @@ BEER BREAD
   DATE : 2016-09-20
   TAGS
     bread
-    beer
-    sailboat
   TIME : 60
   SERV : 1 loaf
   DESC
@@ -2132,8 +1960,6 @@ CHARCOAL TOOTHPASTE
   DATE : 2016-11-05
   TAGS
     lifestyle
-    toothpaste
-    black
   TIME : 5
   SERV : 1 jar
   DESC
@@ -2160,8 +1986,6 @@ PAPAYA BRUSCHETTA TOPPING
   DATE : 2017-19-20
   TAGS
     sidedish
-    fruit
-    payapa
   TIME : 5
   SERV : 2-3 people
   DESC
@@ -2184,8 +2008,7 @@ PAPAYA BRUSCHETTA TOPPING
 PAN FRIED BREADFRUIT
   DATE : 2017-07-03
   TAGS
-    breadfruit
-    mushroom
+    dinner
   TIME : 1h30
   SERV : 4 people
   DESC
@@ -2218,8 +2041,7 @@ PAN FRIED BREADFRUIT
 CORN DUMPLINGS 
   DATE : 2017-14-08
   TAGS
-    cornmeal
-    asian
+    sidedish
   TIME : 40
   SERV : 2 people
   DESC
@@ -2259,7 +2081,6 @@ CORN DUMPLINGS
 BREADFRUIT GNOCCHI
   DATE : 2017-16-10
   TAGS
-    breadfruit
     pasta
   TIME : 90
   SERV : 4 people
@@ -2288,7 +2109,6 @@ BREADFRUIT GNOCCHI
 SPINACH FAUX CHEESE RAVIOLI
   DATE : 2017-16-10
   TAGS
-    cheese
     pasta
   TIME : 40
   SERV : 2 people
@@ -2332,7 +2152,6 @@ SPINACH FAUX CHEESE RAVIOLI
 BREADFRUIT PASTA
   DATE : 2018-11-10
   TAGS
-    breadfruit
     pasta
   TIME : 20
   SERV : 4 people
@@ -2417,7 +2236,6 @@ MUSTARD FROM SEED
   DATE : 2018-12-21
   TAGS
     condiment
-    basic
   TIME : 20
   SERV : 1 quarter pint (150ml)
   DESC

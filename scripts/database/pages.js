@@ -1,20 +1,19 @@
 DATABASE.pages = `
 ABOUT
-  BREF : I started {*Grim Grains*} to teach myself how to cook. This blog, which now doubles as a travel diary, helps measure my progress, while giving me another creative output. I cook and travel, and adapt to the local produce whenever possible. All of the recipes I make are plant-based, and tree-nut free (due to my allergy to them). 
+  BREF : We started {*Grim Grains*} to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps measure our progress, while giving us another creative output. We cook and travel, and adapt to the local produce whenever possible. All of the recipes we make are plant-based, and tree-nut free. 
   LONG
-    * Rekka
-    & This website showcases my favourite creations, along with handdraw illustrations for {{each ingredient|ingredients-list}}.
-    & I am {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, living on a small sailboat somewhere on the shores of the Pacific Ocean.
-    & You can contact me on my twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
+    * HundredRabbits
+    & This website showcases our favourite creations, along with handdraw illustrations for {{each ingredient|ingredients-list}}.
+    & We are {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, and {{Devine Lu Linvega|http://xxiivv.com}}, an artist/musician, living on a small sailboat somewhere on the shores of the Pacific Ocean. Hundredrabbits is the name of our {{floating studio|http://100r.co}}, we make {{games|https://100r.co/pages/games.html}}, {{tools|https://100r.co/pages/tools.html}} and delicious recipes as we travel.
+    & You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
     * Copyright policy
-    & You may adapt one of my recipes, but be sure to link back to the original recipe and to give proper credit.
-    & Opinions expressed by any third parties are theirs and do not reflect my own.
+    & You may adapt our recipes, but a link back or mention would be nice :).
     * Disclaimer
-    & The content of grimgrains.com, unless stated otherwise, is © Rekka Bell. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without my permission.
-    & All recipes featured on grimgrains.com are my own, unless stated otherwise. The information is for food enthusiasts like myself, i do not claim to be all-knowing. Nor am I a health professional. My views are my own, I encourage curiosity whenever possible.
+    & The content of grimgrains.com, unless stated otherwise, is © hundredrabbits. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without our permission.
+    & All recipes featured on grimgrains.com are our own, unless stated otherwise. The information is for food enthusiasts like ourselves, we do not claim to be all-knowing. Nor are we health professionals. Our views are our own, we encourage openness and curiosity whenever possible.
     * Privacy statement
-    & I reserve the right to alter the blog at my own discretion.
-    & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
+    & We reserve the right to alter the blog at our own discretion.
+    & Words addressed to us in private will not be shared, nor will we use any of it in future publications.
 
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
@@ -72,15 +71,4 @@ INGREDIENTS
   LONG
     & Select any item below to view recipes in which they were used and to find more information on them!
 
-DISCLAIMER
-  BREF : The content of grimgrains.com, unless stated otherwise, is © Rekka Bell. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without my permission.
-  LONG
-    * Copyright policy
-    & You may adapt one of my grim creations, but be sure to link back to the original recipe and to give proper credit.
-    & Opinions expressed by any third parties are theirs and do not reflect my own.
-    * Disclaimer
-    & All recipes featured on grimgrains.com are my own, unless stated otherwise. The information is for food enthusiasts like myself, i do not claim to be all-knowing. Nor am I a health professional. My views are my own, i encourage curiosity whenever possible.
-    * Privacy statement
-    & I reserve the right to alter the blog at my own discretion.
-    & Words addressed to me in private will not be shared, nor will i use any of it in future publications.
 `
