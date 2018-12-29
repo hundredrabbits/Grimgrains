@@ -2235,7 +2235,7 @@ PANDANUS FRUIT BREAD
 MUSTARD FROM SEED
   DATE : 2018-12-21
   TAGS
-    condiment
+    basic
   TIME : 20
   SERV : 1 quarter pint (150ml)
   DESC
@@ -2261,5 +2261,42 @@ MUSTARD FROM SEED
       Mustard seeds : 1/4 cup
       Apple cider vinegar : 45 ml
       Water : 20 ml
+
+CRACKERS
+  DATE : 2018-12-21
+  TAGS
+    basic
+  TIME : 25
+  SERV : 30 crackers
+  DESC
+    & Making crackers is simple, everyone should know how to make them. It's in everyone's best interest to know how things are made, there are no downsides to knowing, and in a bind it's a useful skill, but not just this - making your own produces less waste (packaging) and you control what you ingest (less salt, sugar etc). What's great about a basic recipe, is that you can swap ingredients with little consequence (most times) and you can add to it to suit your needs and cravings. 
+    & Devine & I love to eat crackers as snacks, usually between breakfast and lunch, a cracker with some peanut butter to quiet our stomachs. We also like to eat {{papaya salsa|https://grimgrains.com/#papaya+bruschetta+topping}} with crackers, it makes a good scooping vessel for the fruit.
+    & You can make these crackers without extras with just the 'cracker' portion of the recipe, they're just as delicious that way, but you can add seeds and spices for added flavour and nutrition. I like to add seeds to mine, like pumpkin seeds, flax seeds,  sesame seeds or sunflower seeds. I recommend adding black pepper, or chilis, these are also delicious if you sprinkle some salt overtop of them.
+    % recipes/crackers.1.jpg
+    & In this recipe, I recommend using a mortar and pestle to grind the oats, but a food processor will also work. You can use another sweetener, I used whole cane sugar because it's what's available to me at the moment, but otherwise i'd opt for maple syrup. I prefer to use a baking mat (I have a copper baking mat) than parchment paper, since it's reusable and easy to clean. 
+
+  INST
+    Crackers
+      - Preheat oven to {#400F#}.
+      - In a mortar, grind {#1/4 cup#} of {{oats}} into a fine powder. 
+      - Mix the {#1/4 cup#} of powdered {{oats}} (rough-ish grind is fine) with {#3/4 cup#} of {{spelt flour}}. Add {#1/3 tsp#} of {{salt}}, {#1 tbsp#} of {{whole cane sugar}} as well as {#1 1/2 tbsp#} of {{olive oil}}.
+      - If you want to add extras, add them now, and stir well.
+      - Add {#1/4 cup#} of {{water}}. Add extra tbsp of water if more moisture is needed and knead into a smooth ball.
+      - Split dough in two. Set your first ball of dough onto a baking mat, or parchment paper, and {_roll the dough into a thin (~3mm) rectangle_} with a rolling pin. 
+      - {_Score the dough_} into cracker-sized squares, it will be easier to separate them afterwards. Repeat for the second ball of dough.
+      - Bake for {#10-12 minutes#}, keep an eye on them to make sure they don't burn. Let cool, enjoy!
+
+  INGR
+    Crackers
+      Spelt flour : 3/4 cup
+      Oats : 1/4 cup, ground
+      Olive oil : 1 1/2 tbsp
+      Whole cane sugar : 1 tbsp
+      Salt : 1/3 tsp
+      Water : 1/4 cup + 2 tbsp
+    Extras
+      Pumpkin seeds : 2 tbsp
+      Black sesame seeds : 1 tbsp
+      Flax seeds : 1 tbsp
 
 `
