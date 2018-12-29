@@ -2263,11 +2263,11 @@ MUSTARD FROM SEED
       Water : 20 ml
 
 CRACKERS
-  DATE : 2018-12-21
+  DATE : 2018-12-29
   TAGS
     basic
   TIME : 25
-  SERV : 30 crackers
+  SERV : 40 crackers
   DESC
     & Making crackers is simple, everyone should know how to make them. It's in everyone's best interest to know how things are made, there are no downsides to knowing, and in a bind it's a useful skill, but not just this - making your own produces less waste (packaging) and you control what you ingest (less salt, sugar etc). What's great about a basic recipe, is that you can swap ingredients with little consequence (most times) and you can add to it to suit your needs and cravings. 
     & Devine & I love to eat crackers as snacks, usually between breakfast and lunch, a cracker with some peanut butter to quiet our stomachs. We also like to eat {{papaya salsa|https://grimgrains.com/#papaya+bruschetta+topping}} with crackers, it makes a good scooping vessel for the fruit.
