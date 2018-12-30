@@ -10,11 +10,11 @@ SPINACH PAJEON
     & A dish of korean inspiration! A delicious scallion pancake coloured green with spinach. This is a great way to add an extra portion of vegetables to your meal. 
   INST
     Pancake
-      - Blend 1/2 cup of spinach with 1/2 cup of water until smooth. Set aside.
-      - In a bowl, whisk together 1/2 cup of spelt flour, 1 tsp sesame oil and the blended spinach.
-      - Heat a large pan with 1 tsp of sesame oil over medium heat.
-      - Put the chopped scallions in the pan and pour the batter onto it. With a spatula, press down on the pancake to flatten it out. 
-      - Cook for 3-4 minutes until the sides come off the pan and the bottom is cooked. Flip, cook for a a few extra minutes and transfer to a plate.
+      - Blend {#1/2 cup#} of {{spinach}} with {#1/2 cup#} of {{water}} until smooth. Set aside.
+      - In a bowl, whisk together {#1/2 cup#} of {{spelt flour}}, {#1 tsp#} {{sesame oil}} and the blended spinach.
+      - Heat a large pan with {#1 tsp#} of {{sesame oil}} over {_medium heat_}.
+      - Put the chopped {{scallions}} in the pan and pour the batter onto it. With a spatula, press down on the pancake to flatten it out. 
+      - Cook for {#3-4 minutes#} until the sides come off the pan and the bottom is cooked. Flip, cook for a a few extra minutes and transfer to a plate.
       - Cut it into pieces to make it easier to dip into the sauce!
     Sauce
       - Put the sauce ingredients together in a bowl and mix!
@@ -43,10 +43,10 @@ HOUJICHA OVERNIGHT OATMEAL
     & Mornings are made better with the nutty and earthy flavour of houjicha oatmeal. If you're not familiar with houjicha, visit a tea shop and ask for it, it's a japanese roasted tea that is often served with sweet and savoury dishes. It's a good low-caffeine alternative to most teas, and adds just the right amount of flavour to oatmeal without overpowering it. 
   INST
     Preparation
-      - Boil 1 cup of water, then infuse 1 1/2 tsp of houjicha leaves in a tea strainer. <small>You can leave it anywhere from 1-3 min, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.</small>
-      - Remove the tea leaves and let it cool.
-      - Add a chopped banana, as well as the tbsp of ground flax seeds, blend until smooth. 
-      - Mix in 1/3 cup of oats, stir well, and then put it in the fridge overnight. Enjoy for breakfast the next day! 
+      - Boil {#1 cup#} of {{water}}, then infuse {#1 1/2 tsp#} of {{houjicha leaves}} in a tea strainer. You can leave it anywhere from {#1-3 min#}, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.
+      - Remove the tea leaves and let cool.
+      - Add a chopped {{banana}} (to cut the bitterness of the tea), as well as {#1 tbsp#} of ground {{flax seeds}} (for added nutrition), blend until smooth. 
+      - Mix in {#1/3 cup#} of {{oats}}, stir well, and then put it in the fridge overnight. Enjoy for breakfast the next day! 
   INGR
     Main
       Water : 1 cup
@@ -62,7 +62,7 @@ SEAWEED BITES
   TIME : 50
   SERV : 30 small cookies
   DESC
-    & Seaweed bites, a great snack packed with your a good dose of {*iodine*} - necessary for good health. These are highly addictive and sweet, beware :).
+    & Seaweed bites, a great snack packed with your a good dose of {*iodine*} - necessary for good health. These are highly addictive and sweet, beware.
     & I went all out this time, and used my fancy cookie cutters, but most times I just cut the sheets of dough into small squares with a regular knife. Using cookie cutters is longer, because I want to use every bit of the dough and that means re-using the bits around the cut outs. 
     & The cookies were adapted from a recipe by {{Kiuchi Yuki-san|http://www.food-sommelier.jp/recipe/R0123/173155.html}}
   INST
@@ -73,7 +73,7 @@ SEAWEED BITES
       - Put the wet ingredients with the dry ones, add {_2 tsp_} of shredded {{wakame}} and mix well.
     Baking
       - Form into a ball, put it in a bowl with a cover and stick it in the fridge for approximately {#20 minutes#}.
-      - Preheat your oven to {#350F#}. After the 20 minutes is up, take the dough out of the fridge and flatten it into a rectangle with a rolling pin to a thickness of about 1/2 cm. Cut into whatever shape you want! I had small flower-shaped cookie cutters so i used that, you can cut the dough into squares with a knife.
+      - Preheat your oven to {#350F#}. After the {#20 minutes#} is up, take the dough out of the fridge and flatten it into a rectangle with a rolling pin to a thickness of about {#1/2 cm#}. Cut into whatever shape you want! I had small flower-shaped cookie cutters so i used that, you can cut the dough into squares with a knife.
       - Prepare a baking sheet lined with parchment paper, bake for about {#15 minutes#} until they brown on top. 
       - Place on a cooling rack and enjoy!
   INGR
@@ -97,18 +97,16 @@ NO KNEAD BLACK BREAD
     & Getting your hands on bamboo charcoal isn't easy. I saw stores on amazon.com that stocked it, but nothing in my area. I bought a small amount at a health food store where I live, but it was a very small jar (also crazy expensive). After much searching, I concluded that the best place to get it was in Japan. I assumed it would be relatively easy to get over there, wrong again. It's almost impossible to purchase in store, or maybe i wasn't taking to the right people, or going to the right places.
     % recipes/no.knead.black.bread.1.jpg
     & I finally found some available for purchase on amazon japan. Since i lived in temporary housing, shipping there wasn't ideal. Luckily, a good friend agreed to have it shipped to her place and it arrived before i left the country! That's how i got my hands on bamboo charcoal powder! Wasn't easy, but i got it from the best possible source! I got it through {{Taketora|http://www.taketora.co.jp}}, they've been growing and making things out of bamboo for years and years. They're true artisans.
-    & Cooking with bamboo charcoal is a breeze, you don't need to add much to make your food black. It doesn't add taste to a recipe either, it's purely aesthetic. 
-    & Happy cooking!
-    ? Rekka
+    & Cooking with bamboo charcoal is a breeze, you don't need to add much to make your food black. It doesn't add taste to a recipe either, it's purely aesthetic. None that {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Preparation
-      - In a bowl, mix in 3 cups of all purpose flour, 2 tbsp of bamboo charcoal powder, 1 tsp of salt and 1/2 tsp of active dry yeast. Mix well, your dough should turn a light grey colour. When you add water it will darken.
-      - Add the 1 1/2 cups of water gradually, stirring it with a spoon into a relatively cohesive dough. The dough will be very wet, no need to add extra flour.
-      - Put a bag over the bowl, and let the dough rest anywhere from 9 to 24 hours. Ideally, prepare the dough late evening and let it rest overnight, you don't need to do anything to it. 
-      - The next morning, remove the plastic bag and place the dough on a lightly floured surface. Shape the dough into a ball. If too wet to handle, put some flour on your hands. You can make either one large loaf or two small ones with this recipe, i like to make two. Cover with plastic wrap.
-      - Pre-heat your oven to 450F, and place your bread pan or dutch oven in it. Once it's done pre-heating, take out the pan and put your dough inside, sprinkle some poppy seeds and press lightly to get them to stick. 
-      - Cover the bread pan with aluminum foil (or lid) and put it back in the oven for 30 minutes
-      - After 30 minutes, take the foil (or lid) off and let it cook for another 7 minutes or so. 
+      - In a bowl, mix in {#3 cups#} of {{all purpose flour}}, {#2 tbsp#} of {{bamboo charcoal powder}}, {#1 tsp#} of {{salt}} and {#1/2 tsp#} of {{active dry yeast}}. Mix well, your dough should turn a light grey colour. When you add water it will darken.
+      - Add the {#1 1/2 cups#} of {{water}} gradually, stirring it with a spoon into a relatively cohesive dough. The dough will be very wet, no need to add extra flour.
+      - Put a bag over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough late evening and let it rest overnight, you don't need to do anything to it. 
+      - The next morning, remove the bag and place the dough on a lightly floured surface. {_Shape the dough into a ball_}. If too wet to handle, put some flour on your hands. You can make either one large loaf or two small ones with this recipe, i like to make two. Cover with a bag, or towel.
+      - Pre-heat your oven to {#450F#}, and place your bread pan - or dutch oven - in it. Once it's done pre-heating, take out the pan and put your dough inside, sprinkle some {{poppy seeds}} (optional, but damn gorgeous) and press lightly to get them to stick. 
+      - Cover the bread pan with aluminum foil (or matching lid) and put it back in the oven for {#30 minutes#}.
+      - After 30 minutes, take the foil (or lid) off and let it cook for {#another 7 minutes#} or so. 
   INGR
     Main
       All purpose flour : 3 cups
@@ -117,30 +115,6 @@ NO KNEAD BLACK BREAD
       Water : 1 1/2 cups
       Active dry yeast : 1/2 tsp
       Poppy seeds : 1-2 tsp
-
-OVERNIGHT BANANA SPINACH OATMEAL
-  DATE : 2014-10-04
-  TAGS
-    breakfast
-  TIME : 10
-  SERV : 1 serving
-  DESC
-    & I bet you all remember the scene in the movie Hook, when the lost boys are sitting in front of an invisible buffet; The boys are trying to make Peter understand that he needs to imagine there is food on the table. The moment when that little switch turns on in his head, and he sees the feast, is one of my very favourites. A table covered with strange playdoh-like food, varying in colour, texture and shape. I've been wanting to re-create that buffet, to make something bizzare, yet eatable, and delicious. 
-    & This oatmeal is an attempt at doing just that, something that is very colourful, bizzare and beautiful. Pasta doesn't need to be beige and neither does your oatmeal.
-    & For those who worry about having spinach in oatmeal, know that you can't taste it in this. Also, why shouldn't you have greens in the morning? We all have these pre-conceived ideas of what morning meals should look like, or what they should include. 
-  INST
-    Preparation
-      - Combine 1/3 cup of rolled oats with 1/2 tsp of ground turmeric and a 2/3 cup of water (or your plant milk of choice) in a mason jar. Cover, and store in the refrigerator overnight.
-      - In the morning, blend together 1 banana, 1 tsp of maple syrup and a handful of spinach. Pour over your overnight turmeric oats, and top with a 1/4 cup of fresh blackberries.
-  INGR
-    Main
-      Oats : 1/3 cup, rolled
-      Ground turmeric : 1/2 tsp
-      Water : 2/3 cup
-      Banana : 1
-      Maple syrup : 1 tsp
-      Spinach : Handful
-      Blackberries : Handful
 
 AVOCADO CARROT SANDWICH
   DATE : 2014-10-07
@@ -152,10 +126,10 @@ AVOCADO CARROT SANDWICH
     & I made a fresh loaf of black bread the other day, it only made sense to make another recipe with it! I made a spicy, lime-infused carrot and avocado sandwich! 
   INST
     Preparation
-      - Grate 1 carrot and put in a small bowl, mix in 1 tsp of sriracha, 1/2 tsp of smoked paprika with 1 tsp of coconut sugar together. Set aside.
-      - Mash your avocado with a fork, until pureed. Stir in 1 tbsp of lemon juice, as well as the sea salt and black pepper.
+      - Grate {#1#} {{carrot}} and put in a small bowl, mix in {#1 tsp#} of {{sriracha}}, {#1/2 tsp#} of {{smoked paprika}} with {#1 tsp#} of {{coconut sugar}} together. Set aside.
+      - Mash your {{avocado}} with a fork, until pureed. Stir in {#1 tbsp#} of {{lemon juice}}, as well as some {{salt}} and {{black pepper}}.
       - Use the carrot mix as a spread for your sandwich, lay some raw spinach leaves on top and then add a generous serving of the avocado puree on top.
-      - This sandwich is especially beautiful with slices of black bread, please refer to my no knead black bread recipe to make one of your own!
+
   INGR
     Spicy carrot filling
       Carrots : 1, grated
@@ -181,25 +155,26 @@ BLACK PASTA
     & The secret ingredient to making black pasta, is {*Bamboo Charcoal powder*}. It's seldomly used to make pasta, most of the time people will use squid ink. While harder to find, it works better in pasta as it will not alter the taste or smell of your dough. You can also make black pasta with black rice, although the consistency and ingredients are very different.
     % recipes/black.pasta.1.jpg
     & To make pasta, I use a pasta machine but you can easily do it by hand, using just a rolling pin and a knife. I've made pasta using both methods, it's good to try by hand first. Your first batch may not be perfect, but that's ok! You'll only get better with practice! 
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Preparing the dough
-      - Mix 2 cups of wheat semolina, 3/4 cup whole wheat flour and 1 tbsp of bamboo charcoal powder in a bowl. 
-      - Prepare a bowl of water, keep it close by. Add water to the flour mix gradually, a tablespoon at a time.
-      - Keep adding water until your dough comes together. Your dough should be moist, but not too sticky, add more if needed.
-      - Knead until your dough is smooth, then form into a ball. Cut your dough into quarters. Cover, and let it rest for 30 minutes. 
+      - Mix {#2 cups#} of {{wheat semolina}}, {#3/4 cup#} {{whole wheat flour}} and {#1 tbsp#} of {{bamboo charcoal powder}} in a bowl. 
+      - Prepare a bowl of {{water}}, keep it close by. Add water to the flour mix gradually, one tablespoon at a time.
+      - Keep adding water until your dough comes together. Your dough should be moist, but not too sticky. Add more water if needed.
+      - Knead until your dough is smooth, then {_form into a ball_}. Cut your dough into quarters. Cover, and let it rest for {#30 minutes#}. 
     With pasta machine
-      - Roll out the dough to your desired thickness using your pasta machine. Run the dough about 5-6 times, running it over the largest setting first, and then working your way down to a thinner setting. I went a knotch before the thinnest setting.
+      - Roll out the dough to your desired thickness using your pasta machine. {_Run the dough about 5-6 times_}, running it over the largest setting first, and then working your way down to a thinner setting. I went a knotch before the thinnest setting.
       - Once your dough is nice and flat, dust it with some extra flour and run it through the linguini or spaghetti setting. If you don't use enough flour, your dough may stick inside the mechanism of your pasta machine and will make the process difficult. You can catch the noodles that are coming out with a chopstick, this will keep them from trying to stick together. 
-      - If your dough still feels moist, add more flour. If they're too moist they will stick together, we don't want this. Once they've been dusted with enough flour, separate into 6 portions and fold each one over itself once, and then again to make a small bundle. 
-      - Let dry for 30 minutes.
+      - If your dough still feels moist, add more flour. If they're too moist they will stick together, we don't want this. Once they've been dusted with enough flour, {_separate into 6 portions_} and fold each one over itself once, and then again to make a small bundle. 
+      - Let dry for {#30 minutes#}.
     Using a rolling pin
       - Roll out each quarter of dough to your desired thickness. Sprinkle extra flour if dough sticks to your rolling pin.
       - Fold each pasta sheet over itself a few times, again dusting it with enough flour so it doesn't stick. Folding makes it easier to cut, and your noodles will be more even as a result.
       - Make wider cuts for linguini, thinner for spaghetti etc. If it's your first time making pasta by hand, make linguini. Making consistenly thin noodles is tough, i don't recommend it on your first try.
       - If your dough still feels moist, add more flour. If they're too moist they will stick together, we don't want this. Once they've been dusted with enough flour, separate into 6 portions and fold each one over itself once, and then again to make a small bundle.
-      - Let dry for 30 minutes.
+      - Let dry for {#30 minutes#}.
     Boiling
-      - If you want to have your fresh pasta right away, bring a pot of water to a boil. Cook for approximately 3 minutes, fresh pasta cooks a lot faster than the dry kind. 
+      - If you want to have your fresh pasta right away, bring a pot of water to a boil. Cook for approximately {#3 minutes#}, fresh pasta cooks a lot faster than the dry kind. 
     Freezing
       - Transfer to a freezer bag. I like to use little pieces of parchment paper to keep the fresh pasta bundles separated.
   INGR
@@ -222,14 +197,14 @@ ROASTED CARROTS WITH BELUGA LENTILS
     & Worth mentioning, that the idea to make a recipe with beluga lentils was inspired by Meike Peter's {{beluga lentil salad recipe|http://eatinmykitchen.meikepeters.com/beluga-lentil-salad-with-pear-blue-cheese-and-thyme/}}. 
   INST
     Carrots 
-      - Preheat oven to 400F
-      - Wash 8 organic heirloom carrots, do not peel them. Dry the carrots, and then toss them with 1 tbsp of olive oil and 1 tsp of thyme.
-      - Lay on a baking sheet and sprinkle with a dash of salt and some black pepper. Bake for 25 minutes, make sure to flip the carrots halfway through.
+      - Preheat oven to {#400F#}
+      - Wash {#8#} organic {{heirloom carrots}}, do not peel them. Dry the carrots, and then toss them with {#1 tbsp#} of {{olive oil}} and {#1 tsp#} of {{thyme}}.
+      - Lay on a baking sheet and sprinkle with a dash of {{salt}} and some {{black pepper}}. Bake for 25 minutes, make sure to flip the carrots halfway through.
     Lentils
-      - Wash 1/2 cup of beluga lentils. Put 375 ml of vegetable bouillon in a pot and add the lentils, bring to a boil.
-      - Reduce heat to medium and simmer for 25 minutes. <small>Don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked, but havent absorbed all of the water, just strain them out. </small>
+      - Wash {#1/2 cup#} of {{beluga lentils}}. Put {#375 ml#} of {{vegetable bouillon}} in a pot and add the {{lentils}}, bring to a boil.
+      - Reduce heat to medium and simmer for {#25 minutes#}. Don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked, but havent absorbed all of the water, just strain them out. 
     Sauce
-      - Mix 2 tbsp of sriracha, 2 tbsp of peanut butter, 1/4 cup soy sauce and 2 tbsp of rice vinegar in a small bowl. 
+      - Mix {#2 tbsp#} of {{sriracha}}, {#2 tbsp#} of {{peanut butter}}, {#1/4 cup#} {{soy sauce}} and {#2 tbsp#} of {{rice vinegar}} in a small bowl. 
     Combine
       - Set the beluga lentils on a plate with a bit of sauce and top with 4 roasted carrots! Makes two servings.
   INGR
@@ -258,14 +233,11 @@ MATCHA PANCAKES
     & Have some green pancakes for breakfast or dessert. Who said pancakes needs to be a morning thing? This recipe isn't too sweet, we have the sugar-free topping to thank for that! 
   INST
     Pancake
-      - Whisk together 1 cup of rice flour, 1/4 tsp sea salt, 1 tsp of baking powder, 1 tbsp of matcha powder and 1 tbsp of whole cane sugar.
-      - Stir 1 cup of soy milk and 1 tsp of vanilla extract together. Pour into dry ingredients, and mix until smooth.
+      - Whisk together {#1 cup#} of {{rice flour}}, {#1/4 tsp#} {{sea salt}}, {#1 tsp#} of {{baking powder}}, {#1 tbsp#} of {{matcha powder}} and {#1 tbsp#} of {{whole cane sugar}}.
+      - Stir {#1 cup#} of {{soy milk}} and {#1 tsp#} of {{vanilla extract}} together. Pour into dry ingredients, and mix until smooth.
       - Add a bit of oil to a pan on medium heat. Pour a few tablespoons in, let cook. Flip once the bottoms have browned and little bubbles appear at the top.
       - Repeat for the rest of the pancake mix. 
-    Topping
-      - Dice 2 apples up into thin slices. Put in a saucepan, with 1/4 tsp of cinnamon and a 1/4 cup of water.
-      - Bring to a boil, cover and lower the heat. Let simmer for 15-20 minutes or until apples have broken down. Remove from heat, add 1 tsp of lemon juice and a pinch of sea salt.
-      - Put apple sauce and 1 cup of spinach in a blender, blend until smooth and serve over pancakes with some fresh blueberries!
+
   INGR
     Pancakes
       Rice flour : 1 cup
@@ -275,56 +247,6 @@ MATCHA PANCAKES
       Whole cane sugar : 1 tbsp
       Soy milk : 1 cup
       Vanilla extract : 1 tsp
-    Sauce
-      Apple : 2
-      Cinnamon : 1/4 tsp
-      Water : 1/4 cup
-      Lemon juice : 1 tsp
-      Sea salt : 1/4 tsp
-      Spinach : 1 cup
-
-KURO PRETZELS
-  DATE : 2014-11-03
-  TAGS
-    bread
-  TIME : 130
-  SERV : 4 pretzels
-  DESC
-    & I don't buy bread anymore, since i've discovered the joys of home-baking! I still like to go to my neighbourhood bakery though, to get ideas and inspiration. My latest bread experiment, is pretzels. 
-    & You can find black breads in some japanese bakeries, though it isn't common in Montreal. If available, I wonder if people would buy them. Unfortunately, black is synonymous with 'burnt' and 'rotten'.
-    & Black bread is as good as any other bread, and will please the dark abyss that is your stomach.
-    & This recipe was adapted from {{Alton Brown's|http://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe.html}}. I'm still new at baking, I'm learning a lot about it. It's great to have so many resources online to learn from! These pretzels are best eaten on the same day!
-  INST
-    Preparation
-      - In a bowl, mix the 3/4 cup of warm water, 1/2 tbsp of maple syrup and 1 tsp of salt. Sprinkle the tsp of yeast on top, and let it sit for 5 minutes. 
-      - In a separate bowl, stir 1 tsp of black bamboo charcoal powder into 2 1/4 cups of all purpose flour. Once your dough becomes an even 'grey', mix in 2 tbsp of coconut oil.
-      - Combine the wet ingredients into your dry ingredients, mix well.
-      - Take the dough out of the bowl, and place onto a lightly floured surface. Continue to knead the dough using your hands, until it becomes smooth. 
-      - Put ball of dough into a lightly oiled bowl, cover with plastic wrap and let it sit in a warm place for 50 minutes or until it has doubled in size.
-      - Pre-heat your oven to 450F
-      - Prepare a baking sheet lined with parchment paper, add a bit of vegetable oil over it. 
-      - Put 5 cups of water into a pot, along with 1/3 cup of baking soda. Bring to a boil. 
-      - Take your dough and cut it into 4 equal pieces. Roll out each piece into a long thin rope, the longer it is the bigger your pretzels will be.
-      - You can shape it however you want. If you want a pretzel shape, first shape it into a U. Take the two ends and cross them over each other, then take the 'crossed ends' and bring it to the bottom of your U. Press it down.
-      - Using a flat spatula, gently place one pretzel into the pot of boiling water for 30 seconds. Only put one piece in at a time. After, place them onto the baking sheet you prepared earlier.
-      - Brush or spray the pretzels with some soy milk, and sprinkle with some fleur de sel.
-      - Bake for 12 minutes and place on a cooling rack! 
-  INGR
-    Pretzels
-      Water : 3/4 cup
-      Maple syrup : 1/2 tbsp
-      Sea salt : 1 tsp
-      Active dry yeast : 1 tsp
-      All purpose flour : 2 1/4 cup
-      Bamboo charcoal powder : 1 tsp
-      Coconut oil : 2 tbsp
-    Boiling water
-      Water : 5 cups
-      Baking soda : 1/3 cup 
-    'egg' wash
-      Soy milk : 1 tbsp
-    Topping
-      Fleur de sel : 1 tsp
 
 BLACK SESAME BRITTLE
   DATE : 2014-11-06
@@ -338,12 +260,12 @@ BLACK SESAME BRITTLE
     & These should be served over desserts that aren't too sweet, the sweet of the sesame brittle can be a bit much. I suggest serving it with fruit, or kanten (agar agar based desserts).
   INST
     Preparation
-      - Prepare baking sheet lined with parchment paper, keep a flat spatula close by.
-      - Put the 1/4 cup of brown sugar and 1/4 tsp of vanilla extract in a pot at medium heat. 
+      - Prepare baking sheet lined with a baking mat, keep a flat spatula close by.
+      - Put the {#1/4 cup#} of {{brown sugar}} and {#1/4 tsp#} of {{vanilla extract}} in a pot at medium heat. 
       - Stir constantly, until the sugar is completely dissolved.
-      - Add the 1/4 cup of black sesame seeds. Mix thoroughly.
+      - Add {#1/4 cup#} of {{black sesame seeds}}. Mix thoroughly.
       - This part is tricky, the mixture solidifies very quickly. You need to do this fast! Take the pot, and pour its contents out onto the baking sheet. With the spatula spread and flatten it out as much as you can.
-      - Cut the brittle while it's still warm.
+      - Cut the brittle while it's still warm, serve with fresh fruit!
   INGR
     Main
       Brown sugar : 1/4 cup
@@ -364,11 +286,11 @@ SPINACH OATMEAL COOKIES
     & Plus, these don't take a very long time to make. It makes 5 small cookies, it's easy and doesn't make a mess. I never bake huge batches of desserts, but if you want more you can double or triple the recipe easily.
   INST
     Preparation
-      - Preheat oven to 350F
-      - Puree 1 handful of spinach leaves with 1 whole banana.
-      - Stir in 1/4 tsp of vanilla extract and 1/2 cup of steel cut oats.
-      - Put 5 balls of dough onto a baking sheet lined with parchment paper. Flatten the balls down into desired thickness.
-      - Bake for 12-15 minutes, let cool for 10 minutes before transfering to a cooling rack.
+      - Preheat oven to {#350F#}
+      - Puree {#1 handful#} of {{spinach leaves}} with {#1 whole#} {{banana}}.
+      - Stir in {#1/4 tsp#} of {{vanilla extract}} and {#1/2 cup#} of {{steel cut oats}}.
+      - Put 5 balls of dough onto a baking sheet lined with a baking mat (or parchment paper). Flatten the balls down into desired thickness.
+      - Bake for {#12-15 minutes#}, let cool for {#10 minutes#} before you move them off the baking mat. 
 
   INGR
     Main
@@ -390,16 +312,16 @@ BORSCHT WITH TOFU SOUR CREAM
     & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
   INST
     Tofu sour cream
-      - Drain the pack of silken tofu, press it lightly with a cloth or paper towels to remove some of the water.
-      - Put the tofu, 1 tsp of sugar, 1 tbsp of cider vinegar and 5 tsp of lemon juice in a bowl. Blend until smooth.
-      - Put in the refrigerator for 1 hour to give it time to thicken. 
+      - Drain the pack of {{silken tofu}}, press it lightly with a cloth or paper towels to remove some of the water.
+      - Put the {{tofu}}, {#1 tsp#} of {{sugar}}, {#1 tbsp#} of {{apple cider vinegar}} and {#5 tsp#} of {{lemon juice}} in a bowl. Blend until smooth.
+      - Put in the refrigerator for {#1 hour#} to give it time to thicken. 
     Borscht
-      - Bring 4 cups of vegetable bouillon to a boil, add 2 peeled medium-sized red beets. Boil until softened.
-      - Peel and slice 1 medium-sized sweet potato. Add to pot and let boil for 15 minutes.
-      - While the potatoes are cooking, peel and julienne 2 carrots, cut 1/2 a red onion and mince 3 garlic cloves. Add it all to a pan and fry until fragrant. Near the end add 2 tbsp of tomato paste, then toss in the pot.
-      - Cut 1/2 head of a small red cabbage into thin strips, add to pot.
-      - Put 1 bay leaf, season with salt and pepper and let it simmer for 10 minutes or until all the veggies are nice and soft.
-      - At the end, take pot off heat and stir in 2 tsp of lemon juice. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! <small>For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.</small>
+      - Bring {#4 cups#} of {{vegetable bouillon}} to a boil, add {#2 peeled medium-sized#} {{red beets}}. Boil until softened.
+      - Peel and slice {#1 medium-sized#} {{sweet potato}}. Add to pot and let boil for {#15 minutes#}.
+      - While the potatoes are cooking, {_peel and julienne_} {#2 carrots#}, cut {#1/2#} a {{red onion}} and mince {#3#} {{garlic cloves}}. Add it all to a pan and fry until fragrant. Near the end add 2 tbsp of tomato paste, then toss in the pot.
+      - Cut {#1/2 head#} of a small {{red cabbage}} into thin strips, add to pot.
+      - Put 1 {{bay leaf}}, season with {{salt}} and {{pepper}} and let it simmer for {#10 minutes#} or until all the veggies are nice and soft.
+      - At the end, take pot off heat and stir in {#2 tsp#} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
       Silken tofu : 1 pack
@@ -443,25 +365,25 @@ DARK YAKI GYOZA
     & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Dough
-      - Mix 2 cups of all purpose flour with 1 tsp of bamboo charcoal powder in a bowl.
-      - Dissolve 1/2 tsp of salt in 1/2 cup of just-boiled water, and pour into the flour little by little while mixing.
-      - Knead the dough on a clean flat surface for a few minutes until it becomes smooth. <small>If your dough is too dry, add 1 tbsp of hot water and repeat as needed.</small>
-      - Separate the dough in 3. Roll into balls and wrap them up with plastic wrap, refrigerate for at least 30 minutes. <small>Leaving it to rest in the refrigerator makes the dough easier to manipulate afterwards</small>
-      - Flatten each piece out with a rolling pin into a rough rectangle, thin enough so that you can run it through the pasta maker. Pass it through your pasta maker a few times, incrementing down to the thinnest setting gradually. <small>You can use a rolling pin instead, it works but it takes a lot more effort. Both techniques work, this one just happens to be quicker and easier on your body. Note that depending on your pasta maker, the dough will come out a bit thicker than a traditional gyoza. If you want it thinner you can flatten it a bit more with a rolling pin</small>
-      - Put the thin sheet of dough onto a clean flat surface. Take a can (with about a 3\" diameter) and start to poke holes into it, these are your gyoza wrappers! <small>You can use cookie cutters if you have some. I used an old chickpea can I had.</small>
-      - Pile the wrappers, sprinkle some cornstarch (or potato starch) inbetween each piece so they don't stick together. Put a damp towel over your wrappers so they don't dry out.
+      - Mix {#2 cups#} of {{all purpose flour}} with {#1 tsp#} of {{bamboo charcoal powder}} in a bowl.
+      - Dissolve {#1/2 tsp#} of {{salt}} in {#1/2 cup#} of {{just-boiled water}}, and pour into the flour little by little while mixing.
+      - Knead the dough on a clean flat surface for a few minutes until it becomes smooth. If your dough is too dry, add 1 tbsp of hot water and repeat as needed.
+      - {_Separate the dough in 3_}. Roll into balls and wrap them up with a bag or place in a lidded bowl, refrigerate for at least {#30 minutes#}. Leaving it to rest in the refrigerator makes the dough easier to manipulate afterwards.
+      - Flatten each piece out with a rolling pin into a rough rectangle, thin enough so that you can run it through the pasta maker. Pass it through your pasta maker a few times, incrementing down to the thinnest setting gradually. You can use a rolling pin instead, it works but it takes a lot more effort. Both techniques work, this one just happens to be quicker and easier on your body. Note that depending on your pasta maker, the dough will come out a bit thicker than a traditional gyoza. If you want it thinner you can flatten it a bit more with a rolling pin.
+      - Put the thin sheet of dough onto a clean flat surface. Take a can (with about a 3" diameter) and start to poke holes into it, these are your gyoza wrappers! You can use cookie cutters if you have some. I used an old chickpea can I had.
+      - Pile the wrappers, sprinkle some {{cornstarch}} (or potato starch) inbetween each piece so they don't stick together. Put a damp towel over your wrappers so they don't dry out.
       - Repeat this process for the other 2 portions of dough, and you can re-use the scraps and make new dough to run through the pasta maker (no waste~). 
     Carrot filling
-      - Mix the 1/4 block of tofu, the 1/3 cup of coriander, the 2 grated carrots and the 1 tsp of ginger root together in a bowl. Add a tbsp of soy sauce as well as black pepper and salt to taste. Mix once more. 
+      - Mix the {#1/4 block#} of {{tofu}}, the {#1/3 cup#} of {{coriander}}, the {{2 grated carrots}} and the {#1 tsp#} of {{ginger root}} together in a bowl. Add {#1 tbsp#} of {{soy sauce}} as well as {{black pepper}} and {{salt}} to taste. Mix once more. 
     Beet filling
-      - Mix the 1/4 block of tofu, the 1/3 cup of coriander, 1 grated red beet, the 2 garlic cloves and the tsp of ginger root. Add a tbsp of soy sauce and some ground sichuan peppercorns. 
+      - Mix the {#1/4 block#} of {{tofu}}, the {#1/3 cup#} of {{coriander}}, {#1 grated#} {{red beet}}, {{2 garlic cloves}} and {#1 tsp#} of {{ginger root}}. Add {#1 tbsp#} of {{soy sauce}} and some {{ground sichuan peppercorns}}. 
     Cooking
-      - Take 1 wrapper, wet all around the edge with water using your fingers. <small>Keep a bowl of water close to dip your fingers in</small>
+      - Take 1 wrapper, wet all around the edge with water using your fingers. <Keep a bowl of water close to dip your fingers in.
       - Put a spoonful of filling in the middle (carrot or beet).
-      - Close it. Make little folds with the flap that is facing you using both hands, leaving the back part smooth. Make sure it's sealed tight. Repeat for the rest of the gyoza skins, alternate between fillings <small>Cover with a damp towel while you work so they don't dry up.</small>
+      - Close it. Make little folds with the flap that is facing you using both hands, leaving the back part smooth. Make sure it's sealed tight. Repeat for the rest of the gyoza skins, alternate between fillings. Cover with a damp towel while you work so they don't dry up.
       - Put some vegetable oil in a pan on medium heat. Add gyoza in 2 rows of 3 in the pan. Cook until bottom becomes golden.
-      - Add 1/3 cup of water and put a lid on. Let steam until all the water evaporates. 
-      - Add a bit of sesame oil and cook until crispy. Serve with a dipping sauce! 
+      - Add {#1/3 cup#} of {{water}} and put a lid on. Let steam until all the water evaporates. 
+      - Add a bit of {{sesame oil}} and cook until crispy. Serve with a dipping sauce! 
   INGR
     Dough
       All purpose flour : 2 cups 
@@ -505,15 +427,15 @@ RAISIN BEET BREAD
     & It's simple to make, and you can replace the raisins for cranberries or even chocolate chips for a different taste! If you make my recipe, just be sure to add plenty of raisins on top! I emptied a bag on it, without regret. They'll get super crispy, and will develop a sweet crispy caramelized taste. Was hard to keep myself from picking them off, Devine hates it when I do that.
   INST
     Preparation
-      - Preheat oven to 350F . Grease a baking pan and set aside.
-      - Put 1 cup of dried raisins in a bowl, cover with 1 cup of warm water. Let cool, then add 1/2 tsp of vanilla extract.
-      - Peel and cut 2 small beets into cubes, puree in food processor, set aside.
-      - Mix 2 tbsp of ground flax seeds with 6 tbsp of water, let thicken. In a separate bowl, measure out 1/4 cup of coconut oil. Add 1/3 cup of whole cane sugar gradually, mixing at the same time. In that same bowl, add the flax seeds and the pureed beets. This is the sweet part of our bread, the sweet sweet cream! <small>Never add all of it at once, add a bit then mix and repeat until you run out</small>
-      - Mix your dry ingredients together, the 2 1/4 cups of all purpose flour, the 1/2 tsp of salt and the tbsp of baking soda.
+      - Preheat oven to {#350F#}. Grease a baking pan and set aside.
+      - Put {#1 cup#} of {{dried raisins}} in a bowl, cover with {#1 cup#} of {{warm water}}. Let cool, then add {#1/2 tsp#} of {{vanilla extract}}.
+      - Peel and cut {#2 small#} {{red beets}} into cubes, puree in food processor, set aside.
+      - Mix {#2 tbsp#} of {{ground flax seeds}} with {#6 tbsp#} of {{water}}, let thicken. In a separate bowl, measure out {#1/4 cup#} of {{coconut oil}}. Add {#1/3 cup#} of {{whole cane sugar}}, gradually, mixing at the same time. In that same bowl, add the {{flax seeds}} and the {{pureed beets}}. This is the sweet part of our bread: the cream.
+      - Mix your dry ingredients together, {#2 1/4 cups#} of {{all purpose flour}}, the {#1/2 tsp#} of {{salt}} and {#1 tbsp#} of {{baking soda}}.
       - Take your wet raisins and the bowl of flour, and add both in small gradual batches to the bowl of cream. 
-      - Add spoonfuls of the wet dough to your greased pan, add the remaining 1/4 cup of dried raisins on the top of the dough. Push down gently to make sure they don't fall off later.
-      - Bake in the oven for 45 minutes or until you can put a toothpick through and that it comes out clean.
-      - Let cool before trying to take it out of the pan. 
+      - Add spoonfuls of the wet dough to your greased pan, add the remaining {#1/4 cup#} of {{dried raisins}} on the top of the dough. Push down gently to make sure they stick.
+      - Bake in the oven for {#45 minutes#}.
+      - Let cool, and enjoy!
   INGR
     Main
       All purpose flour : 2 1/4 cup
@@ -539,13 +461,13 @@ MISO VEGGIE PATE
     & A lot of végé pâté recipes call for whole wheat flour, I've made it using it before with great results. If you don't have oats, you can use whole wheat flour instead. AUsing oats as a substitute works great, I always have a bucket-load of steel-cut oats lying around. To grind it down into flour i use my blender stick, it takes more time but it works well! 
   INST
     Preparation
-      - Soak deshelled and unsalted sunflower seeds in water for at least 8 hours. <small>They will be easier to grind this way</small>
-      - Preheat oven to 350F.
-      - Put a few inches of water in a pot, add steamer basket and bring to a boil. Add 1/3 cup of peeled pumpkin cubes (or sweet potato), cover and let steam until softened.
-      - Strain and rinse off sunflower seeds. Combine with 1/2 cup of ground oats, 1 large diced carrot (or two medium), the pumpkin (or sweet potato), 2 minced garlic cloves, 1 tbsp minced ginger root, 2 chopped scallions, 1/4 cup fresh coriander, 2 tbsp soy sauce, 1 tsp lemon juice, 2 tbsp white miso and 1/3 cup of water. Puree with a food processor until smooth.
-      - Stir in 1/4 cup of nutritional yeast, and season with black pepper to taste.
-      - Put in a greased 8x8 pyrex baking dish, pour mixture in and flatten it with a spatula.
-      - Bake for 50 minutes, let cool. Cut into 4 squares and store in the refrigerator. Best eaten the next day! Keeps for a week in the fridge, up to a month frozen.
+      - Soak deshelled and {{unsalted sunflower seeds}} in {{water}} for at least {#8 hours#}. They will be easier to grind this way.
+      - Preheat oven to {#350F#}.
+      - Put a few inches of water in a pot, add steamer basket and bring to a boil. Add {#1/3 cup#} of {{peeled pumpkin cubes}} (or sweet potato), cover and let steam until softened.
+      - Strain and rinse off {{sunflower seeds}}. Combine with {#1/2 cup#} of {{ground oats}}, {#1 large diced#} {{carrot}} (or two medium), the pumpkin (or sweet potato), 2 minced garlic cloves, 1 tbsp minced ginger root, 2 chopped scallions, 1/4 cup fresh coriander, {#2 tbsp#} {{soy sauce}}, {#1 tsp#} {{lemon juice}}, {#2 tbsp#} {{white miso}} and {#1/3 cup#} of {{water}}. Puree with a food processor until smooth.
+      - Stir in {#1/4 cup#} of {{nutritional yeast}}, and season with {{black pepper}} to taste.
+      - Put in a greased {_8x8 pyrex baking dish_}, pour mixture in and flatten it with a spatula.
+      - Bake for {#50 minutes#}, let cool. Cut into 4 squares and store in the refrigerator. Best eaten the next day! Keeps for a week in the fridge, up to a month frozen.
   INGR
     Main
       Sunflower seeds : 1 cup
