@@ -7,6 +7,7 @@ function Runic (raw) {
     '-': { glyph: '-', tag: 'ul', sub: 'li', class: '', stash: true },
     '!': { glyph: '!', tag: 'table', sub: 'tr', wrap: 'th', class: 'outline', stash: true },
     '|': { glyph: '|', tag: 'table', sub: 'tr', wrap: 'td', class: 'outline', stash: true },
+    '•': { glyph: '•', tag: 'ul', sub: 'li', class: 'bullet', stash: true },
     '#': { glyph: '#', tag: 'code', sub: 'ln', class: '', stash: true },
     '%': { glyph: '%' },
     '?': { glyph: '?', tag: 'note', class: '' },

@@ -3,24 +3,21 @@ DATABASE.ingredients = `
 Coffee
   BREF : {{Coffee}} is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the {{Coffea plant|https://en.wikipedia.org/wiki/Coffea}}.
   LONG
-    % blog/coffee.jpg
-    & Devine & I are daily coffee drinkers, we sometimes have a second cup in the afternoon, but typically we limit ourselves to a single cup in the morning. We drink it {*black*}, but enjoy the occasional flat white as a treat.
-    & We grind new beans each morning with a portable manual {{coffee grinder|http://www.amzn.to/2p0pO2p}}. We mainly use a stainless steel moka pot for espresso, the model is the {{IKAE Radig|http://www.ikea.com/us/en/catalog/products/30149839/}}, which we found it in a bin at a marina in New Zealand. 
-    * Moka Pot
-    & To make a perfect espresso with the moka pot, here are a few things to remember:
-    - The grind should be only slightly smaller than filter coffee.
-    - Warm up the water in the bottom part before screwing the top section.
-    - Remove from heat when you hear the sound of bubbles.
-    - Take apart and clean the machine after each use.
-    & &nbsp;
     % blog/coffee.2.jpg
-    & I'm not saying that these brands are the very best, but they suit our needs. We bought these while in Victoria BC from MEC. GSI is the in-store brand for camping goods, their products have not failed us yet, and so we like to recommend them.
+    & Devine & I are daily coffee drinkers, we sometimes have a second cup in the afternoon, but typically we limit ourselves to a single cup in the morning. We drink it {*black*}, but enjoy the occasional flat white as a treat.
+    & We grind new beans each morning with a portable manual {{coffee grinder|http://www.amzn.to/2p0pO2p}}. We mainly use a {{stainless steel moka pot|http://www.ikea.com/us/en/catalog/products/30149839/}} for espresso.
+    & To make a perfect espresso with the moka pot, here are a few things to remember:
+    • The grind should be only slightly smaller than filter coffee.
+    • Warm up the water in the bottom part before screwing the top section.
+    • Take apart and clean the moka pot after each use.
+    & &nbsp;
+    % blog/coffee.jpg
     & To finish, here is a list of the coffee places we've tried (and loved) in our travels:
-    - {{Prado|https://pradocafe.co}} - Vancouver, CA
-    - {{Cafe Neve|http://www.cafeneve.com}} - Montreal, CA
-    - {{Sextant Coffee Roasters|https://sextantcoffee.com}} - San Francisco, CA, US
-    - {{Big Sur|https://www.facebook.com/BigSurCafeOrganico/}} - La Paz, Mexico
-    - {{Fat Camel|https://www.facebook.com/Fat-Camel-Israeli-Cafe-111529865551331/}} - Whangarei, NZ
+    • {{Prado|https://pradocafe.co}} — Vancouver, CA
+    • {{Cafe Neve|http://www.cafeneve.com}} — Montreal, CA
+    • {{Sextant Coffee Roasters|https://sextantcoffee.com}} — San Francisco, CA, US
+    • {{Big Sur|https://www.facebook.com/BigSurCafeOrganico/}} — La Paz, Mexico
+    • {{Fat Camel|https://www.facebook.com/Fat-Camel-Israeli-Cafe-111529865551331/}} — Whangarei, NZ
 
 ~ LEGUMES
 
