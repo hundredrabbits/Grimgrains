@@ -85,9 +85,11 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
 
-@media (max-width: 950px) {
+@media (max-width: 850px) {
   #view #core #content #recipes { columns:1; }
   #view #core #content columns { columns:1; }
+  #view #core #content h1.name { float:none; }
+  #view #core #content h2.serving { float:none; font-size:18px; line-height: 12px }
   #view #core #related li { width:100%; clear:both; float:none; height:330px; }
   #view #core #related li a.photo { height:200px; }
 }
