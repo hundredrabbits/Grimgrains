@@ -97,7 +97,7 @@ function HomeTemplate (id, rect) {
       html += "<ul style='margin-bottom:15px'>"
       for (id in recipes) {
         var recipe = recipes[id]
-        html += `<li><a onclick="Ø('query').bang('${recipe.name.capitalize()}')">${recipe.name.capitalize()}</a></li>`
+        html += `<li><a href="#${recipe.name.to_url()}" onclick="Ø('query').bang('${recipe.name.capitalize()}')">${recipe.name.capitalize()}</a></li>`
       }
       html += '</ul>'
     }
