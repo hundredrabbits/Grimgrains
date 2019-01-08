@@ -2,27 +2,24 @@ DATABASE.pages = `
 ABOUT
   BREF : We started {*Grim Grains*} to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps measure our progress, while giving us another creative output. We cook and travel, and adapt to the local produce whenever possible. All of the recipes we make are plant-based, and tree-nut free. 
   LONG
-    * HundredRabbits
-    & This website showcases our favourite creations, along with handdraw illustrations for {{each ingredient|ingredients-list}}.
     & We are {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, and {{Devine Lu Linvega|http://xxiivv.com}}, an artist/musician, living on a small sailboat somewhere on the shores of the Pacific Ocean. Hundredrabbits is the name of our {{floating studio|http://100r.co}}, we make {{games|https://100r.co/pages/games.html}}, {{tools|https://100r.co/pages/tools.html}} and delicious recipes as we travel.
-    & You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
+    & This website showcases our favourite creations, along with hand-draw illustrations for {{each ingredient|ingredients-list}}. You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
     * Copyright policy
     & You may adapt our recipes, but a link back or mention would be nice :).
     * Disclaimer
     & The content of grimgrains.com, unless stated otherwise, is © hundredrabbits. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without our permission.
     & All recipes featured on grimgrains.com are our own, unless stated otherwise. The information is for food enthusiasts like ourselves, we do not claim to be all-knowing. Nor are we health professionals. Our views are our own, we encourage openness and curiosity whenever possible.
     * Privacy statement
-    & We reserve the right to alter the blog at our own discretion.
-    & Words addressed to us in private will not be shared, nor will we use any of it in future publications.
+    & We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.
 
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
   LONG
+    % pages/tools.jpg
     & {*Durability*}: Choose a material that will last, of finer grade, or that can be composted.
     & {*Simplicity*}: Prioritize unibody tools, the fewer parts the better. Opting for non-electric is important for that same reason. Less prone to breakage.
     & {*Multi-functional*}: Having too many tools that have a single function, adds clutter to our home and in our minds.  
     & Note: If you look at the photo, you can see that my kitchenware doesn't have all the features listed below. That's because this list is an ideal, a study of what an optimal toolset would be. It may not be realistic to you, and that's okay. In the end, you've got to work with what you have. The resulting food matters {*more*} than the tools you use. 
-    % pages/tools.jpg
     * Cutting boards
     & {*Material*}: Opt for a maple or bamboo hardwood cutting board. Avoid plastic. Contrary to popular belief, it is not more sanitary and can harbour a lot of bacteria. A knife-scarred plastic surface is difficult to disinfect, and studies have shown that washing the board – whether by hand or with a dishwasher – was not enough to kill lingering bacteria. 
     & Wood doesn't scar as easily, and is the preferred material. After cleaning, it must be allowed to dry thoroughly. 

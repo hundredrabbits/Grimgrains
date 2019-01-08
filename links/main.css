@@ -1,13 +1,12 @@
-body { background:#fcfcfc; font-family: 'Helvetica Neue', Helvetica, Arial }
-yu { display: block; }
+body { background:#000; font-family: 'Helvetica Neue', Helvetica, Arial }
 hr { clear:both; }
-list { display: block; }
-list ln { display: block }
+ul { display: block; }
 img { max-width: 100% }
 
 h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin-bottom: 30px }
 
-#view { max-width: 900px; margin:0px auto; padding:90px 30px; }
+#view { margin: 5px auto 0px;padding: 45px 30px;background: white }
+#view > * { max-width: 800px; margin:0px auto; }
 
 #view.loading { opacity: 0 }
 #view.loading #header #photo { opacity: 0 }
@@ -18,72 +17,77 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #header #logo a { cursor: pointer; transition: all 250ms; }
 #view #header #logo a:hover { opacity: 0.7 }
 #view #header #logo a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px; }
-#view #header list { display: block;text-align: center;line-height: 30px; padding-bottom:15px; }
-#view #header list a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 30px; border-bottom:2px solid transparent }
-#view #header list a:hover { border-bottom:2px solid black }
+#view #header ul { display: block;line-height: 40px; border-bottom: 2px solid black; margin-bottom:30px }
+#view #header ul li { display: inline-block;border-top-left-radius: 3px;border-top-right-radius: 3px; margin-right:10px; margin-bottom: -2px; line-height: 40px}
+#view #header ul li:hover { }
+#view #header ul li a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 40px; border-bottom:2px solid transparent }
+#view #header ul li a:hover { opacity: 1 !important; }
 #view #header #search { display: none }
-#view.home #header list a.home { border-bottom-color: black}
-#view.about #header list a.about { border-bottom-color: black}
-#view.tools #header list a.tools { border-bottom-color: black}
+#view.home #header ul a.home { color:#ccc;}
+#view.about #header ul a.about { color:#ccc;}
+#view.tools #header ul a.tools { color:#ccc;}
 
 #view #core { margin-bottom:30px; }
 
 #view #core #content { position: relative; z-index: 100; margin-bottom:45px; }
 #view #core #content h1 { text-transform: capitalize; font-size:36px; max-width:400px }
 #view #core #content h2 { text-transform: capitalize; font-size:28px; }
+#view #core #content h1.name { float:left; font-size:32px; line-height: 40px }
+#view #core #content h2.serving { float:right; font-size:32px; line-height: 40px }
 #view #core #content h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 #view #core #content hr.stroke { border-bottom:2px solid black; max-width: 600px; margin-bottom:30px; }
 #view #core #content p { font-size:18px; margin-bottom: 30px; max-width:600px; line-height: 26px }
 #view #core #content p.bref { font-size:28px; margin-bottom: 45px; line-height: 34px }
-#view #core #content p a { font-weight: bold }
-#view #core #content p a:hover { text-decoration: underline; }
+#view #core #content p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
+#view #core #content p a:hover { text-decoration: none; }
+#view #core #content p a.external:after { content:"*"; color:#999; }
 #view #core #content p b { font-weight: bold; }
 #view #core #content img { margin-bottom: 30px; border-radius: 2px }
 #view #core #content img.photo { width:100%; }
 #view #core #content columns { columns:2; display: block; margin-bottom:30px; column-gap: 30px }
-#view #core #content columns list { line-height: 24px }
-#view #core #content columns list ln { padding-left:25px; position: relative; }
-#view #core #content columns list ln:before { content:"●"; position: absolute; top:0px; left:0px; font-size:12px;}
-#view #core #content columns list ln a { font-weight: bold }
+#view #core #content columns ul { line-height: 24px }
+#view #core #content columns ul li { padding-left:25px; position: relative; }
+#view #core #content columns ul li:before { content:"●"; position: absolute; top:0px; left:0px; font-size:12px;}
+#view #core #content columns ul li a { font-weight: bold }
 
 #view #core #content #instructions { margin-bottom:30px; }
-#view #core #content #instructions list { margin-bottom:30px; }
-#view #core #content #instructions list ln { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px}
-#view #core #content #instructions list ln:before { content:"•"; position: absolute; left:0px; }
-#view #core #content #instructions list ln a { font-weight: bold }
+#view #core #content #instructions ul { margin-bottom:30px; }
+#view #core #content #instructions ul li { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px}
+#view #core #content #instructions ul li:before { content:"•"; position: absolute; left:0px; }
+#view #core #content #instructions ul li a { font-weight: bold }
 #view #core #content #instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
 #view #core #content #instructions a { font-weight: bold;  }
 #view #core #content #instructions a:hover { text-decoration: underline; cursor: pointer }
 #view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline;font-weight: bold;border-radius: 3px;color:#333 }
 #view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline;font-weight: bold;border-radius: 3px;border:2px solid black;}
 
-#view #core #content list.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
-#view #core #content list.ingredients h3 { margin-left:-20px; }
-#view #core #content list.ingredients ln.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
-#view #core #content list.ingredients ln.ingredient:hover t.name { text-decoration: underline; }
-#view #core #content list.ingredients ln.ingredient.missing t.name { font-style: italic }
-#view #core #content list.ingredients ln.ingredient img { max-width: 100% }
-#view #core #content list.ingredients ln.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
-#view #core #content list.ingredients ln.ingredient t.quantity { display: block; font-size:12px; }
+#view #core #content ul.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
+#view #core #content ul.ingredients h3 { margin-left:-20px; }
+#view #core #content ul.ingredients li.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
+#view #core #content ul.ingredients li.ingredient:hover t.name { text-decoration: underline; }
+#view #core #content ul.ingredients li.ingredient.missing t.name { font-style: italic }
+#view #core #content ul.ingredients li.ingredient img { max-width: 100% }
+#view #core #content ul.ingredients li.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
+#view #core #content ul.ingredients li.ingredient t.quantity { display: block; font-size:12px; }
 
 #view #core #related { width:100%;}
-#view #core #related ln { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
-#view #core #related ln:nth-child(1), #view #core #related ln:nth-child(2) { margin-right:15px;} 
-#view #core #related ln a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
-#view #core #related ln t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
-#view #core #related ln t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
+#view #core #related li { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
+#view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;} 
+#view #core #related li a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
+#view #core #related li t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
+#view #core #related li t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
 
 #view #core #content #recipes { columns:3; font-size:14px; font-weight: bold}
-#view #core #content #recipes ln { display: block }
-#view #core #content #recipes ln a:hover { text-decoration: underline; cursor: pointer; }
+#view #core #content #recipes li { display: block }
+#view #core #content #recipes li a:hover { text-decoration: underline; cursor: pointer; }
 #view #core #content #recipes h3 { margin-bottom:10px; }
 
-#view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:12px; margin-top:60px; }
+#view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
 
 @media (max-width: 950px) {
   #view #core #content #recipes { columns:1; }
   #view #core #content columns { columns:1; }
-  #view #core #related ln { width:100%; clear:both; float:none; height:330px; }
-  #view #core #related ln a.photo { height:200px; }
+  #view #core #related li { width:100%; clear:both; float:none; height:330px; }
+  #view #core #related li a.photo { height:200px; }
 }
