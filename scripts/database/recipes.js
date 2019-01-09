@@ -27,7 +27,7 @@ SEITAN
       - Add the seitan cutlets, reduce heat to low, and cover. 
       - Let the seitan simmer for {#1 hour#}. 
     HOW TO SERVE
-      - Cut into slices, and sautee them in a pan with seasonings - you can also add a glaze for extra flavour.
+      - Cut into slices, and sautee them in a pan with seasonings - you can also add a glaze for extra flavour. Usually we drink the broth as a sidedish too, it's very good - if not a bit salty. 
   INGR
     Main
       gluten flour : 1/2 cup
