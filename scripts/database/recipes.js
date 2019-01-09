@@ -1648,9 +1648,6 @@ CURRIED PUMPKIN SEED PATE
       Garam masala : 1 tsp
       Ground turmeric : 1 tsp
       Water : 1/3 cup
-  TAGS
-    lunch 
-    dinner
 
 FRESH PESTO PASTA
   DATE : 2015-09-22
