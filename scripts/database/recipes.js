@@ -1,5 +1,35 @@
 DATABASE.recipes = `
 
+SEITAN
+  DATE : 2019-01-08
+  TAGS
+    basic
+  TIME : 60
+  SERV : 1 paddies
+  DESC
+    & A good supplement to other meals.
+  INST
+    Pancake
+      - Blend {#1/2 cup#} of {{spinach}} with {#1/2 cup#} of {{water}} until smooth. Set aside.
+      - In a bowl, whisk together {#1/2 cup#} of {{spelt flour}}, {#1 tsp#} {{sesame oil}} and the blended spinach.
+      - Heat a large pan with {#1 tsp#} of {{sesame oil}} over {_medium heat_}.
+      - Put the chopped {{scallions}} in the pan and pour the batter onto it. With a spatula, press down on the pancake to flatten it out. 
+      - Cook for {#3-4 minutes#} until the sides come off the pan and the bottom is cooked. Flip, cook for a a few extra minutes and transfer to a plate.
+      - Cut it into pieces to make it easier to dip into the sauce!
+    Sauce
+      - Put the sauce ingredients together in a bowl and mix!
+  INGR
+    Main
+      Glutinous flour : 1/2 cup
+      chickpea flour : 1/4 cup
+      soy sauce : 1 tbsp
+      Water : 1/3 cup
+    Broth
+      garlic : 1 clove
+      ginger root : 1 clove
+      vegetable bouillon : 1 cube
+      yellow onion : half
+
 SPINACH PAJEON
   DATE : 2014-08-19
   TAGS
