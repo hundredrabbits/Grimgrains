@@ -501,10 +501,10 @@ PERSIMMON CURRY
       - Boil some water, pour {_1 1/2 cups_} of it over the rice. Bring pot to a boil. Add {{bay leaf}}, lower heat and cover. Simmer for {#15 minutes#}, remove from heat and let steam for an additional {#5 minutes#} with the lid on.
       - Remove {{bay leaf}} and serve.
     Sauce
-      - Scoop the flesh out of 2 rippened {{hachiya persimmons}}, puree with a hand blender.
+      - Scoop the flesh out of {#2 ripe#} {{hachiya persimmons}}, puree with a hand blender.
       - Sauté 1 chopped {{onion}}, 2 minced {{garlic}} cloves, 1 tsp {{ginger root}} with a bit of {{olive oil}} in a pan over medium heat. Cook until onions become translucent.
       - Add the 2 diced {{carrots}} and the handful of {{spinach}}. Stir for {#2 minutes#}, then add {_1 tbsp_} of {{curry powder}}. Cook for an additional minute.
-      - Add pureed persimmon, cook for {#5 minutes#} and then season with {{salt}}. Serve over rice.
+      - Add pureed persimmon, cook for {#5 minutes#} and then season with {{salt}}. Serve over {{rice}}.
   INGR
     Rice
       Basmati rice : 1 cup
@@ -534,26 +534,26 @@ SIMPLE DOCTOR WHO CAKE
     % recipes/simple.doctor.who.cake.1.jpg
     & They asked for a quote from their favourite bakery, they do great work but were charging a too much for it. So my parents turned to me, and my cake-baking adventure began!
     & My sister loves lemon cake, that part is simple. Getting the cake to be tardis blue though, is another matter entirely. That colour is unnatural, those royal blue 'raw blueberry pinterest cakes' are complete bull (they really, really are). I had to use food colouring, it's not ideal but it was necessary to get that tardis blue. I went ahead and bought Wilton's royal blue and violet colouring to mix, to get it be that specific shade. Using royal blue alone would have made it go turquoise.
-    & The cake noob that i am, I searched around and found a very awesome <a href=\"http://thegreenforks.com/vegan-birthday-cake/\">lemon cake recipe</a> by Laura, author of The Green forks. I adapted her recipe, and it turned out perfect. I referenced her cake batter recipe, while the tofu lemon curd filling was inspired by <a href=\"http://www.culinate.com/recipes/collections/Contributors/Zena+Chew/vegan_lemon_layer_cake\">Zena Chews</a>. Couldn't have done it without their recipes, thanks girls.
+    & The cake noob that i am, I searched around and found a very awesome {{Lemon cake recipe|http://thegreenforks.com/vegan-birthday-cake}} by Laura, author of The Green forks. I adapted her recipe, and it turned out perfect. I referenced her cake batter recipe, while the tofu lemon curd filling was inspired by {{Zena chews|http://www.culinate.com/recipes/collections/Contributors/Zena+Chew/vegan_lemon_layer_cake}}. Couldn't have done it without their recipes, thanks girls.
     % recipes/simple.doctor.who.cake.2.jpg
     & I didn't want to make an overly sweet cake, so i decided to not add frosting. Opted for a 'powdered sugar-dusted' cake. Most Tardis cakes on the internet are made with fondant, and thusly taste like liquid unicorn. I don't have the tastebuds of a 5 years old, can't deal with that level of sweet. I have no interest in tasting the rainbow.
     & I wanted to make a minimalistic and simple lemon cake. Then came the image of the tardis drifting through space. That image was simple, evocative. So i cut out a tardis stencil and added powdered sugar! Voila! My sister had a vegan lemon birthday cake! This cake is a safe bet, even for non-vegans. Even my parents, who dislike tofu, really enjoyed it!  
   INST
     Lemon curd
-      - Puree 2 cups of silken tofu and mix with: 2 tbsp of canola oil, 1 tbsp of lemon zest, 3 tbsp of maple syrup, 1/4 tsp of salt and 1/2 tsp of vanilla extract <small>Refrigerate for a few hours to give it time to thicken.</small>
+      - Puree {#2 cups#} of {{silken tofu}} and mix with: {#2 tbsp#} of {{canola oil}}, {#1 tbsp#} of {{lemon zest}}, {#3 tbsp#} of maple syrup}}, {#1/4 tsp#} of {{salt}} and {#1/2 tsp#} of {{vanilla extract}}. Refrigerate for a few hours to give it time to thicken.
     Tardis stencil
-      - Print out the image in the corret dimensions for the cake, i used an image of the tardis that i found online.
+      - Print out the image in the correct dimensions for the cake, i used an image of the tardis that i found online.
       - With a fine cutting tool cut out the shape, I didn't take a photo that had lettering, the detail is just too fine. Besides, there is enough information that will make it obvious that it's a tardis. Be sure to cut out the windows, that detail is key.
     Cake
-      - Pre-heat oven at 350F.
-      - Grease two 8" cake pans, set aside.
-      - In a bowl mix 2 1/4 cups of all purpose flour, 1 1/2 cups of sugar, 3/4 tsp of baking soda and 3/4 tsp of salt.
-      - In a separate bowl, stir 1 1/2 cups of cold water with 3/4 cup of canola oil, 1 tbsp of vanilla extract, 3 tbsp of lemon juice and 1 tsp of lemon zest.
-      - Combine wet ingredients into the dry ones, mix well. Stir in 1 tsp of royal blue food colouring with 1 drop of violet food colouring.
-      - Pour cake batter into pans, at the 30 minute mark, insert a toothpick in the center of the cake. If it comes out clean, it's ready! Otherwise bake for an additional 5 minutes.
-      - Let cool. Slice part of the curved top off of one of the cakes to even it out (and eat it, because you wont need it). Brush top of trimmed cake with a generous serving of the tofu lemon curd, place second cake layer over it and press down gently.
+      - Pre-heat oven at {#350F#}.
+      - {_Grease two 8" cake pans_}, set aside.
+      - In a bowl mix {#2 1/4 cups#} of {{all purpose flour}}, {#1 1/2 cups#} of {{sugar}}, 3/4 tsp of baking soda and 3/4 tsp of salt.
+      - In a separate bowl, stir {#1 1/2 cups#} of {{cold water}} with {#3/4 cup#} of {{canola oil}}, {#1 tbsp#} of {{vanilla extract}}, {#3 tbsp#} of {{lemon juice}} and {#1 tsp#} of {{lemon zest}}.
+      - Combine wet ingredients with the dry, mix well. Stir in {#1 tsp#} of {{royal blue food colouring#} with {#1 drop#} of {{violet food colouring}}.
+      - Pour cake batter into pans, at the {#30 minute mark#}, insert a toothpick in the center of the cake. If it comes out clean, it's ready! Otherwise bake for an additional {#5 minutes#}.
+      - Let cool. Slice part of the curved top off of one of the cakes to even it out (and eat it, because you wont need it). Brush top of trimmed cake with a generous serving of the {{tofu lemon curd}}, place second cake layer over it and press down gently.
       - Place tardis stencil over the cake 
-      - Make sure the top is completely dry, put some powdered sugar in a sifter or fine mesh strainer. Hold over the cake and gently shake it onto the cake until it's covered to your liking. Make sure to put enough around the stencil so the shapes comes out nicely.
+      - Make sure the top is completely dry, put some {{powdered sugar}} in a sifter or fine mesh strainer. Hold over the cake and gently shake it onto the cake until it's covered to your liking. Make sure to put enough around the stencil so the shapes comes out nicely. Remove stencil gently.
       - If you want, you can sprinkle a bit of turmeric to make a glowey area atop of the tardis. Or use something else that is yellow! 
   INGR
     Cake
@@ -592,16 +592,15 @@ MASON JAR BREAD PUDDING
     & When she makes bread pudding, she makes a basin-full of it. My dad never has trouble going through all of it, he sure loves his desserts!
     & As much as i'd like to make a bucketload of bread pudding at home, me and Devine would NEVER get through the whole thing. I don't like eating the same thing for a week, so I adapted my mom's bread pudding into a single-serving one. The mason jar is a wide-mouthed 1/2 pint jar.
     % recipes/mason.jar.bread.pudding.2.jpg
-    & If ever you have some leftover crusts (even just a few) you can totally make this.
-    & It's a quick and simple dessert, with a taste of home.
+    & If ever you have some leftover crusts (even just a few) you can totally make this. It's a quick and simple dessert, with a taste of home.
   INST
     Preparation
-      - Preheat oven at 350F
-      - Combine 1/4 cup of tofu (or silken tofu), 1/3 cup of soy milk and 1/4 tsp of vanilla extract. Blend until smooth.
-      - Take a 1/2 pint wide-mouthed mason jar. Fill it up halfway with bread crusts. Add a bit of dried raisins, pour liquid to cover Until it's at a level with bread crusts
+      - Preheat oven at {#350F#}
+      - Combine {#1/4 cup#} of {{tofu}} (or silken tofu), {#1/3 cup#} of {{soy milk}} and {#1/4 tsp#} of {{vanilla extract}}. Blend until smooth.
+      - Take a {#1/2 pint#} wide-mouthed mason jar. Fill it up halfway with {{bread crusts}}. Add a bit of {{dried raisins}}, pour liquid to cover Until it's at a level with bread crusts
       - Cover with more bread crusts and dried raisins. Pour more liquid onto it, until the jar is about 3/4 full.
-      - Sprinkle a tsp of whole cane sugar on top, decorate with 5 slices of apple and add cinnamon to taste.
-      - Cook for 20-25 minutes, or until top is browned. Let cool, drizzle with some maple syrup and enjoy!
+      - Sprinkle a tsp of {#whole cane sugar#} on top, decorate with slices of {{apple}} and add {{cinnamon}} to taste.
+      - Cook for {#20-25 minutes#}, or until top is browned. Let cool, drizzle with some {{maple syrup}} and enjoy!
   INGR
     Main
       Bread crusts : 1/2 cup, packed 
@@ -633,23 +632,23 @@ BASIC BLACK BREAD
     & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Loaf
-      - In a large bowl, stir 1 1/2 tsp of salt and 3/4 tbsp of maple syrup in 1 cup of warm water until dissolved. Sprinkle tsp of active dry yeast, let sit for 10 minutes.
-      - Sift 1 1/2 cups of all purpose flour, 1 1/2 cups of whole grain flour and 1 tsp of bamboo charcoal powder together in a separate bowl. Once flours are mixed evenly enough.
-      - Add 1 tbsp of vegan butter (earth balance) to the water mix, then stir in 1/2 cup of the flour mix with a wooden spoon. Keep adding flour a 1/2 cup at a time, until the dough stops sticking to the sides. 
-      - Put ball of dough on lightly floured counter-top and start kneading, add a bit of flour everytime it starts to stick to your hands. Knead for 15 minutes. <small>You may not use up all of your flour, if there's still a lot left and your dough is nice smooth don't add any more. Don't want to risk drying it out </small>
+      - In a large bowl, stir {#1 1/2 tsp#} of {{salt}} and {#3/4 tbsp#} of {{maple syrup}} in {#1 cup#} of {{warm water}} until dissolved. Sprinkle tsp of {{active dry yeast}}, let sit for {#10 minutes#}.
+      - Sift {#1 1/2 cups#} of {{all purpose flour}}, {#1 1/2 cups#} of {{whole grain flour}} and {#1 tsp#} of {{bamboo charcoal powder}} together in a separate bowl. Once flours are mixed evenly enough.
+      - Add {#1 tbsp#} of {{vegan butter}} (earth balance) to the water mix, then stir in {#1/2 cup#} of the flour mix with a wooden spoon. Keep adding flour a {#1/2 cup#} at a time, until the dough stops sticking to the sides. 
+      - Put ball of dough on lightly floured counter-top and start kneading, add a bit of flour everytime it starts to stick to your hands. Knead for {#15 minutes#}. You may not use up all of your flour, if there's still a lot left and your dough is nice smooth don't add any more. Don't want to risk drying it out.
       - Heat up oven at the very lowest setting. This will be our warm place for bread rising. 
-      - Grease up a bowl and put the dough, rolling it once to cover all sides. Cover with a cloth and place in oven. Let rise for 45 minutes.
-      - Your bread should have doubled in size. Take bread out of oven, knead a few times and shape into a 10-11 inch cigar. Sprinkle some corn semolina on a baking sheet and place bread on top, this will keep it from sticking. Slash the top of the bread in the middle, doing this will keep the ends of the bread from splitting. Mist top of bread lightly with water, then add white sesame seeds. Press lightly to make them stick. Cover loaf with a cloth, put back in oven to rise for an additional 45 minutes. <small>If you don't want a traditional bread shape, put bread in a greased loaf pan to rise.</small>
-      - Turn oven up to 350F . Bake for 30 minutes, or until it sounds hollow when tapped at the bottom.
-      - Brush sides lightly with coconut oil, then let cool on a pile of towels or a cooling rack if you have one.
+      - Grease up a bowl and put the dough, rolling it once to cover all sides. Cover with a cloth and place in oven. {_Let rise for 45 minutes_}.
+      - Your bread should have doubled in size. Take bread out of oven, knead a few times and shape into a 10-11 inch cigar-shape. Sprinkle some {{corn semolina}} on a baking sheet and place bread on top - this will keep it from sticking. Slash the top of the bread in the middle with a knife, doing this will keep the ends of the bread from splitting. Mist top of bread lightly with {{water}}, then add {{white sesame seeds}}. Press lightly to make them stick. Cover loaf with a cloth, put back in oven to rise for an additional {#45 minutes#}. If you don't want a traditional bread shape, put bread in a greased loaf pan to rise.
+      - Turn oven up to {#350F#} . Bake for {{30 minutes}}, or until it sounds hollow when tapped at the bottom.
+      - Brush sides lightly with {{coconut oil}}, then let cool on a pile of towels or a cooling rack if you have one.
     Burger buns
       - Repeat steps 1 to 6.
-      - Instead of forming into a 'cigar' shape at step 7, divide into 8 pieces and shape into a tight ball. Sprinkle baking sheet with some corn semolina and put buns on top. Cover and let rise for another 45 minutes in the warmed oven.
-      - Take buns out of oven, brush lightly with vegan butter and put white sesame seeds on top. Bake uncovered for 20 minutes at 350F .
+      - Instead of forming into a 'cigar' shape at step 7, {_divide into 8 pieces_} and shape into a tight ball. Sprinkle baking sheet with some {{corn semolina}} and put buns on top. Cover and let rise for another 45 minutes in the warmed oven.
+      - Take buns out of oven, brush lightly with {{vegan butter}} and put {{white sesame seeds}} on top. Bake uncovered for {#20 minutes#} at {#350F#}.
       - Let cool on a pile of towels or cooling rack.
     Hot dog buns
-      - Repeat steps 1 to 6. Divide through into 15 pieces and shape into small cylinders (or general elongated hot dog shape). Sprinkle baking sheet with some corn semolina and put buns on top. Cover and let rise for another 45 minutes in the warmed oven.
-      - Take buns out of oven, brush lightly with vegan butter. Bake uncovered for 20 minutes at 350F .
+      - Repeat steps 1 to 6. {_Divide through into 15 pieces_} and shape into small cylinders (or general elongated hot dog shape). Sprinkle baking sheet with some {{corn semolina}} and put buns on top. Cover and let rise for another {#45 minutes#} in the warmed oven.
+      - Take buns out of oven, brush lightly with {{vegan butter}}. Bake uncovered for {#20 minutes#} at {#350F#}.
       - Let cool on a pile of towels or cooling rack.
   INGR
     Main
@@ -680,11 +679,11 @@ SHICHIMI TOGARASHI CRACKERS
     & Some people substitute sichuan peppercorns for black peppercorns, i don't reccommend doing that. They're not interchangeable, sichuan peppercorns is what makes it taste awesome. It's a numbing pepper, with a really distinctive taste and aroma. If you eat one peppercorn, you'll notice right away that it numbs your tongue and alters your sense of taste.
   INST
     Preparation
-      - Preheat oven to 350F
-      - In a bowl, combine 1 cup chickpea flour, 1 tbsp ground flax seeds, a pinch of baking soda, 1/2 tsp sesame oil, 1/2 tsp of sea salt and 3 tsp shichimi togarashi.  Stir in 1/4 cup of water, mix until well combined and form into a ball. <small>Add extra chickpea flour if the dough is too sticky, 1 tbsp at a time</small>
-      - Flatten ball of dough in-between two sheets of parchment paper with a rolling pin, get it into a 1/4" thick rectangle.
+      - Preheat oven to {#350F#}.
+      - In a bowl, combine {#1 cup#} {{chickpea flour}}, {#1 tbsp#} {{ground flax seeds}}, a pinch of {{baking soda}}, {#1/2 tsp#} {{sesame oil}}, {#1/2 tsp#} of {{sea salt}} and {#3 tsp#} {{shichimi togarashi}}.  Stir in {#1/4 cup#} of {{water}}, mix until well combined and form into a ball. Add extra chickpea flour if the dough is too sticky, 1 tbsp at a time.
+      - Flatten ball of dough in-between two sheets of parchment paper with a rolling pin, get it into a {_1/4" thick rectangle_}.
       - Cut about 10 half-inch wide strips of nori and line on top of flattened dough, leaving some space between each piece. If the nori doesn't stick you can brush the top with a bit of soy sauce (or water).
-      - Slice the dough into squares and poke holes in  with a toothpick so the crackers so they don't puff up. Place on a baking sheet and bake for 15-20 minutes or until golden brown.
+      - Slice the dough into squares and poke holes in  with a toothpick so the crackers so they don't puff up. Place on a baking sheet and bake for {#15-20 minutes#} or until golden brown.
       - Let cool, snap pieces apart and enjoy!
   INGR
     Main
@@ -709,10 +708,10 @@ ROASTED PUMPKIN SEEDS
     & Roasted pumpkin seeds are delicious with almost anything, the sweet of the maple syrup with the spicy taste of the paprika is perfect. Subtle, but very good.
   INST
     Preparation
-      - Preheat oven to 300F .
-      - Mix 1/2 tsp of smoked paprika, 1/2 tsp of ground cumin, 1/4 tps of sea salt and 1 tsp of maple syrup together. Add 1/2 cup of raw pumpkin seeds.
+      - Preheat oven to {#300F#}.
+      - Mix {#1/2 tsp#} of {{smoked paprika}}, {#1/2 tsp#} of {{ground cumin}}, {#1/4 tps#} of {{sea salt}} and {#1 tsp#} of {{maple syrup}} together. Add {#1/2 cup#} of {{raw pumpkin seeds}}.
       - Line baking sheet with parchment paper, spread seeds out as flat and as apart from each other as you can on the sheet.
-      - Bake for 20 minutes, at the 10 minute mark stir seeds around and then bake for another 10 minutes.
+      - Bake for {#20 minutes#}, at the 10 minute mark stir seeds around and then bake for another {#10 minutes#}.
       - Eat as a snack or add as a topping in soups!
   INGR
     Main
