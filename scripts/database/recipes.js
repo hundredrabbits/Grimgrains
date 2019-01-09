@@ -1616,12 +1616,12 @@ BALSAMIC BANANA ICE CREAM
 
 CURRIED PUMPKIN SEED PATE
   DATE : 2015-08-29
-  TAGS 
+  TAGS
     sidedish
   TIME : 60
   SERV : 4 blocks
   DESC
-    & This time last year, Grim Grains was born. If you were there at the start of it all, you'll remember that the first recipe I posted was black scones (my lovely eatable meteorites). Cooking had become a passion, this blog needed to happen. I was freelancing back then, and had a lot of time to dedicate to the project. Nowadays, I work in studio all day and finding time to cook up new foods is tough. Because of this, my meals have become simpler. I feel my meals will continue to be simple, due to the fact that me and Devine will be embarking on an exciting new adventure next year: we want to live on a sailboat. If you've ever been on one, you know that space is an issue. I'm not only talking about storage, but also about refrigeration. Grim Grains will still happen, but will be very different. Hopefully, I'll still be able to make my own pâté.
+    & This time last year, Grim Grains was born. Cooking had become a passion, this blog needed to happen. I was freelancing back then, and had a lot of time to dedicate to the project. Nowadays, I work in studio all day and finding time to cook up new foods is tough. Because of this, my meals have become simpler. I feel my meals will continue to be simple, due to the fact that me and Devine will be embarking on an exciting new adventure next year: we want to live on a sailboat. If you've ever been on one, you know that space is an issue. I'm not only talking about storage, but also about refrigeration. Grim Grains will still happen, but will be very different. Hopefully, I'll still be able to make my own pâté.
     & I wanted to try and re-create a curry pâté I had some time ago. While I didn't have sunflower seeds to use as a base, I had a jar full of pumpkin seeds! As you know, pumpkin seeds can be expensive, I recommend buying it in bulk (I ordered mine from Yupik.com). As with my veggie pate recipe, the seeds need to be soaked prior to blending. To learn more about the why's and how's of seed soaking check out the article {{Soaking nuts and seeds|http://healthyblenderrecipes.com/info/soaking_grains_nuts_seeds}} by the Blender Girl.
     & This pâté can be used on toast, sliced cucumbers or other veggies. Sometimes I cube it up and use it as a topping for salads and other meals.
   INST
