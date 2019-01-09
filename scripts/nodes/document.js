@@ -1,11 +1,9 @@
-function DocumentNode(id,rect,...params)
-{
-  Node.call(this,id,rect);
+function DocumentNode (id, rect, ...params) {
+  Node.call(this, id, rect)
 
   this.glyph = NODE_GLYPHS.dom
-  
-  this.receive = function(content)
-  {    
+
+  this.receive = function (content) {
     document.title = content.title
   }
 }
