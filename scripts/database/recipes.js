@@ -5,30 +5,37 @@ SEITAN
   TAGS
     basic
   TIME : 60
-  SERV : 1 paddies
+  SERV : 2
   DESC
-    & A good supplement to other meals.
+    & Seitan (say-tan) or wheat meat, can be made into a variety of meat-like foods using a variation of spices and other seasonings. It is the base of buddhist vegetarian cooking, and has been documented in China since the 6th century. It's an ingredient that is also present in japanese cuisine, for 'shojin ryori' (vegetarian cooking) - an important term to remember if you don't eat meat and are traveling the country. Seitan takes on a different name there, it is known as "fu", and can be found in two forms, raw (nama-fu) or dry baked (yaki-fu, which looks like bread). 
+    & Seita, or Fu, can be produced at home, but it's very labor intensive. Making it requires kneading wheat flour with water to rinse out the starch from the wheat, what remains is a sticky mass of pure gluten protein. If your plan is to make it from scratch, good on you; but otherwise, gluten flour (or vital wheat gluten) is your best bet. The basic ingredients for seitan are gluten flour and water, but it's best to flavour it with other ingredients - it is rather bland on its own. The amount of liquid that you use to make your dough will also affect the chewiness of your seitan, less waters means more chewy with a harder texture, and more will make it tender. 
+    & In this recipe, I added chickpea flour for added nutrition. Wheat gluten proteins are deficient in lysine (an essential amino acid for good health), adding a lysine-rich food like chickpea flour to the mix makes up for this deficiency.
+    & When preparing seitan, it's important to flavour the inside, and outside of the dough. Adding a variation of ingredients to the dough mix, like ginger, garlic, onion powder, tomato sauce, soy sauce etc. will make it extra flavourful, the same goes for the broth; adding vegetable broth and soy sauce as a base, and roughly chopped onions, garlic and ginger will season the outside of the dough. 
+    & There are 3 ways to cook seitan: boiling, steaming or baking. In this recipe, I used the boiling method. Steaming requires wrapping the dough in foil or some other wrapper to help it keep its shape, then, steaming it in a steamer basket over a pot of boiling water for 30 minutes or so. Baking the seitan, means flattening or stretching the dough to fit the baking dish, adding seasonings overtop, and baking it for an hour. All methods are good, but some are better for certain kinds of meals. .
+
   INST
-    Pancake
-      - Blend {#1/2 cup#} of {{spinach}} with {#1/2 cup#} of {{water}} until smooth. Set aside.
-      - In a bowl, whisk together {#1/2 cup#} of {{spelt flour}}, {#1 tsp#} {{sesame oil}} and the blended spinach.
-      - Heat a large pan with {#1 tsp#} of {{sesame oil}} over {_medium heat_}.
-      - Put the chopped {{scallions}} in the pan and pour the batter onto it. With a spatula, press down on the pancake to flatten it out. 
-      - Cook for {#3-4 minutes#} until the sides come off the pan and the bottom is cooked. Flip, cook for a a few extra minutes and transfer to a plate.
-      - Cut it into pieces to make it easier to dip into the sauce!
-    Sauce
-      - Put the sauce ingredients together in a bowl and mix!
+    MAIN
+      - In a bowl, stir {#1/2 cup#} of {{gluten flour}} with {#1/4 cup#} of {{chickpea flour}}. 
+      - In another bowl, mix {#1/3 cup#} of {{water}} (or vegetable broth) and {#1 tbsp#} of {{soy sauce}}. Pour into dry ingredients.
+      - Knead for {#2-3 minutes#}. If dough is too sticky, add more flour. Let rest for 10 minutes, and knead for another set of 2-3 minutes. 
+      - {_Separate dough in two_} - optional, but it creates more surface area that can inbibe flavour. Also, the seitan expands quite a bit and having smaller pieces makes it more manageable. 
+    BROTH
+      - Cut the following ingredients: {#2 cloves#} of {{garlic}}, a {#1/2 large#} {{yellow onion}} and {#1 palm-sized knob#} of {{ginger}}. 
+      - Add the cut ingredients to a pot, add 3 cups of vegetable broth (or 1 tbsp of vegetable broth powder in 3 cups of water) and 2 tbsp of soy sauce. Bring to a boil.
+      - Add the seitan cutlets, reduce heat to low, and cover. Let the seitan simmer for {#1 hour#}. 
+    HOW TO SERVE
+      - Cut into slices, and sautee them in a pan with seasonings - you can also add a glaze for extra flavour.
   INGR
     Main
-      Glutinous flour : 1/2 cup
+      gluten flour : 1/2 cup
       chickpea flour : 1/4 cup
       soy sauce : 1 tbsp
       Water : 1/3 cup
     Broth
-      garlic : 1 clove
-      ginger root : 1 clove
-      vegetable bouillon : 1 cube
-      yellow onion : half
+      garlic : 2 cloves
+      ginger root : 1 knob
+      vegetable bouillon : 3 cups
+      yellow onion : 1/2
 
 SPINACH PAJEON
   DATE : 2014-08-19
