@@ -1167,37 +1167,31 @@ CHILI POMEGRANATE BROWNIES
   TIME : 60
   SERV : 24 servings
   DESC
-    & Making brownies has been on my mind for some time, i finally settled for spicy brownies, with sweet and spicy pomegranate syrup!
-    & It took me a LONG time to decide on a mix of ingredients/flavours; I've had recipe notes lying around on my desktop for ages now, with ingredients added, or scratched off.
-    & I would still be in brownie rut, if it hadn't been for Devine ; his birthday was coming up, when I asked him what he wanted as a dessert he said, 'BROWNIES!'
-    & The recipe was adapted from Joanne Gallagher's fantastic blog, <a href=\"http://www.inspiredtaste.net/24412/cocoa-brownies-recipe/\">Inspired taste</a>. I'm not good enough  to freestyle brownies, using her recipe as a base - for quantities especially - helped me out a lot. At least, i can get a good idea of how many wet, fat and sweet elements I need.
-    % recipes/chili.pomegranate.brownies.1.jpg
-    & Spent time thinking about what i wanted it to look like, and how i wanted to present it. I didn't a chocolate topping - i've never been a fan of double-chocolate anything. I, at least, knew i wanted a fruit topping. 
-    & I wanted to make the brownies in a round cake pan, and decorate it with powdered sugar patterns, using stencils. Then, I stumbled upon a recipe online for a fish-based dish (they used a pomegranate syrup as garnish.) I'd never made syrup before, but i knew that's what i wanted as a coulis over my brownies.
-    & I scrapped the round cake pan idea, as well as the powdered sugar. Devine's birthday brownies were going to be topped with fresh pomegranate seeds, and a pomegranate syrup coulis!
-    & Again, something was missing...
-    & I had some really good, spicy chocolate fleur de sel cookies at my old studio. The idea of putting chili peppers in cookies (or cake) had never ocurred to me before. I thought it was brilliant - and the chocolate and chili mix is just insane (in a good way.) Lindt makes dark chocolate with chili peppers, I guess it was inspired by those 2 things.
+    & Making brownies has been on my mind for some time, I finally settled for {*spicy brownies*} with a sweet and spicy {*pomegranate syrup*}!
+    % recipes/chili.pomegranate.brownies.3.jpg
+    & I put a LOT of chili pepper flakes in these. I have a higher tolerance to it, but if you don't feel free to use less. You can omit the chilis in the batter, but I highly recommend infused the pomegranate syrup with some - it's delicious and won't be the same without it.
+    & These were a big success. 
+    & I baked these brownies for Devine's birthday, and I've been re-making them ever since. You can vary the fruit juice for the topping, making reductions of fruit juices is very easy and it's so good, it makes desserts extra fancy without much effort. I cut them into 24 small squares, but these would look great in larger blocks too. Smaller portions means you can fool yourself into having some longer — I rather like that idea.
     % recipes/chili.pomegranate.brownies.2.jpg
-    & I put a LOT of chili pepper flakes in these, i have a higher tolerance to it but if you don't feel free to use less. The syrup has a fair amount in it too, if you're worried about the level of spicy, you can actually not put it in the brownie batter. But, be sure to infuse it in the pomegranate syrup, won't be the same without it.
-    & These were a big success, Devine loved them! I cut them into 24 small squares, but feel free to make larger blocks. Smaller portions means you can have some longer, i like that idea.
-    & In this recipe I substituted half of the fat for pureed pumpkin. In brownies you can only substitute half the amount, before it effects the texture. Hope you like it! 
+    & In this recipe I substituted half of the fat for pureed pumpkin, you could also use apple sauce or banana (banana tastes is strong though). Know that when baking brownies, you can only substitute {*half the amount*} of fat before it effects the texture. 
   INST
     Preparation
-      - Preheat oven to 325F.
-      - Cut 1/3 cup's worth of pumpkin, steam until softened and process into a puree with an immersion blender.
-      - Put 3 tbsp of ground flax seeds in a bowl with 9 tbsp water, let thicken for 5 minutes. Set aside.
-      - Put 5 tbsp of vegan butter, 5 tbsp of pumpkin puree, 3/4 cup whole cane sugar, 3/4 cup cocoa powder and a 1/4 tsp sea salt in a pan over medium to low heat. Stir until the butter is melted, and all is well mixed.
-      - Stir in the flax 'eggs', as well as the 2 tbsp of red pepper flakes and 1 tsp of cayenne powder. Add 1/2 cup of all purpose flour, mixing vigorously. Mixture should be very thick, but if it doesn't pour easily, mix in water 1 tbsp at a time until it's at the right consistency. 
-      - Pour into a 8X8 baking dish lined with parchment papper, flatten with the back of a spoon to even it out. Bake for 25 minutes, until toothpick comes out clean. Let cool. Cut in 24 small squares.
+      - Preheat oven to {#325F#}.
+      - Cut {#1/3 cup#} of {{pumpkin}}, steam until softened and process into a puree.
+      - Put {#3 tbsp#} of {{ground flax seeds}} in a bowl with {#9 tbsp#} of {{water}}, let thicken for {#5 minutes#}. Set aside.
+      - Put {#5 tbsp#} of {{coconut oil}}, {#5 tbsp#} of {{pumpkin puree}}, {#3/4 cup#} {{whole cane sugar}}, {#3/4 cup#} {{cocoa powder}} and a {#1/4 tsp#} {{salt}} in a pan over medium to low heat. Stir until the {{coconut oil}} is melted, and all is well mixed.
+      - Stir in the flax 'egg', as well as the {#2 tbsp#} of {{red pepper flakes}} and {#1 tsp#} of {{cayenne powder}}. Add {#1/2 cup#} of {{all purpose flour}} and mix well. Mixture should be very thick.
+      - Pour into a {_8X8 baking dish_} lined with parchment papper. Flatten with the back of a spoon to even it out and bake for {#25 minutes#}, or until knife comes out clean. Let cool. {_Cut in 24 small squares_}.
     Syrup
-      - Put 2 cups of unsweetened pomegranate juice into a pot with 1 tsp red pepper flakes and 1 tsp cayenne. Bring to a boil, lower to medium-high heat and leave for up to 1h or until liquid has been reduced to 1 cup.
-      - Let cool, the syrup will thicken when cooled. Top brownies with fresh pomegranate seeds, and drizzle with the chili-infused syrup!
+      - Pour {#2 cups#} of {{unsweetened pomegranate juice}} into a pot with {#1 tsp#} {{red pepper flakes}} and {#1 tsp#} {{cayenne}}. Bring to a boil, lower to medium-high heat and leave for up to {#1h#} or until liquid has been reduced to 1 cup.
+      - Let cool, the syrup will thicken when cooled. 
+      - Top brownies with fresh pomegranate seeds, and drizzle with the chili-infused syrup!
   INGR
     Brownie
       Pumpkin : 1/3 cup
       Flax seeds : 3 tbsp
       Water : 9 tbsp
-      Vegan butter : 5 tbsp, earth balance
+      Coconut oil : 5 tbsp
       Whole cane sugar : 3/4 cup
       Cocoa powder : 3/4 cup
       Sea salt : 1/4 tsp
@@ -1212,34 +1206,32 @@ CHILI POMEGRANATE BROWNIES
     Topping
       Pomegranate seeds : 1 cup
 
-BLACK FRENCH TOAST
+FRENCH TOAST
   DATE : 2015-03-23
   TAGS
     breakfast
   TIME : 20
   SERV : 4 servings
   DESC
-    & I baked a beautiful loaf of black sandwich bread, just to use in this recipe. Doesn't the idea of black french toast sound amazing? With a banana-base, and topped with freshly cut kiwi slices no less!
-    & It was my first time baking black bread in a bread pan; usually I just opt for free-form loaves. But for sandwich and french toast purposes, it would work better if it was in that shape. You can make your own black bread, using my {{Basic black bread|http://grimgrains.com/basic+black+bread">basic black bread}} recipe - it's very easy to make.
-    % recipes/black.french.toast.1.jpg
-    & Usually when I make french toast, i'll use a soy milk as a base. I made some recently, using The simple veganista's {{banana french toast|http://thesimpleveganista.blogspot.ca/2013/02/banana-french-toastyes-please.html}} recipe. I thought the idea was brilliant - i do love bananas in my breakfasts. By the way, she has a great 'orange french toast' recipe on her blog - you should make that too. 
-    & Using bananas, makes for a more consistent morning meal. Most french toast recipes add nutmeg and cinnamon, but I prefer to just taste the fruit - Devine isn't a huge nutmeg fan anyway.
-    % recipes/black.french.toast.2.jpg
-    & Made these on a weekday, tuesday morning french toast is great - fun breakfasts shouldn't only be reserved for weekends.
+    & I baked a beautiful loaf of sandwich bread, with a soft texture that is perfect for french toast. 
+    & It was my first time baking bread in a bread pan, I usually opt for free-form loaves, but for sandwich and french toast purposes it works better if it has a constrained shape. 
+    & You can make your own soft bread, using my {{Basic bread|basic black bread}} recipe - it's very easy to make and you don't have to make it black (you can omit the bamboo charcoal).
+    & Using bananas makes for a consistent morning meal, and adds a bit of sweetness to it — bananas become sweeter when heated in a pan, it caramelizes and has a very pleasant taste. Adding a banana to the soy milk helps to thicken the mix, and will make the bread become a 'golden' color.
+    % recipes/french.toast.2.jpg
     & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Preparation
-      - Puree 1 banana, 3/4 cup of soy milk and 1/2 tsp of vanilla extract using an immersion blender.
-      - Melt 1 tsp of vegan butter in a pan at medium heat, dip slice into the banana puree batter. Pan-fry bread until golden and crispy on both sides.
-      - Serve with slices of kiwi and a generous serving of maple syrup!
+      - Puree {#1#} {{banana}}, {#3/4 cup#} of {{soy milk}} and {#1/2 tsp#} of {{vanilla extract}}.
+      - Melt {#1 tsp#} of {{coconut oil}} in a pan at medium heat, dip slice into the banana puree batter. Pan-fry bread until golden and crispy on both sides.
+      - Serve with slices of {{kiwi}}, or a fruit of your choice, along with a generous serving of maple syrup!
     Black bread
-      - If you want to make black bread please refer to my <a href=\"http://grimgrains.com/basic+black+bread\">basic black bread recipe.</a>. Just follow the recipe, be sure to place it in a loaf pan for the second rise to make it have more of a 'bread' shape.
+      - If you want to make black bread please refer to my {{Basic bread recipe|basic black bread}}. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
   INGR
     Main
       Banana : 1
       Soy milk : 3/4 cup
       Vanilla extract : 1/2 tsp
-      Vegan butter : 1 tsp, earth balance
+      Coconut oil : 1 tsp
       Maple syrup : to taste
       Kiwi : 1 
 
@@ -1250,26 +1242,28 @@ PANKO CHICKPEA FINGERS
   TIME : 90
   SERV : 24 servings
   DESC
-    & Was in the mood for some panko, didn't have tofu; but what I did have, was a jar full of chickpea flour. I prepared a batch of spicy, green scallion, 'chickpea tofu' and coated it with breadcrumbs. With this, I made baked panko chickpea fingers!
-    & This dish was inspired off of Vegan Richa's <a href=\"http://www.veganricha.com/2015/03/parmesan-crusted-avocado-kale-florentine-with-smoked-paprika-hollandaise.html\">parmesan crusted avocado</a> recipe, I made it just last week! It reminded me how easy it is too make panko at home; never thought of using lemon juice, to make the panko stick.
+    & Was in the mood for some panko, didn't have tofu, but what I did have... was a jar full of chickpea flour. I prepared a batch of spicy, green scallion 'chickpea tofu' and coated it with breadcrumbs. With this, I prepared some baked panko chickpea fingers!
     % recipes/panko.chickpea.fingers.1.jpg
-    & The lemon juice adds flavour to the crumbs, no need for eggs or flour - simplicity at its best.
+    & The lemon juice adds flavour to the crumbs, no need for eggs or flour.
+    & I had these with sambal oelek, it's spicy but works well with the dish. I've been pairing this condiment with a lot of my foods lately, I'm sure these would also be good with a sweet mustard dip!
+    & How to make panko from scratch:
+    & If you don't have any panko, making it yourself is simple; all you need is some left-over bread. I had bread I needed to use up so I tore the slices into smaller bits using my hands. It's easier to do that with a food processor, but not necessary. Then, I lined a baking sheet with a mat and put the crumbs down in a thin layer; a thin layer is important, it ensures even browning. Preheat your oven at 300F, and bake the bread bits for 5 minutes. After the 5 minutes is up, shake them around, and bake them for an additional 5 minutes.
     % recipes/panko.chickpea.fingers.2.jpg
-    & I had these with sambal oelek, it's spicy but I think it works well with the dish. I've been pairing this condiment with a lot of my foods lately, i bet these would be good with a sweet mustard dip!
-    & If you don't have any panko, just make some yourself! All you need is some left-over bread; i had some i needed to use up. I tore the slices into smaller bits, and put them in my food processor to break them down. Once it was 'crumby' enough, I lined a baking sheet with some parchment paper, and put the crumbs down in a thin layer (for even browning). Preheat your oven at 300F, and bake the bread bits for 5 minutes. After the 5 minutes is up, shake them around, and bake them for an additional 5.
-    % recipes/panko.chickpea.fingers.3.jpg
-    & Keep an eye on me them, to make sure they don't burn! Let cool, and store in an airtight container - keeps for weeks at room temperature!
+    & Keep an eye on me them, to make sure they don't burn! Let cool, and store in an airtight container - keeps for weeks at room temperature.
   INST
-    Preparation
-      - Bring 1 1/2 cups of vegetable bouillon to a rolling boil in a pot.
-      - Mix 1 cup of chickpea flour with 1/4 tsp sea salt, 1/2 tsp ground turmeric and 1 tbsp chili pepper flakes. Add 1 1/2 cups of water and stir until the mixture is lump-free.
-      - Lower to medium heat and pour in chickpea batter. Whisk continuously for 5-10 minutes until thickened. Remove from heat, add 2 chopped green onions and mix well. Pour into a 8x8 baking dish lined with parchment paper. Smooth out top with the back of a wooden spoon. 
-      - Let cool and set for 1 hour, then refrigerate for a little while longer before cutting. Cut into 24 strips.
-      - Preheat oven to 425F.
-      - Mix 1 cup of panko bread crumbs and 1/4 cup nutritional yeast, spread out thinly onto a plate.
-      - Pour 4 tbsp of lemon juice in a separate plate.
-      - Take a slice of chickpea tofu and dip into the lemon juice, making sure all sides are covered. Dip into panko, again making sure all sides are well coated. Place on baking sheet lined with aluminum foil or parchment paper, season with black pepper and sea salt and spray lightly with olive oil.
-      - Bake for 15 minutes, flip, bake for another 15 minutes. Serve with dipping of choice!
+    Chickpea tofu
+      - In a pot, add {#1 1/2 cups#} of {{vegetable bouillon}} and bring to a rolling boil.
+      - Mix {#1 cup#} of {{chickpea flour}} with {#1/4 tsp#} of {{salt}}, {#1/2 tsp#} of {{ground turmeric}} and {#1 tbsp#} of {{chili pepper flakes}}. Add {#1 1/2 cups#} of {{water}} and stir until the mixture is lump-free.
+      - Lower heat to medium, and pour in chickpea batter. Whisk continuously for {#5-10 minutes#} until the mixture has thickened. 
+      - Remove from heat, add {#2 chopped#} {{green onions}} and mix well. Pour into a {_8x8 baking dish_} lined with a baking mat. Smooth out top with the back of a wooden spoon. 
+      - Let cool and set for {#1 hour#}, then refrigerate for a little while longer before cutting. {_Cut into 24 strips_}.
+    Panko coating mix
+      - Preheat oven to {{425F}}.
+      - Mix {#1 cup#} of {{panko bread crumbs}} and {#1/4 cup#} of {{nutritional yeast}}. Spread out thinly onto a plate.
+      - Pour {#4 tbsp#} of {{lemon juice}} in a separate plate.
+      - Take a slice of the {{chickpea tofu}} and dip into the {{lemon juice}}, making sure all sides are covered, then dip into panko. Make sure all sides are well coated. 
+      - Place on baking sheet lined a baking mat, season with black pepper and salt and spray lightly with {{olive oil}}.
+      - Bake for {#15 minutes#}, flip, bake for another {#15 minutes#}. Serve with dipping sauce of choice!
   INGR
     Main
       Vegetable bouillon : 1 1/2 cups
@@ -1290,23 +1284,25 @@ UZUMAKI HUMMUS BITES
   TIME : 50
   SERV : 11 tortillas
   DESC
-    & Beet hummus bites, or 'uzumaki' bites, as i like to call them! Roasted beet hummus, black olives and aragula salad tucked into homemade bamboo charcoal tortillas.
-    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing i had trouble with, was making them into nice circular shapes. Not sure how people manage to do it, guess it takes practice. It's also because i'm short of a rolling pin, Devine broke the handles off the other day. I've been using the 'body' of the rolling pin, without the handles. It still works! Dans ta face, rolling pin!
+    & {*Uzumaki*} means 'spiral' in japanese, also the name of my favourite Junji Ito story. I thought this to be a good name for these savoury beet hummus bites.
     % recipes/uzumaki.hummus.bites.2.jpg
-    & Made the tortillas based on the recipe by Zerrin from {{Give recipe|http://www.giverecipe.com/basic-homemade-flour-tortillas.html}} You should check out her page first, if you want to try and make your own tortillas. She describes it a lot better than I, not to mention her tortillas are circular. In my defense, she uses a tortilla press. 
+    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way, is to use a tortilla press, or it just requires lots of practice. I'll get them to be circular eventually, maybe. 
     % recipes/uzumaki.hummus.bites.3.jpg
     & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Beet hummus
-      - Preheat oven to 375F.
-      - Wash and cut 2 small beets into 4, rub quarters lightly with olive oil. Roast for 30-40 minutes or until fork tender.
-      - Puree the roasted beets, 1 1/4 cup of chickpeas, the 2 minced garlic cloves, 1/4 cup tahini, 1/2 tsp of sea salt and 1 tbsp balsamic vinegar in a food processor or using an immersion blender. Mix in 2 tbsp of olive oil at the end. <small>If the hummus feels too thick, add a few tbsp of water until desired consistency</small>
+      - Preheat oven to {#375F#}.
+      - Wash and cut {#2 small#} {{beets}} into 4, rub quarters lightly with {{olive oil}}. 
+      - Roast for {#30-40 minutes#} or until fork tender.
+      - Puree the roasted beets, with {#1 1/4 cup#} of {{chickpeas}}, {#2 minced#} {{garlic cloves}}, a {#1/4 cup#} of {{tahini}}, {#1/2 tsp#} of {{salt}} and {#1 tbsp#} of {{balsamic vinegar}}. Mix in {#2 tbsp#} of {{olive oil}} at the end. If the hummus feels too thick, add a few tbsp of water until you the desired consistency.
     Tortillas
-      - Put 3 cups of all purpose flour, 1 tsp bamboo powder and 1 tsp of sea salt in a bowl. Mix well.
-      - Add 1/4 cup of olive oil and 3/4 cup of cold water, knead into a smooth dough. Separate into 11 balls, dust lightly with flour and let rest for 5 minutes. Roll out into circles. <small>Put the tortillas under a cloth until you're ready to cook them so they don't dry up</small>
-      - Heat a non-stick pan at medium heat, cook tortillas for 30 seconds on each side. Again, put the warmed tortillas under a cloth so they stay nice and moist.
+      - Put {#3 cups#} of {{all purpose flour}}, {#1 tsp#} {{bamboo powder}} and {#1 tsp#} of {{salt}} in a bowl. Mix well.
+      - Add {#1/4 cup#} of {{olive oil}} and {#3/4 cup#} of {{cold water}}.
+      - Knead into a smooth dough, and separate into 11 balls. Dust the balls lightly with flour, and let rest for 5 minutes. 
+      - Roll the balls out into circles. Put the tortillas under a moist cloth until you're ready to cook them so they don't dry up (I usually spray a bit of water over the cloth).
+      - Heat a non-stick pan at medium heat, cook tortillas for {#30 seconds#} on each side. Again, put the warmed tortillas under a cloth so they stay nice and moist.
     Combine
-      - Brush some beet hummus into a tortilla, add a bit of chopped black olives and some arugula overtop. Be sure to put the fillings near the edge to make it easier to roll.
+      - Brush some beet hummus onto a tortilla, add some chopped black olives and arugula overtop. Be sure to put the fillings near the edge to make it easier to roll.
       - Roll the tortillas tightly and then slice into bite-sized bits.
   INGR
     Beet hummus 
@@ -1327,43 +1323,6 @@ UZUMAKI HUMMUS BITES
       Black olives : 1 cup
       Arugula : few bunches 
 
-BLACK SESAME ICE CREAM BARS
-  DATE : 2015-05-04
-  TAGS
-    dessert
-  TIME : 120
-  SERV : 4 large bars
-  DESC
-    & Black sesame ice cream bars, because it's starting to get warmer in Montreal! I want something sweet, nutty, refreshing and BLACK to eat! Need to goth-up my insides.
-    & Ok, so it's not black. Grey is fine though, grey is gorgeous. There should be more, naturally grey, foods.
-    & Making crusts is always an ordeal for me, most of the time i don't have the ingredients to make it. A lot of recipes call for graham crackers, or dates. While I often do have dates, i don't have an endless supply of it. Was wondering if there was something i could do with oats, i always have a TON of steel cut oats on hand.
-    & I looked up recipes for oat-based crusts, and found this awesome one by <a href=\"http://www.oatmealwithafork.com/2014/11/14/5-ingredient-no-roll-pie-crust-gluten-free-nut-free/\">Lauren Goslin</a> from 'oatmeal with a fork'. Her recipe called for olive oil, but I swapped it for coconut oil. Coconut oil suits desserts perfectly, assuming you like the taste of coconut . The flavour can be pretty strong.
-    % recipes/black.sesame.ice.cream.bars.1.jpg
-    & As for the black sesame ice cream, this is actually my 3rd attempt. First one was good, made it with silken tofu and coconut milk. Didn't have any silken tofu left for this batch, so gave bananas a go, and it worked out great too! 
-    & Being able to make black sesame ice cream at home makes me happy. Now that Japan is so far away, and that kombinis aren't 5 minutes away anymore. AH I miss the convenience of Kombinis.
-  INST
-    Crust
-      - Preheat oven to 375F.
-      - Put 1 1/2 cups of oat flour and 2 tbsp of sugar in a bowl. Mix well. Pour 1/4 cup of coconut oil and stir until the batter has a crumb-like texture. Stir in 4 tbsp of cold water to moisten it further. <small>you can make your own oat flour using steel cut oats by grinding them in a food processor or using an immersion blender.</small>
-      - Spoon mixture into 4 mini loaf pans, flatten well with a fork. Bake for 10 minutes. Let cool. <small>I used mini kitchenaid silicone bread pans</small>
-    Ice cream
-      - Heat 2/3 cups of black sesame seeds in a pan at medium heat, once they start to pop remove from heat and let cool. Transfer to a food processor and grind into a fine powder.
-      - Put in a blender with 1 can of coconut milk, 4 tbsp of sugar and 1 banana. Pulse until smooth.
-      - Put pans into a tray, separate batter evenly overtop of the oat crust into the 4 mini pans. <small>The reason i placed them on a tray is so i dont have to handle the silicone bread pans individually, since the mold is soft it means it can 'twist' and cause the batter to spill on the sides of the oat crust. Isn't a big deal but the presentation isn't as pretty if you can't see the two layers</small>
-      - Put in the freezer for 3 hours or so. Pop out of the molds and store in another container or eat and enjoy! <small>After spending a long time in the fridge the ice cream part will get pretty hard, you should take it out of the freezer 10 minutes before eating it. It'll be softer and easier to eat that way</small>
-      - One bar can serve 2 people! Just slice in two! Serve with fresh fruit.
-  INGR
-    Crust
-      Oats : 1 1/2 cups, ground
-      Sugar : 2 tbsp
-      Coconut oil : 1/4 cup
-      Water : 4 tbsp, cold 
-    Ice cream
-      Black sesame seeds : 2/3 cup
-      Coconut milk : 1 can
-      Sugar : 4 tbsp
-      Banana : 1
-
 ANISE BREAD WITH SWEET PEAR SAUCE
   DATE : 2015-05-14
   TAGS
@@ -1371,24 +1330,25 @@ ANISE BREAD WITH SWEET PEAR SAUCE
   TIME : 40
   SERV : 2 mini loaves
   DESC
-    & It's mini loaf craze, love baking with the mini pans I bought. Been making mini everything. This time, i made some anise bread topped with a sweet sauce, loaded with caramelized pear chunks.
+    & It's mini loaf craze! Love baking with the mini silicone pans I bought, I've been making mini everything. This time, I made some anise bread topped with a sweet sauce, and loaded with caramelized pear chunks.
     & My bag of anise seeds has been sitting in my pantry, for way too long, begging to be given a purpose.
     % recipes/anise.bread.with.sweet.pear.sauce.1.jpg
-    & I'm sorry I neglected you for so long anise seeds, you're delicious, and you smell so so nice. No hard feelings? We're good you and I right?
+    & I'm sorry I neglected you for so long anise seeds, you're delicious, and you smell so, so nice. No hard feelings? We're good you and I right?
     & Right.
-    & This recipe was inspired by a Pineapple and anise seed 'pudding chomeur' recipe on <a href=\"http://willtravelforfood.com/2011/11/01/apollo-giovanni-recipe-pudding-chomeur/\">Will travel for food</a>! I ended up making little cake breads, instead of pudding. Making them egg-free worked out nicely too! My cake breads have a less sugar than the pinapple pudding chomeur too.
     % recipes/anise.bread.with.sweet.pear.sauce.2.jpg
-    & You guys should pay 'Will travel for food' a visit! It's a Montreal blog too, how cool is that? More montreal cooking friends!
+    & The taste of anise pairs very well with pears, as you will come to find out. 
   INST
     Preparation
-      - Preheat oven to 325F.
-      - Put 1 tbsp ground flax seeds with 3 tbsp of water, let thicken for 5 minutes. Mix in 1/4 cup of sugar and stir until dissolved. Add 1 tsp of ground anise seeds, mix it all up again!
-      - Put the 3/4 cup of all purpose flour in a bowl with 1/2 tsp of baking powder. Mix. Pour the wet ingredients into the dry ones, while gradually adding a bit over a 1/2 cup of soy milk.
-      - Transfer evenly to 2 mini loaf pans.
+      - Preheat oven to {#325F#}.
+      - Put {#1 tbsp#} of {{ground flax seeds}} with {#3 tbsp#} of {{water}}, let thicken for {#5 minutes#} (this is your flax 'egg'). Mix in {#1/4 cup#} of {{whole cane sugar}} and stir until dissolved. Add {#1 tsp#} of {{ground anise seeds}}, and mix once more.
+      - Add {#3/4 cup#} of {{all purpose flour}} to a bowl with {#1/2 tsp#} of {{baking powder}}. Mix. 
+      - Pour the wet ingredients into the dry ones, while gradually adding a bit over {#1/2 cup#} of {{soy milk}}.
+      - Transfer evenly, to 2 mini loaf pans.
     Sauce
-      - Cut your bartlett pear into cubes.
-      - Heat a pan at medium to high heat, add 1/4 cup of vegan butter. Once melted, add 1 tbsp of brown sugar and 1 tbsp of maple syrup. Once it starts to boil, add the cubed pear and lower the heat. Let it bathe in the sweet mixture for 3-5 minutes.
-      - Pour the sauce over the 2 mini loaves, bake for 30 minutes.
+      - Cut your {{bartlett pear}} into cubes.
+      - Heat a pan at medium to high heat, add {#1/4 cup#} of {{coconut oil}}. Once melted, add {#1 tbsp#} of {{whole cane sugar}} and {#1 tbsp#} of {{maple syrup}}. 
+      - Once it starts to boil, add the cubed pear and lower the heat. Let it bathe in the sweet mixture for {#3-5 minutes#}.
+      - Pour the sauce over the 2 mini loaves, bake for {#30 minutes#}.
       - Let cool and serve!
   INGR
     Bread
@@ -1401,8 +1361,8 @@ ANISE BREAD WITH SWEET PEAR SAUCE
       Soy milk : 1/2 cup + 2 tbsp
     Sauce
       Bartlett pear : 1
-      Vegan butter : 1 tbsp, earth balance
-      Brown sugar : 1 tbsp
+      Coconut oil : 1 tbsp
+      Whole cane sugar : 1 tbsp
       Maple syrup : 1 tbsp
 
 WASABI SWIRL CHOCOLATE COOKIES
@@ -1412,25 +1372,28 @@ WASABI SWIRL CHOCOLATE COOKIES
   TIME : 30
   SERV : 13 cookies
   DESC
-    & Black sesame chocolate cookies with a wasabi glaze? Yep, you heard right! 
-    & A few days ago was 'international chocolate chip cookie day'. Apparently there's a day for everything? How annoying. It was hard to ignore, had images of cookies on my twitter feed all day. So despite today not being a day devoted to cookies, I decided to go ahead and make some anyway, because yolo.
+    & Black sesame chocolate cookies with a wasabi glaze, it's surprising how well these two things go together.
+    & I got the idea from a wasabi-flavoured Lindt chocolate bar. Lindt is a big company, with their products found all over the world, it was surprising to me to see they'd released such a flavour. It's an uncommon pairing. I had some for the first time recently, and was intrigued by it. 
     % recipes/wasabi.swirl.chocolate.cookies.1.jpg
-    & I don't know if you guys ever had this, the 'wasabi flavoured chocolate' that Lindt makes. I had some for the first time a few years back. I was intrigued by it, it's a strange idea. If you're used to having wasabi with sushi, wasabi mixed into anything else just feels weird. Why would anyone want that in a dessert? Goes to show, that sometimes it's a good idea to play around with flavours. Mixing tastes you like together will not always yield good results, but in this case, it did.
-    & I wanted to mix the wasabi directly in the cookies at first, but after reading a lot about baking with it, I decided to just apply it after in the form of a glaze. People were saying that the taste fades significantly when heated, didn't want that! Wanted a wasabi 'punch-in-the-face' taste.
+    & It's a strange idea. If you're used to having wasabi with sushi, wasabi mixed into anything else is strange. Why would anyone want that in a dessert? Goes to show, that sometimes it's a good idea to play around with flavours. Mixing tastes you like together will not always yield good results, but in this case, it did.
+    & I wanted to mix the wasabi directly in the cookies at first, but after reading a lot about baking wasabi, I decided to apply it after in the form of a glaze. The taste fades significantly when heated.
     % recipes/wasabi.swirl.chocolate.cookies.2.jpg
-    & It doesn't taste too strong, and like 'Lindt wasabi chocolate bars', it adds just the right amount of kick! It isn't a 'punch-in-the-face', level of strong though, don't worry. I know not everyone likes that.
-    & The cookie base was adapted from 'oh she glows' 's <a href=\"http://ohsheglows.com/2014/02/27/one-bowl-double-chocolate-chunk-cookies/\">Double chocolate chunk cookies recipe</a>. Visit her fantastic blog for more recipes! 
+    & It doesn't taste too strong, and like 'Lindt wasabi chocolate bar', it adds just the right amount of kick! It isn't a 'punch-in-the-face', level of strong though, don't worry. I know not everyone likes that.
+    & For this recipe, you can use a pre-made yogurt, or you can make your own quick soy yogurt or sour milk. To make it, add apple cider vinegar to soy milk, 1 1/4 tbsp for every 1 1/4 cup of milk.
   INST
-    Preparation
-      - Preheat oven to 350F.
-      - Mix 1 tbsp ground flax seeds with 3 tbsp water. Let thicken.
-      - Put 1/4 cup of black sesame seeds in a non-stick pan at medium heat, roast until they begin to pop. Let cool, mix with 2 tbsp soy yogurt and pulse in an immersion blender or mortar and pestle until smooth. <small>You can make your own quick soy yogurt or sour milk, add apple cider vinegar to soy milk 1 1/4 tbsp for every 1 1/4 cup of milk</small>
-      - Add to the bowl with the flax seeds along with a 1/4 cup of coconut oil, 1/3 cup cane sugar, 1/3 cup brown sugar and 1 tsp of vanilla extract. Stir well.
-      - Take 1 1/2 cups of steel cut oats, break it down into 'coarse' flour with a food processor or with an immersion blender. Don't grind it too finely, having bigger bits gives an interesting texture to the cookie!
-      - Add the dry ingredients one by one, mixing thoroughly in-between. Add 1/2 tsp of baking soda, 1/2 tsp of baking powder, 1/2 tsp of sea salt, 2 tbsp of unsweetened cocoa powder, the coarsely ground 'oat' flour as well as 2 tsp of soy milk 
-      - Take 1 generous tbsp of cookie dough and form into a ball, put onto a baking sheet lined with parchment paper. Flatten a bit with the palm of your hand. Bake for 13 minutes, let cool on the baking sheet for 10 min and then transfer to a cooling rack.
+    Cookies
+      - Preheat oven to {#350F#}.
+      - Mix {#1 tbsp#} of {{ground flax seeds}} with {{#3 tbsp#} of {{water}} (this is your 'flax egg'). Let thicken.
+      - Sautee {#1/4 cup#} of {{black sesame seeds}} in a non-stick pan at medium heat, roast until they begin to pop. Let cool. 
+      - Mix the sesame seeds with {#2 tbsp#} of {{soy yogurt}} and pulse in an immersion blender. Alternatively, you can crush the sesame seeds into a mortar and pestle first, then mix it into the soy yogurt.
+      - In a bowl, add the flax seed 'egg' to the sesame mix, along with a {#1/4 cup#} of {{coconut oil}}, {#2/3 cup#} of {{whole cane sugar}} and {#1 tsp#} of {{vanilla extract}}. Stir well.
+      - Take {#1 1/2 cups#} of {{steel cut oats}}, break it down into 'coarse' flour with a mortar and pestle. Don't grind it too finely, having bigger bits gives an interesting texture to the cookie!
+      - Add the dry ingredients one by one, mixing thoroughly in-between. Add {#1/2 tsp#} of {{baking soda}}, {#1/2 ts#} of {{baking powder}}, {#1/2 tsp#} of {{salt}}, {#2 tbsp#} of {{unsweetened cocoa powder}}, the coarsely ground 'oat' flour as well as {#2 tsp#} of {{soy milk}} 
+      - Take 1 generous tbsp of cookie dough and {_form into a ball_}. Put the balls onto a baking sheet lined with a baking mat. Flatten the balls a bit with the palm of your hand. 
+      - Bake for {#13 minutes#}, let cool.
     Glaze
-      - Mix a 1/2 cup of powdered sugar and 1 tbsp of wasabi powder together. Add 1 1/2 tbsp of soy milk in gradually while mixing, add more if need be. Apply glaze to cookies!<small>I don't have any fancy glazing tools so i just used a ziploc bag! Just put the glaze in the bag and cut the end off one of the corners, squeeze the glaze through the hole and voila!</small>
+      - Mix {#1/2 cup#} of {{powdered sugar}} and {#1 tbsp#} of {{wasabi powder}} together. 
+      - Add {#1 1/2 tbsp#} of {{soy milk}} in gradually while mixing, add more if need be. Apply glaze to cookies! I don't have any fancy glazing tools so i just used a ziploc bag. Just put the glaze in the bag and cut the end off one of the corners and squeeze the glaze through the hole.
   INGR
     Cookies
       Flax seeds : 1 tbsp
@@ -1438,8 +1401,7 @@ WASABI SWIRL CHOCOLATE COOKIES
       Black sesame seeds : 1/4 cup
       Coconut oil : 1/4 cup
       Soy yogurt : 2 tbsp
-      Brown sugar : 1/3 cup
-      Sugar : 1/3 cup
+      Whole cane sugar : 2/3 cup
       Vanilla extract : 1 tsp
       Baking soda : 1/2 tsp
       Baking powder : 1/2 tsp
@@ -1459,26 +1421,27 @@ MANGO ICE CREAM WITH BLACK SESAME SYRUP
   TIME : 120
   SERV : 2 servings
   DESC
-    & Fancy it up with some easy-to-prepare mango ice cream with black sesame syrup! Made using only 4 ingredients, for colour enthusiasts!
-    & Internet is full of recipes using just fruit for ice cream, yep this recipe is one of 'those'. I've made ice cream with other bases, like banana or coconut milk. Both are good dairy-free alternatives. Full fat coconut milk is expensive, so i don't use it too often. You need it to be full fat, otherwise it wont freeze well. I learned it the hard way. Using just 1 fruit is nice, because of how little preparation is required. Whether you're using bananas, watermelon, strawberries... all you need to do is cut the fruit up into chunks, and freeze it for a few hours. Depending on the fruit, it may take longer. Also, if like me, you don't have a food processor, you can cut it up into smaller chunks to make it easier to break down with an immersion blender. 
-    % recipes/mango.ice.cream.with.black.sesame.syrup.1.jpg
+    & Fancy it up with some easy-to-prepare mango ice cream with black sesame syrup! Made using only 4 ingredients.
+    & Internet is full of recipes using just fruit for ice cream, yep this recipe is one of those. I've made ice cream with other bases, like banana or coconut milk. Both are good dairy-free alternatives. Full fat coconut milk is expensive, so I don't use it too often. You need it to be full fat, otherwise it wont freeze well. I learned it the hard way. Using just 1 fruit is nice because of how little preparation is required. Whether you're using bananas, watermelon, strawberries... all you need to do is cut the fruit up into chunks, and freeze it for a few hours; although depending on the fruit, it may take longer. Also, if like me, you don't have a food processor, you can cut it up into smaller chunks to make it easier to break down with an immersion blender, or your fists, or whatever (it's all good).
     & I like making syrups, or juice reductions a lot. It's simple, and you can use it in many other recipes afterwards! Reductions that aren't sweetened with sugar, you can use as add-on to sauces, or alone as a 'glaze'. My fridge has 3 different syrups in it right now.
-    & 'What are those?' Devine would ask.
-    & 'EXPERIMENTS' I would reply, wiggling my digits about, in a creepy fashion. 'You shall seeeee, oh yes, oh yes. YES. You shall seeee.'
-    & I used a technique that Mike Case came up with on his blog <a href=\"https://discoginferno.wordpress.com/tag/sesame-seed-syrup/\">Disco Ginferno</a>, he made a white sesame syrup to use in cocktails! I liked not requiring a blender to make it, blending sesame seeds into a smooth liquid is hard. My immersion blender can't grind seeds finely. Boiling the seeds, and then straining them out is simple. And since you can re-use the seeds afterwards, there's no waste! The fact the seeds are toasted beforehand helps to bring out the nutty flavour, so whatever you do, don't skip that step!
+    & "What are those?" Devine asks me.
+    & "EXPERIMENTS!" I reply, wiggling my digits about in a creepy fashion, "you shall seeeee. Oh yes. You shall seeee."
+    % recipes/mango.ice.cream.with.black.sesame.syrup.1.jpg
+    & I used a technique by the cook {{Mike Case|https://discoginferno.wordpress.com/tag/sesame-seed-syrup}}, he made a white sesame syrup to use in cocktails. I liked not requiring a blender to make it, blending sesame seeds into a smooth liquid is hard, my immersion blender can't grind seeds finely. Boiling the seeds, and then straining them out is simple. And since you can re-use the seeds afterwards, there's no waste! The fact the seeds are toasted beforehand helps to bring out the nutty flavour, so whatever you do, don't skip that step!
   INST
     Preparation
-      - Peel and cut 1 ripe mango into chunks, lay pieces over a plate lined with parchment paper. Put in the freezer for at least 2h. <small>I put parchment paper because sometimes the fruit will stick too much to the plate and is hard to remove</small> 
-      - Put 1 cup of black sesame seeds in a pan, bring to medium heat and toast them until they start to pop.
-      - In a pot combine 1 cup of water with the black sesame seeds. Bring to a boil and let simmer for 10-15 minutes.
-      - Strain liquid from sesame seeds using a cheese cloth or with a mesh strainer, squeezing out as much liquid as you can. Reserve sesame seeds for later use. Return liquid to pot, add 1/2 cup of sugar and bring to medium heat. Stir to dissolve the sugar. Remove from heat and let cool. 
-      - Puree frozen mango using an immersion blender, separate in 2 bowls and serve with 2 tbsp of black sesame syrup and some black sesame seeds reserved from before. <small>Keep the sesame seeds! They're still good, you can use them in other dishes</small>
+      - Peel and cut {#1 ripe#} {{mango}} into chunks, lay pieces over a plate lined with parchment paper. Put in the freezer for at least {#2h#}. I put parchment paper because sometimes the fruit will stick too much to the plate and is hard to remove. 
+      - Put {#1 cup#} of {{black sesame seeds}} in a pan, bring to medium heat and toast them until they start to pop.
+      - In a pot, combine {#1 cup#} of {{water}} with the {{black sesame seeds}}. Bring to a boil and let simmer for {#10-15 minutes#}.
+      - Strain liquid from sesame seeds using a cheese cloth or with a mesh strainer, squeezing out as much liquid as you can. Reserve sesame seeds for later use.
+      - Return liquid to pot, add {#1/2 cup#} of {whole cane sugar}} and bring to medium heat. Stir to dissolve the sugar. Remove from heat and let cool. 
+      - Puree frozen mango using an immersion blender, separate in 2 bowls and serve with {#2 tbsp#} of {{black sesame syrup}} and some black sesame seeds reserved from before. Keep the sesame seeds! They're still good, you can use them in other dishes!
   INGR
     Main
       Mango : 1
       Black sesame seeds : 1 cup
       Water : 1 cup
-      Sugar : 1/2 cup
+      Whole cane sugar : 1/2 cup
 
 HOP ICE CREAM
   DATE : 2015-06-28
@@ -1487,24 +1450,28 @@ HOP ICE CREAM
   TIME : 600
   SERV : 1 quart
   DESC
-    & Summers in Montreal, go hand in hand with beer. There is such a wide variety of brews here. My corner store has a TON, most are made locally too. Me and Devine like craft beer a lot, hard to not drink everyday. To help satisfy our evergrowing craving, I decided to try and make hop flavoured ice cream!
+    & Summers in Montreal, go hand in hand with beer. There is a wide variety of brews here, my corner store has a TON, and most are made locally. Me and Devine like craft beer a lot. To help satisfy our evergrowing craving, I decided to try and make hop flavoured ice cream!
     & Sweet and bitter! SUPER TASTY! Felt like I used just the right amount. This ice cream is definitely for people who love the smell and taste of hops (as well as cold summer dairy-free treats)!
     % recipes/hop.ice.cream.2.jpg
-    & I wasn't sure how to 'infuse' the hops into the ice cream base, we tried making hop tea by infusing it overnight in the fridge, but the taste wasn't strong enough. Felt we would get better results and better flavour, if the hops were heated. The pouch method worked pretty well, the ice cream base was perfect! Full of delicious bitterness! Devine suggested to make a concentrate with the hops first, and then mix it into the base next time. Another experiment! We tried another batch of hop tea a few days after, adding twice as many hops and it ended up tasting too strong. We'll stick to warm infusions for now. 
-    & The hops used in this recipe are an American variety called "Colombus". We got them from <a href=\"http://www.choppeabarrock.com\">La choppe a Barrock</a> on Villeneuve et Coloniale every time we make homebrews we pick up the ingredients there! You can buy a wide variety of hop buds there, you can even get the pellet kind.
+    & I wasn't sure how to 'infuse' the hops into the ice cream base, we tried making hop tea by infusing it overnight in the fridge, but the taste wasn't strong enough. Felt we would get better results and better flavour if the hops were heated. The pouch method worked pretty well, the ice cream base was perfect! Full of delicious bitterness! Devine suggested to make a concentrate with the hops first, and then mix it into the base next time. We tried a batch of hop tea a few days after, adding twice as many hops and it ended up tasting too strong. We'll stick to warm infusions for now. 
+    & The hops used in this recipe are an American variety called "Colombus". We got them from {{La Choppe a Barrock|http://www.choppeabarrock.com}} on Villeneuve and Coloniale in Montreal. Every time we make home brews, we pick up the ingredients there! You can buy a wide variety of hop buds there, you can even get the pellet kind.
     % recipes/hop.ice.cream.3.jpg
-    & It was my second time using the ice cream maker, I got it from the 'Free stuff Montreal' group on facebook. It looks like a little red pail, super cute. The woman I got it from even had the manual! You can make ice cream without a machine, although having one helps with the 'churning' process. It saves a lot of time and effort. If i hadn't gotten that ice cream maker for free, i dont think id have one but since it's here might as well use it!
-    & This recipe wouldn't have happened without the instructions from <a href=\"http://www.thekitchn.com/how-to-make-vegan-ice-cream-cooking-lessons-from-the-kitchn-204755\">The Kitchn</a>. Their vegan ice cream tutorial was super helpful. They have a ton of images on their site too, so if you're more of a 'visual' cook you should check it out!
+    & It was my second time using the ice cream maker, I got it from the 'Free stuff Montreal' group on facebook. It looks like a little red pail — super cute. The woman I got it from even had the manual! You can make ice cream without a machine, although having one helps with the churning process. It saves a lot of time and effort. If i hadn't gotten that ice cream maker for free, i dont think id have one now, but since it's here might as well use it!
     & If you too, are having too many beers these days, try and cook with hops instead. Same taste, different format!
   INST
-    Preparation
+    Hop Buds
       - Roughly chop 7 hop buds (may want to use less if you want it less hoppy). Place leaves into the center of a cheese cloth and make a little loose pouch with it, tying the end. Reserve for later.
-      - Shake your 2 cans of coconut milk before opening them, full-fat coconut milk separates over time and shaking will help to mix it up again. Reserve 1/2 a cup of coconut milk for later, put the rest in a pan with 1/2 cup of maple syrup and 1/4 tsp of sea salt. Bring up to medium-low heat, stir until the maple syrup has dissolved completely.
-      - Stir 1 1/2 tbsp of cornstarch into the 1/2 cup of coconut milk that was set aside, when dissolved pour into the pan with the rest of the coconut milk while whisking slowly. Increase the heat to medium and add your hop pouch! Let the mixture cook for about 8 minutes, don't let it come to a boil. Reduce the heat if necessary. Move the pouch around once in a while, pinching it down lightly with a wooden spoon to get some of that nice hop flavour out into your ice cream base.
-      - Remove from heat, stir in 1 tsp of vanilla extract. Leave it to cool, don't remove the hop pouch!
-      - When cool, take the pouch out and squeeze out all of the 'hop juice' into the pan using your hands. Mix one last time and pour into a container. Place a sheet of parchment paper over the top so you don't get a 'skin' forming on the surface. Refrigerate for at least 4 hours (or overnight!).
-      - Pull your ice cream out of the fridge, it should have a thick pudding-like texture. Pour into your ice cream maker and churn it to desired consistency (i let it run for ~23 minutes). If you don't have an ice cream maker, please refer to any these 6 methods from the Kitchn - <a href=\"http://www.thekitchn.com/how-to-make-ice-cream-without-an-ice-cream-machine-171060\">'6 ways to make ice cream without an ice cream machine'</a>.
-      - Transfer to a container and press a sheet of parchment paper over the top to keep ice crystals from forming. Your ice cream should be ready to eat in 5 hours or so! If you want harder ice cream wait until the next day to eat it. Enjoy!
+    Base
+      - Shake {#2 cans#} of {{coconut milk}} before opening them, full-fat coconut milk separates over time and shaking will help to mix it up again. Reserve a {#1/2 cup#} of {{coconut milk}} for later, put the rest in a pan with {#1/2 cup#} of {{maple syrup}} and {#1/4 tsp#} of {{salt}}. 
+      - Bring up to medium-low heat, stir until the {{maple syrup}} has dissolved completely.
+      - Stir {#1 1/2 tbsp#} of {{cornstarch}} into the {#1/2 cup#} of {{coconut milk}} that was set aside. When dissolved, pour into the pan with the rest of the coconut milk, while whisking slowly. 
+      - Increase the heat to medium and add your hop pouch! Let the mixture cook for about {#8 minutes#}. Don't let it come to a boil! Reduce the heat if necessary. Move the pouch around once in a while, pinching it down lightly with a wooden spoon to get some of that nice hop flavour out into your ice cream base.
+      - Remove from heat, stir in {#1 tsp#} of {{vanilla extract}}. Leave it to cool — don't remove the hop pouch!
+      - When cool, take the pouch out and squeeze out all of the 'hop juice' into the pan using your hands. Mix one last time and pour into a container. Place a sheet of parchment paper over the top so you don't get a skin forming on the surface. Refrigerate for a minimum of {#4 hours#} (or overnight!).
+    Ice cream
+      - Pull your ice cream out of the fridge. It should have a thick pudding-like texture. Pour into your ice cream maker and churn it to desired consistency (I let it run for ~23 minutes). 
+      - If you don't have an ice cream maker, please refer to any these {{6 methods|http://www.thekitchn.com/how-to-make-ice-cream-without-an-ice-cream-machine-171060}} from the Kitchn.
+      - Transfer to a container and press a sheet of parchment paper over the top to keep ice crystals from forming. Your ice cream should be ready to eat in {#5 hours#} or so! If you want harder ice cream wait until the next day to eat it. Enjoy!
   INGR
     Main
       Hops : 7 buds 
