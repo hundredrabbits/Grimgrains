@@ -851,46 +851,6 @@ ROASTED BEET LENTILS
       Sea salt : 1/4 tsp
       Black pepper : 1/4 tsp
 
-HEART BEET BAGELS
-  DATE : 2015-02-12
-  TAGS
-    bread
-  TIME : 120
-  SERV : 10 servings
-  DESC
-    & These beautiful heart beet bagels can be made for valentine's day, but imagine how great a thing it would be, to make these for someone you care about on a random day... for no specific reason. We shouldn't wait for special occasions to cook amazing food for the people we love. Make some pink bagels today, just {*because*}!
-    & Bagels are definitely a montreal thing. Walking by Fairmount bagel or St-Viateur, and not purchasing freshly baked goods is next to impossible.
-    % recipes/heart.beet.bagels.2.jpg
-    & The smell is just amazing.
-    & When i was a teen, i didn't get to go into town often but when i did we would always stop by Fairmount bagel. The place was, and is still open 24 hours a day.
-    % recipes/heart.beet.bagels.3.jpg
-    & I live close to it now, and yet i never go. I enjoy making my own, they may not be fairmount quality but they are pretty damn good!
-    & ...and pink!
-    & Make this for yourself or for someone you care about. Whether it be for v-day... or just because!
-  INST
-    Preparation
-      - Preheat oven to 400F.
-      - Cut 1 large-sized beet into cubes, bake on a baking sheet for 30 minutes. Puree with a handblender or food processor, as finely as you can. Set aside.
-      - Put 1 tbsp of coconut sugar into a bowl with 1 cup of warm water, sprinkle 2 tsp of active dry yeast. Let foam for 5 minutes. 
-      - Mix in 1/2 tsp of salt, the beet puree as well as 2 cups of all purpose flour. Stir until the dough doesn't stick to the sides of the bowl. Transfer dough to a lightly floured working surface and continue to knead, adding more flour until you get a nice even dough that doesn't stick to your hands.
-      - Form into a ball, put in a bowl greased with some vegan butter or olive oil. Cover and let rise in a warm place for 1 hour or until the dough has doubled in size.
-      - Punch down the dough and separate into 10 balls. Roll out the balls into 8" long ropes and prepare a baking sheet lined with parchment paper. Shape the ropes into hearts directly onto your baking sheet, we want to move them as little as possible to avoid distorting the shapes. Pinch the ends of each heart together carefully. Cover with a clean dishcloth and let rise for an additional 20 minutes.
-      - While dough is resting, preheat oven to 400F . Fill a large pot with water, bring to a boil.
-      - Pick up each heart carefully and drop into the boiling water for 30 seconds. Pull out out the bagel with a slotted spoon and let drawin over a set of paper towels.
-      - Transfer the boiled bagels back onto the parchment-lined baking sheet. Brush the tops with a mixture of 1 tbsp of soy milk and 1 tbsp of maple syrup and sprinkle some poppy seeds over each one.
-      - Bake for 15-20 minutes. Let cool on a cooling rack or over a set of dish towels. Serve with your choice of jam!
-  INGR
-    Main
-      Water : 1 cup
-      Active dry yeast : 2 tsp
-      Red beets : 1 large
-      Coconut sugar : 1/3 cup
-      All purpose flour : 3 1/2 cups
-      Sea salt : 1/2 tsp
-      Poppy seeds : 2 tbsp
-      Soy milk : 1 tbsp
-      Maple syrup : 1 tbsp
-
 TERIYAKI CARROT PATTIES
   DATE : 2015-02-17
   TAGS
@@ -1519,39 +1479,40 @@ CARROT KINPIRA ONIGIRAZU
   TAGS
     rice
   TIME : 20
-  SERV : 2 servings
+  SERV : 4 servings
   DESC
     & Even if I don't live in Tokyo anymore, I try and keep up with what's happening over there. I still follow the news, and try to translate some simple texts to see how many kanji i've forgotten. My favourite kanji, is the one for bone '骨' (pronounced 'ho-ne'). I also love the kanji combination for jellyfish or '水母' (pronounced 'ku-ra-ge'), which beautifully translates to 'water mother'. These two words come together to create this expression '水母の' or 'jellyfish bones'. It is used when talking about something that you would not expect to exist, like bones in a jellyfish. I could go on, but seeing as how this has nothing to with food, here goes. The recipe i'm sharing with you today is japanese inspired, and is also currently part of a craze over there. I made some onigirazu, a sort of hybrid, japanese rice ball sandwich.
-    % recipes/carrot.kinpira.onigirazu.1.jpg
     & The word onigiri (or nigiru) means to press into shape using your hands, while "razu" means the opposite. Free form onigiri! This is perfect for people who have a hard time making rice balls, as is the case for me. Onigirazu has the same great taste, without the fear of imperfection. All the shame is hidden away under a blanket of nori, and fillings.
-    & The concept of this rice sandwich, is perfect when you don't have the right type of rice available for onigiri. You can use just about any type, i tested it out with some Minute Rice and it worked perfectly. I was given some coupons to try out their products, i'm all for experimentation so i picked up a box of whole grain brown Minute Rice. It was my fist time trying it, I generally purchase rice in bulk. Bulk is cheaper, and has a lot less packaging. After cooking with it though, i do see the appeal. The rice is 'parboiled', which means that you wont have to wait very long for your meal to be ready. Your rice will be cooked in 1/4 of the time it takes for traditional brown rice. As you all know sticky rice takes a long time to cook, I don't mind having to wait after my rice, but I know that not everyone has that luxury. It's a good thing that this option exists, it means it's even easier to cook great meals, rapidly at home.
-    % recipes/carrot.kinpira.onigirazu.2.jpg
+    & The concept of this rice sandwich, is perfect when you don't have the right type of rice available for onigiri. You can use just about any type, i tested it out a few different kinds. 
     & The rice was seasoned with miso for added flavour, and was filled with carrot kinpira. Kinpira means "sauteed" (sually with a mixture of mirin soy sauce and chili peppers.) It's a sweet, and spicy dish that is often served in bentos. I knew I wanted this as a filling for my onigirazu, to satisfy my sudden craving for japanese food. This would have been amazing with gobo, but finding the root here in Montreal is no easy task.
-    % recipes/carrot.kinpira.onigirazu.3.jpg
-    & You should try and make your own version of onigirazu at home! As i said, it's no-fail and with some parboiled rice it can ready in under 20 minutes (you can also parboil your own rice). I may not live near a 24h kombini, with readily available onigiri anymore, but i know i can make some at home easily, and quickly.
+    % recipes/carrot.kinpira.onigirazu.2.jpg
+    & You should try and make your own version of onigirazu at home! As i said, it's no-fail. I may not live near a 24h kombini, with readily available onigiri anymore, but i know i can make some at home easily, and quickly.
     
   INST
     Kinpira carrot
-      - Peel and cut 1 large carrot into thin strips.
-      - Stir these ingredients together to make the sauce for the kinpira - 1 teaspoon of maple syrup, 1 teaspoon of mirin and 2 teaspons of soy sauce.
-      - Heat 1 teaspoon of sesame oil in a pan at medium heat, add the carrot strips and cook for 2-3 minutes. Stir in 1/2 teaspoon of chili pepper flakes as well as the sauce prepared in the previous step. Cook until no liquid remains. Let cool.
+      - Peel and cut {#2 large#} {{carrot}} into thin strips.
+      - Stir these ingredients together to make the sauce for the kinpira - {#2 tsp#} of {{maple syrup}}, {#2 tsp#} of {{mirin}} and {#2 tbsp#} of {{soy sauce}}.
+      - Heat {#1 tbsp#} of {{sesame oil}} in a pan at medium heat, add the carrot strips and cook for {#2-3 minutes#}. Stir in {#1/2 tsp#}  of {{chili pepper flakes}} as well as the sauce prepared in the previous step. 
+      - Cook until no liquid remains. Let cool.
     Rice
-      - Dissolve 1 tbsp of white miso in 1 cup of water and pour into pot with 1 cup of parboiled whole grain brown rice (I used Minute rice). Bring to a boil; once it starts to bubble up lower to a simmer, cover and cook for 5-10 minutes or until all of the liquid has been absorbed. 
+      - Dissolve {#1 tbsp#} of {{white miso}} in {#1 1/2 cups#} of {{water}} and pour into pot with {#1 cup#} of {{short grain white rice}} (first, wash the rice until water runs clear). 
+      - Bring to a boil. Once it starts to bubble up lower to a simmer, cover and cook for {#5-10 minutes#} or until all of the liquid has been absorbed. 
     Combine
-      - Lay out 2 pieces of nori sheets, rough side up. Divide half of the rice in the middle of the 2 sheets, then divide the carrot kinpira into 2 portions and lay over the rice. Cover the carrots with the remaining rice.
-      - Now take one corner of the nori sheet and fold over into the middle, do the same for the opposing corner. Then repeat for the other 2 corners; press down gently. Wait until the nori has softened and then cut into the middle!
+      - Lay out {#4 pieces#} of {{nori sheets}}, rough side up. Lay out some rice in the center of the 4 sheets, then divide the carrot kinpira into 4 portions and lay over the rice. Cover the carrots with the remaining rice.
+      - Now, take one corner of the nori sheet and fold over into the middle, do the same for the opposing corner. Then, repeat for the other 2 corners. Press down gently. 
+      - Wait until the nori has softened and then cut into the middle! Serve as is.
   INGR
     Main
-      Carrots : 1, large
-      Maple syrup : 1 tsp
-      Mirin : 1 tsp
-      Soy sauce : 2 tsp
-      Sesame oil : 1 tsp
-      Chili pepper flakes : 1/2 tsp
-      Wholegrain brown rice : 1 cup, parboiled
+      Carrots : 2
+      Maple syrup : 2 tsp
+      Mirin : 2 tsp
+      Soy sauce : 2 tbsp
+      Sesame oil : 1 tbsp
+      Chili pepper flakes : 1 tsp
+      Short grain white rice : 1 cup
       White miso : 1 tbsp
-      Water : 1 cup
-      Nori sheets : 2
+      Water : 1 1/2 cup
+      Nori sheets : 4
 
 BALSAMIC BANANA ICE CREAM
   DATE : 2015-08-05
@@ -1718,37 +1679,6 @@ HALLOWEEN PUMPKIN COOKIES
       Maple syrup : 2 tbsp
       Vanilla extract : 1/4 tsp
       Sea salt : pinch
-
-ROASTED YELLOW PEPPER PASTA
-  DATE : 2015-10-25
-  TAGS
-    pasta
-  TIME : 30
-  SERV : 2 servings
-  DESC
-    & This weekend, I made a batch of black pasta and served it with some roasted yellow pepper sauce. The contrast between the yellow and black is so gorgeous, bamboo charcoal makes all food look cool. 
-    & The sauce is simple to prepare and will look just as good over regular pasta. It would also look great over some spinach pasta, be creative with it!
-    % recipes/roasted.yellow.pepper.pasta.1.jpg
-    & Please refer to my <a href=\"http://grimgrains.com/black+pasta\">black pasta recipe</a> to learn how to make your own!
-    % recipes/roasted.yellow.pepper.pasta.2.jpg
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
-  INST
-    Preparation
-      - Preheat your oven to 450F.
-      - Roast 2 whole yellow peppers on a baking sheet for 25 minutes. Flipping them halfway through.
-      - While the peppers are roasting, cut 1 yellow onion into thin slices. Place your pan over medium heat and melt 1 tbsp of vegan butter, when melted, add the onion and stir gently to coat with butter. Cook for 5 minutes, add 1 minced garlic clove and 1/2 tsp of ground dried rosemary. Cook for an additional 10-15 minutes, or until the onions are caramelized.
-      - Deglaze the pan with 1 tbsp of apple cider vinegar. Using a wooden spatula, scrape up the brown bits from the bottom of your pan. Transfer to a bowl. Once the yellow peppers are done roasting, put in a bowl and cover with a plate. Let steam for 5-10 minutes. <small>This will soften the pepper, making it easier to peel the skin off with your hands</small>
-      - Remove the yellow peppers from the bowl and peel the skins off, remove the stems and the seeds as well. Transfer the peppers to the bowl of cooked ingredients. Puree together using a hand blender or food processor. Season with some iodized salt and some freshly-cracked black pepper, serve over <a href=\"http://grimgrains.com/black+pasta\">black pasta</a> or your pasta of choice! 
-  INGR
-    Main
-      Yellow peppers : 2
-      Yellow onion : 1
-      Garlic : 1 clove
-      Vegan butter : 1 tbsp, earth balance
-      Rosemary : 1/2 tsp, dry
-      Apple cider vinegar : 1 tbsp
-      Sea salt : 1/4 tsp
-      Black pepper : 1/4 tsp
  
 SALTED CARAMEL CAROB CHIP COOKIES
   DATE : 2015-11-15
