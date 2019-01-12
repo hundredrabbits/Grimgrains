@@ -46,12 +46,28 @@ function RecipeTemplate (id, rect) {
     var count = 1
     for (cat in recipe.INST) {
       html += `<h3>Step ${count}: ${cat.capitalize()}</h3>`
-      var category = recipe.INST[cat]
+      var category = recipe.INST[cat].map(convertTemperatures)
       html += new Runic(category).toString()
       count += 1
     }
 
     return `<div id='instructions'>${html}</div>`
+  }
+
+  function formatTemperature (temperature) {
+    const celcius = (parseInt(temperature) - 32) / 1.8
+    return `${temperature}°F(${parseInt(celcius / 10) * 10}°C)`
+  }
+
+  function convertTemperatures (content) {
+    const parts = content.match(/[^{\}]+(?=})/g)
+    for (const id in parts) {
+      const part = parts[id]
+      if (part.substr(0, 1) === '#' && part.substr(-2, 2) === 'F#') {
+        content = content.replace(`{${part}}`, `{#${formatTemperature(part.substr(1, part.length - 3))}#}`)
+      }
+    }
+    return content
   }
 
   function make_related (q) {
