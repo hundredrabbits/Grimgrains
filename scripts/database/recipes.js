@@ -14,7 +14,6 @@ SEITAN
     % recipes/seitan.3.jpg
     & When preparing seitan, it's important to flavour the inside, and outside of the dough. Adding a variation of ingredients to the dough mix, like ginger, garlic, onion powder, tomato sauce, soy sauce etc. will make it extra flavourful, the same goes for the broth; adding vegetable broth and soy sauce as a base, and roughly chopped onions, garlic and ginger will season the outside of the dough. 
     & There are {*3 ways*} to cook seitan: {*boiling, steaming or baking*}. In this recipe, I used the boiling method. Steaming requires wrapping the dough in foil or some other wrapper to help it keep its shape, then, steaming it in a steamer basket over a pot of boiling water for 30 minutes or so. Baking the seitan, means flattening or stretching the dough to fit the baking dish, adding seasonings overtop, and baking it for an hour. All methods are good, but some are better for certain kinds of meals. .
-
   INST
     MAIN
       - In a bowl, stir {_1/2 cup_} of {{gluten flour}} with {_1/4 cup_} of {{chickpea flour}}. 
@@ -133,21 +132,23 @@ NO KNEAD BREAD
   TIME : 60
   SERV : 1 loaf
   DESC
-    & No knead bread is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading what-so-ever.
-    & This recipe is very forgiving, and allows for substitutions and added ingredients without much change in the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of all purpose flour, but you'll get a rise out of it still.
-    & The bread can be left to rise overnight, I usually mix it at 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
-    & We sometimes add spices to the dough, like chilies and garlic, or we make a more hearty bread by adding seeds (pumpkin, sunflower etc). Here's how to make it:
+    & {*No knead bread*} is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading whatsoever.
+    & This forgiving recipe allows for substitutions, and addition, of ingredients without altering the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of {{all purpose flour}}, but you'll still get a rise out of it.
+    & The bread can be left to rise overnight, I usually mix it at around 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
+    % recipes/no.knead.bread.1.jpg
+    & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}..
   INST
     Preparation
       - In a bowl, mix {_2 cups_} of all purpose flour, {_1 cup_} of {{spelt flour}} (whole wheat works too), {_1 tsp_} of {{salt}} and {_1/2 tsp_} of {{active dry yeast}}. Mix well.
       - Add {_1 1/2 cups_} of {{water}} gradually, stirring it with a spoon into a cohesive dough. The dough will be wet, it's okay, no need to add extra flour.
-      - Put a bag, or cloth over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough late evening and let it rest overnight, you don't need to do anything to it. 
-      - The next morning, remove the covering and place the dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
+      - Put a bag, or cloth over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough in the evening and let it rest overnight. 
+    The Next Morning
       - Pre-heat your oven to {#450F#}.
+      - Remove the covering and place the dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
       - Coat a bread pan with {{olive oil}}, and sprinkle the inside of the pan with some {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. (Alternatively, you can use a dutch oven. Add your dutch oven to the oven as it preheats for a harder crust.)
       - Place your bread into the pan, at this point, you can add some seeds overtop of the bread. In this recipe, I used sesame seeds, but poppy seeds, or oats would also be good. 
       - Once the oven is at the proper temperature, cover bread pan with aluminium foil (or your dutch oven lid), and bake for {#30 minutes#}. 
-      - After {#30 minutes#}, take the foil (or lid) off, and let it cook for {#another 7 minutes#}, uncovered. 
+      - After {#30 minutes#}, take the foil (or lid) off, and let it cook uncovered for {#another 7 minutes#}. 
   INGR
     Main
       All purpose flour : 2 cups

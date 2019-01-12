@@ -61,8 +61,8 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content #instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
 #view #core #content #instructions a { font-weight: bold;  }
 #view #core #content #instructions a:hover { text-decoration: underline; cursor: pointer }
-#view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline;font-weight: bold;border-radius: 3px;color:#333 }
-#view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline;font-weight: bold;border-radius: 3px;border:2px solid black;}
+#view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline-block;font-weight: bold;border-radius: 3px;color: #333;line-height: 15px }
+#view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline-block;font-weight: bold;border-radius: 3px;border: 2px solid black;line-height: 15px}
 
 #view #core #content ul.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
 #view #core #content ul.ingredients h3 { margin-left:-20px; }
