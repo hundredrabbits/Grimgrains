@@ -19,7 +19,7 @@ SEITAN
     MAIN
       - In a bowl, stir {_1/2 cup_} of {{gluten flour}} with {_1/4 cup_} of {{chickpea flour}}. 
       - In another bowl, mix {_1/3 cup_} of {{water}} (or vegetable broth) and {_1 tbsp_} of {{soy sauce}}. Pour into dry ingredients.
-      - Knead for {#2-3 minutes#}. If dough is too sticky, add more flour. Let rest for 10 minutes, and knead for another set of 2-3 minutes. 
+      - Knead for {#2-3 minutes#}. If dough is too sticky, add more flour. Let rest for {#10 minutes#}, and knead for another set of {#2-3 minutes#}. 
       - {_Separate dough in two_} - optional, but it creates more surface area that can inbibe flavour. Also, the seitan expands quite a bit and having smaller pieces makes it more manageable. 
     BROTH
       - Cut the following ingredients into smaller pieces: {_2 cloves_} of {{garlic}}, a {_1/2 large_} {{yellow onion}} and {_1 palm-sized knob_} of {{ginger}}. 
@@ -126,35 +126,37 @@ SEAWEED BITES
       Soy milk : 2 tbsp
       Wakame : 2 tsp
    
-NO KNEAD BLACK BREAD
-  DATE : 2014-09-28
+NO KNEAD BREAD
+  DATE : 2019-01-12
   TAGS
     bread
   TIME : 60
-  SERV : 2 loaves
+  SERV : 1 loaf
   DESC
-    & This loaf of bread is what inspired this website. It took me a while to get my hands on bamboo charcoal powder, now that i have it, i will be baking a ton of these! Some months ago, I stumbled upon an image of an all-black loaf. I didn't know you could get bread to be that dark. 
-    & Getting your hands on bamboo charcoal isn't easy. I saw stores on amazon.com that stocked it, but nothing in my area. I bought a small amount at a health food store where I live, but it was a very small jar (also crazy expensive). After much searching, I concluded that the best place to get it was in Japan. I assumed it would be relatively easy to get over there, wrong again. It's almost impossible to purchase in store, or maybe i wasn't taking to the right people, or going to the right places.
-    % recipes/no.knead.black.bread.1.jpg
-    & I finally found some available for purchase on amazon japan. Since i lived in temporary housing, shipping there wasn't ideal. Luckily, a good friend agreed to have it shipped to her place and it arrived before i left the country! That's how i got my hands on bamboo charcoal powder! Wasn't easy, but i got it from the best possible source! I got it through {{Taketora|http://www.taketora.co.jp}}, they've been growing and making things out of bamboo for years and years. They're true artisans.
-    & Cooking with bamboo charcoal is a breeze, you don't need to add much to make your food black. It doesn't add taste to a recipe either, it's purely aesthetic. None that {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
+    & No knead bread is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading what-so-ever.
+    & This recipe is very forgiving, and allows for substitutions and added ingredients without much change in the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of all purpose flour, but you'll get a rise out of it still.
+    & The bread can be left to rise overnight, I usually mix it at 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
+    & We sometimes add spices to the dough, like chilies and garlic, or we make a more hearty bread by adding seeds (pumpkin, sunflower etc). Here's how to make it:
   INST
     Preparation
-      - In a bowl, mix in {_3 cups_} of {{all purpose flour}}, {_2 tbsp_} of {{bamboo charcoal powder}}, {_1 tsp_} of {{salt}} and {_1/2 tsp_} of {{active dry yeast}}. Mix well, your dough should turn a light grey colour. When you add water it will darken.
-      - Add the {_1 1/2 cups_} of {{water}} gradually, stirring it with a spoon into a relatively cohesive dough. The dough will be very wet, no need to add extra flour.
-      - Put a bag over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough late evening and let it rest overnight, you don't need to do anything to it. 
-      - The next morning, remove the bag and place the dough on a lightly floured surface. {_Shape the dough into a ball_}. If too wet to handle, put some flour on your hands. You can make either one large loaf or two small ones with this recipe, i like to make two. Cover with a bag, or towel.
-      - Pre-heat your oven to {#450F#}, and place your bread pan - or dutch oven - in it. Once it's done pre-heating, take out the pan and put your dough inside, sprinkle some {{poppy seeds}} (optional, but damn gorgeous) and press lightly to get them to stick. 
-      - Cover the bread pan with aluminum foil (or matching lid) and put it back in the oven for {#30 minutes#}.
-      - After 30 minutes, take the foil (or lid) off and let it cook for {#another 7 minutes#} or so. 
+      - In a bowl, mix {_2 cups_} of all purpose flour, {_1 cup_} of {{spelt flour}} (whole wheat works too), {_1 tsp_} of {{salt}} and {_1/2 tsp_} of {{active dry yeast}}. Mix well.
+      - Add {_1 1/2 cups_} of {{water}} gradually, stirring it with a spoon into a cohesive dough. The dough will be wet, it's okay, no need to add extra flour.
+      - Put a bag, or cloth over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough late evening and let it rest overnight, you don't need to do anything to it. 
+      - The next morning, remove the covering and place the dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
+      - Pre-heat your oven to {#450F#}.
+      - Coat a bread pan with {{olive oil}}, and sprinkle the inside of the pan with some {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. (Alternatively, you can use a dutch oven. Add your dutch oven to the oven as it preheats for a harder crust.)
+      - Place your bread into the pan, at this point, you can add some seeds overtop of the bread. In this recipe, I used sesame seeds, but poppy seeds, or oats would also be good. 
+      - Once the oven is at the proper temperature, cover bread pan with aluminium foil (or your dutch oven lid), and bake for {#30 minutes#}. 
+      - After {#30 minutes#}, take the foil (or lid) off, and let it cook for {#another 7 minutes#}, uncovered. 
   INGR
     Main
-      All purpose flour : 3 cups
-      Bamboo charcoal powder : 2 tbsp
-      Sea salt : 1 tsp
+      All purpose flour : 2 cups
+      Spelt flour : 1 cup
+      Salt : 1 tsp
       Water : 1 1/2 cups
       Active dry yeast : 1/2 tsp
-      Poppy seeds : 1-2 tsp
+      Olive oil : 1 tbsp
+      Cornmeal : 3-4 tbsp
 
 BLACK PASTA
   DATE : 2014-10-13
@@ -529,7 +531,7 @@ SIMPLE DOCTOR WHO CAKE
     & I wanted to make a minimalistic and simple lemon cake. Then came the image of the tardis drifting through space. That image was simple, evocative. So i cut out a tardis stencil and added powdered sugar! Voila! My sister had a vegan lemon birthday cake! This cake is a safe bet, even for non-vegans. Even my parents, who dislike tofu, really enjoyed it!  
   INST
     Lemon curd
-      - Puree {_2 cups_} of {{silken tofu}} and mix with: {_2 tbsp_} of {{canola oil}}, {_1 tbsp_} of {{lemon zest}}, {_3 tbsp_} of maple syrup}}, {_1/4 tsp_} of {{salt}} and {_1/2 tsp_} of {{vanilla extract}}. Refrigerate for a few hours to give it time to thicken.
+      - Puree {_2 cups_} of {{silken tofu}} and mix with: {_2 tbsp_} of {{canola oil}}, {_1 tbsp_} of {{lemon zest}}, {_3 tbsp_} of {{maple syrup}}, {_1/4 tsp_} of {{salt}} and {_1/2 tsp_} of {{vanilla extract}}. Refrigerate for a few hours to give it time to thicken.
     Tardis stencil.
       - Print out the image in the correct dimensions for the cake, i used an image of the tardis that i found online.
       - With a fine cutting tool cut out the shape, I didn't take a photo that had lettering, the detail is just too fine. Besides, there is enough information that will make it obvious that it's a tardis. Be sure to cut out the windows, that detail is key.
@@ -537,10 +539,10 @@ SIMPLE DOCTOR WHO CAKE
       - Pre-heat oven at {#350F#}.
       - Grease two 8" cake pans, set aside.
       - In a bowl mix {_2 1/4 cups_} of {{all purpose flour}}, {_1 1/2 cups_} of {{whole cane sugar}}, {_3/4 tsp_} of {{baking soda}} and {_3/4 tsp_} of {{salt}}.
-      - In a separate bowl, stir {_1 1/2 cups_} of {{cold water}} with {_3/4 cup_} of {{canola oil}}, {_1 tbsp_} of {{vanilla extract}}, {_3 tbsp_} of {{lemon juice}} and {_1 tsp_} of {{lemon zest}}.
-      - Combine wet ingredients with the dry, mix well. Stir in {#1 tsp#} of {{royal blue food colouring#} with {_1 drop_} of {{violet food colouring}}.
+      - In a separate bowl, stir {_1 1/2 cups_} of cold {{water}} with {_3/4 cup_} of {{canola oil}}, {_1 tbsp_} of {{vanilla extract}}, {_3 tbsp_} of {{lemon juice}} and {_1 tsp_} of {{lemon zest}}.
+      - Combine wet ingredients with the dry, mix well. Stir in {_1 tsp_} of {{royal blue food colouring_} with {_1 drop_} of {{violet food colouring}}.
       - Pour cake batter into pans, at the {#30 minute mark#}, insert a toothpick in the center of the cake. If it comes out clean, it's ready! Otherwise bake for an additional {#5 minutes#}.
-      - Let cool. Slice part of the curved top off of one of the cakes to even it out (and eat it, because you wont need it). Brush top of trimmed cake with a generous serving of the {{tofu lemon curd}}, place second cake layer over it and press down gently.
+      - Let cool. Slice part of the curved top off of one of the cakes to even it out (and eat it, because you wont need it). Brush top of trimmed cake with a generous serving of the tofu lemon curd, place second cake layer over it and press down gently.
       - Place tardis stencil over the cake 
       - Make sure the top is completely dry, put some {{powdered sugar}} in a sifter or fine mesh strainer. Hold over the cake and gently shake it onto the cake until it's covered to your liking. Make sure to put enough around the stencil so the shapes comes out nicely. Remove stencil gently.
       - If you want, you can sprinkle a bit of turmeric to make a glowey area atop of the tardis. Or use something else that is yellow! 
@@ -888,24 +890,24 @@ SWEET MOCK EEL NIGIRI
   INST
     Rice
       - Prepare {{black glutinous rice}}, it needs to be prepared at a 2:1 water to rice ratio. If you prepare 1 cup of dry rice, you need 2 cups of water.
-      - Put {#1 1/2 tbsp#} of {{rice vinegar}}, {#1 tbsp#} of {{whole cane sugar}} and {#1/2 tsp#} of {{salt}} in a sauce pan. Stir over low heat, until sugar dissolves.
+      - Put {_1 1/2 tbsp_} of {{rice vinegar}}, {_1 tbsp_} of {{whole cane sugar}} and {_1/2 tsp_} of {{salt}} in a sauce pan. Stir over low heat, until sugar dissolves.
       - Once rice is cooked, transfer to a flat tray, and pour sushi dressing over it. Mix dressing into rice with a spatula, using a sideways cutting motion. Cover with a damp towel, and let cool.
     Unagi sauce
-      - Mix {#2 tbs#} of {{soy sauce}}, {#2 tbsp#} of {{mirin}}, {#1 tbsp#} of {{whole cane sugar}} and {#1 tbsp#} of {{sake}}. 
+      - Mix {_2 tbsp_} of {{soy sauce}}, {_2 tbsp_} of {{mirin}}, {_1 tbsp_} of {{whole cane sugar}} and {_1 tbsp_} of {{sake}}. 
       - Bring to a boil in a pan, lower heat and let thicken for a few minutes.
     Chickpea tofu
-      - Bring {#1 1/2 cups#} of {{vegetable bouillon}} to a rolling boil in a pot.
-      - Mix {#1 cup#} of {{chickpea flour}} with {#1/4 tsp#} of {{salt}} and {#1/2 tsp#} of {{ground turmeric}}. Add an additional {#1 1/2 cups#} of {{vegetable bouillon}}. Stir until the mixture is lump-free.
-      - {_Lower to medium heat_}, and pour in chickpea batter. Whisk continuously for {#5-10 minutes#}, until thickened. 
-      - Pour into a {_8x8 baking dish_} lined with a baking mat. Smooth out top with the back of a spoon.
+      - Bring {_1 1/2 cups_} of {{vegetable bouillon}} to a rolling boil in a pot.
+      - Mix {_1 cup_} of {{chickpea flour}} with {_1/4 tsp_} of {{salt}} and {_1/2 tsp_} of {{ground turmeric}}. Add an additional {_1 1/2 cups_} of {{vegetable bouillon}}. Stir until the mixture is lump-free.
+      - Lower to medium heat, and pour in chickpea batter. Whisk continuously for {#5-10 minutes#}, until thickened. 
+      - Pour into a 8x8 baking dish lined with a baking mat. Smooth out top with the back of a spoon.
       - Let cool and set for {#1 hour#}, then refrigerate for a little while longer before cutting. This will give the 'tofu' time to set. 
-      - After 1 hour, {_cut into 12 pieces_}, and then {_cut in 2 again lenghtwise_} to make them fit over nigiri. 
+      - After 1 hour, {_cut into 12 pieces_}, and then cut in 2 again lenghtwise to make them fit over nigiri. 
       - Preheat oven to {#350F#}.
       - Line backing sheet with a baking mat, line up pieces of chickpea tofu. 
       - Bake for {#15 minutes#}. Remove from oven, brush chickpea tofu with unagi sauce and bake for an additional {#15 minutes#}.
     Nigiri
-      - Shape tablespoons of black rice into oblongs, smear tops with a bit of wasabi, lay a nori strip texture-side up, place strip of chickpea tofu as well as the rice ball (wasabi side facing downwards) and finally fold nori over bottom of rice (cut off excess, you can wet the edges with a bit of water if ever it isn't sticking). 
-      - Makes about 12 nigiri. If you have nigiri molds, shaping the rice into ovals will be very easy. Otherwise use your hands, keep them moist so the rice doesn't stick.
+      - Shape tablespoons of black rice into oblongs, smear tops with a bit of {{wasabi}}, lay a nori strip texture-side up, place strip of chickpea tofu as well as the rice ball (wasabi side facing downwards) and finally fold nori over bottom of rice (cut off excess, you can wet the edges with a bit of water if ever it isn't sticking). 
+      - Makes about {_12 nigiri_}. If you have nigiri molds, shaping the rice into ovals will be very easy. Otherwise use your hands, keep them moist so the rice doesn't stick.
   INGR
     Nigiri
       Black glutinous rice : 3/4 cup
@@ -1054,15 +1056,15 @@ CHILI POMEGRANATE BROWNIES
   INST
     Preparation
       - Preheat oven to {#325F#}.
-      - Cut {#1/3 cup#} of {{pumpkin}}, steam until softened and process into a puree.
-      - Put {#3 tbsp#} of {{ground flax seeds}} in a bowl with {#9 tbsp#} of {{water}}, let thicken for {#5 minutes#}. Set aside.
-      - Put {#5 tbsp#} of {{coconut oil}}, {#5 tbsp#} of {{pumpkin puree}}, {#3/4 cup#} {{whole cane sugar}}, {#3/4 cup#} {{cocoa powder}} and a {#1/4 tsp#} {{salt}} in a pan over medium to low heat. Stir until the {{coconut oil}} is melted, and all is well mixed.
-      - Stir in the flax 'egg', as well as the {#2 tbsp#} of {{red pepper flakes}} and {#1 tsp#} of {{cayenne powder}}. Add {#1/2 cup#} of {{all purpose flour}} and mix well. Mixture should be very thick.
-      - Pour into a {_8X8 baking dish_} lined with parchment papper. Flatten with the back of a spoon to even it out and bake for {#25 minutes#}, or until knife comes out clean. Let cool. {_Cut in 24 small squares_}.
+      - Cut {_1/3 cup_} of {{pumpkin}}, steam until softened and process into a puree.
+      - Put {_3 tbsp_} of {{ground flax seeds}} in a bowl with {_9 tbsp_} of {{water}}, let thicken for {#5 minutes#}. Set aside.
+      - Put {_5 tbsp_} of {{coconut oil}}, {_5 tbsp_} of {{pumpkin puree}}, {_3/4 cup_} {{whole cane sugar}}, {_3/4 cup_} {{cocoa powder}} and a {_1/4 tsp_} {{salt}} in a pan over medium to low heat. Stir until the {{coconut oil}} is melted, and all is well mixed.
+      - Stir in the flax 'egg', as well as the {_2 tbsp_} of {{red pepper flakes}} and {_1 tsp_} of {{cayenne powder}}. Add {_1/2 cup_} of {{all purpose flour}} and mix well. Mixture should be very thick.
+      - Pour into a 8X8 baking dish lined with parchment papper. Flatten with the back of a spoon to even it out and bake for {#25 minutes#}, or until knife comes out clean. Let cool. {_Cut in 24 small squares_}.
     Syrup
-      - Pour {#2 cups#} of {{unsweetened pomegranate juice}} into a pot with {#1 tsp#} {{red pepper flakes}} and {#1 tsp#} {{cayenne}}. Bring to a boil, lower to medium-high heat and leave for up to {#1h#} or until liquid has been reduced to 1 cup.
+      - Pour {_2 cups_} of {{unsweetened pomegranate juice}} into a pot with {_1 tsp_} {{red pepper flakes}} and {_1 tsp_} {{cayenne}}. Bring to a boil, lower to medium-high heat and leave for up to {#1h#} or until liquid has been reduced to {_1 cup_}.
       - Let cool, the syrup will thicken when cooled. 
-      - Top brownies with fresh pomegranate seeds, and drizzle with the chili-infused syrup!
+      - Top brownies with fresh {{pomegranate seeds}}, and drizzle with the chili-infused syrup!
   INGR
     Brownie
       Pumpkin : 1/3 cup
@@ -1123,23 +1125,23 @@ PANKO CHICKPEA FINGERS
     % recipes/panko.chickpea.fingers.1.jpg
     & The lemon juice adds flavour to the crumbs, no need for eggs or flour.
     & I had these with sambal oelek, it's spicy but works well with the dish. I've been pairing this condiment with a lot of my foods lately, I'm sure these would also be good with a sweet mustard dip!
-    & How to make panko from scratch:
+    & {*How to make panko from scratch:*}
     & If you don't have any panko, making it yourself is simple; all you need is some left-over bread. I had bread I needed to use up so I tore the slices into smaller bits using my hands. It's easier to do that with a food processor, but not necessary. Then, I lined a baking sheet with a mat and put the crumbs down in a thin layer; a thin layer is important, it ensures even browning. Preheat your oven at 300F, and bake the bread bits for 5 minutes. After the 5 minutes is up, shake them around, and bake them for an additional 5 minutes.
     % recipes/panko.chickpea.fingers.2.jpg
     & Keep an eye on me them, to make sure they don't burn! Let cool, and store in an airtight container - keeps for weeks at room temperature.
   INST
     Chickpea tofu
-      - In a pot, add {#1 1/2 cups#} of {{vegetable bouillon}} and bring to a rolling boil.
-      - Mix {#1 cup#} of {{chickpea flour}} with {#1/4 tsp#} of {{salt}}, {#1/2 tsp#} of {{ground turmeric}} and {#1 tbsp#} of {{chili pepper flakes}}. Add {#1 1/2 cups#} of {{water}} and stir until the mixture is lump-free.
+      - In a pot, add {_1 1/2 cups_} of {{vegetable bouillon}} and bring to a rolling boil.
+      - Mix {_1 cup_} of {{chickpea flour}} with {_1/4 tsp_} of {{salt}}, {_1/2 tsp_} of {{ground turmeric}} and {_1 tbsp_} of {{chili pepper flakes}}. Add {_1 1/2 cups_} of {{water}} and stir until the mixture is lump-free.
       - Lower heat to medium, and pour in chickpea batter. Whisk continuously for {#5-10 minutes#} until the mixture has thickened. 
-      - Remove from heat, add {#2 chopped#} {{green onions}} and mix well. Pour into a {_8x8 baking dish_} lined with a baking mat. Smooth out top with the back of a wooden spoon. 
+      - Remove from heat, add {_2 chopped_} {{green onions}} and mix well. Pour into a 8x8 baking dish lined with a baking mat. Smooth out top with the back of a wooden spoon. 
       - Let cool and set for {#1 hour#}, then refrigerate for a little while longer before cutting. {_Cut into 24 strips_}.
     Panko coating mix
-      - Preheat oven to {{425F}}.
-      - Mix {#1 cup#} of {{panko bread crumbs}} and {#1/4 cup#} of {{nutritional yeast}}. Spread out thinly onto a plate.
-      - Pour {#4 tbsp#} of {{lemon juice}} in a separate plate.
+      - Preheat oven to {#425F#}.
+      - Mix {_1 cup_} of {{panko bread crumbs}} and {_1/4 cup_} of {{nutritional yeast}}. Spread out thinly onto a plate.
+      - Pour {_4 tbsp_} of {{lemon juice}} in a separate plate.
       - Take a slice of the {{chickpea tofu}} and dip into the {{lemon juice}}, making sure all sides are covered, then dip into panko. Make sure all sides are well coated. 
-      - Place on baking sheet lined a baking mat, season with black pepper and salt and spray lightly with {{olive oil}}.
+      - Place on baking sheet lined a baking mat, season with {{black pepper}} and {{salt}}. Spray lightly with {{olive oil}}.
       - Bake for {#15 minutes#}, flip, bake for another {#15 minutes#}. Serve with dipping sauce of choice!
   INGR
     Main
@@ -1163,19 +1165,19 @@ UZUMAKI HUMMUS BITES
   DESC
     & {*Uzumaki*} means 'spiral' in japanese, also the name of my favourite Junji Ito story. I thought this to be a good name for these savoury beet hummus bites.
     % recipes/uzumaki.hummus.bites.2.jpg
-    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way, is to use a tortilla press, or it just requires lots of practice. I'll get them to be circular eventually, maybe. 
+    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way, is to use a tortilla press, or it just requires lots of practice. 
     % recipes/uzumaki.hummus.bites.3.jpg
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
+    & Making the tortillas black is optional, but it adds a nice contrast to the beet hummus. NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Beet hummus
       - Preheat oven to {#375F#}.
-      - Wash and cut {#2 small#} {{beets}} into 4, rub quarters lightly with {{olive oil}}. 
+      - Wash and cut {_2 small_} {{red beets}} into 4, rub quarters lightly with {{olive oil}}. 
       - Roast for {#30-40 minutes#} or until fork tender.
-      - Puree the roasted beets, with {#1 1/4 cup#} of {{chickpeas}}, {#2 minced#} {{garlic cloves}}, a {#1/4 cup#} of {{tahini}}, {#1/2 tsp#} of {{salt}} and {#1 tbsp#} of {{balsamic vinegar}}. Mix in {#2 tbsp#} of {{olive oil}} at the end. If the hummus feels too thick, add a few tbsp of water until you the desired consistency.
+      - Puree the roasted beets, with {_1 1/4 cup_} of {{chickpeas}}, {_2 minced cloves_} of {{garlic}}, a {_1/4 cup_} of {{tahini}}, {_1/2 tsp_} of {{salt}} and {_1 tbsp_} of {{balsamic vinegar}}. Mix in {_2 tbsp_} of {{olive oil}} at the end. If the hummus feels too thick, add a few tbsp of water until you the desired consistency.
     Tortillas
-      - Put {#3 cups#} of {{all purpose flour}}, {#1 tsp#} {{bamboo powder}} and {#1 tsp#} of {{salt}} in a bowl. Mix well.
-      - Add {#1/4 cup#} of {{olive oil}} and {#3/4 cup#} of {{cold water}}.
-      - Knead into a smooth dough, and separate into 11 balls. Dust the balls lightly with flour, and let rest for 5 minutes. 
+      - Put {_3 cups_} of {{all purpose flour}}, {_1 tsp_} {{bamboo powder}} and {_1 tsp_} of {{salt}} in a bowl. Mix well.
+      - Add {_1/4 cup_} of {{olive oil}} and {_3/4 cup_} of {{cold water}}.
+      - Knead into a smooth dough, and separate into {_11 balls_}. Dust the balls lightly with flour, and let rest for {#5 minutes#}. 
       - Roll the balls out into circles. Put the tortillas under a moist cloth until you're ready to cook them so they don't dry up (I usually spray a bit of water over the cloth).
       - Heat a non-stick pan at medium heat, cook tortillas for {#30 seconds#} on each side. Again, put the warmed tortillas under a cloth so they stay nice and moist.
     Combine
@@ -1406,9 +1408,9 @@ CARROT KINPIRA ONIGIRAZU
     
   INST
     Kinpira carrot
-      - Peel and cut {#2 large#} {{carrot}} into thin strips.
+      - Peel and cut {_2 large_} {{carrot}} into thin strips.
       - Stir these ingredients together to make the sauce for the kinpira - {_2 tsp_} of {{maple syrup}}, {_2 tsp_} of {{mirin}} and {_2 tbsp_} of {{soy sauce}}.
-      - Heat {#1 tbsp#} of {{sesame oil}} in a pan at medium heat, add the carrot strips and cook for {#2-3 minutes#}. Stir in {#1/2 tsp#}  of {{chili pepper flakes}} as well as the sauce prepared in the previous step. 
+      - Heat {#1 tbsp#} of {{sesame oil}} in a pan at medium heat, add the carrot strips and cook for {#2-3 minutes#}. Stir in {_1/2 tsp_}  of {{chili pepper flakes}} as well as the sauce prepared in the previous step. 
       - Cook until no liquid remains. Let cool.
     Rice
       - Dissolve {_1 tbsp_} of {{white miso}} in {_1 1/2 cups_} of {{water}} and pour into pot with {_1 cup_} of {{short grain white rice}} (first, wash the rice until water runs clear). 
@@ -1478,7 +1480,7 @@ FRESH PESTO PASTA
     Cook
       - Bring a pot of {{water}} to a boil, add {_1 1/2 cups_} of {{scoobi do}} pasta and cook until tender. While the pasta is cooking julienne {_2_} {{carrots}} and {_1_} {{zucchini}}.
       - Drizzle some {{olive oil}} in a pan and bring up to medium heat. Add the vegetable strips and cook for {#2-3 minutes#}.
-      - Remove from heat, add the cooked pasta as well as a few tablespoons of pesto! The recipe makes about a cup of pesto, which you can keep and use for future meals.
+      - Remove from heat, add the cooked pasta as well as a few tablespoons of pesto! The recipe makes about 1 cup of pesto, which you can keep and use for future meals.
       - Season pasta with {{salt}} and {{black pepper}}. Finally, top it all off with {{roasted pumpkin seeds}} and {{cherry tomatoes}}!
   INGR
     Main
@@ -1500,17 +1502,17 @@ VEGEMITE CARAMEL
   TIME : 20
   SERV : 1/2 pint
   DESC
-    & Cadbury released a vegemite chocolate bar earlier this year, as usual, I only found out about it this week (after everyone else o'course). I liked the idea so much, I decided to make something inspired from it. Ended up making some vegemite caramel.
-    & I currently have two vegemite jars, a gift from a friend in Australia. It's delicious, but I don't always know what to make with it. It's great on toast, but aside from that - mind goes blank.
+    & Cadbury released a vegemite chocolate bar, I liked the idea so much, I decided to make something inspired from it. I ended up making some vegemite caramel.
+    & I currently have two vegemite jars, a gift from a friend in Australia. It's delicious, but I don't always know what to make with it. It's great on toast, but aside from that — mind goes blank.
     % recipes/vegemite.caramel.1.jpg
-    & The vegemite caramel mix of the Cadbury bar intrigued me. Vegemite is very salty, but I happen to be a big fan of salted sweets – I'm looking at you sea salt chocolate. If I added some to date caramel (instead of salt) I knew it would taste good. I have Alissa from <a href=\"http://www.nourishingmeals.com/2010/09/raw-caramel-dip-for-apples.html\">Nourishing meals</a> to thank for the idea of date caramel. I used deglet noor dates for this recipe (because it's what I had). Feel free to use medjool dates instead. Medjool dates are great, but you don't have to use them. They're expensive, and their cheaper counterpart works just fine.
+    & The vegemite caramel mix of the Cadbury bar intrigued me. Vegemite is very salty, but I happen to be a big fan of salted sweets — I'm looking at you sea salt chocolate. If I added some to date caramel (instead of salt) I knew it would taste good. I used deglet noor dates for this recipe (because it's what I had). Feel free to use medjool dates instead. Medjool dates are great, but you don't have to use them. They're expensive, and their cheaper counterpart works just fine.
     & I was right, it tastes amazing. Cut a few apples up, and dip them right into the vegemite caramel! You can also spread it over some toast! This is a weird mix, but believe me, it tastes awesome. 
     % recipes/vegemite.caramel.2.jpg
     & There are a few places in Montreal where you can get vegemite like, Ta pies on Park av. near Mont-royal street has some. Otherwise, you can get one of your nice Australian buddies to send you some! 
   INST
-    Preparation
-      - Soak 1 cup of deglet noor dates in boiling water for 5-10 minutes. Drain.
-      - Mix dates with the following ingredients - 1 1/2 tsp of vegemite, 1 tsp of lemon juice, 4 tbsp of soy milk and 1 tsp of vanilla extract.
+    Caramel
+      - Soak {_1 cup_} of {{deglet noor dates}} in boiling water for {#5-10 minutes#}. Drain.
+      - Mix {{dates}} with the following ingredients - {_1 1/2 tsp_} of {{vegemite}}, {_1 tsp_} of {{lemon juice}}, {_4 tbsp_} of {{soy milk}} and {_1 tsp_} of {{vanilla extract}}.
       - Blend to a smooth puree using a hand mixer or food processor. Serve as a dip for apple slices!
   INGR
     Main
@@ -1527,25 +1529,24 @@ HALLOWEEN PUMPKIN COOKIES
   TIME : 30
   SERV : 15 cookies
   DESC
-    & Halloween is coming up, this blog has a lot of recipes that are perfect for it. Here is a short list of my favorite ones: <a href=\"http://grimgrains.com/dark+yaki+gyoza\">Black yaki gyoza</a> <a href=\"http://grimgrains.com/basic+black+bread\">Basic black bread</a> and <a href=\"http://grimgrains.com/black+pasta\">Black pasta</a>. Those recipes aren't holiday-specific, but these cute pumpkin cookies sure are! They're super soft, and easy to prepare.
+    & Halloween is coming up, these cookies are super soft, and easy to prepare.
     & Been a while since I've baked cookies. It being pumpkin season, the choice was obvious - pumpkin cookies it is.
     % recipes/halloween.pumpkin.cookies.2.jpg
     & These are perfect if you don't like sweet deserts, coconut sugar has a subtle and more complex taste. Coconut sugar will make your cookies a darker shade of orange, almost brown. I think it fits nicely with the toned-down color of the pumpkin seeds. If you want a bold orange color, use white cane sugar instead.
   INST
     Cookie dough
-      - Preheat oven to 350F .
-      - Steam 1/2 cup's worth of pumpkin cubes. Set aside to cool. 
-      - Stir 1/2 cup of all purpose flour, 1/2 cup of spelt flour and 1/2 tsp of baking powder together in a bowl.
-      - Put the steamed pumpkin, the 4 tbsp of melted vegan butter as well as the 1/2 cup of coconut sugar in another bowl. Mash the pumpkin with a fork (or use a hand blender) and stir everything together until smooth and well mixed.
-      - Add the wet to the dry ingredients, mix with a wooden spoon until you get a soft and consistent dough. It will be sticky but that's fine, if it's too sticky feel free to add a bit of extra flour. Let the dough rest for 10 minutes.
-      - Line a baking sheet with a silpat (or parchment paper). Make little balls of dough, as round as you can make them, and flatten each one gently. Bake for 15 minutes.
-      - Decorate each cookie with 3 pumpkin seeds, sticking them at the top (pointy end in).
+      - Preheat oven to {#350F#}.
+      - Steam {_1/2 cup_}'s worth of {{pumpkin}} cubes. Set aside to cool. 
+      - Stir {_1/2 cup_} of {{all purpose flour}}, {_1/2 cup_} of {{spelt flour}} and {_1/2 tsp_} of {{baking powder}} together in a bowl.
+      - Put the steamed pumpkin, the {_4 tbsp_} of melted {{coconut oil}} as well as the {_1/2 cup_} of {{coconut sugar}} in another bowl. Mash the {{pumpkin}} with a fork (or use a hand blender) and stir everything together until smooth and well mixed.
+      - Add the wet to the dry ingredients, mix with a wooden spoon until you get a soft and consistent dough. It will be sticky but that's fine, if it's too sticky feel free to add a bit of extra flour. Let the dough rest for {#10 minutes#}.
+      - Line a baking sheet with a baking mat. Make little balls of dough, as round as you can make them, and flatten each one gently. Bake for {#15 minutes#}.
+      - Decorate each cookie with {_3_} {{pumpkin seeds}}, sticking them at the top (pointy end in).
     Chocolate
-      - Mix 1/4 cup of coconut oil, 1/4 cup of unsweetened cocoa powder, 1/4 tsp vanilla, 2 tbsp maple syrup and a pinch of salt together in a glass bowl. 
-      - Put a bit of water to boil in a pot (large enough to fit your bowl, or to have it hanging overtop).
+      - Mix {_1/4 cup_} of {{coconut oil}}, {_1/4 cup_} of {{unsweetened cocoa powder}}, {_1/4 tsp_} {{vanilla}}, {_2 tbsp_} {{maple syrup}} and a pinch of {{salt}} together in a glass bowl. 
+      - Put a bit of {{water}} to boil in a pot (large enough to fit your bowl, or to have it hanging overtop).
       - Lower the heat to a simmer, add the glass bowl with the chocolate into the pot, stir with a spoon until the chocolate is smooth and runny. 
-      - Remove from heat.
-      - Take a toothpick and dip into the chocolate, draw pumpkin faces on your cookies and serve as is!\
+      - Remove from heat. Take a toothpick and dip into the chocolate, draw pumpkin faces on your cookies and serve as is!
     Extra chocolate treat
       - As for the rest of your chocolate mixture, pour it in a chocolate mold or shallow container and put it in the freezer. It will become solid and you'll have delicious homemade chocolate on the side for later times! Once it's solid, pop it out of the mold and put it in a closed container. Keep it in the freezer until you're ready to eat it!
   INGR
@@ -1554,7 +1555,7 @@ HALLOWEEN PUMPKIN COOKIES
       Spelt flour : 1/2 cup
       Baking powder : 1/2 tsp
       Coconut sugar : 1/2 cup
-      Vegan butter : 4 tbsp, melted
+      Coconut oil : 4 tbsp, melted
       Pumpkin : 1/2 cup
       Pumpkin seeds : 45
       Cocoa powder : 1/4 cup
@@ -1571,19 +1572,20 @@ SALTED CARAMEL CAROB CHIP COOKIES
   SERV : 20 cookies
   DESC
     & Got up early sunday morning with cookies on my mind. When I peeked into my fridge, I spotted a lonely jar of leftover date caramel. I decided to make some salted caramel cookies with unsweetened carob chips! 
-    & The kind people at <a href=\"http://www.daybreakmill.com\">Daybreak Mill</a> sent me a bag of einkorn flour last week, I'd never heard of it before. Einkorn was one of the first domesticated and cultivated plants. It has a higher percentage of protein than regular wheat, with high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene. Another great thing about it, is that it isn't as toxic to people on gluten-free diets. This wasn't proven, but it's worth looking into!
+    & The kind people at {{Daybreak mill|http://www.daybreakmill.com}} sent me a bag of einkorn flour last week, I'd never heard of it before. Einkorn was one of the first domesticated and cultivated plants. It has a higher percentage of protein than regular wheat, with high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene. Another great thing about it, is that it isn't as toxic to people on gluten-free diets. This wasn't proven, but it's worth looking into!
     % recipes/salted.caramel.carob.chip.cookies.1.jpg
     & I tried baking bread with it this week, it did not rise all that well. While it is a dense loaf, the texture is quite nice! It has a strong nutty taste, making it more flavorful than regular wheat. Einkorn bread is filling, I don't think I would use it to make a sandwich but it makes nice breakfast toast.
     & After my bread experiment, I decided to try and make something sweet. The dates, coconut sugar and carob chips create a strong caramel taste. The fleur de sel sprinkled overtop brings out the flavor nicely.
     & I can't thank Daybreak mill enough for sending me this gift, and for introducing me to einkorn flour! Their products are grown with the utmost care. You can get your own einkorn flour from their website, they also have a ton of other great products. Encouraging companies that share your outlook on food and life is important. 
   INST
-    Preparation
-      - To make date caramel, soak 1/2 cup of deglet noor dates in boiling water for 5-10 minutes. Drain, puree using a hand blender or food processor with 1/2 tsp lemon juice, 2 tbsp soy milk and 1/2 tsp vanilla extract. Set aside.
-      - Pre-heat oven to 350F.
-      - Make your flax egg - put 1 tbsp of ground-up flax seeds with 3 tbsp of water, let thicken for 5 minutes.
-      - In a large bowl, mix 1 cup + 3 tbsp of einkorn flour with 3/4 tsp baking soda and 1/4 tsp of salt.
-      - Melt 1/4 cup of vegan butter and in a separate bowl, cream with 3/4 of coconut sugar, a 1/4 cup of date caramel and the flax egg. Then add to the dry ingredients and mix well. Add 1/2 cup of unsweetened carob chips and stir until evenly distributed.
-      - Line a baking sheet with parchment paper (or with a silpat if you have one) and scoop out tablespoon-sized portions of cookie dough. Roll them out with your hands and place them on the baking sheet, making sure there's enough space between each one. Sprinkle some fleur de sel on top and bake for 10 minutes, repeat until you run out of cookie dough. Let cool on baking sheet before transfering to a cooling rack. Makes about 20 cookies.
+    Date caramel
+      - To make date caramel, soak {_1/2 cup_} of {{deglet noor dates}} in boiling water for {#5-10 minutes#}. Drain, puree using a hand blender or food processor with {_1/2 tsp_} {{lemon juice}}, {_2 tbsp_} {{soy milk}} and {_1/2 tsp_} {{vanilla extract}}. Set aside.
+    Cookies
+      - Pre-heat oven to {#350F#}.
+      - Make your flax egg - put {_1 tbsp_} of ground-up {{flax seeds}} with {_3 tbsp_} of {{water}}, let thicken for {#5 minutes#}.
+      - In a large bowl, mix {_1 cup + 3 tbsp_} of {{einkorn flour}} with {_3/4 tsp_} of {{baking soda}} and {_1/4 tsp_} of {{salt}}.
+      - Melt {_1/4 cup_} of {{coconut oil}}. In a separate bowl, cream with {_3/4 cup_} of {{coconut sugar}}, a {_1/4 cup_} of date caramel and the flax egg. Then add to the dry ingredients and mix well. Add {_1/2 cup_} of {{unsweetened carob chips}} and stir until evenly distributed.
+      - Line a baking sheet with a baking mat, and scoop out tablespoon-sized portions of cookie dough. Roll them out with your hands and place them on the baking sheet, making sure there's enough space between each one. Sprinkle some {{fleur de sel}} on top and bake for {#10 minutes#}, repeat until you run out of cookie dough. Let cool on baking sheet before transfering to a cooling rack. Makes about {*20 cookies*}.
   INGR
     Date caramel
       Deglet noor dates : 1/2 cup
@@ -1616,7 +1618,7 @@ HIJIKI SOBA
     Preparation
       - Put {_2 tbsp_} of dried {{hijiki}} in a bowl and cover with a cup of {{water}}. Let re-hydrate for at least {#30 minutes#}, drain.
       - Bring a pot of {{water}} to a boil, add {_2 portions_} of soba({{buckwheat noodles}}) and give them a quick stir so they go underwater. Reduce heat to medium and cook for {#5 minutes#}. Drain, rinse and transfer to a pot of cold water. Wash the noodles using your hands to remove the excess starch, drain and set aside.
-      - Julienne 1 {{carrot}}, chop 2 {{garlic cloves}} and cut 60g of {{tempeh}} into small cubes. I use noble bean original tempeh.
+      - Julienne {_1_} {{carrot}}, chop {_2 cloves_} of {{garlic}} and cut {_60g_} of {{tempeh}} into small cubes. I used {*noble bean*} original tempeh.
     Sauce
       - Stir {_2 tbsp_} of {{soy sauce}}, or {{tamari sauce}}, with {_2 tsp_} of {{maple syrup}} and {_1 tbsp_} of {{mirin}} together.
     Cook
@@ -1647,13 +1649,19 @@ CHICKPEA KELP SANDWICH
     & You can order your own bull kelp powder from the {{BC Kelp website|http://www.bckelp.com/index.html}}, they have a wide range of quality seaweed to choose from. 
   INST
     Tofu mayo
-      - You can use Veganaise, or make your own mayo. I used the recipe by {{Cooking NYT|http://cooking.nytimes.com/recipes/1016638-tofu-mayonnaise}}
-    Chickpea salad
-      - Soak dry chickpeas overnight (or for 8h). Drain, rinse and cook according to pressure cooker instructions. I cook mine at the longer time, so they soften up. <small>Alternatively, you can use a can of chickpeas </small>
-      - Pressure cooker chickpeas come out a lot softer, if cooked at the longer time. Because of this, they don't need to be mashed as much. If you decide to use canned chickpeas (1 can will do), you may have to put a bit more effort to soften them up.
-      - Mix the mashed chickpeas with 3-4 tbsp (or more, to taste) of tofu mayo, 1 tbsp dijon mustard, 1/2 tsp kelp powder, 2 branches of chopped scallions and 1/4 tsp of cayenne powder. 
-      - Season with black pepper and some shichimi togarashi, serve over toasted sliced bread. 
+      - Blend {_1 cup_} of {{tofu}}, {_3 tbsp_} of olive oil, {_2 tbsp_} {{apple cider vinegar}}, {_3 tbsp_} {{dijon mustard}} and {_1/4 tsp_} {{salt}}. This makes more than you'll need, but that means you get to use the rest in another recipe!
+    Main
+      - Soak dry {{chickpeas}} {#overnight#}, or for {#8h#}. Drain, rinse and cook according to pressure cooker instructions. I cook mine at the longer time, so they soften up. Alternatively, you can use a can of chickpeas.
+      - Pressure cooker chickpeas come out a lot softer, if cooked at the longer time. Because of this, they don't need to be mashed as much. If you decide to use canned chickpeas ({_1 can_} will do), you may have to put a bit more effort to soften them up.
+      - Mix the mashed {{chickpeas}} with {_3-4 tbsp_} of tofu mayo, {_1 tbsp_} {{dijon mustard}}, {_1/2 tsp_} {{kelp powder}}, {_2 branches_} of chopped {{scallions}} and {_1/4 tsp_} of {{cayenne powder}}. 
+      - Season with {{black pepper}} and some {{shichimi togarashi}}, serve over toasted sliced bread. 
   INGR
+    Tofu Mayo
+      Tofu : 1 cup, silken
+      Olive oil : 3 tbsp
+      Apple cider vinegar : 2 tbsp
+      Dijon mustard : 3 tbsp
+      Salt : 1/4 tsp
     Main
       Chickpeas : 3/4 cup, dry
       Tofu mayo : 3-4 tbsp
@@ -1673,17 +1681,17 @@ BEER BREAD
   SERV : 1 loaf
   DESC
     & The idea of making beer bread came from a book written by Lin Pardey called "The Care and Feeding of the Offshore Crew". In this book, Lin talks about cooking at sea and has an entire chapter dedicated to baking onboard. In this chapter, the authot talks about the many ways to make fresh bread while sailing, including a quickbread recipe that uses 3 basic ingredients: flour, sugar and beer. 
-    & Beer bread you say? Right up my alley! The next day I gave it a try, the result is fantastic - surprising given the little effort it takes to make it.
+    & Beer bread you say? Right up my alley! The next day I gave it a try, the result is fantastic — surprising given the little effort it takes to make it.
     & The best thing about this bread, is that it can taste different everytime. Using different beer, will change the taste and color of the bread. I tried baking with an IPA (21st amendment), a Hefeweizen (Sunriver brewing co) and a brown ale (Hobgoblin).
     & If you have self-rising flour, you can omit the baking powder and salt. You can use even less ingredients if you have a craft beer that has live yeast sediment at the bottom of the bottle. If you have a beer like that only flour, sugar and beer will do. Have fun experimenting with beers in your bread! 
     % https://www.youtube.com/watch?v=ppASJRVcXmM
   INST
     Preparation
-      - Preheat your oven at 350F.
-      - Mix all the ingredients together well and add extra flour if too sticky.
-      - Sprinkle corn meal in your bread pan or tray and dump the sticky loaf into it. Optionally, you can add some oats on the top. 
-      - Bake for 1 hour
-      - Let cool on a dish towel or rack
+      - Preheat your oven at {#350F#}.
+      - Mix all the ingredients together well, and add extra flour if the dough is too sticky — no kneading required. 
+      - Coat the bottom of your bread pan with {_1 tbsp_} of {{olive oil}}, make sure to spread it out evenly, and thinly. Sprinkle {{corn meal}} in your bread pan, or tray, shake the cornmeal around so it covers the entire bottom. Transfer the bread dough into the pan. Optionally, you can add some oats on top of the bread. 
+      - Bake for {#1 hour#}
+      - Let cool on a dish towel, or rack
   INGR
     Main
       All purpose flour : 2 cups
@@ -1692,6 +1700,7 @@ BEER BREAD
       Sugar : 3 tbsp
       Beer : 1 can
       Cornmeal : 2 tbsp
+      Olive oil : 1 tbsp
       Oats : 3 tbsp
 
 CHARCOAL TOOTHPASTE
@@ -1710,8 +1719,8 @@ CHARCOAL TOOTHPASTE
   INST
     Preparation
       - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_1/2 tsp_} of {{bamboo charcoal powder}}.
-      - Add 3 tbsp of coconut oil. If the coconut oil is hard, melt it down and mix it with the dry ingredients
-      - Add 1/2 tsp of food grade peppermint oil
+      - Add {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
+      - Add {_1/2 tsp_} of food grade {{peppermint oil}}.
       - Mix everything up and brush your teeth!
   INGR
     Main
@@ -1732,9 +1741,9 @@ PAPAYA BRUSCHETTA TOPPING
     & If something isn't available, or is too expensive where you are (hunting for raspberries in japan comes to mind), swap it out for something else. Not every ingredient will work, but it's fun to try isn't it?
   INST
     Preparation
-      - Peep skin from papaya, scoop out the seeds insides and cut the flesh into small cubes.
-      - Mix the olive oil, balsamic vinegar, dried basil and salt together.
-      - Pour over cubed papaya and serve with crackers.
+      - Peep skin from {{papaya}}, scoop out the seeds insides and cut the flesh into small cubes. NOTE: You can wash and dry the papaya seeds to make pepper! Or process them into juice with other fruits.
+      - Mix {_2 tbsp_} of {{olive oil}}, {_2 tbsp_} of {{balsamic vinegar}}, {_1 tbsp_} of {{dried basil}} and a pinch of {{salt}} together.
+      - Pour over cubed papaya and serve with homemade {{crackers|crackers}}.
   INGR
     Main
       Papaya : 1
@@ -1788,14 +1797,14 @@ CORN DUMPLINGS
     & Instead of apricot jam, you can add apricot juice to the mix (orange will taste wonderful too). I added jam because I don't have any juice on the boat currently, and besides, it works well in this recipe. Enjoy!
   INST
     Preparation
-      - Mix 1 cup corn semolina, 1/4 cup flour, 1/2 tsp baking soda, 1 tsp baking powder and 1/2 tsp of salt. Stir until well mixed.
-      - Bring 1 cup of water to a boil, pour into dry ingredients and mix well. When the dough is wet and sticky, form 1/2" balls with your hands. You can make larger or smaller balls, note that cooking time will change if the diameter is bigger (15 minutes will do it.)
-      - Bring a big pot of water to a boil, add corn balls and boil for 10-15 minutes (i don't have a big pot, so i did it in batches.)
+      - Mix {_1 cup_} {{corn semolina}}, {_1/4 cup_} {{all purpose flour}}, {_1/2 tsp_} {{baking soda}}, {_1 tsp_} {{baking powder}} and {_1/2 tsp_} of {{salt}}. Stir until well mixed.
+      - Bring {_1 cup_} of {{water}} to a boil, pour into dry ingredients and mix well. When the dough is wet and sticky, form {*1/2" balls*} with your hands. You can make larger or smaller balls, note that cooking time will change if the diameter is bigger.
+      - Bring a big pot of water to a boil, add corn balls and boil for {#10-15 minutes#}.
       - Drain, let cool.
     Sauce
-      - Mix all sauce ingredients together (all, except the cornstarch). 
-      - Put 1 tsp of cornstarch in a bowl, and dissolve in 1/4 cup of water. Set aside.
-      - Pour sauce into a pan, and bring to medium heat. Once the sauce starts to boil, add a few spoonfuls of the cornstarch mix to thicken the sauce. Once thickened, divide corn dumplings into bowls and pour sauce overtop. 
+      - Mix all sauce ingredients together (all, except the arrowroot starch). 
+      - Put {_1 tsp_} of {{arrowroot starch}} in a bowl, and dissolve in {_1/4 cup_} of {{water}}. Set aside.
+      - Pour sauce into a pan, and bring to medium heat. Once the sauce starts to boil, add a few spoonfuls of the arrowroot starch mix to thicken the sauce. Once thickened, divide corn dumplings into bowls and pour sauce overtop. 
   INGR
     Main
       Corn semolina : 1 cup
@@ -1814,7 +1823,7 @@ CORN DUMPLINGS
       Chili pepper flakes : 1 tbsp
       Ginger root : 1 tsp
       Garlic : 2, minced
-      Cornstarch : 1 tsp
+      Arrowroot starch : 1 tsp
 
 BREADFRUIT GNOCCHI
   DATE : 2017-16-10
@@ -1834,7 +1843,7 @@ BREADFRUIT GNOCCHI
       - Wait until your {{breadfruit}} is very ripe, soft to the touch. A softer breadfruit will be easier to knead, and will taste sweeter.
       - Preheat oven to {#425F#}. Rub outside of breadfruit with {{olive oil}}, and wrap with aluminium foil. Cook for {#1 hour#}.
       - Remove foil, peel skin away, cut in half, and remove the seed. 
-      - Let cool, and mash with your hands into a cohesive dough. Add {{flour}}, {#1/4 cup#} at a time, until the {{breadfruit}} flesh stops sticking to your fingers. You may need more, or less, depending on the size of your fruit. 
+      - Let cool, and mash with your hands into a cohesive dough. Add {{flour}}, {_1/4 cup_} at a time, until the {{breadfruit}} flesh stops sticking to your fingers. You may need more, or less, depending on the size of your fruit. 
       - Sprinkle your work surface with {{flour}}, take a golf-sized ball of dough, and roll it into a thin, finger-sized log. Cut the log into bite-sized pieces (around 2cm long) and repeat for the rest of the dough. 
       - At this point, you can choose to freeze the gnocchi, or to prepare them straight away. To cook them, bring a pot of {{water}} to a boil, add the gnocchi, and cook for {#5 minutes#} or so, or {_until they start to rise to the surface_}. 
       - Serve with a light sauce, to better taste the subtle, but sweet flavor of the breadfruit gnocchi.
@@ -1858,16 +1867,16 @@ SPINACH FAUX CHEESE RAVIOLI
     & A lot of the recipes in these books use meat and dairy, but it's easy to swap these ingredients out for something else. In New Zealand, the groceries are plentiful and finding everything we need is a breeze. We hope you enjoy this recipe, and that you try and make {{Richa's original pepper jack cheese recipe|http://www.veganricha.com/2014/08/almond-milk-pepper-jack-cheese-vegan-glutenfree-recipe.html}} too.
   INST
     Preparation
-      - For the filling, mix all of the dry ingredients into a bowl, then add all the wet ones (including the spinach) and stir well until evenly mixed. 
-      - Heat a pan at medium heat, pour the filling into it. The mixture will thicken, when it does, transfer it back to a bowl and keep it aside for later. 
-      - To make the dough, mix {#1/2 tsp#} of {{salt}} with {#1 cup#} of {{all purpose flour}}. Add {#2/3 cup#} of water, knead the dough on a floured surface, working in some extra flour if the dough is too sticky. Once you have a smooth ball of dough, wrap it up and let it rest for at least {#10 minutes#}. 
-      - Divide the dough into two pieces, and roll out the first half of the dough to make it as thin as possible (and as rectangular as possible). Roll out the second piece of dough into a similar size and thickess. 
+      - For the filling, mix all of the dry ingredients into a bowl, then add all the wet ones (including the chopped {{spinach}}) and stir well until evenly mixed. 
+      - Heat a pan at medium heat, pour the filling into it. The mixture will thicken. When it does, transfer it back to a bowl and keep it aside for later. 
+      - To make the dough, mix {_1/2 tsp_} of {{salt}} with {_1 cup_} of {{all purpose flour}}. Add {_2/3 cup_} of water, knead the dough on a floured surface, working in extra flour if the dough is too sticky. Once you have a smooth ball of dough, wrap it up and let it rest for at least {#10 minutes#}. 
+      - Divide the dough into two pieces, and roll out the first half of the dough to make it as thin as possible — and as rectangular as possible. Roll out the second piece of dough into a similar size and thickess. 
       - On the first sheet of pasta, place a mound of filling of the faux-cheese and spinach mixture every 2 inches across and down the pasta (spaced out to look like a checker board).
-      - Dip your finger into a bowl of water and make a line inbetween each row of filling (the water acts as a bond to hold the ravioli together). 
+      - Dip your finger into a bowl of water, and make a line inbetween each row of filling (the water acts as a bond to hold the ravioli together). 
       - Place the second sheet of rolled-out pasta on top of the first one, pressing down firmly around the filling and along the wetted lines.
       - With a knife (or ravioli cutter, if you feel fancy), cut the pasta into squares along the wetted lines. Keep separated pieces of ravioli aside.
-      - Bring a pot of water to a boil, and add the ravioli. Stir them gently to keep them from sticking to another another or on the bottom of the pot. Cook for {#7-8 minutes#} or until tender. 
-      - Serve with a light sauce, we made one with chilis, fresh basil and olive oil. A light tomato sauce would also be delicious. Enjoy.
+      - Bring a pot of water to a boil, and add the ravioli. Stir them gently to keep them from sticking to another another or on the bottom of the pot. Cook for {#7-8 minutes#} or until fork tender. 
+      - Serve with a light sauce, we made one with {{chilis pepper flakes}}, fresh {{basil}} and {{olive oil}}. A light tomato sauce would also be delicious. 
   INGR
     Cheese
       Chickpea flour : 1 tbsp
@@ -1902,12 +1911,12 @@ BREADFRUIT PASTA
     & Want to try learn a trick to cut pasta in even pieces? Rolling the flattened piece of dough and cutting them cross-wise is the key, the details on how to do this are in the instructions below.
     & If you come to Fiji and like to make pasta from scratch, try and find some breadfruit flour. That same company also produces cassava flour, but I've never tried it - a recipe for another time. 
     % recipes/breadfruit.pasta.3.jpg
-    & We like to eat breadfruit pasta with garlic, chilis and bitter melon, sauteed in olive oil with some shredded nori on top- simple, and tasty.
+    & We like to eat breadfruit pasta with garlic, chilis and bitter melon, sauteed in olive oil with some shredded nori on top- simple, and tasty. Alternatively, to make regular pasta, just sub the breadfruit flour for {*whole wheat*} or {*spelt flour*}. 
   INST
     Preparation
-      - In a large bowl, mix {#3/4 cup#} of {{all purpose flour}} with {#3/4 cup#} of {{breadfruit flour}}.
-      - Add {#1/2 tsp#} of {{salt}}, mix well. 
-      - Add {#3/4 cup#} of {{water}}, mix until it starts to clump up, then knead with your hands until you have a smooth dough. Let rest for {#20 mins#} (this will make it easier to roll).
+      - In a large bowl, mix {_3/4 cup_} of {{all purpose flour}} with {_3/4 cup_} of {{breadfruit flour}}.
+      - Add {_1/2 tsp_} of {{salt}}, mix well. 
+      - Add {_3/4 cup_} of {{water}}, mix until it starts to clump up, then knead with your hands until you have a smooth dough. Let rest for {#20 mins#} (this will make it easier to roll).
       - Separate dough in two, put one half aside. Separating the dough makes it easier to roll if you have limited counter space (like I do).
       - Sprinkle flour on your working surface, flatten the ball out from the center to the outer edge. Continue to roll, flipping the dough over once or twice and dusting it with flour to prevent it sticking. Roll to desired thickness.
       - Fold the sheet of dough into a flat roll, then {_cut into it cross-wise_} into 0.5cm strips. 
@@ -1940,16 +1949,16 @@ PANDANUS FRUIT BREAD
   INST
     Pandanus bread
       - Preheat oven to {#350F#}.
-      - Mix {#1/2 tsp#} of {{apple cider vinegar}} in {#1/4 cup#} of {{soy milk}}, this will make the milk curdle; it helps the bread rise while imparting flavour.
-      - In a bowl, combine {#1 1/2 cup#} of {{all purpose flour}}, {#1/2 cup#} of {{spelt flour}}, {#1 tsp#} of {#baking powder#}, {#1/2 tsp#} of {{baking soda}} and {#1/4 tsp#} of {{salt}}. Mix well.
-      - In yet, another bowl, cream {#1/4 cup#} of {{coconut oil}} with {#1/2 cup#} of {{whole cane sugar}}, stir in the curdled {{soy milk}}.
+      - Mix {_1/2 tsp_} of {{apple cider vinegar}} in {_1/4 cup_} of {{soy milk}}, this will make the milk curdle; it helps the bread rise while imparting flavour.
+      - In a bowl, combine {_1 1/2 cup_} of {{all purpose flour}}, {_1/2 cup_} of {{spelt flour}}, {_1 tsp_} of {{baking powder}}, {_1/2 tsp_} of {{baking soda}} and {_1/4 tsp_} of {{salt}}. Mix well.
+      - In yet, another bowl, cream {_1/4 cup_} of {{coconut oil}} with {_1/2 cup_} of {{whole cane sugar}}, stir in the curdled {{soy milk}}.
       - Add the wet to the dry ingredients and stir until evenly mixed.
       - Pour the batter into an oiled square baking pan. 
       - Bake for {#45 minutes#}.
     Topping
-      - In a saucepan, add 1 cup of pureed {{pandanus}} (add some water if too thick), {#1 tsp#} of {{chili flakes}} and {#2 tbsp#} of {{whole cane sugar}}. Stir well and bring to a boil.
+      - In a saucepan, add {_1 cup_} of pureed {{pandanus}} (add some water if too thick), {_1 tsp_} of {{chili flakes}} and {_2 tbsp_} of {{whole cane sugar}}. Stir well and bring to a boil.
       - Reduce heat, cook for {#5 minutes#}, then remove from heat.
-      - When cool, stir in {#2 tbsp#} of {{chia seeds}}.
+      - When cool, stir in {_2 tbsp_} of {{chia seeds}}.
       - Serve with the pandanus bread!
 
   INGR
@@ -1987,7 +1996,7 @@ MUSTARD FROM SEED
 
   INST
     Mustard
-      - Soak 1/4 cup of {{mustard seeds}} in a mixture of {#45ml#} of {{apple cider vinegar}} and {#20ml#} of water.
+      - Soak {_1/4 cup_} of {{mustard seeds}} in a mixture of {_45ml_} of {{apple cider vinegar}} and {_20ml_} of water.
       - Let soak for a few days, or until seeds have expanded 3 times their size (from 3 to 7 days). If the seeds have soaked up all of the liquids, add more water. 
       - Drain the seeds from the liquids. Reserve liquids for later.
       - If you've got a blender or food processor, puree the seeds until smooth. Otherwise, add a small quantity of seeds in your mortar and grind them down with your pestle. Repeat till all the seeds are crushed and pureed - doesn't need to be perfectly smooth.
@@ -2016,10 +2025,10 @@ CRACKERS
   INST
     Crackers
       - Preheat oven to {#400F#}.
-      - In a mortar, grind {#1/4 cup#} of {{oats}} into a fine powder. 
-      - Mix the {#1/4 cup#} of powdered {{oats}} (rough-ish grind is fine) with {#3/4 cup#} of {{spelt flour}}. Add {#1/3 tsp#} of {{salt}}, {#1 tbsp#} of {{whole cane sugar}} as well as {#1 1/2 tbsp#} of {{olive oil}}.
+      - In a mortar, grind {_1/4 cup_} of {{oats}} into a fine powder. 
+      - Mix the {_1/4 cup_} of powdered {{oats}} (rough-ish grind is fine) with {_3/4 cup_} of {{spelt flour}}. Add {_1/3 tsp_} of {{salt}}, {_1 tbsp_} of {{whole cane sugar}} as well as {_1 1/2 tbsp_} of {{olive oil}}.
       - If you want to add extras, add them now, and stir well.
-      - Add {#1/4 cup#} of {{water}}. Add extra tbsp of water if more moisture is needed and knead into a smooth ball.
+      - Add {_1/4 cup_} of {{water}}. Add extra tbsp of water if more moisture is needed and knead into a smooth ball.
       - Split dough in two. Set your first ball of dough onto a baking mat, or parchment paper, and {_roll the dough into a thin (~3mm) rectangle_} with a rolling pin. 
       - {_Score the dough_} into cracker-sized squares, it will be easier to separate them afterwards. Repeat for the second ball of dough.
       - Bake for {#10-12 minutes#}, keep an eye on them to make sure they don't burn. Let cool, enjoy!
