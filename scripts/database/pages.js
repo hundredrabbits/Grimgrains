@@ -13,7 +13,7 @@ ABOUT
     & We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.
 
 GALLERY
-  BREF : Recipes that I've made in the past, that I still think are great, but not worth of an actual recipe.
+  BREF : Recipes that I've made in the past, that have not made the grimgrains cut. The photos though, are still very beautiful and I wanted to share them with you here. 
   LONG
     % pages/avocado.carrot.sandwich.jpg
     % pages/black.burger.buns.1.jpg

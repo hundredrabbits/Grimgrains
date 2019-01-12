@@ -102,7 +102,7 @@ SEAWEED BITES
   TIME : 50
   SERV : 30 small cookies
   DESC
-    & Seaweed bites, a great snack packed with your a good dose of {*iodine*} - necessary for good health. These are highly addictive and sweet, beware.
+    & Seaweed bites, a great snack packed with your a good dose of {*iodine*} - necessary for good health. These are highly addictive and sweet — beware.
     & I went all out this time, and used my fancy cookie cutters, but most times I just cut the sheets of dough into small squares with a regular knife. Using cookie cutters is longer, because I want to use every bit of the dough and that means re-using the bits around the cut outs. 
     & The cookies were adapted from a recipe by {{Kiuchi Yuki-san|http://www.food-sommelier.jp/recipe/R0123/173155.html}}
   INST
@@ -133,7 +133,7 @@ NO KNEAD BLACK BREAD
   TIME : 60
   SERV : 2 loaves
   DESC
-    & This black loaf of bread is what inspired this website. It took me a while to get my hands on bamboo charcoal powder, now that i have it, i will be baking a ton of these! Some months ago, I stumbled upon an image of an all-black loaf. I didn't know you could get bread to be that dark. 
+    & This loaf of bread is what inspired this website. It took me a while to get my hands on bamboo charcoal powder, now that i have it, i will be baking a ton of these! Some months ago, I stumbled upon an image of an all-black loaf. I didn't know you could get bread to be that dark. 
     & Getting your hands on bamboo charcoal isn't easy. I saw stores on amazon.com that stocked it, but nothing in my area. I bought a small amount at a health food store where I live, but it was a very small jar (also crazy expensive). After much searching, I concluded that the best place to get it was in Japan. I assumed it would be relatively easy to get over there, wrong again. It's almost impossible to purchase in store, or maybe i wasn't taking to the right people, or going to the right places.
     % recipes/no.knead.black.bread.1.jpg
     & I finally found some available for purchase on amazon japan. Since i lived in temporary housing, shipping there wasn't ideal. Luckily, a good friend agreed to have it shipped to her place and it arrived before i left the country! That's how i got my hands on bamboo charcoal powder! Wasn't easy, but i got it from the best possible source! I got it through {{Taketora|http://www.taketora.co.jp}}, they've been growing and making things out of bamboo for years and years. They're true artisans.
@@ -207,6 +207,7 @@ ROASTED CARROTS WITH BELUGA LENTILS
     & Roasted carrots are sweet, a nice change from eating them raw. I could have easily eaten all 8 carrots myself, but alas i also need to feed Devine.
     & I like buying grains or flours in bulk, but I don't always get to buy huge quantities; I don't own a car, and walking long distances with a heavy load can be difficult at times. Since my bike accident, i haven't been able to carry heavy stuff for too long. Luckily, I went to my parent's house on sunday, they have a car, and access to a terrific bulk food store. I bought a ton of black rice and some black beluga lentils! 
     & Beluga lentils aren't the cheapest kind you can get, but certainly a wonderful addition to my black food pantry.
+    % recipes/roasted.carrots.with.beluga.lentils.1.jpg
     & Worth mentioning, that the idea to make a recipe with beluga lentils was inspired by Meike Peter's {{beluga lentil salad recipe|http://eatinmykitchen.meikepeters.com/beluga-lentil-salad-with-pear-blue-cheese-and-thyme/}}. 
   INST
     Carrots 
@@ -215,11 +216,11 @@ ROASTED CARROTS WITH BELUGA LENTILS
       - Lay on a baking sheet and sprinkle with a dash of {{salt}} and some {{black pepper}}. Bake for {#25 minutes#}, make sure to flip the carrots halfway through.
     Lentils
       - Wash {_1/2 cup_} of {{beluga lentils}}. Put {_375 ml_} of {{vegetable bouillon}} in a pot and add the {{lentils}}, bring to a boil.
-      - Reduce heat to medium and simmer for {#25 minutes#}. Don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked, but havent absorbed all of the water, just strain them out. 
+      - Reduce heat to medium and simmer for {#25 minutes#} — don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked but havent absorbed all of the water, strain them out. 
     Sauce
       - Mix {_2 tbsp_} of {{sriracha}}, {_2 tbsp_} of {{peanut butter}}, {_1/4 cup_} {{soy sauce}} and {_2 tbsp_} of {{rice vinegar}} in a small bowl. 
     Combine
-      - Set the beluga lentils on a plate with a bit of sauce and top with 4 roasted carrots! Makes two servings.
+      - Set the beluga lentils on a plate with a bit of sauce and top with 4 roasted carrots! 
   INGR
     Carrots
       Heirloom carrots : 8
@@ -309,7 +310,7 @@ BORSCHT WITH TOFU SOUR CREAM
       - While the potatoes are cooking, peel and julienne {_2 carrots_}, cut {_1/2_} a {{red onion}} and mince {_3 cloves_} of {{garlic}}. Add it all to a pan and fry until fragrant. Near the end add {_2 tbsp_} of {{tomato paste}}, then toss in the pot.
       - Cut {_1/2 head_} of a small {{red cabbage}} into thin strips, add to pot.
       - Put 1 {{bay leaf}}, season with {{salt}} and {{pepper}} and let it simmer for {#10 minutes#} or until all the veggies are nice and soft.
-      - At the end, take pot off heat and stir in {#2 tsp#} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.
+      - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
       Silken tofu : 1 pack
@@ -636,7 +637,7 @@ BASIC BLACK BREAD
       - Let cool on a pile of towels or cooling rack.
     Hot dog buns
       - Repeat steps 1 to 6. {_Divide through into 15 pieces_} and shape into small cylinders (or general elongated hot dog shape). Sprinkle baking sheet with some {{corn semolina}} and put buns on top. Cover and let rise for another {#45 minutes#} in the warmed oven.
-      - Take buns out of oven, brush lightly with {{vegan butter}}. Bake uncovered for {#20 minutes#} at {#350F#}.
+      - Take buns out of oven, brush lightly with {{coconut oil}}. Bake uncovered for {#20 minutes#} at {#350F#}.
       - Let cool on a pile of towels or cooling rack.
   INGR
     Main
@@ -729,17 +730,17 @@ POTATO GNOCCHI
     Gnocchi
       - Preheat oven to {#400F#}. 
       - Bake potatoes until fork tender. Peel skins off and mash them up with a fork or food processor. Let cool completely (you can also boil them until fork tender).
-      - Sift {#1 1/4 cup#} of {{whole wheat flour}}, {#1 tbsp#} {{bamboo charcoal powder}} and {#1 pinch#} of {{salt}} together in a bowl.
+      - Sift {_1 1/4 cup_} of {{whole wheat flour}}, {_1 tbsp_} {{bamboo charcoal powder}} and {_1 pinch_} of {{salt}} together in a bowl.
       - Mix the potatoes in gradually, and knead until you get a consistent dough. 
       - Sprinkle flour on your working surface, and divide your ball of dough into 4. Roll each section into a long rope with an approximate {_2cm diameter_}.
       - Proceed to cutting up the ropes into {_2cm sections_}. 
       - To make the little lines over the gnocchis (optional, but fun), take each piece and make a ball with it. Press it up against the backside of a fork and slide it down all the way to the ends with your finger. Your ball will be left with sets of lines on top and will take its signature elongated shape.
       - Cook gnocchi in a pot of boiling water with salt, the bits that are ready will float back to the surface.
     Topping
-      - Rehydrate {#1/2 cup#} of {{shiitake mushrooms}} in {#1 cup#} of {{boiling water}}. When shiitake are soft, remove the tails and cut into slices.
-      - Rehydrate {#3 tbsp#} of {{wakame}} as well in a separate cup. Let stand for {#5 minutes#}, drain, rinse and cut into smaller pieces.
-      - Chop up {#5 branches#} of {{scallions}} and grate {#1/3 cup#} worth of {{daikon}}. Squeeze water out of daikon, and set aside.
-      - Mix {#6 tbsp#} of {{soy sauce}}, {#3 tbsp#} of {{mirin}} and {#4 tsp#} of {{sugar}} in a bowl.
+      - Rehydrate {_1/2 cup_} of {{shiitake mushrooms}} in {_1 cup_} of {{boiling water}}. When shiitake are soft, remove the tails and cut into slices.
+      - Rehydrate {_3 tbsp_} of {{wakame}} as well in a separate cup. Let stand for {#5 minutes#}, drain, rinse and cut into smaller pieces.
+      - Chop up {_5 branches_} of {{scallions}} and grate {_1/3 cup_} worth of {{daikon}}. Squeeze water out of daikon, and set aside.
+      - Mix {_6 tbsp_} of {{soy sauce}}, {_3 tbsp_} of {{mirin}} and {_4 tsp_} of {{sugar}} in a bowl.
     Combine
       - When gnocchi are cooked, sauté in a pan with the sauce and shiitake for {#4-5 minutes#}.
       - Serve gnocchi in two separate bowls, and top first with wakame, then scallions, followed by a dollop of grated daikon. Sprinkle some {{shichimi togarashi}} on top!
@@ -775,13 +776,15 @@ ROASTED BEET LENTILS
     & If you have a fresh healthy plant LUCKY YOU! Otherwise, store-bought herbs will do. Know that if you do buy a bouquet of mint, you can keep them fresh longer if you do these simple steps - Tear off any wilted leaves wash the mint gently put the stalks in a glass with a bit of water put a plastic bag over it and stick it in the fridge.
   INST
     Lentils
-      - Wash 1/2 cup of beluga lentils. Put 1 1/3 cup of vegetable bouillon in a pot and add the lentils, bring to a boil.
-      - Reduce heat to medium and simmer for 25 minutes. <small>Don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked but havent absorbed all of the water, just strain it out. </small>
+      - Wash {_1/2 cup_} of {{beluga lentils}}. Put {_1 1/3 cup_} of {{vegetable bouillon}} in a pot and add the lentils, bring to a boil.
+      - Reduce heat to medium and simmer for {#25 minutes#}. Don't let them cook for too long, otherwise they'll get too mushy. If the lentils seem cooked but havent absorbed all of the water, strain it out. 
     Sauce
-      - Preheat oven to 400F
-      - Peel and cut 3 medium sizes beets into pieces. Toss with 1 tsp of olive oil, 1 tsp of thyme, a pinch of sea salt and black pepper. Put beets on baking sheet and roast for 30 minutes.
-      - Cook 3 minced garlic cloves in a pan with a bit of olive oil, transfer to food processor along with 1/4 cup of vegetable bouillon, 1 tbsp of balsamic vinegar, 1 tbsp lemon juice and a 1/4 cup nutritional yeast. Once beets are ready, add them in and then puree until smooth.
-      - Transfer the sauce to a pan with the rest of the vegetable bouillon, bring to medium heat and cook for 10 minutes. Stir in 1/4 cup of soy milk, cook for an additional 5 minutes and then serve over the lentils with minced fresh mint.
+      - Preheat oven to {#400F#}.
+      - Peel and cut {_3 medium-sized_} {{red beets}} into pieces. Toss with {_1 tsp_} of {{olive oil}}, {_1 tsp_} of {{thyme}}, {_a pinch_} of {{salt}} and {{black pepper}}. 
+      - Put {{red beets}} on baking sheet and roast for {#30 minutes#}.
+      - Cook {_3 minced cloves_} of {{garlic}} in a pan with a bit of {{olive oil}}. Transfer to food processor along with {_1/4 cup_} of {{vegetable bouillon}}, {_1 tbsp_} of {{balsamic vinegar}}, {_1 tbsp_} {{lemon juice}} and a {_1/4 cup_} of {{nutritional yeast}}. 
+      - Once the red beets are ready, add them in with the rest and then puree everything until smooth.
+      - Transfer the sauce to a pan with the rest of the {{vegetable bouillon}}, bring to medium heat and cook for {#10 minutes#}. Stir in {_1/4 cup_} of {{soy milk}}. Cook for an additional {#5 minutes#} and then serve over the lentils with minced {{fresh mint}}.
   INGR
     Lentils
       Beluga lentils : 1/2 cup
@@ -813,11 +816,11 @@ TERIYAKI CARROT PATTIES
     & With this recipe, I wanted to make something nutritious that would look nice on a plate. I didn't have to go out to get special ingredients, I just looked in my fridge and used items I had on hand. If you're planning a meal but are missing an item, try and see what else you can use instead. Doing this, will make you a more creative cook.
   INST
     Patties
-      - Peel, and chop {#2#} {{carrots}} into pieces, mince {#2 cloves#} of {{garlic}}, chop {#1/2#} a {{yellow onion}} finely, grind {#4 tbsp#} of {{steel-cut oats}} into powder, and cut {#1 cup#} of {{cubed raw pumpkin bits}}. 
-      - Mix in {#1 tsp#} of {{curry powder}} and pulse in a food processor.
+      - Peel, and chop {_2_} {{carrots}} into pieces, mince {_2 cloves_} of {{garlic}}, chop {_1/2_} a {{yellow onion}} finely, grind {_4 tbsp_} of {{steel-cut oats}} into powder, and cut {_1 cup_} of {{raw cubed pumpkin bits}}. 
+      - Mix in {_1 tsp_} of {{curry powder}} and pulse in a food processor.
       - Separate into {_6 patties_}, cook 3 at a time in a pan with a bit of {{olive oil}}. Flatten the balls with a spatula and cook until lightly browned.
     Sauce
-      - Mix {#2 tbsp#} of {{soy sauce}}, {#2 tbsp#} of {{sake}}, {#2 tbsp#} of {{mirin}} and {#1 tsp#} of {{sugar}}. 
+      - Mix {_2 tbsp_} of {{soy sauce}}, {_2 tbsp_} of {{sake}}, {_2 tbsp_} of {{mirin}} and {_1 tsp_} of {{whole cane sugar}}. 
       - Pour in a pan, bring to medium-heat and cook for {#5 minutes#} or until thickened. 
     Combine
       - Put patties in a plate, drizzle with the teriyaki sauce and your veggies of choice!
@@ -833,7 +836,7 @@ TERIYAKI CARROT PATTIES
       Soy sauce : 2 tbsp
       Sake : 2 tbsp
       Mirin : 2 tbsp
-      Sugar : 1 tsp
+      Whole cane sugar : 1 tsp
 
 SAVOURY TURMERIC COOKIES
   DATE : 2015-02-19
@@ -850,7 +853,7 @@ SAVOURY TURMERIC COOKIES
   INST
     Preparation
       - Preheat oven to {#350F#}.
-      - Mix {#1/2 cup#} of {{all purpose flour}}, {#1/2 cup#} of {{spelt flour}}, {#1/2 tsp#} of {{baking powder}}, {#2 tsp#} of {{turmeric powder}} and {#1 tsp#} of ground {{dried orange peels}} in a bowl. Stir well to mix. 
+      - Mix {_1/2 cup_} of {{all purpose flour}}, {#1/2 cup#} of {{spelt flour}}, {#1/2 tsp#} of {{baking powder}}, {#2 tsp#} of {{turmeric powder}} and {#1 tsp#} of ground {{dried orange peels}} in a bowl. Stir well to mix. 
       - NOTE: You can make your own dried orange peels by keeping the peels of organic navel oranges, slicing then thinly, then drying them in an oven at {#200F#} for {#25-30 minutes#}. They keep {#3 months#} in the refrigerator. You can grind them with a mortar and pestle for this recipe
       - Cream {#6 tbsp#} of {{coconut oil}} with {#1/2 cup#} of {{whole cane sugar}} in a separate bowl. Then. mix with the dry ingredients, gradually adding the {{soy milk}} {_1 tbsp at a time_} until you get a soft and consistent dough.
       - Line a baking sheet with a baking mat, make {_16 little balls of dough_} and flatten each one gently. Add a {{carob chips}} at the center of each cookie. 
