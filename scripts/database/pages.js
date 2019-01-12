@@ -12,6 +12,33 @@ ABOUT
     * Privacy statement
     & We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.
 
+GALLERY
+  BREF : Recipes that I've made in the past, that I still think are great, but not worth of an actual recipe.
+  LONG
+    % pages/avocado.carrot.sandwich.jpg
+    % pages/black.burger.buns.1.jpg
+    % pages/black.sesame.ice.cream.bars.jpg
+    % pages/black.spinach.quiche.jpg
+    % pages/candied.peanuts.jpg
+    % pages/carrot.soup.jpg
+    % pages/cheesy.seaweed.pasta.jpg
+    % pages/cranberry.cookies.jpg
+    % pages/fauxmaggio.poutine.jpg
+    % pages/flautas.de.coliflor.jpg
+    % pages/green.chile.mac.n.cheese.jpg
+    % pages/heart.beet.bagels.jpg
+    % pages/kuro.pretzels.jpg
+    % pages/latkes.with.maple.miso.apple.sauce.jpg
+    % pages/mock.mashed.potato.jpg
+    % pages/purple.cauliflower.soup.jpg
+    % pages/roasted.portobello.mushroom.buns.jpg
+    % pages/roasted.yellow.pepper.pasta.jpg
+    % pages/spinach.apple.soup.jpg
+    % pages/vegan.pimento.olive.cheese.jpg
+    % pages/veggie.pudding.jpg
+    % pages/wakame.savoury.pie.jpg
+
+
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
   LONG

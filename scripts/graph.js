@@ -29,6 +29,7 @@ function graph () {
         <li><a class="local home" onclick="Ø('query').bang('Home')">Home</a></li>
         <li><a class="local about" onclick="Ø('query').bang('About')">About</a></li>
         <li><a class="local tools" onclick="Ø('query').bang('Tools')">Tools</a></li>
+        <li><a class="local gallery" onclick="Ø('query').bang('gallery')">Gallery</a></li>
         <li><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li>
       </ul>`.to_markup()),
     Ø('core').create({ x: 10, y: 11 }, DomNode),
