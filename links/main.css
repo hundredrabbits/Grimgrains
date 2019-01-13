@@ -22,6 +22,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #header ul li:hover { }
 #view #header ul li a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 40px; border-bottom:2px solid transparent }
 #view #header ul li a:hover { opacity: 1 !important; }
+#view #header ul li.right { float: right;margin-right:0px;margin-left:10px }
 #view #header #search { display: none }
 #view.home #header ul a.home { color:#ccc;}
 #view.about #header ul a.about { color:#ccc;}
