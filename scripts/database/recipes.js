@@ -132,9 +132,10 @@ NO KNEAD BREAD
   TIME : 60
   SERV : 1 loaf
   DESC
-    & {*No knead bread*} is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading whatsoever.
+    & {*No knead bread*} is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading what-so-ever.
     & This forgiving recipe allows for substitutions, and addition, of ingredients without altering the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of {{all purpose flour}}, but you'll still get a rise out of it.
     & The bread can be left to rise overnight, I usually mix it at around 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
+    & You'll get a harder crust all around if you use a dutch oven, it helps keep the temperature. But if like me, you don't own one, using a simple bread pan (i use a square pan) and topping it with foil is the next best thing. You won't get a hard crust on the top of the bread, but that's okay. 
     % recipes/no.knead.bread.1.jpg
     & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}..
   INST
@@ -312,7 +313,7 @@ BORSCHT WITH TOFU SOUR CREAM
       - Peel and slice {_1 medium-sized_} {{sweet potato}}. Add to pot and let boil for {#15 minutes#}.
       - While the potatoes are cooking, peel and julienne {_2 carrots_}, cut {_1/2_} a {{red onion}} and mince {_3 cloves_} of {{garlic}}. Add it all to a pan and fry until fragrant. Near the end add {_2 tbsp_} of {{tomato paste}}, then toss in the pot.
       - Cut {_1/2 head_} of a small {{red cabbage}} into thin strips, add to pot.
-      - Put 1 {{bay leaf}}, season with {{salt}} and {{pepper}} and let it simmer for {#10 minutes#} or until all the veggies are nice and soft.
+      - Put {_1_} {{bay leaf}}, season with {{salt}} and {{pepper}} and let it simmer for {#10 minutes#} or until all the veggies are nice and soft.
       - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
@@ -342,7 +343,7 @@ DARK YAKI GYOZA
   TIME : 60
   SERV : 40 wrappers
   DESC
-    & Late night gyoza at izakaya, is one of the things i miss the most about living in Tokyo - maybe not one of the healthiest late night eats, but a DELICIOUS one. These are very unconventional gyoza, black on the outside, and red and orange on the inside.
+    & Late night gyoza at izakaya, is one of the things i miss the most about living in Tokyo - maybe not one of the healthiest late night eats, but a DELICIOUS one. These are very unconventional gyoza, black on the outside, and orange on the inside.
     % recipes/dark.yaki.gyoza.1.jpg
     & We made homemade gyoza dough with some friends a few weeks back, and it took FOREVER. Devine had the amazing idea of using our pasta maker to do it. We still needed to do a bit of kneading, to get it through the machine the first time. After that, it's easy and sweat-free!
     % recipes/dark.yaki.gyoza.2.jpg
@@ -366,12 +367,10 @@ DARK YAKI GYOZA
       - Pile the wrappers, sprinkle some {{cornstarch}} (or potato starch) inbetween each piece so they don't stick together. Put a damp towel over your wrappers so they don't dry out.
       - Repeat this process for the other 2 portions of dough, and you can re-use the scraps and make new dough to run through the pasta maker (no waste~). 
     Carrot filling
-      - Mix the {_1/4 block_} of {{tofu}}, the {_1/3 cup_} of {{coriander}}, the {_2 grated_} {{carrots}} and the {_1 tsp_} of {{ginger root}} together in a bowl. Add {_1 tbsp_} of {{soy sauce}} as well as {{black pepper}} and {{salt}} to taste. Mix once more. 
-    Beet filling
-      - Mix the {_1/4 block_} of {{tofu}}, the {_1/3 cup_} of {{coriander}}, {_1 grated_} {{red beet}}, {_2 cloves_} of {{garlic}} and {_1 tsp_} of grated {{ginger root}}. Add {_1 tbsp_} of {{soy sauce}} and some {{ground sichuan peppercorns}}. 
+      - Mix the {_1/2 block_} of {{tofu}}, the {_2/3 cup_} of {{coriander}}, the {_4 grated_} {{carrots}} and the {_2 tsp_} of {{ginger root}} together in a bowl. Add {_2 tbsp_} of {{soy sauce}} as well as {{black pepper}} and {{salt}} to taste. Mix once more. 
     Cooking
       - Take 1 wrapper, wet all around the edge with water using your fingers. Keep a bowl of water close to dip your fingers in.
-      - Put a spoonful of filling in the middle (carrot or beet).
+      - Put a spoonful of filling in the middle.
       - Close it. Make little folds with the flap that is facing you using both hands, leaving the back part smooth. Make sure it's sealed tight. Repeat for the rest of the gyoza skins, alternate between fillings. Cover with a damp towel while you work so they don't dry up.
       - Put some vegetable oil in a pan on medium heat. Add gyoza in 2 rows of 3 in the pan. Cook until bottom becomes golden.
       - Add {_1/3 cup_} of {{water}} and put a lid on. Let steam until all the water evaporates. 
@@ -384,22 +383,14 @@ DARK YAKI GYOZA
       Water : 1/2 cup
       Cornstarch : 1 tbsp
     Carrot filling
-      Carrots : 2
-      Tofu : 1/3 cup
-      Coriander : 1/3 cup
-      Garlic : 2 cloves
-      Ginger root : 1 tsp
-      Soy sauce : 1 tbsp
+      Carrots : 4
+      Tofu : 1/2 block
+      Coriander : 2/3 cup
+      Garlic : 4 cloves
+      Ginger root : 2 tsp
+      Soy sauce : 2 tbsp
       Black pepper : pinch
-      Sea salt : 1/4 tsp
-    Beet filling
-      Red beets : 1
-      Tofu : 1/3 cup
-      Coriander : 1/3 cup
-      Garlic : 2 cloves
-      Ginger root : 1 tsp
-      Soy sauce : 1 tbsp
-      Sichuan peppercorns : 1/2 tsp
+      Sea salt : 1/2 tsp
     Dipping sauce
       Rice vinegar : 3 tbsp
       Soy sauce : 3 tbsp
@@ -512,64 +503,6 @@ PERSIMMON CURRY
       Yellow onion : 1
       Spinach : 1/3 cup 
 
-SIMPLE DOCTOR WHO CAKE
-  DATE : 2015-01-06
-  TAGS
-    dessert
-  TIME : 60
-  SERV : 12 servings
-  DESC
-    & I hardly ever bake cakes, this was my first proper cake. My sister's birthday was coming up, and my parents wanted to get her a themed cake. Of what you ask?
-    & Something old. Something new. Something borrowed...
-    & Something blue!
-    & You guessed correctly, you wonderful nerd you! A tardis!
-    % recipes/simple.doctor.who.cake.1.jpg
-    & They asked for a quote from their favourite bakery, they do great work but were charging a too much for it. So my parents turned to me, and my cake-baking adventure began!
-    & My sister loves lemon cake, that part is simple. Getting the cake to be tardis blue though, is another matter entirely. That colour is unnatural, those royal blue 'raw blueberry pinterest cakes' are complete bull (they really, really are). I had to use food colouring, it's not ideal but it was necessary to get that tardis blue. I went ahead and bought Wilton's royal blue and violet colouring to mix, to get it be that specific shade. Using royal blue alone would have made it go turquoise.
-    & The cake noob that i am, I searched around and found a very awesome {{Lemon cake recipe|http://thegreenforks.com/vegan-birthday-cake}} by Laura, author of The Green forks. I adapted her recipe, and it turned out perfect. I referenced her cake batter recipe, while the tofu lemon curd filling was inspired by {{Zena chews|http://www.culinate.com/recipes/collections/Contributors/Zena+Chew/vegan_lemon_layer_cake}}. Couldn't have done it without their recipes, thanks girls.
-    % recipes/simple.doctor.who.cake.2.jpg
-    & I didn't want to make an overly sweet cake, so i decided to not add frosting. Opted for a 'powdered sugar-dusted' cake. Most Tardis cakes on the internet are made with fondant, and thusly taste like liquid unicorn. I don't have the tastebuds of a 5 years old, can't deal with that level of sweet. I have no interest in tasting the rainbow.
-    & I wanted to make a minimalistic and simple lemon cake. Then came the image of the tardis drifting through space. That image was simple, evocative. So i cut out a tardis stencil and added powdered sugar! Voila! My sister had a vegan lemon birthday cake! This cake is a safe bet, even for non-vegans. Even my parents, who dislike tofu, really enjoyed it!  
-  INST
-    Lemon curd
-      - Puree {_2 cups_} of {{silken tofu}} and mix with: {_2 tbsp_} of {{canola oil}}, {_1 tbsp_} of {{lemon zest}}, {_3 tbsp_} of {{maple syrup}}, {_1/4 tsp_} of {{salt}} and {_1/2 tsp_} of {{vanilla extract}}. Refrigerate for a few hours to give it time to thicken.
-    Tardis stencil.
-      - Print out the image in the correct dimensions for the cake, i used an image of the tardis that i found online.
-      - With a fine cutting tool cut out the shape, I didn't take a photo that had lettering, the detail is just too fine. Besides, there is enough information that will make it obvious that it's a tardis. Be sure to cut out the windows, that detail is key.
-    Cake
-      - Pre-heat oven at {#350F#}.
-      - Grease two 8" cake pans, set aside.
-      - In a bowl mix {_2 1/4 cups_} of {{all purpose flour}}, {_1 1/2 cups_} of {{whole cane sugar}}, {_3/4 tsp_} of {{baking soda}} and {_3/4 tsp_} of {{salt}}.
-      - In a separate bowl, stir {_1 1/2 cups_} of cold {{water}} with {_3/4 cup_} of {{canola oil}}, {_1 tbsp_} of {{vanilla extract}}, {_3 tbsp_} of {{lemon juice}} and {_1 tsp_} of {{lemon zest}}.
-      - Combine wet ingredients with the dry, mix well. Stir in {_1 tsp_} of {{royal blue food colouring_} with {_1 drop_} of {{violet food colouring}}.
-      - Pour cake batter into pans, at the {#30 minute mark#}, insert a toothpick in the center of the cake. If it comes out clean, it's ready! Otherwise bake for an additional {#5 minutes#}.
-      - Let cool. Slice part of the curved top off of one of the cakes to even it out (and eat it, because you wont need it). Brush top of trimmed cake with a generous serving of the tofu lemon curd, place second cake layer over it and press down gently.
-      - Place tardis stencil over the cake 
-      - Make sure the top is completely dry, put some {{powdered sugar}} in a sifter or fine mesh strainer. Hold over the cake and gently shake it onto the cake until it's covered to your liking. Make sure to put enough around the stencil so the shapes comes out nicely. Remove stencil gently.
-      - If you want, you can sprinkle a bit of turmeric to make a glowey area atop of the tardis. Or use something else that is yellow! 
-  INGR
-    Cake
-      All purpose flour : 2 1/4 cups
-      Whole cane sugar : 1 1/2 cups
-      Baking soda : 3/4 tsp
-      Sea salt : 3/4 tsp
-      Royal blue colouring : 1 tsp
-      Violet colouring : 1 drop
-      Water : 1 1/2 cups, cold
-      Canola oil : 3/4 cup
-      Vanilla extract : 1 tbsp
-      Lemon juice : 3 tbsp
-      Lemon zest : 1 tbsp
-    Filling
-      Silken tofu : 1 cup, pureed
-      Canola oil : 2 tbsp
-      Lemon zest : 1 tbsp
-      Maple syrup : 3 tbsp
-      Sea salt : 1/4 tsp
-      Vanilla extract : 1/2 tsp
-    Topping
-      Powdered sugar : 1/3 cup
-
 MASON JAR BREAD PUDDING
   DATE : 2015-01-08
   TAGS
@@ -591,7 +524,7 @@ MASON JAR BREAD PUDDING
       - Combine {_1/4 cup_} of {{tofu}} (or silken tofu), {_1/3 cup_} of {{soy milk}} and {_1/4 tsp_} of {{vanilla extract}}. Blend until smooth.
       - Take a {_1/2 pint_} wide-mouthed mason jar. Fill it up halfway with {{bread crusts}}. Add a bit of {{dried raisins}}, pour liquid to cover Until it's at a level with bread crusts
       - Cover with more bread crusts and dried raisins. Pour more liquid onto it, until the jar is about 3/4 full.
-      - Sprinkle {_1 tsp_} of {#whole cane sugar#} on top, decorate with slices of {{apple}} and add {{cinnamon}} to taste.
+      - Sprinkle {_1 tsp_} of {{whole cane sugar}} on top, decorate with slices of {{apple}} and add {{cinnamon}} to taste.
       - Cook for {#20-25 minutes#}, or until top is browned. Let cool, drizzle with some {{maple syrup}} and enjoy!
   INGR
     Main
@@ -856,9 +789,9 @@ SAVOURY TURMERIC COOKIES
   INST
     Preparation
       - Preheat oven to {#350F#}.
-      - Mix {_1/2 cup_} of {{all purpose flour}}, {#1/2 cup#} of {{spelt flour}}, {#1/2 tsp#} of {{baking powder}}, {#2 tsp#} of {{turmeric powder}} and {#1 tsp#} of ground {{dried orange peels}} in a bowl. Stir well to mix. 
+      - Mix {_1/2 cup_} of {{all purpose flour}}, {_1/2 cup_} of {{spelt flour}}, {_1/2 tsp_} of {{baking powder}}, {_2 tsp_} of {{turmeric powder}} and {_1 tsp_} of ground {{dried orange peels}} in a bowl. Stir well to mix. 
       - NOTE: You can make your own dried orange peels by keeping the peels of organic navel oranges, slicing then thinly, then drying them in an oven at {#200F#} for {#25-30 minutes#}. They keep {#3 months#} in the refrigerator. You can grind them with a mortar and pestle for this recipe
-      - Cream {#6 tbsp#} of {{coconut oil}} with {#1/2 cup#} of {{whole cane sugar}} in a separate bowl. Then. mix with the dry ingredients, gradually adding the {{soy milk}} {_1 tbsp at a time_} until you get a soft and consistent dough.
+      - Cream {_6 tbsp_} of {{coconut oil}} with {_1/2 cup_} of {{whole cane sugar}} in a separate bowl. Then. mix with the dry ingredients, gradually adding the {{soy milk}} {_1 tbsp at a time_} until you get a soft and consistent dough.
       - Line a baking sheet with a baking mat, make {_16 little balls of dough_} and flatten each one gently. Add a {{carob chips}} at the center of each cookie. 
       - Bake for {#15-20 minutes#}. Let cool, and serve with some tea! 
   INGR
@@ -943,9 +876,9 @@ BLACK SESAME RICE PANCAKES
     & Using fruit, instead of syrup is a nice change, and looks beautiful on a plate. For matcha pancakes, omit the black sesame seeds and add 1 tbsp of {*matcha powder*}!
   INST
     Pancake
-      - Heat {#1/4 cup#} of {{black sesame seeds}}, in a non-stick pan at medium heat. Remove once they start to pop. Let cool, then crush into a powder with a mortar and pestle. 
-      - Mix {#1 1/4 cup#} of {{soy milk}}, {#1 tsp#} of {{vanilla extract}} and {#1/4 cup#} of ground {{black sesame seeds}}. Blend, until you get a smooth grey liquid. 
-      - Mix {#1 cup#} of {{rice flour}}, {#1/4 tsp#} of {{salt}}, {#1 tsp#} of {{baking powder}} and {#1 tbsp#} of {{whole cane sugar}} together. 
+      - Heat {_1/4 cup_} of {{black sesame seeds}}, in a non-stick pan at medium heat. Remove once they start to pop. Let cool, then crush into a powder with a mortar and pestle. 
+      - Mix {_1 1/4 cup_} of {{soy milk}}, {#1 tsp#} of {{vanilla extract}} and {_1/4 cup_} of ground {{black sesame seeds}}. Blend, until you get a smooth grey liquid. 
+      - Mix {_1 cup_} of {{rice flour}}, {_1/4 tsp_} of {{salt}}, {_1 tsp_} of {{baking powder}} and {_1 tbsp_} of {{whole cane sugar}} together. 
       - Pour wet ingredients into the dry ones, and mix until smooth, make it as lump-free as you can.
       - Heat up non-stick pan at medium heat, spoon a portion of batter into it. Flip once the bottoms have browned, and little bubbles appear at the top.
       - Repeat for the rest of the pancake mix. 
@@ -978,12 +911,12 @@ MUSHROOM ZUCCHINI PASTA
     & You can make this recipe using regular pasta, but it wont be green... how sad.
   INST
     Preparation
-      - Rehydrate {#2 tbsp#} of {{wakame}} in water, drain and set aside.
-      - Cut stems off of {#1/4 cup#} of dried {{shiitake mushrooms}}, rehydrate by pouring boiling water over them. Keep them submerged for {#30 min#}, or up to {#1 hour#}. It's better to rehydrate them overnight, for {#a minimum of 8 hours#}. If you do this, the flavour will be stronger, but if you're in a rush, boiling water is fine. If you have fresh shiitake, you can also skip this step. 
-      - Cut {#4 medium-sized#} {{zucchinis}} thinly using a julienne peeler or knife. Place in bowls. I don't always cook my zucchini, but if you prefer a warm version sauté them in a pan.
+      - Rehydrate {_2 tbsp_} of {{wakame}} in water, drain and set aside.
+      - Cut stems off of {_1/4 cup_} of dried {{shiitake mushrooms}}, rehydrate by pouring boiling water over them. Keep them submerged for {#30 min#}, or up to {#1 hour#}. It's better to rehydrate them overnight, for {#a minimum of 8 hours#}. If you do this, the flavour will be stronger, but if you're in a rush, boiling water is fine. If you have fresh {{shiitake}}, you can also skip this step. 
+      - Cut {_4 medium-sized_} {{zucchinis}} thinly using a julienne peeler or knife. Place in bowls. I don't always cook my zucchini, but if you prefer a warm version sauté them in a pan.
     Sauce
-      - Put {#2 tbsp#} of {{olive oil}} in a saucepan over medium heat, whisk in {#2 tbsp#} of {{all purpose flour}}. Stir until it's completely absorbed by the oil. Let roux cook for a minute or so.
-      - Stir in {#2 cups#} of {{vegetable bouillon}}, bring heat up to a boil and then lower to a simmer. Add a {#1/4 cup#} of {{shiitake mushrooms}}, a {#1/4 cup#} of {{shimeji mushrooms}} and a {#1/3 cup#} of {{edamame}} to the sauce. 
+      - Put {_2 tbsp_} of {{olive oil}} in a saucepan over medium heat, whisk in {_2 tbsp_} of {{all purpose flour}}. Stir until it's completely absorbed by the oil. Let roux cook for a minute or so.
+      - Stir in {_2 cups_} of {{vegetable bouillon}}, bring heat up to a boil and then lower to a simmer. Add a {_1/4 cup_} of {{shiitake mushrooms}}, a {_1/4 cup_} of {{shimeji mushrooms}} and a {_1/3 cup_} of {{edamame}} to the sauce. 
       - Let cook for {#10 minutes#}.
       - When cooked, season sauce with salt and black pepper. 
       - Add the re-hydrated wakame and serve over zucchini pasta. Season with shijimi togarashi!
@@ -1021,12 +954,12 @@ PATE CHINOIS
   INST
     Preparation
       - Preheat oven to {{375F}}.
-      - Bring a pot of {{water}} (or vegetable bouillon for added flavour) to a boil. Cook {#1 cubed large#} {{sweet potato}} as well as {#1 cup#} of chopped {{white cauliflower}} florets until tender. 
-      - Drain, mix with {#1 tsp#} of {{smoked paprika}}, and puree with an immersion blender. Season with sea salt and black pepper. Set aside.
-      - Take {#1 block#} of firm {{tofu}}, and mash it down using a fork or just using your hands. I just squish it with my fingers to get a crumbly texture. (Alternatively, for a soy-free pate chinois you can also use {{burmese tofu|Sweet Mock Eel Nigiri}}.)
-      - In a large pan, brown the {{yellow onion}} with {#1 tsp#} of {{olive oil}}. Add the {{tofu}}, {#2 tbsp#} of {{soy sauce}} and {#1 drop#} of {{liquid smoke}}. Cook for a few minutes. Season with black pepper and sea salt.
-      - When cooked, press tofu mix into bottom of a {_8x8 baking dish_}.
-      - Cover tofu mix with the contents of {#1 can#} of unsalted {{green peas}} (reserve a few for the top) and with the pureed cauliflower/sweet potato. 
+      - Bring a pot of {{water}} (or vegetable bouillon for added flavour) to a boil. Cook {_1 cubed large_} {{sweet potato}} as well as {_1 cup_} of chopped {{white cauliflower}} florets until tender. 
+      - Drain, mix with {_1 tsp_} of {{smoked paprika}}, and puree with an immersion blender. Season with sea salt and black pepper. Set aside.
+      - Take {_1 block_} of firm {{tofu}}, and mash it down using a fork or just using your hands. I just squish it with my fingers to get a crumbly texture. (Alternatively, for a soy-free pate chinois you can also use {{burmese tofu|Sweet Mock Eel Nigiri}}.)
+      - In a large pan, brown the {{yellow onion}} with {_1 tsp_} of {{olive oil}}. Add the {{tofu}}, {_2 tbsp_} of {{soy sauce}} and {_1 drop_} of {{liquid smoke}}. Cook for a few minutes. Season with black pepper and sea salt.
+      - When cooked, press tofu mix into bottom of a 8x8 baking dish.
+      - Cover tofu mix with the contents of {_1 can_} of unsalted {{green peas}} (reserve a few for the top) and with the pureed cauliflower/sweet potato. 
       - Smooth with a spatula, decorate with some green peas and sprinkle with smoked paprika.
       - Bake for {#30 minutes#}, or until lightly browned.
       - Let cool, serve with some {{sambal oelek}} or some other spicy condiment!
@@ -1101,11 +1034,11 @@ FRENCH TOAST
     & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
   INST
     Preparation
-      - Puree {#1#} {{banana}}, {#3/4 cup#} of {{soy milk}} and {#1/2 tsp#} of {{vanilla extract}}.
-      - Melt {#1 tsp#} of {{coconut oil}} in a pan at medium heat, dip slice into the banana puree batter. Pan-fry bread until golden and crispy on both sides.
+      - Puree {_1_} {{banana}}, {_3/4 cup_} of {{soy milk}} and {_1/2 tsp_} of {{vanilla extract}}.
+      - Melt {_1 tsp_} of {{coconut oil}} in a pan at medium heat, dip slice into the banana puree batter. Pan-fry bread until golden and crispy on both sides.
       - Serve with slices of {{kiwi}}, or a fruit of your choice, along with a generous serving of maple syrup!
     Black bread
-      - If you want to make black bread please refer to my {{Basic bread recipe|basic black bread}}. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
+      - If you want to make black bread please refer to my {{basic bread recipe|basic black bread}}. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
   INGR
     Main
       Banana : 1
@@ -1113,7 +1046,6 @@ FRENCH TOAST
       Vanilla extract : 1/2 tsp
       Coconut oil : 1 tsp
       Maple syrup : to taste
-      Kiwi : 1 
 
 PANKO CHICKPEA FINGERS
   DATE : 2015-03-30
@@ -1220,13 +1152,13 @@ ANISE BREAD WITH SWEET PEAR SAUCE
   INST
     Preparation
       - Preheat oven to {#325F#}.
-      - Put {#1 tbsp#} of {{ground flax seeds}} with {#3 tbsp#} of {{water}}, let thicken for {#5 minutes#} (this is your flax 'egg'). Mix in {#1/4 cup#} of {{whole cane sugar}} and stir until dissolved. Add {#1 tsp#} of {{ground anise seeds}}, and mix once more.
-      - Add {#3/4 cup#} of {{all purpose flour}} to a bowl with {#1/2 tsp#} of {{baking powder}}. Mix. 
-      - Pour the wet ingredients into the dry ones, while gradually adding a bit over {#1/2 cup#} of {{soy milk}}.
+      - Put {_1 tbsp_} of {{ground flax seeds}} with {_3 tbsp_} of {{water}}, let thicken for {#5 minutes#} (this is your flax 'egg'). Mix in {_1/4 cup_} of {{whole cane sugar}} and stir until dissolved. Add {_1 tsp_} of {{ground anise seeds}}, and mix once more.
+      - Add {_3/4 cup_} of {{all purpose flour}} to a bowl with {_1/2 tsp_} of {{baking powder}}. Mix. 
+      - Pour the wet ingredients into the dry ones, while gradually adding a bit over {_1/2 cup_} of {{soy milk}}.
       - Transfer evenly, to 2 mini loaf pans.
     Sauce
       - Cut your {{bartlett pear}} into cubes.
-      - Heat a pan at medium to high heat, add {#1/4 cup#} of {{coconut oil}}. Once melted, add {#1 tbsp#} of {{whole cane sugar}} and {#1 tbsp#} of {{maple syrup}}. 
+      - Heat a pan at medium to high heat, add {_1/4 cup_} of {{coconut oil}}. Once melted, add {_1 tbsp_} of {{whole cane sugar}} and {_1 tbsp_} of {{maple syrup}}. 
       - Once it starts to boil, add the cubed pear and lower the heat. Let it bathe in the sweet mixture for {#3-5 minutes#}.
       - Pour the sauce over the 2 mini loaves, bake for {#30 minutes#}.
       - Let cool and serve!
@@ -1263,17 +1195,17 @@ WASABI SWIRL CHOCOLATE COOKIES
   INST
     Cookies
       - Preheat oven to {#350F#}.
-      - Mix {#1 tbsp#} of {{ground flax seeds}} with {{#3 tbsp#} of {{water}} (this is your 'flax egg'). Let thicken.
-      - Sautee {#1/4 cup#} of {{black sesame seeds}} in a non-stick pan at medium heat, roast until they begin to pop. Let cool. 
-      - Mix the sesame seeds with {#2 tbsp#} of {{soy yogurt}} and pulse in an immersion blender. Alternatively, you can crush the sesame seeds into a mortar and pestle first, then mix it into the soy yogurt.
-      - In a bowl, add the flax seed 'egg' to the sesame mix, along with a {#1/4 cup#} of {{coconut oil}}, {#2/3 cup#} of {{whole cane sugar}} and {#1 tsp#} of {{vanilla extract}}. Stir well.
-      - Take {#1 1/2 cups#} of {{steel cut oats}}, break it down into 'coarse' flour with a mortar and pestle. Don't grind it too finely, having bigger bits gives an interesting texture to the cookie!
-      - Add the dry ingredients one by one, mixing thoroughly in-between. Add {#1/2 tsp#} of {{baking soda}}, {#1/2 ts#} of {{baking powder}}, {#1/2 tsp#} of {{salt}}, {#2 tbsp#} of {{unsweetened cocoa powder}}, the coarsely ground 'oat' flour as well as {#2 tsp#} of {{soy milk}} 
-      - Take 1 generous tbsp of cookie dough and {_form into a ball_}. Put the balls onto a baking sheet lined with a baking mat. Flatten the balls a bit with the palm of your hand. 
+      - Mix {_1 tbsp_} of {{ground flax seeds}} with {{_3 tbsp_} of {{water}} (this is your 'flax egg'). Let thicken.
+      - Sautee {_1/4 cup_} of {{black sesame seeds}} in a non-stick pan at medium heat, roast until they begin to pop. Let cool. 
+      - Mix the sesame seeds with {_2 tbsp_} of {{soy yogurt}} and pulse in an immersion blender. Alternatively, you can crush the sesame seeds into a mortar and pestle first, then mix it into the soy yogurt.
+      - In a bowl, add the flax seed 'egg' to the sesame mix, along with a {_1/4 cup_} of {{coconut oil}}, {_2/3 cup_} of {{whole cane sugar}} and {_1 tsp_} of {{vanilla extract}}. Stir well.
+      - Take {_1 1/2 cups_} of {{steel cut oats}}, break it down into 'coarse' flour with a mortar and pestle. Don't grind it too finely, having bigger bits gives an interesting texture to the cookie!
+      - Add the dry ingredients one by one, mixing thoroughly in-between. Add {_1/2 tsp_} of {{baking soda}}, {_1/2 tsp_} of {{baking powder}}, {_1/2 tsp_} of {{salt}}, {_2 tbsp_} of {{unsweetened cocoa powder}}, the coarsely ground 'oat' flour as well as {_2 tsp_} of {{soy milk}} 
+      - Take {_1 generous tbsp_} of cookie dough and form into a ball. Put the balls onto a baking sheet lined with a baking mat. Flatten the balls a bit with the palm of your hand. 
       - Bake for {#13 minutes#}, let cool.
     Glaze
-      - Mix {#1/2 cup#} of {{powdered sugar}} and {#1 tbsp#} of {{wasabi powder}} together. 
-      - Add {#1 1/2 tbsp#} of {{soy milk}} in gradually while mixing, add more if need be. Apply glaze to cookies! I don't have any fancy glazing tools so i just used a ziploc bag. Just put the glaze in the bag and cut the end off one of the corners and squeeze the glaze through the hole.
+      - Mix {_1/2 cup_} of {{powdered sugar}} and {_1 tbsp_} of {{wasabi powder}} together. 
+      - Add {_1 1/2 tbsp_} of {{soy milk}} in gradually while mixing, add more if need be. Apply glaze to cookies! I don't have any fancy glazing tools so i just used a ziploc bag. Just put the glaze in the bag and cut the end off one of the corners and squeeze the glaze through the hole.
   INGR
     Cookies
       Flax seeds : 1 tbsp
@@ -1310,12 +1242,12 @@ MANGO ICE CREAM WITH BLACK SESAME SYRUP
     & I used a technique by the cook {{Mike Case|https://discoginferno.wordpress.com/tag/sesame-seed-syrup}}, he made a white sesame syrup to use in cocktails. I liked not requiring a blender to make it, blending sesame seeds into a smooth liquid is hard, my immersion blender can't grind seeds finely. Boiling the seeds, and then straining them out is simple. And since you can re-use the seeds afterwards, there's no waste! The fact the seeds are toasted beforehand helps to bring out the nutty flavour, so whatever you do, don't skip that step!
   INST
     Preparation
-      - Peel and cut {#1 ripe#} {{mango}} into chunks, lay pieces over a plate lined with parchment paper. Put in the freezer for at least {#2h#}. I put parchment paper because sometimes the fruit will stick too much to the plate and is hard to remove. 
-      - Put {#1 cup#} of {{black sesame seeds}} in a pan, bring to medium heat and toast them until they start to pop.
-      - In a pot, combine {#1 cup#} of {{water}} with the {{black sesame seeds}}. Bring to a boil and let simmer for {#10-15 minutes#}.
+      - Peel and cut {_1 ripe_} {{mango}} into chunks, lay pieces over a plate lined with parchment paper. Put in the freezer for at least {#2h#}. I put parchment paper because sometimes the fruit will stick too much to the plate and is hard to remove. 
+      - Put {_1 cup_} of {{black sesame seeds}} in a pan, bring to medium heat and toast them until they start to pop.
+      - In a pot, combine {_1 cup_} of {{water}} with the {{black sesame seeds}}. Bring to a boil and let simmer for {#10-15 minutes#}.
       - Strain liquid from sesame seeds using a cheese cloth or with a mesh strainer, squeezing out as much liquid as you can. Reserve sesame seeds for later use.
-      - Return liquid to pot, add {#1/2 cup#} of {whole cane sugar}} and bring to medium heat. Stir to dissolve the sugar. Remove from heat and let cool. 
-      - Puree frozen mango using an immersion blender, separate in 2 bowls and serve with {#2 tbsp#} of {{black sesame syrup}} and some black sesame seeds reserved from before. Keep the sesame seeds! They're still good, you can use them in other dishes!
+      - Return liquid to pot, add {_1/2 cup_} of {whole cane sugar}} and bring to medium heat. Stir to dissolve the sugar. Remove from heat and let cool. 
+      - Puree frozen mango using an immersion blender, separate in 2 bowls and serve with {_2 tbsp_} of {{black sesame syrup}} and some black sesame seeds reserved from before. Keep the sesame seeds! They're still good, you can use them in other dishes!
   INGR
     Main
       Mango : 1
@@ -1330,7 +1262,7 @@ HOP ICE CREAM
   TIME : 600
   SERV : 1 quart
   DESC
-    & Summers in Montreal, go hand in hand with beer. There is a wide variety of brews here, my corner store has a TON, and most are made locally. Me and Devine like craft beer a lot. To help satisfy our evergrowing craving, I decided to try and make hop flavoured ice cream!
+    & Summers, goes hand in hand with beer. There is a wide variety of brews here, my corner store has a TON, and most are made locally. Me and Devine like craft beer a lot. To help satisfy our evergrowing craving, I decided to try and make hop flavoured ice cream!
     & Sweet and bitter! SUPER TASTY! Felt like I used just the right amount. This ice cream is definitely for people who love the smell and taste of hops (as well as cold summer dairy-free treats)!
     % recipes/hop.ice.cream.2.jpg
     & I wasn't sure how to 'infuse' the hops into the ice cream base, we tried making hop tea by infusing it overnight in the fridge, but the taste wasn't strong enough. Felt we would get better results and better flavour if the hops were heated. The pouch method worked pretty well, the ice cream base was perfect! Full of delicious bitterness! Devine suggested to make a concentrate with the hops first, and then mix it into the base next time. We tried a batch of hop tea a few days after, adding twice as many hops and it ended up tasting too strong. We'll stick to warm infusions for now. 
@@ -1342,14 +1274,14 @@ HOP ICE CREAM
     Hop Buds
       - Roughly chop 7 hop buds (may want to use less if you want it less hoppy). Place leaves into the center of a cheese cloth and make a little loose pouch with it, tying the end. Reserve for later.
     Base
-      - Shake {#2 cans#} of {{coconut milk}} before opening them, full-fat coconut milk separates over time and shaking will help to mix it up again. Reserve a {#1/2 cup#} of {{coconut milk}} for later, put the rest in a pan with {#1/2 cup#} of {{maple syrup}} and {#1/4 tsp#} of {{salt}}. 
+      - Shake {_2 cans_} of {{coconut milk}} before opening them, full-fat coconut milk separates over time and shaking will help to mix it up again. Reserve a {_1/2 cup_} of {{coconut milk}} for later, put the rest in a pan with {_1/2 cup_} of {{maple syrup}} and {_1/4 tsp_} of {{salt}}. 
       - Bring up to medium-low heat, stir until the {{maple syrup}} has dissolved completely.
-      - Stir {#1 1/2 tbsp#} of {{cornstarch}} into the {#1/2 cup#} of {{coconut milk}} that was set aside. When dissolved, pour into the pan with the rest of the coconut milk, while whisking slowly. 
+      - Stir {_1 1/2 tbsp_} of {{cornstarch}} into the {_1/2 cup_} of {{coconut milk}} that was set aside. When dissolved, pour into the pan with the rest of the coconut milk, while whisking slowly. 
       - Increase the heat to medium and add your hop pouch! Let the mixture cook for about {#8 minutes#}. Don't let it come to a boil! Reduce the heat if necessary. Move the pouch around once in a while, pinching it down lightly with a wooden spoon to get some of that nice hop flavour out into your ice cream base.
-      - Remove from heat, stir in {#1 tsp#} of {{vanilla extract}}. Leave it to cool — don't remove the hop pouch!
+      - Remove from heat, stir in {_1 tsp_} of {{vanilla extract}}. Leave it to cool — don't remove the hop pouch!
       - When cool, take the pouch out and squeeze out all of the 'hop juice' into the pan using your hands. Mix one last time and pour into a container. Place a sheet of parchment paper over the top so you don't get a skin forming on the surface. Refrigerate for a minimum of {#4 hours#} (or overnight!).
     Ice cream
-      - Pull your ice cream out of the fridge. It should have a thick pudding-like texture. Pour into your ice cream maker and churn it to desired consistency (I let it run for ~23 minutes). 
+      - Pull your ice cream out of the fridge. It should have a thick pudding-like texture. Pour into your ice cream maker and churn it to desired consistency (I let it run for {#~23 minutes#}). 
       - If you don't have an ice cream maker, please refer to any these {{6 methods|http://www.thekitchn.com/how-to-make-ice-cream-without-an-ice-cream-machine-171060}} from the Kitchn.
       - Transfer to a container and press a sheet of parchment paper over the top to keep ice crystals from forming. Your ice cream should be ready to eat in {#5 hours#} or so! If you want harder ice cream wait until the next day to eat it. Enjoy!
   INGR
@@ -1373,12 +1305,12 @@ SUNFLOWER HEIRLOOM CARROT PASTA
     & Until recently, I didn't know why you had to soak seeds and nuts before eating them. As it turns out, they have their own personal defense mechanisms. Nutritional inhibitors and toxic substances. Ingesting seeds, or nuts, without soaking, makes it harder to digest, you're also missing out on a ton of nutritional benefits. The last time I made this recipe, I tried the quick boiling method. It is easier to grind down into a sauce, but it will still be hard on your digestive system. My stomach groaned for hours after that meal, I personally prefer to soak the seeds overnight.
   INST
     Preparation
-      - Dissolve {#1/2 tsp#} of {{salt}} in {#1/2 cup#} of {{water}}. Add {#1/4 cup#} of {{sunflower seeds}}, cover with a breathable material and leave to soak overnight or for at least {#8 hours#}. Alternatively, you can pour boiling water over the seeds and let them soak for {#10 minutes#}. This method is quicker but it will be less nutritious.
-      - Sautee {#1 chopped#} {{yellow onion}} and {#2 minced#} {{garlic cloves}} in a pan with {#1 tsp#} of {{olive oil}}. Cook until onion is translucent.
-      - Rinse the sunflower seeds, and puree in a blender with the cooked garlic and onion, {#1 tbsp#} of {{soy sauce}}, {#1/2 tsp#} of {{smoked paprika}}, {#1 heaping tsp#} of {{white miso}}, {#1 tbsp#} of {{nutritional yeast}} and {#1/2 cup#} of {{water}}. Blend until smooth.
-      - Peel and cut {#4 large#} {{heirloom carrots}} into thin strips, using a julienne peeler or a knife. The goal is to make pasta-like strips.
+      - Dissolve {_1/2 tsp_} of {{salt}} in {_1/2 cup_} of {{water}}. Add {_1/4 cup_} of {{sunflower seeds}}, cover with a breathable material and leave to soak overnight or for at least {#8 hours#}. Alternatively, you can pour boiling water over the seeds and let them soak for {#10 minutes#}. This method is quicker but it will be less nutritious.
+      - Sautee {_1 chopped_} {{yellow onion}} and {_2 minced_} {{garlic cloves}} in a pan with {_1 tsp_} of {{olive oil}}. Cook until onion is translucent.
+      - Rinse the sunflower seeds, and puree in a blender with the cooked garlic and onion, {_1 tbsp_} of {{soy sauce}}, {_1/2 tsp_} of {{smoked paprika}}, {_1 heaping tsp_} of {{white miso}}, {_1 tbsp_} of {{nutritional yeast}} and {_1/2 cup_} of {{water}}. Blend until smooth.
+      - Peel and cut {_4 large_} {{heirloom carrots}} into thin strips, using a julienne peeler or a knife. The goal is to make pasta-like strips.
       - Add a bit of water to a pot, bring to a boil. Place steamer basket in the pot, cover and steam the carrots for a minute. You don't have to steam your carrots, but personally I like to do it so they're not as stiff. 
-      - Divide carrot pasta in 2 bowls, pour sauce overtop and serve with some fresh alfalfa sprouts or with a handful of {{roasted pumpkin seeds|http://grimgrains.com/roasted+pumpkin+seeds}}.
+      - Divide carrot pasta in 2 bowls, pour sauce overtop and serve with some fresh alfalfa sprouts or with a handful of {{roasted pumpkin seeds|roasted pumpkin seeds}}.
   INGR
     Sunflower sauce
       Sea salt : 1/2 tsp
@@ -1685,14 +1617,15 @@ BEER BREAD
     & Beer bread you say? Right up my alley! The next day I gave it a try, the result is fantastic — surprising given the little effort it takes to make it.
     & The best thing about this bread, is that it can taste different everytime. Using different beer, will change the taste and color of the bread. I tried baking with an IPA (21st amendment), a Hefeweizen (Sunriver brewing co) and a brown ale (Hobgoblin).
     & If you have self-rising flour, you can omit the baking powder and salt. You can use even less ingredients if you have a craft beer that has live yeast sediment at the bottom of the bottle. If you have a beer like that only flour, sugar and beer will do. Have fun experimenting with beers in your bread! 
-    % https://www.youtube.com/watch?v=ppASJRVcXmM
+    & We made a video of the beer bread-making process, check it out {{here|https://www.youtube.com/watch?v=ppASJRVcXmM}}.
   INST
     Preparation
       - Preheat your oven at {#350F#}.
       - Mix all the ingredients together well, and add extra flour if the dough is too sticky — no kneading required. 
-      - Coat the bottom of your bread pan with {_1 tbsp_} of {{olive oil}}, make sure to spread it out evenly, and thinly. Sprinkle {{corn meal}} in your bread pan, or tray, shake the cornmeal around so it covers the entire bottom. Transfer the bread dough into the pan. Optionally, you can add some oats on top of the bread. 
-      - Bake for {#1 hour#}
-      - Let cool on a dish towel, or rack
+      - Coat the bottom of your bread pan with {_1 tbsp_} of {{olive oil}}, make sure to spread it out evenly, and thinly. Sprinkle {{corn meal}} in your bread pan, or tray, shake the cornmeal around so it covers the entire bottom. 
+      - Transfer the bread dough into the pan. Optionally, you can add some oats on top of the bread. 
+      - Bake for {#1 hour#}.
+      - Let cool on a dish towel, or rack.
   INGR
     Main
       All purpose flour : 2 cups
@@ -1920,7 +1853,7 @@ BREADFRUIT PASTA
       - Add {_3/4 cup_} of {{water}}, mix until it starts to clump up, then knead with your hands until you have a smooth dough. Let rest for {#20 mins#} (this will make it easier to roll).
       - Separate dough in two, put one half aside. Separating the dough makes it easier to roll if you have limited counter space (like I do).
       - Sprinkle flour on your working surface, flatten the ball out from the center to the outer edge. Continue to roll, flipping the dough over once or twice and dusting it with flour to prevent it sticking. Roll to desired thickness.
-      - Fold the sheet of dough into a flat roll, then {_cut into it cross-wise_} into 0.5cm strips. 
+      - Fold the sheet of dough into a flat roll, then cut into it cross-wise into 0.5cm strips. 
       - Repeat all the steps for the other half of the dough. 
       - Carefully unroll each coil with your fingers, then transfer to a floured surface.
       - Bring water to a boil. Add pasta. Cook for a minute or so, and serve with a light sauce! 
