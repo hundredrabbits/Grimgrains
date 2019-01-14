@@ -134,9 +134,9 @@ NO KNEAD BREAD
   DESC
     & {*No knead bread*} is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading what-so-ever.
     & This forgiving recipe allows for substitutions, and addition, of ingredients without altering the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of {{all purpose flour}}, but you'll still get a rise out of it.
-    & The bread can be left to rise overnight, I usually mix it at around 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
+    & The bread can be left to rise overnight. I usually mix it at around 9pm, and bake it early the next morning at 8am. Unlike a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. The gluten develops on its own, because of the long overnight rise. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
     % recipes/no.knead.bread.1.jpg
-    & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}..
+    & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}. Experiment with it!
   INST
     Preparation
       - In a bowl, mix {_2 cups_} of all purpose flour, {_1 cup_} of {{spelt flour}} (whole wheat works too), {_1 tsp_} of {{salt}} and {_1/2 tsp_} of {{active dry yeast}}. Mix well.
