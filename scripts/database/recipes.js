@@ -149,8 +149,8 @@ NO KNEAD BREAD
       - Bake for {#30 minutes#}. 
       - After {#30 minutes#}, take the lid off, and let it cook uncovered for {#another 7 minutes#}. 
     Using a bread pan
-      - If you don't have a cast-iron container with a lid, you can use a baking pan with foil. It works, but the top doesn't have a hard crust (it tastes, and looks wonderful anyway). 
-      - If you do this, it's best to coat the bread pan with {_1 tbsp_} {{olive oil}}, and sprinkle the inside of the pan with {_3-4 tbsp_} of {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. Bread pans don't keep their temperature as well as cast-iron cookware, so the bread will stick due to lack of heat. Oiling the pan is necessary.
+      - If you don't have a cast-iron container with a lid, you can use a baking pan with foil. This is the method I use. While the bread doesn't have a hard top crust, the result is still great (the bottom will be tougher than the top).
+      - Coat the bread pan with {_1 tbsp_} {{olive oil}}, and sprinkle the inside of the pan with {_3-4 tbsp_} of {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. Bread pans don't keep their temperature as well as cast-iron cookware, so the bread will stick due to lack of heat. Oiling the pan is necessary.
   INGR
     Main
       All purpose flour : 2 cups
