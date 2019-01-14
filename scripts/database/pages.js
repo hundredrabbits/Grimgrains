@@ -37,6 +37,7 @@ GALLERY
     % pages/vegan.pimento.olive.cheese.jpg
     % pages/veggie.pudding.jpg
     % pages/wakame.savoury.pie.jpg
+    % pages/simple.doctor.who.cake.jpg
 
 
 TOOLS
