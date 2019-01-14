@@ -135,7 +135,6 @@ NO KNEAD BREAD
     & {*No knead bread*} is the easiest kind of artisan-style bread you can make at home, it requires little effort and absolutely no kneading what-so-ever.
     & This forgiving recipe allows for substitutions, and addition, of ingredients without altering the final texture of the bread. If you bake a whole wheat loaf, know that it may not rise as well as one with a mix of {{all purpose flour}}, but you'll still get a rise out of it.
     & The bread can be left to rise overnight, I usually mix it at around 9pm, and bake it early the next morning at 8am. Like a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
-    & You'll get a harder crust all around if you use a dutch oven, it helps keep the temperature. But if like me, you don't own one, using a simple bread pan (i use a square pan) and topping it with foil is the next best thing. You won't get a hard crust on the top of the bread, but that's okay. 
     % recipes/no.knead.bread.1.jpg
     & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}..
   INST
@@ -144,12 +143,14 @@ NO KNEAD BREAD
       - Add {_1 1/2 cups_} of {{water}} gradually, stirring it with a spoon into a cohesive dough. The dough will be wet, it's okay, no need to add extra flour.
       - Put a bag, or cloth over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough in the evening and let it rest overnight. 
     The Next Morning
-      - Pre-heat your oven to {#450F#}.
-      - Remove the covering and place the dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
-      - Coat a bread pan with {{olive oil}}, and sprinkle the inside of the pan with some {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. (Alternatively, you can use a dutch oven. Add your dutch oven to the oven as it preheats for a harder crust.)
-      - Place your bread into the pan, at this point, you can add some seeds overtop of the bread. In this recipe, I used sesame seeds, but poppy seeds, or oats would also be good. 
-      - Once the oven is at the proper temperature, cover bread pan with aluminium foil (or your dutch oven lid), and bake for {#30 minutes#}. 
-      - After {#30 minutes#}, take the foil (or lid) off, and let it cook uncovered for {#another 7 minutes#}. 
+      - Pre-heat your oven to {#450F#}, and add your dutch oven (or ovenproof pot with lid) in it. Pre-heating your container beforehand, will prevent the dough from sticking to the bottom.
+      - Place the wet dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
+      - Once the oven is at temperature, carefully take out the dutch oven with oven mits — careful, it's hot! Place your bread into the dutch oven. At this point, you can add some seeds overtop of the bread. In this recipe, I used sesame seeds, but poppy seeds, or oats would also be good. Cover with lid and place back inside oven.
+      - Bake for {#30 minutes#}. 
+      - After {#30 minutes#}, take the lid off, and let it cook uncovered for {#another 7 minutes#}. 
+    Using a bread pan
+      - If you don't have a cast-iron container with a lid, you can use a baking pan with foil. It works, but the top doesn't have a hard crust (it tastes, and looks wonderful anyway). 
+      - If you do this, it's best to coat the bread pan with {_1 tbsp_} {{olive oil}}, and sprinkle the inside of the pan with {_3-4 tbsp_} of {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. Bread pans don't keep their temperature as well as cast-iron cookware, so the bread will stick due to lack of heat. Oiling the pan is necessary.
   INGR
     Main
       All purpose flour : 2 cups
@@ -157,8 +158,6 @@ NO KNEAD BREAD
       Salt : 1 tsp
       Water : 1 1/2 cups
       Active dry yeast : 1/2 tsp
-      Olive oil : 1 tbsp
-      Cornmeal : 3-4 tbsp
 
 BLACK PASTA
   DATE : 2014-10-13
