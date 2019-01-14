@@ -128,7 +128,7 @@ SEAWEED BITES
 NO KNEAD BREAD
   DATE : 2019-01-12
   TAGS
-    bread
+    basic
   TIME : 60
   SERV : 1 loaf
   DESC
@@ -314,7 +314,7 @@ BORSCHT WITH TOFU SOUR CREAM
       - While the potatoes are cooking, peel and julienne {_2 carrots_}, cut {_1/2_} a {{red onion}} and mince {_3 cloves_} of {{garlic}}. Add it all to a pan and fry until fragrant. Near the end add {_2 tbsp_} of {{tomato paste}}, then toss in the pot.
       - Cut {_1/2 head_} of a small {{red cabbage}} into thin strips, add to pot.
       - Put {_1_} {{bay leaf}}, season with {{salt}} and {{pepper}} and let it simmer for {#10 minutes#} or until all the veggies are nice and soft.
-      - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day :), just re-heat it. Trust me, it'll be delicious.
+      - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise puree it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day, just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
       Silken tofu : 1 pack
