@@ -13,6 +13,7 @@ SEITAN
     & In this recipe, I added chickpea flour for added nutrition. Wheat gluten proteins are deficient in lysine (an essential amino acid for good health), adding a lysine-rich food like chickpea flour to the mix makes up for this deficiency.
     % recipes/seitan.3.jpg
     & When preparing seitan, it's important to flavour the inside, and outside of the dough. Adding a variation of ingredients to the dough mix, like ginger, garlic, onion powder, tomato sauce, soy sauce etc. will make it extra flavourful, the same goes for the broth; adding vegetable broth and soy sauce as a base, and roughly chopped onions, garlic and ginger will season the outside of the dough. 
+    % recipes/seitan.4.jpg
     & There are {*3 ways*} to cook seitan: {*boiling, steaming or baking*}. In this recipe, I used the boiling method. Steaming requires wrapping the dough in foil or some other wrapper to help it keep its shape, then, steaming it in a steamer basket over a pot of boiling water for 30 minutes or so. Baking the seitan, means flattening or stretching the dough to fit the baking dish, adding seasonings overtop, and baking it for an hour. All methods are good, but some are better for certain kinds of meals. .
   INST
     MAIN
