@@ -19,11 +19,11 @@ OKONOMIYAKI
   INST
     MAIN
       - Grate {_3 inches_} of {{nagaimo}} (equivalent to 1/4 cup) with a fine grater. Do this over a bowl, as the grated nagaimo is very slimy. Keep aside.
-      - Mince {_1 small_} {{green cabbage}} head, keep aside.
-      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}} the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}. 
+      - Mince {_1 medium_} {{green cabbage}}, keep aside.
+      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}. 
       - Heat a non-stick pan at high heat, add {_1 tsp_} of {{sesame oil}}. If you throw some water on and it starts to sizzle, the pan is hot and you can add {_1/4_} of the batter. Alternatively, you can add 1/2, although this makes two very large portions. 
       - Let okonomiyaki cook for {_5 minutes_}, shaking the pan every now and then so the batter doesn't stick. 
-      - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan, cooked side up still. You can also just flip it with a spatula, but we rather like this method :).
+      - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan (cooked side up). You can also just flip it with a spatula, but we rather like the plate method :).
       - Cook for another {#5 minutes#}, then slide onto a plate, repeat process for the rest of the batter.
     SAUCE
       - In a small bowl, mix {_4 tbsp_} of {{soy sauce}}, {_4 tbsp_} of {{mirin}}, {_1 tbsp_} of {{sugar}} and {_1 tbsp_} of {{arrowroot starch}}. Stir well.
@@ -31,7 +31,7 @@ OKONOMIYAKI
     TOPPING
       - First, add about {_1 tbsp_} of {{aonori}} on top of the sauce.
       - Then, add {_1 or 2 tbsp_} of {{beni shouga}} (pickled red ginger).
-      - Finally, top off with some chopped {{scallions}}.
+      - Finally, top off with some finely chopped {{scallions}}.
   INGR
     Main
       chickpea flour : 1 cup
