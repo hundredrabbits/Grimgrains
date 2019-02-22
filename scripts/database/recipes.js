@@ -1,5 +1,56 @@
 DATABASE.recipes = `
 
+OKONOMIYAKI
+  DATE : 2019-02-21
+  TAGS
+    dinner
+  TIME : 20
+  SERV : 4 servings
+  DESC
+    & {*okonomiyaki*} (meaning, 'grilled as you like it') is a japanese dish, similar to the american omelette, but the main difference is the variation of ingredients. Typical okonomiyaki are made with eggs, and often include meat or fish, because of this it's not something we would make at home. Making it without meat is simple enough, but without eggs? Back when we lived in Tokyo, our experience in cooking with plants was limited, but now we've been doing it long enough that we can think of alternatives with ease.
+    & The key ingredient? Chickpea flour, or 'besan flour'. We make chickpea pancakes, and scrambled chickpea flour (resembles scrambled eggs) at home all the time. Chickpea flour is a staple on Pino, and works very well for okonomiyaki.
+    % recipes/okonomiyaki.1.jpg
+    & If you're in a place were nagaimo (or yamaimo) is available, we highly reccommend adding it to the dish. It makes a fluffier pancake. Although we've made okonomiyaki without nagaimo before, so if you can't find it know that it will work and be very delicious anyway. It imparts little flavour, all it does is add nutrition and texture. Nagaimo, unlike most potatoes, can be eaten raw. It's low-calorie, high in protein, and has much potassium, zinc, vitamin C and more. The texture of grated nagaimo can be off-putting, it looks like a regular tuber when whole, but when grated it becomes slime, almost liquid. This sort of texture is well-liked in Japan and referred to as being "neba neba" (slimy); it is present in many other foods like okra and nattou. This texture makes it an ideal egg alternative, it can be used to make deserts when baking. I'm thinking it too, could make a good faux-cheese pizza topping. 
+    & Aonori is another obscure ingredient, again, it can be omitted, although it tastes really amazing with it. We made okonomiyaki without it when we were in Majuro, and that it simply wasn't available. What we did, was use finely cut nori instead. Obviously, this isn't a perfect substitution, because aonori is very sweet and tastes nothing like nori. Though, nori is still very delicious and pairs well enough with the okonomiyaki.
+    % recipes/okonomiyaki.2.jpg
+    & {*How to make true okonomi sauce*}
+    & In this recipe, I don't use true 'okonomi sauce'. Why? Because I don't use many pre-made sauces, I prefer to make my own. Okonomi sauce requires many ingredients, and honestly, the sauce I've made works really well in this recipe and makes a good okonomi sauce alternative. If you want to make your own, you can mix {*1 1/2 tbsp sugar, 4 tbsp ketchup*} and {*3 1/3 tbsp worcestershire sauce*}. If like me, you don't care to buy pre-made sauces but want to avoid buying both ketchup and worcestershire sauce, you can make these too. To make worcestershire sauce: combine {*apple cider vinegar, water, soy sauce, sugar, mustard powder, onion powder, garlic powder, cinnamon*} and {*black pepper*} in pan, bring to a boil and cook for a minute, then let cool. For {*ketchup*}, using some {*fresh tomato sauce*} may be enough, otherwise, add a bit of {*sugar*} and {*apple cider vinegar*} to it.
+    
+  INST
+    MAIN
+      - Grate {_3 inches_} of {{nagaimo}} (equivalent to 1/4 cup) with a fine grater. Do this over a bowl, as the grated nagaimo is very slimy. Keep aside.
+      - Mince {_1 small_} {{green cabbage}} head, keep aside.
+      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}} the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}. 
+      - Heat a non-stick pan at high heat, add {_1 tsp_} of {{sesame oil}}. If you throw some water on and it starts to sizzle, the pan is hot and you can add {_1/4_} of the batter. Alternatively, you can add 1/2, although this makes two very large portions. 
+      - Let okonomiyaki cook for {_5 minutes_}, shaking the pan every now and then so the batter doesn't stick. 
+      - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan, cooked side up still. You can also just flip it with a spatula, but we rather like this method :).
+      - Cook for another {#5 minutes#}, then slide onto a plate, repeat process for the rest of the batter.
+    SAUCE
+      - In a small bowl, mix {_4 tbsp_} of {{soy sauce}}, {_4 tbsp_} of {{mirin}}, {_1 tbsp_} of {{sugar}} and {_1 tbsp_} of {{arrowroot starch}}. Stir well.
+      - Heat a pan at high heat, when hot, add sauce and cook for {_2-3 minutes_} until it thickens. Then, divide onto your okonomiyaki.
+    TOPPING
+      - First, add about {_1 tbsp_} of {{aonori}} on top of the sauce.
+      - Then, add {_1 or 2 tbsp_} of {{beni shouga}} (pickled red ginger).
+      - Finally, top off with some chopped {{scallions}}.
+  INGR
+    Main
+      chickpea flour : 1 cup
+      nutritional yeast : 4 tbsp
+      salt : 1/4 tsp
+      nagaimo : 1/4 cup, grated
+      green cabbage : 1 medium, minced
+      water : 320 ml
+      sesame oil : 1-2 tsp
+    Sauce
+      soy sauce : 4 tbsp
+      mirin : 4 tbsp
+      sugar : 1 tbsp
+      arrowroot starch : 1 tbsp
+    Topping
+      ao nori : 4 tbsp
+      beni shouga : 1/4 cup
+      scallions : 4 branches
+
 SEITAN
   DATE : 2019-01-08
   TAGS
