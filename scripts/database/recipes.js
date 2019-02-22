@@ -64,6 +64,7 @@ SEITAN
     & In this recipe, I added chickpea flour for added nutrition. Wheat gluten proteins are deficient in lysine (an essential amino acid for good health), adding a lysine-rich food like chickpea flour to the mix makes up for this deficiency.
     % recipes/seitan.3.jpg
     & When preparing seitan, it's important to flavour the inside, and outside of the dough. Adding a variation of ingredients to the dough mix, like ginger, garlic, onion powder, tomato sauce, soy sauce etc. will make it extra flavourful, the same goes for the broth; adding vegetable broth and soy sauce as a base, and roughly chopped onions, garlic and ginger will season the outside of the dough. 
+    % recipes/seitan.4.jpg
     & There are {*3 ways*} to cook seitan: {*boiling, steaming or baking*}. In this recipe, I used the boiling method. Steaming requires wrapping the dough in foil or some other wrapper to help it keep its shape, then, steaming it in a steamer basket over a pot of boiling water for 30 minutes or so. Baking the seitan, means flattening or stretching the dough to fit the baking dish, adding seasonings overtop, and baking it for an hour. All methods are good, but some are better for certain kinds of meals. .
   INST
     MAIN
@@ -188,20 +189,20 @@ NO KNEAD BREAD
     & The bread can be left to rise overnight. I usually mix it at around 9pm, and bake it early the next morning at 8am. Unlike a lot of bread recipes, there is no second rise, there is only one and you don't need to knead or monitor it at all. The gluten develops on its own, because of the long overnight rise. It's a recipe that is very hard to fail at, you'll get good bread everytime! 
     % recipes/no.knead.bread.1.jpg
     & We sometimes add spices to the dough, like {{chilies}} and {{garlic}}, or we make a more hearty bread by adding {{pumpkin seeds}} or {{sunflower seeds}}. Experiment with it!
+    & {*Baking without a dutch oven*}
+    & If you don't have a cast-iron container with a lid, you can use a baking pan with foil. This is the method I use, because I lack a good lid. While the bread doesn't have a hard top crust, the result is still great (the bottom will be tougher than the top). Coat the bread pan with {_1 tbsp_} {{olive oil}}, and sprinkle the inside of the pan with {_3-4 tbsp_} of {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. Bread pans don't keep their temperature as well as cast-iron cookware, so the bread will stick due to lack of heat. Oiling the pan is necessary.
   INST
     Preparation
       - In a bowl, mix {_2 cups_} of all purpose flour, {_1 cup_} of {{spelt flour}} (whole wheat works too), {_1 tsp_} of {{salt}} and {_1/2 tsp_} of {{active dry yeast}}. Mix well.
       - Add {_1 1/2 cups_} of {{water}} gradually, stirring it with a spoon into a cohesive dough. The dough will be wet, it's okay, no need to add extra flour.
       - Put a bag, or cloth over the bowl, and let the dough rest {#anywhere from 9 to 24 hours#}. Ideally, prepare the dough in the evening and let it rest overnight. 
     The Next Morning
-      - Pre-heat your oven to {#450F#}, and add your dutch oven (or ovenproof pot with lid) in it. Pre-heating your container beforehand, will prevent the dough from sticking to the bottom.
+      - Pre-heat your oven to {#450F#}, and add your dutch oven (or ovenproof pot with lid) in it. Pre-heating your container beforehand, will prevent the dough from sticking to the bottom. (To bake {*without a dutch oven*}, i have a mini tutorial in the recipe description above.)
       - Place the wet dough on a lightly floured surface. Shape the dough into a rough ball. If too wet to handle, put some flour on your hands.
       - Once the oven is at temperature, carefully take out the dutch oven with oven mits — careful, it's hot! Place your bread into the dutch oven. At this point, you can add some seeds overtop of the bread. In this recipe, I used sesame seeds, but poppy seeds, or oats would also be good. Cover with lid and place back inside oven.
       - Bake for {#30 minutes#}. 
       - After {#30 minutes#}, take the lid off, and let it cook uncovered for {#another 7 minutes#}. 
-    Using a bread pan
-      - If you don't have a cast-iron container with a lid, you can use a baking pan with foil. This is the method I use. While the bread doesn't have a hard top crust, the result is still great (the bottom will be tougher than the top).
-      - Coat the bread pan with {_1 tbsp_} {{olive oil}}, and sprinkle the inside of the pan with {_3-4 tbsp_} of {{cornmeal}} (enough to cover it all in a thin coat). The cornmeal will keep the dough from sticking to the pan. Bread pans don't keep their temperature as well as cast-iron cookware, so the bread will stick due to lack of heat. Oiling the pan is necessary.
+
   INGR
     Main
       All purpose flour : 2 cups
@@ -209,46 +210,6 @@ NO KNEAD BREAD
       Salt : 1 tsp
       Water : 1 1/2 cups
       Active dry yeast : 1/2 tsp
-
-BLACK PASTA
-  DATE : 2014-10-13
-  TAGS
-    pasta
-  TIME : 60
-  SERV : 6 servings
-  DESC
-    & Black pasta is visually striking. I remember the first time I saw it on a shelf in a grocery store, ever since then, I've been dying to make my own - happy to say that i can finally cross that off my list!
-    & Making fresh pasta at home is easy. It doesn't require a lot of preparation, it's something you can do on a weekend. Kneading dough is relaxing. Just put some music on, pour yourself a glass of wine and start cooking! It's something you can do by yourself, but it's cool to do with a friend. Me and Devine made these while our friend Max was around.
-    & The secret ingredient to making black pasta, is {*Bamboo Charcoal powder*}. It's seldomly used to make pasta, most of the time people will use squid ink. While harder to find, it works better in pasta as it will not alter the taste or smell of your dough. You can also make black pasta with black rice, although the consistency and ingredients are very different.
-    % recipes/black.pasta.1.jpg
-    & To make pasta, I use a pasta machine but you can easily do it by hand, using just a rolling pin and a knife. I've made pasta using both methods, it's good to try by hand first. Your first batch may not be perfect, but that's ok! You'll only get better with practice! 
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
-  INST
-    Preparing the dough
-      - Mix {_2 cups_} of {{wheat semolina}}, {_3/4 cup_} {{whole wheat flour}} and {_1 tbsp_} of {{bamboo charcoal powder}} in a bowl. 
-      - Prepare a bowl of {{water}}, keep it close by. Add water to the flour mix gradually, one tablespoon at a time.
-      - Keep adding water until your dough comes together. Your dough should be moist, but not too sticky. Add more water if needed.
-      - Knead until your dough is smooth, then {_form into a ball_}. Cut your dough into quarters. Cover, and let it rest for {#30 minutes#}. 
-    With pasta machine
-      - Roll out the dough to your desired thickness using your pasta machine. {_Run the dough about 5-6 times_}, running it over the largest setting first, and then working your way down to a thinner setting. I went a knotch before the thinnest setting.
-      - Once your dough is nice and flat, dust it with some extra flour and run it through the linguini or spaghetti setting. If you don't use enough flour, your dough may stick inside the mechanism of your pasta machine and will make the process difficult. You can catch the noodles that are coming out with a chopstick, this will keep them from trying to stick together. 
-      - If your dough still feels moist, add more flour. If they're too moist they will stick together, we don't want this. Once they've been dusted with enough flour, {_separate into 6 portions_} and fold each one over itself once, and then again to make a small bundle. 
-      - Let dry for {#30 minutes#}.
-    Using a rolling pin
-      - Roll out each quarter of dough to your desired thickness. Sprinkle extra flour if dough sticks to your rolling pin.
-      - Fold each pasta sheet over itself a few times, again dusting it with enough flour so it doesn't stick. Folding makes it easier to cut, and your noodles will be more even as a result.
-      - Make wider cuts for linguini, thinner for spaghetti etc. If it's your first time making pasta by hand, make linguini. Making consistenly thin noodles is tough, i don't recommend it on your first try.
-      - If your dough still feels moist, add more flour. If they're too moist they will stick together, we don't want this. Once they've been dusted with enough flour, separate into 6 portions and fold each one over itself once, and then again to make a small bundle.
-      - Let dry for {#30 minutes#}.
-    Boiling
-      - If you want to have your fresh pasta right away, bring a pot of water to a boil. Cook for approximately {#3 minutes#}, fresh pasta cooks a lot faster than the dry kind. 
-    Freezing
-      - Transfer to a freezer bag. I like to use little pieces of parchment paper to keep the fresh pasta bundles separated.
-  INGR
-    Main
-      Wheat semolina : 2 cups
-      Whole wheat flour : 3/4 cup
-      Bamboo charcoal powder : 1 tbsp
    
 ROASTED CARROTS WITH BELUGA LENTILS
   DATE : 2014-10-25
