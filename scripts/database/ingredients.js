@@ -109,6 +109,7 @@ Chia seeds
 
 ~ ROOT VEGETABLES
 
+Nagaimo
 Carrots
   BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
 Heirloom Carrots
@@ -135,6 +136,7 @@ Yellow Onion
 
 ~ OTHER VEGETABLES
 
+Green cabbage
 Cucumber
   BREF : Cucumbers are usually more than 90% water.
 Eggplant
@@ -225,6 +227,7 @@ Pineapple
 
 ~ SPICES
 
+Aonori
 Turmeric
   BREF : Its sometimes used as a fabric dye, namely for Buddhist Monk's robes. 
 Ground Turmeric
@@ -347,6 +350,7 @@ Cornmeal
 
 ~ SPECIAL
 
+Beni shouga
 Vegemite
   BREF : [#875A2C] It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
 Miso
