@@ -18,9 +18,9 @@ OKONOMIYAKI
     
   INST
     MAIN
-      - Grate {_3 inches_} of {{nagaimo}} (equivalent to 1/4 cup) with a fine grater. Do this over a bowl, as the grated nagaimo is very slimy. Keep aside.
+      - Peel the {{nagaimo}}, then soak it in a water and vinegar solution (doing this helps to remove irritants). Dry the nagaimo, then grate {_3 inches_} of {{nagaimo}} (equivalent to 1/4 cup) with a fine grater. Do this over a bowl, as the grated nagaimo is very slimy. Keep aside.
       - Mince {_1 medium_} {{green cabbage}}, keep aside.
-      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}. 
+      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}, or {{shiitake}} dashi. (for shiitake dashi, soak 5-6 shiitake 320 ml of hot water for 15 minutes, or overnight in cold water.) 
       - Heat a non-stick pan at high heat, add {_1 tsp_} of {{sesame oil}}. If you throw some water on and it starts to sizzle, the pan is hot and you can add {_1/4_} of the batter. Alternatively, you can add 1/2, although this makes two very large portions. 
       - Let okonomiyaki cook for {_5 minutes_}, shaking the pan every now and then so the batter doesn't stick. 
       - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan (cooked side up). You can also just flip it with a spatula, but we rather like the plate method :).
@@ -39,6 +39,7 @@ OKONOMIYAKI
       salt : 1/4 tsp
       nagaimo : 1/4 cup, grated
       green cabbage : 1 medium, minced
+      shiitake : 6 
       water : 320 ml
       sesame oil : 1-2 tsp
     Sauce
