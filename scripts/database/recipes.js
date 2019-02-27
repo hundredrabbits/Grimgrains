@@ -10,7 +10,7 @@ COFFEE JELLY
   DESC
     & Coffee jelly is a popular dessert and drink (you could say) that is served in coffee shops in Japan. It is very simple to make, it doesn't require refrigeration to become jelly and it is delicious! 
     & The key ingredient in this recipe is kanten, or agar agar, a gelling agent that is algae based and that is widely available in asia. It is available in powder form, and also in sheets. Sheets can be melted in a liquid the same way as the powder form. Agar agar has no calories, and imparts no flavour. 
-    & You can use instant coffee as well for this recipe.
+    & You can use instant coffee as well for this recipe, using 2 tbsp of instant coffee per cup.
     & On Pino, we sometimes make the mix without a sweetener, and pour a spoonful on top afterwards. 
     & {*Quick soy pudding*}
     & Also, I sometimes make a quick 'soy pudding' by heating some soy milk in a pan with some arrowroot starch. The mixture will thicken, it becomes pudding-like and is delicious over coffee jelly. 
