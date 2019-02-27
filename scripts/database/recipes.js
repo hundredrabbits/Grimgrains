@@ -1,5 +1,36 @@
 DATABASE.recipes = `
 
+
+COFFEE JELLY
+  DATE : 2019-02-25
+  TAGS
+    dessert
+  TIME : 40
+  SERV : 2 servings
+  DESC
+    & Coffee jelly is a popular dessert and drink (you could say) that is served in coffee shops in Japan. It is very simple to make, it doesn't require refrigeration to become jelly and it is delicious! 
+    & The key ingredient in this recipe is kanten, or agar agar, a gelling agent that is algae based and that is widely available in asia. It is available in powder form, and also in sheets. Sheets can be melted in a liquid the same way as the powder form. Agar agar has no calories, and imparts no flavour. 
+    & You can use instant coffee as well for this recipe.
+    & On Pino, we sometimes make the mix without a sweetener, and pour a spoonful on top afterwards. 
+    & {*Quick soy pudding*}
+    & Also, I sometimes make a quick 'soy pudding' by heating some soy milk in a pan with some arrowroot starch. The mixture will thicken, it becomes pudding-like and is delicious over coffee jelly. 
+    % recipes/coffee.jelly.2.jpg
+    
+  INST
+    BASIC
+      - Brew a pot of {{coffee}}.
+      - Pour 350ml of coffee into a saucepan, add {*2 tbsp*} of {{maple syrup}} and bring to a boil, 
+      - Lower heat, then add 4g of {{agar agar powder}}. Stir constantly for {#2 minutes#}.
+      - Pour the mixture into two small bowls, or cups. Let stand for {#30 minutes and up to 1 hour#}. It doesn't need to be refrigerated to solidify, but you can do that if you prefer it cold.
+    TOPPINGS
+      - You can eat as is, or you can add the cubes in another recipe like a coconut or soy milk pudding. It can also be used as a garnish for other desserts.
+
+  INGR
+    Main
+      Coffee : 350 ml
+      Agar agar powder : 4g
+      Maple syrup : 2 tbsp
+
 OKONOMIYAKI
   DATE : 2019-02-21
   TAGS
@@ -20,14 +51,14 @@ OKONOMIYAKI
     MAIN
       - Peel the {{nagaimo}}, then soak it in a water and vinegar solution (doing this helps to remove irritants). Dry the nagaimo, then grate {_3 inches_} of {{nagaimo}} (equivalent to 1/4 cup) with a fine grater. Do this over a bowl, as the grated nagaimo is very slimy. Keep aside. 
       - Mince {_1 medium_} {{green cabbage}}, keep aside.
-      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}, or {{shiitake}} dashi. (for shiitake dashi, soak 5-6 shiitake 320 ml of hot water for 15 minutes, or overnight in cold water.) 
+      - In a bowl, mix {_3/4 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}, or {{shiitake}} dashi. (for shiitake dashi, soak 5-6 shiitake 320 ml of hot water for {#15 minutes#}, or {#overnight#} in cold water.) 
       - Heat a non-stick pan at high heat, add {_1 tsp_} of {{sesame oil}}. If you throw some water on and it starts to sizzle, the pan is hot and you can add {_1/4_} of the batter. Alternatively, you can add 1/2, although this makes two very large portions. 
       - Let okonomiyaki cook for {_5 minutes_}, shaking the pan every now and then so the batter doesn't stick. 
       - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan (cooked side up). You can also just flip it with a spatula, but we rather like the plate method :).
       - Cook for another {#5 minutes#}, then slide onto a plate, repeat process for the rest of the batter.
     SAUCE
       - In a small bowl, mix {_4 tbsp_} of {{soy sauce}}, {_4 tbsp_} of {{mirin}}, {_1 tbsp_} of {{sugar}} and {_1 tbsp_} of {{arrowroot starch}}. Stir well.
-      - Heat a pan at high heat, when hot, add sauce and cook for {_2-3 minutes_} until it thickens. Then, divide onto your okonomiyaki.
+      - Heat a pan at high heat, when hot, add sauce and cook for {#2-3 minutes#} until it thickens. Then, divide onto your okonomiyaki.
     TOPPING
       - First, add about {_1 tbsp_} of {{aonori}} on top of the sauce.
       - Then, add {_1 or 2 tbsp_} of {{beni shouga}} (pickled red ginger).
