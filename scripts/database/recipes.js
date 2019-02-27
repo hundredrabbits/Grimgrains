@@ -20,7 +20,7 @@ COFFEE JELLY
     BASIC
       - Brew a pot of {{coffee}}.
       - Pour 350ml of coffee into a saucepan, add {*2 tbsp*} of {{maple syrup}} and bring to a boil, 
-      - Lower heat, then add 2g ((~1 1/2 tsp) of {{agar agar powder}}. Stir constantly for {#2 minutes#}.
+      - Lower heat, then add 4g ((~2 tsp) of {{agar agar powder}}. Stir constantly for {#2 minutes#}.
       - Pour the mixture into two small bowls, or cups. Let stand for {#30 minutes and up to 1 hour#}. It doesn't need to be refrigerated to solidify, but you can do that if you prefer it cold.
     TOPPINGS
       - You can eat as is, or you can add the cubes in another recipe like a coconut or soy milk pudding. It can also be used as a garnish for other desserts.
@@ -28,7 +28,7 @@ COFFEE JELLY
   INGR
     Main
       Coffee : 350 ml
-      Agar agar powder : 3 g 
+      Agar agar powder : 4 g 
       Maple syrup : 2 tbsp
 
 OKONOMIYAKI
