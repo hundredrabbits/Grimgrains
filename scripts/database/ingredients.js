@@ -26,6 +26,8 @@ Lentils
 
 Beluga Lentils
   Color : #000000
+Brown Lentils
+  BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
 Tempeh
   Color : #875A2C
 Peanut
@@ -110,7 +112,7 @@ Chia seeds
 ~ ROOT VEGETABLES
 
 Nagaimo
-Carrots
+Carrot
   BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
 Heirloom Carrots
 Ginger
@@ -141,6 +143,8 @@ Cucumber
   BREF : Cucumbers are usually more than 90% water.
 Eggplant
 Zucchini
+Chives
+  BREF : Chinese chibes or "nira" in Japanese, are full of vitamins and adds a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic. 
 Chile
 Green Chile
 Peppers
