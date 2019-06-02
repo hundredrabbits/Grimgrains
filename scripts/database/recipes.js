@@ -7,9 +7,11 @@ SWEET AND SOUR LENTILS
   TIME : 30
   SERV : 2 servings
   DESC
-    & In my galley I have a few recipes that I consider staples, that I'm always in the mood to eat. I usually rotate these throughout the week, adding maybe a new recipe or two to change things up. This sweet and sour lentils recipe is one of these, a favourite of ours. 
-    & It's a versatile recipe, say I don't have any carrots or daikon I'll sometimes put brocoli or fresh green peas instead. You can eat the lentils as is, or scoop it up with crackers. Devine & I enjoy eating it wrapped in salad or cabbage leaves. 
+    & In my galley I have a few recipes that I consider staples, that I'm always in the mood to eat. I usually rotate these throughout the week, adding maybe a new recipe or two to change things up. This sweet and sour lentils recipe is one of these, a favourite of ours.  
+    & You can eat the lentils as is, or scoop it up with crackers. Devine & I enjoy eating it wrapped in salad or cabbage leaves. 
     & We've cooked sweet and sour lentils often on long passages, it's a simple one-pot meal. It's also my go-to recipe during pot lucks, even people who don't like lentils will enjoy it (I've never had any complaints, not yet).
+    & {*Substitutions*}
+    & It's a versatile recipe, say I don't have any carrots or daikon I'll sometimes put brocoli or fresh green peas instead. For a heartier meal, adding sweet potatoes is also delicious. Sometimes, if I'm out of peanut butter I'll use tahini instead, the flavour is very similar and doesn't change much in the recipe (also nice for those with peanut allergies). This recipe only works with whole lentils, because there's still a bite to them, halved lentils will soften too much and the resulting texture won't be as pleasant.
     & Enjoy this humble, but delicious recipe. 
     % recipes/sweet.and.sour.lentils.2.jpg
     
