@@ -1,5 +1,49 @@
 DATABASE.recipes = `
 
+SWEET AND SOUR LENTILS
+  DATE : 2019-06-02
+  TAGS
+    dinner
+  TIME : 30
+  SERV : 2 servings
+  DESC
+    & In my galley I have a few recipes that I consider staples, that I'm always in the mood to eat. I usually rotate these throughout the week, adding maybe a new recipe or two to change things up. This sweet and sour lentils recipe is one of these, a favourite of ours. 
+    & It's a versatile recipe, say I don't have any carrots or daikon I'll sometimes put brocoli or fresh green peas instead. You can eat the lentils as is, or scoop it up with crackers. Devine & I enjoy eating it wrapped in salad or cabbage leaves. 
+    & We've cooked sweet and sour lentils often on long passages, it's a simple one-pot meal. It's also my go-to recipe during pot lucks, even people who don't like lentils will enjoy it (I've never had any complaints, not yet).
+    & Enjoy this humble, but delicious recipe. 
+    % recipes/sweet.and.sour.lentils.2.jpg
+    
+  INST
+    SAUCE
+      - Mix all liquid ingredients together in a bowl, add {_1 tbsp_} of {{peanut butter}} and stir until dissolved. 
+      - Stir in {_1 tbsp_} of {{arrowroot starch}} (to help thicken sauce).
+      - Add {_2 tsp_} of {{chili pepper flakes}}, {_3_} minced {{garlic cloves}} and roughly {_1 inch_} of minced {{ginger root}}.
+    LENTILS
+      - Rinse lentils. Transfer rinsed lentils to a pot and add {_1 1/2 cups_} of {{vegetable bouillon}}. 
+      - Bring water to a rapid simmer, then reduce heat to medium. 
+      - Simmer uncovered. After {#10 minutes#} add {_1_} cubeb {{carrot}} and {_2 inches_} of cubed {{daikon}}. 
+      - Let mixture simmer for an additional {#10-20 minutes#}, add extra water as needed. 
+      - If lentils are tender, they are ready. Strain lentils and return to pot with {_1/4 tsp_} of {{salt}}.
+      - Pour sauce onto lentils, mix well. Serve into two bowls with some {{chives}}. Eat wrapped in salad or cabbage leaves, or with {{crackers|https://grimgrains.com/#crackers}}.
+
+  INGR
+    Main
+      Brown lentils : 1/2 cup
+      Vegetable bouillon : 1 1/2 cups 
+      carrot : 1, cubed
+      daikon : 2", cubed
+      chives : 3 stalks
+      salt : 1/4 tsp
+    Sauce
+      Soy sauce : 2 tbsp
+      Rice vinegar : 2 tbsp
+      Chili pepper flakes : 2 tsp
+      Peanut butter : 1 tbsp
+      Maple syrup : 2 tbsp
+      Sesame oil : 1 tsp
+      Garlic : 3 cloves, minced
+      Ginger root : 1", minced
+      Arrowroot starch : 1 tbsp
 
 COFFEE JELLY
   DATE : 2019-02-25
@@ -19,8 +63,8 @@ COFFEE JELLY
   INST
     BASIC
       - Brew a pot of {{coffee}}.
-      - Pour 350ml of coffee into a saucepan, add {*2 tbsp*} of {{maple syrup}} and bring to a boil, 
-      - Lower heat, then add {*4g*} (~2 tsp) of {{agar agar powder}}. Stir constantly for {#2 minutes#}.
+      - Pour 350ml of coffee into a saucepan, add {_2 tbsp_} of {{maple syrup}} and bring to a boil, 
+      - Lower heat, then add {_4g_} (~2 tsp_) of {{agar agar powder}}. Stir constantly for {#2 minutes#}.
       - Pour the mixture into two small bowls, or cups. Let stand for {#30 minutes and up to 1 hour#}. It doesn't need to be refrigerated to solidify, but you can do that if you prefer it cold.
     TOPPINGS
       - You can eat as is, or you can add the cubes in another recipe like a coconut or soy milk pudding. It can also be used as a garnish for other desserts.
@@ -53,7 +97,7 @@ OKONOMIYAKI
       - Mince {_1 medium_} {{green cabbage}}, keep aside.
       - In a bowl, mix {_1 cup_} of {{chickpea flour}}, {_4 tbsp_} {{nutritional yeast}}, {_1/4 cup_} of grated {{nagaimo}}, the minced {{green cabbage}} and {_1/4 tsp_} of {{salt}}. Then, add {_320 ml_} of {{water}}, or {{shiitake}} dashi. (for shiitake dashi, soak 5-6 shiitake 320 ml of hot water for {#15 minutes#}, or {#overnight#} in cold water.) 
       - Heat a non-stick pan at high heat, add {_1 tsp_} of {{sesame oil}}. If you throw some water on and it starts to sizzle, the pan is hot and you can add {_1/4_} of the batter. Alternatively, you can add 1/2, although this makes two very large portions. 
-      - Let okonomiyaki cook for {_5 minutes_}, shaking the pan every now and then so the batter doesn't stick. 
+      - Let okonomiyaki cook for {#5 minutes#}, shaking the pan every now and then so the batter doesn't stick. 
       - After {#5 minutes#}, it's time to give the other side some grilling time. Put a plate on top of the pancake, keep your hand on the plate and flip the pan so that the pancake ends up cooked side up on the plate. Then, slide the pancake back into the pan (cooked side up). You can also just flip it with a spatula, but we rather like the plate method :).
       - Cook for another {#5 minutes#}, then slide onto a plate, repeat process for the rest of the batter.
     SAUCE
