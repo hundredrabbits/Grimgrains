@@ -32,9 +32,11 @@ Tempeh
   Color : #875A2C
 Peanut
 Peanut Butter
+  BREF : A spread made from dry-roasted peanuts, kinds without added sugar or oils are preferable. The US consumes $800 million of this stuff annually. Peanut butter's flavor combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers
 Peanuts
+  BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts.
 Soy beans
-  BREF : [#EFEFEF milk flour] If you produce your own soy milk, know that there wont be any waste. The pulp can be used to make okara, which you can use to make baked goods.
+  BREF : [#EFEFEF milk flour] A staple in Eastern Asia. It is used as a base for many vegan faux-meat dishes. If you produce your own soy milk, know that there wont be any waste. The pulp can be used to make okara, which you can use to make baked goods. 
 Beans
   BREF : [black green kidney] There are over 130 varieties of green beans.
 Edamame
@@ -144,7 +146,7 @@ Cucumber
 Eggplant
 Zucchini
 Chives
-  BREF : Chinese chibes or "nira" in Japanese, are full of vitamins and adds a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic. 
+  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic. 
 Chile
 Green Chile
 Peppers
