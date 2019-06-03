@@ -17,7 +17,7 @@ SWEET AND SOUR LENTILS
     
   INST
     SAUCE
-      - Mix all liquid ingredients together in a bowl, add {_1 tbsp_} of {{peanut butter}} and stir until dissolved. 
+      - Mix all liquid ingredients together in a bowl, add {_1 tbsp_} of {{peanut butter}} and stir until dissolved.
       - Stir in {_1 tbsp_} of {{arrowroot starch}} (to help thicken sauce).
       - Add {_2 tsp_} of {{chili pepper flakes}}, {_3_} minced {{garlic cloves}} and roughly {_1 inch_} of minced {{ginger root}}.
     LENTILS
@@ -26,7 +26,7 @@ SWEET AND SOUR LENTILS
       - Simmer uncovered. After {#10 minutes#} add {_1_} cubeb {{carrot}} and {_2 inches_} of cubed {{daikon}}. 
       - Let mixture simmer for an additional {#10-20 minutes#}, add extra water as needed. 
       - If lentils are tender, they are ready. Strain lentils and return to pot with {_1/4 tsp_} of {{salt}}.
-      - Pour sauce onto lentils, mix well. Serve into two bowls with some {{chives}}. Eat wrapped in salad or cabbage leaves, or with {{crackers|https://grimgrains.com/#crackers}}.
+      - Pour sauce onto lentils, mix well. Serve into two bowls with some {{chives}}. Eat wrapped in salad or cabbage leaves, or with {{crackers}}.
 
   INGR
     Main
