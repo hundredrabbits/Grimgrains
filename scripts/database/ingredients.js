@@ -234,6 +234,8 @@ Pineapple
 ~ SPICES
 
 Aonori
+Kanten powder
+  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin. 
 Turmeric
   BREF : Its sometimes used as a fabric dye, namely for Buddhist Monk's robes. 
 Ground Turmeric

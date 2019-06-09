@@ -1,5 +1,38 @@
 DATABASE.recipes = `
 
+CHEESE
+  DATE : 2019-06-09
+  TAGS
+    basic
+  TIME : 60
+  SERV : 2 servings
+  DESC
+    & I used to have a cheese recipe on this website, but it failed me a few times after making it, which made it a poor recipe indeed. This time, I've experiemented a lot more, removing and adding ingredients. 
+    & This is a basic cheese recipe, that you can onto if you want different flavors. It's simple to prepare, and ready under an hour. Another great thing about it is that it's completely nut-free!
+    % recipes/cheese.1.jpg
+    & This cheese can be grated, it holds its shape well enough so it can be used as a topping on pizza — yay!
+    & In this recipe I use kanten, which is similar to agar agar except that it's made from a different type of red algae (tengusa). It can be swapped 1:1 in a recipe, although the resulting texture will not be the same. Adding agar agar will make the cheese softer, I highly recommend using kanten if available.
+    & {*Flavors*}
+    & For a pepper jack cheese flavor, add garlic, onion powder and chili flakes. You can also add black pepper, for a bit of spice, or pimento olives!
+    % recipes/cheese.2.jpg
+    
+  INST
+    SAUCE
+      - In a bowl, mix {_1/4 cup_} of {{soy milk}}, {_4 tbsp_} of {{nutritional yeast}}, {_2 tbsp_} of {{tahini}}, {_1 tsp_} of {{apple cider vinegar}} and {_1 tsp_} of {{red miso}}.
+      - Heat a saucepan at medium heat, pour {_3/4 cup_} of {{soy milk}} and sprinkle {_1 generous tsp_} of {{kanten powder}}. Stir {{kanten powder}} into the milk.
+      - When content starts to boil, lower to a simmer and add the bowl of mixed ingredients into it. Stir, for {#a minute or two#} and then pour contents of pan into two small bowls. The reason I use two instead of one, is because the cheese will harden quicker.
+      - Let mixture rest for {#1 hour or so, 2 is better#} (especially if it's hot where you are). 
+      - Flip bowls upside down, scoop out cheese and enjoy! This cheese can be grated onto pizza too!
+
+  INGR
+    Main
+      Soy milk : 1 cup
+      Nutritional yeast : 4 tbsp 
+      Tahini : 2 tbsp
+      Apple cider vinegar : 1 tsp
+      Red miso : 1 tsp
+      Kanten powder : 1 generous tsp
+
 SWEET AND SOUR LENTILS
   DATE : 2019-06-02
   TAGS
