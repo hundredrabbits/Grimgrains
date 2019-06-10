@@ -1,9 +1,9 @@
 DATABASE.pages = `
 ABOUT
-  BREF : We started {*Grim Grains*} to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps measure our progress, while giving us another creative output. We cook and travel, and adapt to the local produce whenever possible. All of the recipes we make are plant-based, and tree-nut free. 
+  BREF : We started {*Grimgrains*} to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps measure our progress, while giving us another creative output. We cook and travel, and adapt to the local produce whenever possible. All of the recipes we make are plant-based, and tree-nut free. 
   LONG
     & We are {{Rekka Bellum|http://kokorobot.ca/}}, an illustrator, and {{Devine Lu Linvega|http://xxiivv.com}}, an artist/musician, living on a small sailboat somewhere on the shores of the Pacific Ocean. Hundredrabbits is the name of our {{floating studio|http://100r.co}}, we make {{games|https://100r.co/pages/games.html}}, {{tools|https://100r.co/pages/tools.html}} and delicious recipes as we travel.
-    & This website showcases our favourite creations, along with hand-draw illustrations for {{each ingredient|ingredients-list}}. You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
+    & This website showcases our favourite creations, along with hand-drawn illustrations for {{each ingredient|ingredients-list}}. You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
     * Copyright policy
     & You may adapt our recipes, but a link back or mention would be nice :).
     * Disclaimer
