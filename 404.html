@@ -31,19 +31,14 @@ permalink: /404.html
 <body style='background:black; color:white'>
   <script>
     // Find current path (relative to grimgrains.com)
-    var parts = window.location.pathname.split('/')
-    var target = [];
+    var target = unescape(window.location.pathname);
     
     // Fancy slugify regex bit
-    parts.forEach(function(elem) {
-      elem = elem.toLowerCase();
-      elem = elem.replace(/[\s·/_'",:;\.-]+/g, '+'); // Replace whitespace and "·/_'",:;.-" to "+"
-      elem = elem.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
-      target.push(elem);
-    });
-    var target = parts.join('+'); // Rejoin path
+    target = target.toLowerCase();
+    target = target.replace(/[\s·\\/_'",:;\.-]+/g, '+'); // Replace whitespace and "·\/_'",:;.-" to "+"
+    target = target.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
     
-    document.location.href = document.location.origin + "/#"+  target // Go to grimgrains.com/#target
+    document.location.href = document.location.origin + "/#" + target; // Go to grimgrains.com/#target
   </script>
   
   <h1 class="fadein">
