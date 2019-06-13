@@ -30,17 +30,20 @@ permalink: /404.html
 </head>
 <body style='background:black; color:white'>
   <script>
+    // Find current path (relative to grimgrains.com)
     var parts = window.location.pathname.split('/')
     var target = [];
+    
+    // Fancy slugify regex bit
     parts.foreach(function(elem) {
       elem = elem.toLowerCase();
       elem = elem.replace(/[\s·/_'",:;\.-]+/g, '+'); // Replace whitespace and "·/_'",:;.-" to "+"
       elem = elem.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
       target.push(elem);
     });
-    var target = parts.join('+');
+    var target = parts.join('+'); // Rejoin path
     
-    document.location.pathname = "/#"+target
+    document.location.href = document.location.origin + "/#"+  target // Go to grimgrains.com/#target
   </script>
   
   <h1 class="fadein">
