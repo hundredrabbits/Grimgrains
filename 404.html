@@ -35,7 +35,7 @@ permalink: /404.html
     var target = [];
     
     // Fancy slugify regex bit
-    parts.foreach(function(elem) {
+    parts.forEach(function(elem) {
       elem = elem.toLowerCase();
       elem = elem.replace(/[\s·/_'",:;\.-]+/g, '+'); // Replace whitespace and "·/_'",:;.-" to "+"
       elem = elem.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
