@@ -5,24 +5,50 @@ permalink: /404.html
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Loading..</title>
+  <title>Loading...</title>
+  <style>
+    .fadein {
+      -webkit-animation: fadein 3s linear 0s 1;
+      animation: fadein 3s linear 0s 1;
+    }
+
+    @-webkit-keyframes fadein {
+      0%   {opacity: 0;}
+      50%  {opacity: 0;}
+      100% {opacity: 1;}
+    }
+    @keyframes fadein {
+      0%   {opacity: 0;}
+      50%  {opacity: 0;}
+      100% {opacity: 1;}
+    }
+    
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial;
+    }
+  </style>
 </head>
 <body style='background:black; color:white'>
   <script>
-    var parts = window.location.pathname.split("/")
-    var target = parts.slice(-1);
-    parts.splice(-1)
-    document.location.href = parts.join("/")+"/#"+target
+    // Find current path (relative to grimgrains.com)
+    var target = decodeURI(window.location.pathname);
+    
+    // Fancy slugify regex bit
+    target = target.toLowerCase();
+    target = target.replace(/[\s·\\/_'",:;\.-]+/g, '+'); // Replace whitespace and "·\/_'",:;.-" to "+"
+    target = target.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
+    
+    document.location.href = document.location.origin + "/#" + target; // Go to grimgrains.com/#target
   </script>
   
-  <h1>
+  <h1 class="fadein">
     Loading, please wait.
     <br />
     If this takes a long time, please check your Javascript settings.
   </h1>
   
   <noscript>
-    <h2>
+    <h2 class="fadein">
       This website requires Javascript. To view the content, please enable it in your browser settings.
     </h2>
   </noscript>
