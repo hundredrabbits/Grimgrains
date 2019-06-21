@@ -101,7 +101,7 @@ function IngredientTemplate (id, rect) {
       var name = id
       html += `
       <li class='recipe'>
-        <a onclick="Ø('query').bang('${name}')" class='photo' href='#${name}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
+        <a onclick="Ø('query').bang('${name}')" class='photo' href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
         <t class='name'>${name.capitalize()}</t>
         <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</t>
       </li>`
