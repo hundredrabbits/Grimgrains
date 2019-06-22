@@ -6,7 +6,7 @@ function SearchTemplate (id, rect) {
   // Create the search body
 
   this.answer = function (q) {
-    var html = ''
+    let html = ''
 
     return {
       title: `GrimGrains — Search`,
@@ -23,7 +23,7 @@ function SearchTemplate (id, rect) {
   }
 
   function make_content (q) {
-    var html = ''
+    let html = ''
 
     const index = Object.keys(q.tables.ingredients).concat(Object.keys(q.tables.recipes))
     const similar = findSimilar(q.name.toUpperCase(), index)
