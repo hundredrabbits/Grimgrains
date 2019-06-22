@@ -29,14 +29,15 @@ function IngredientTemplate (id, rect) {
     return html
   }
 
-  function make_similar (name, recipes) {
+  function make_similar (search_name, recipes) {
     var html = ''
     var ingredients = find_ingredients(recipes)
-    var similar_ingredients = find_similar_ingredients(name, ingredients)
+    var similar_ingredients = find_similar_ingredients(search_name, ingredients)
 
     for (id in similar_ingredients) {
       if (similar_ingredients[id][1] < 1) { break }
       var name = similar_ingredients[id][0]
+      if (name.toLowerCase() == search_name.toLowerCase()) { continue }
       html += `
       <li class='ingredient'>
         <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
