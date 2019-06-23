@@ -25,10 +25,10 @@ Lentils
   BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
 
 Beluga Lentils
-  Parent : Lentils
+  PARENT : Lentils
   Color : #000000
 Brown Lentils
-  Parent : Lentils
+  PARENT : Lentils
   BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
 Tempeh
   Color : #875A2C
@@ -38,14 +38,14 @@ Peanut Butter
 Peanuts
   BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts.
 Soy beans
-  BREF : [#EFEFEF milk flour] A staple in Eastern Asia. It is used as a base for many vegan faux-meat dishes. If you produce your own soy milk, know that there wont be any waste. The pulp can be used to make okara, which you can use to make baked goods. 
+  BREF : [#EFEFEF milk flour] A staple in Eastern Asia. It is used as a base for many vegan faux-meat dishes. If you produce your own soy milk, know that there wont be any waste. The pulp can be used to make okara, which you can use to make baked goods.
 Beans
   BREF : [black green kidney] There are over 130 varieties of green beans.
 Edamame
 Chickpeas
 Chickpea
 Chickpea Flour
-  Parent : chickpea, flour
+  PARENT : chickpea, flour
 Peas
 Green Peas
 Mungbeans
@@ -56,12 +56,12 @@ Broccoli
   BREF :  No description.
 
 Cabbage
-  BREF : [red#6620B3 sauerkraut#C820B3] Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+  BREF : [red#6620B3 sauerkraut#C820B3] Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour
   Tags
     Cruciferous
 
 Red Cabbage
-  BREF : Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+  BREF : Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour
   Tags
     Cruciferous
 
@@ -149,7 +149,7 @@ Cucumber
 Eggplant
 Zucchini
 Chives
-  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic. 
+  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
 Chile
 Green Chile
 Peppers
@@ -169,7 +169,7 @@ Olives
 Green Olives
 Black Olives
 Palm
-  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad. 
+  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad.
 Squash
   BREF : The seeds of the acorn squash can be eaten, they're delicious when roasted!
 Artichokes
@@ -199,7 +199,7 @@ Mixed Berries
 ~ OTHER FRUITS
 
 Pandanus fruit
-  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable. 
+  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable.
 
 Banana
   BREF : A fruit (actually a berry) consummed the world over, and come from two wild species. It varies in size and color, and always grows in clusters at the top of the plant. They're 75% water. They can be used in a variety of ways in recipes, for both desserts and savoury meals. A low source of fat, it can be used to make non-dairy ice cream.
@@ -238,9 +238,9 @@ Pineapple
 
 Aonori
 Kanten powder
-  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin. 
+  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
 Turmeric
-  BREF : Its sometimes used as a fabric dye, namely for Buddhist Monk's robes. 
+  BREF : Its sometimes used as a fabric dye, namely for Buddhist Monk's robes.
 Ground Turmeric
 Cinnamon
   Color : 875A2C
@@ -248,7 +248,7 @@ Cinnamon
 Rosemary
 Basil
 Dried Basil
-  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts. 
+  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts.
 Wasabi
 Wasabi Powder
 
@@ -280,12 +280,12 @@ Curry
   BREF : [#FFD800 powder green yellow] The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'
 Curry Powder
 Tamarind
-  BREF : [#875A2C paste] 
+  BREF : [#875A2C paste]
 Cumin
   BREF : [#875A2C seeds] In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}
 Cumin Seeds
 Mustard
-  BREF : [#FFD800 seeds dijon] Canada is the top producer of mustard seeds, it produces over 200,700 tonnes of it per year. 
+  BREF : [#FFD800 seeds dijon] Canada is the top producer of mustard seeds, it produces over 200,700 tonnes of it per year.
 Dijon Mustard
 Pepper
   BREF : [#000000 black] Historically, black pepper is the world's most traded spice.
@@ -320,20 +320,20 @@ Fenugreek
 ~ WHOLEGRAINS
 
 Whole wheat flour
-  Parent : Flour
+  PARENT : Flour
 Buckwheat
 Buckwheat noodles
 Buckwheat flour
-  Parent : Flour
+  PARENT : Flour
 Quinoa
   BREF : No description.
 Whole wheat
 Einkorn
 Einkorn Flour
-  Parent : Flour
+  PARENT : Flour
 Spelt
 Spelt Flour
-  Parent : Flour
+  PARENT : Flour
 Corn
 Cornmeal
 Corn Semolina
@@ -345,29 +345,29 @@ Oats
 Rice
   BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, it's also more nutritious and chewier than white rice. Brown rice is producted by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
-  Parent : Rice
+  PARENT : Rice
 White Rice
-  Parent : Rice
+  PARENT : Rice
 Black Rice
-  Parent : Rice
+  PARENT : Rice
 Puffed Rice
-  Parent : Rice
+  PARENT : Rice
 Brown Rice
-  Parent : Rice
+  PARENT : Rice
 Black Glutinous Rice
-  Parent : Black Rice, Rice
+  PARENT : Black Rice, Rice
 Wholegrain Brown Rice
-  Parent : Brown Rice, Rice
+  PARENT : Brown Rice, Rice
 Rice Noodles
 Rice Flour
-  Parent : Rice, Flour
+  PARENT : Rice, Flour
 
 Flour
-  BREF : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into! 
+  BREF : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
 All Purpose Flour
-  Parent : Flour
+  PARENT : Flour
 Breadfruit Flour
-  Parent : Flour
+  PARENT : Flour
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
 Wheat Semolina
 Oatmeal
@@ -385,9 +385,9 @@ White Miso
 Tofu
   BREF : [#EFEFEF silken burmese#FFD800 mayo] The word {_bean curds_} for tofu has been used in the US since 1840.
 Silken Tofu
-  Parent : Tofu
+  PARENT : Tofu
 Burmese Tofu
-  Parent : Tofu
+  PARENT : Tofu
 Nutolene
 Soy protein
 
@@ -404,7 +404,7 @@ Mirin
 
 Baking powder
 Bamboo charcoal powder
-  BREF : [#000000] Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from 800 to 1200 °C. It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description). & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
+  BREF : [#000000] Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from 800 to 1200 °C. It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description). & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
 Cornstarch
 Active dry yeast
 Baking soda
@@ -470,7 +470,7 @@ Porto
 Coconut oil
   BREF : [#EFEFEF] Coconut oil was used in oil lamps in India before they had electrical lighting.
 Canola oil
-  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc 
+  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
 Olive oil
   BREF : Extra virgin olive oil has strict requirements, it's checked for all kinds of defects to be made perfect
 Sesame oil
@@ -499,7 +499,7 @@ Blue corn tortilla
 Tofurky sausages
 Corn tortillas
 Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C. 
+  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
   BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', it's known as 'stock cube' in Australia, Ireland, New Zealand, South Africa and in the UK. And as 'dehydrated bouillon' in France.
