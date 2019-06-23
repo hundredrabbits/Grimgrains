@@ -23,26 +23,40 @@ Coffee
 
 Lentils
   BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+  Tags
+    Legume
+    Lentil
 
 Beluga Lentils
   Color : #000000
+  Tags
+    Legume
+    Lentil
 Brown Lentils
   BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
+  Tags
+    Legume
+    Lentil
+
 Tempeh
   Color : #875A2C
-Peanut
 Peanut Butter
-  BREF : A spread made from dry-roasted peanuts, kinds without added sugar or oils are preferable. The US consumes $800 million of this stuff annually. Peanut butter's flavor combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers
+  BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. The US consumes $800 million of this stuff annually. Peanut butter's flavor combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers.
 Peanuts
-  BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts.
+  BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts, and can be made into {{peanut butter}}.
 Soy beans
-  BREF : [#EFEFEF milk flour] A staple in Eastern Asia. It is used as a base for many vegan faux-meat dishes. If you produce your own soy milk, know that there wont be any waste. The pulp can be used to make okara, which you can use to make baked goods. 
+  Color : #EFEFEF
+  Long
+    & A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. If you produce your own {{soy milk}}, know that there won't be any waste. The pulp can be used to make okara, which you can use to make baked goods.
+    & Soy beans can be made into {{milk|soy milk}}, {{yoghurt|soy yogurt}}, {{soy sauce}}, and {{protein|soy protein}}.
 Beans
-  BREF : [black green kidney] There are over 130 varieties of green beans.
+  Long
+  & Fun fact: there are over 130 varieties of {{green beans}}.
+  & See also: {{black beans}}, {{green beans}}, and {{kidney beans}}
 Edamame
 Chickpeas
-Chickpea
 Chickpea Flour
+  BREF : Chickpea flour is made from {{chickpeas}}.
 Peas
 Green Peas
 Mungbeans
@@ -50,26 +64,31 @@ Mungbeans
 ~ CRUCIFEROUS
 
 Broccoli
-  BREF :  No description.
 
-Cabbage
-  BREF : [red#6620B3 sauerkraut#C820B3] Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+Green Cabbage
   Tags
     Cruciferous
-
+    
+~ sauerkraut #C820B3
 Red Cabbage
-  BREF : Red cabbage can be used as a natural colorant, it needs to be boiled and mixed with vinegar to keep its colour 
+  Color : #6620B3
+  BREF : Red cabbage can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour.
   Tags
     Cruciferous
 
 Kale
-  BREF : [#006633] Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable!
+  Color : #006633
+  BREF : Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable!
 Arugula
-  BREF : [#006633]
+  Color : #006633
 Cauliflower
-  BREF : [#EFEFEF purple#6620B3 white] The oldest record of cauliflower dates back to the 6th century bc.
+  BREF : The oldest record of cauliflower dates back to the 6th century BC. They come in {{white|white cauliflower}} and {{purple|purple cauliflower}} varieties.
 White Cauliflower
+  Color : #EFEFEF
+  BREF : A type of {{cauliflower}}.
 Purple Cauliflower
+  Color : #6620B3
+  BREF : A type of {{cauliflower}}.
 Brussel sprouts
 Daikon
 Bok choy
@@ -78,19 +97,22 @@ Radish
 ~ ALGEA FUNGI
 
 Wakame
-  BREF : [#006633] Wakame is a very invasive plant, its even banned in australia.
+  Color : #006633
+  BREF : Wakame is a very invasive plant - it's even banned in Australia.
 Dried Hijiki
 Bull kelp powder
-  BREF : No description.
 Nori
-  BREF : [#000000 sheets] Seaweed takes about 45 days to grow.
+  Color : #000000
+  BREF : Nori can be made into {{sheets|nori sheets}}. Fun fact: seaweed takes about 45 days to grow.
 Nori Sheets
 Shiitake
-  BREF : [#875A2C]
+  Color : #875A2C
 Crimini
-  BREF : [#875A2C] Mature crimini mushrooms are actually portobello mushrooms
+  Color : #875A2C
+  BREF : Mature crimini mushrooms are actually {{portobello}} mushrooms.
 Portobello
-  BREF : [#875A2C] Portobello are mature 'common mushroom'. They can be used in plantbased recipes as hamburger steaks, you can even use them as buns.
+  Color : #875A2C
+  BREF : Portobello are mature {{crimini}} (or common) mushrooms. They can be used in plantbased recipes as hamburger steaks, you can even use them as buns.
 Shimeji
 Button Mushrooms
 Dehydrated mushro
@@ -105,10 +127,10 @@ Sunflower seeds
 Pumpkin seeds
 Sesame seeds
   BREF : Tahini is made by grinding toasted hulled sesame seeds. It is used in baba ghanoush, halva, hummus and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
-White Sesame seeds
-Black Sesame seeds
+White sesame seeds
+Black sesame seeds
 Tahini
-pomegranate seeds
+Pomegranate seeds
 Chia seeds
 
 ~ ROOT VEGETABLES
@@ -120,17 +142,23 @@ Heirloom Carrots
 Ginger
 Ginger Root
 Potatoes
-  BREF : Since vitamin A deficiency is a common problem in africa, people are encouraged to eat sweet potatoes.
+  BREF : Since vitamin A deficiency is a common problem in Africa, people are encouraged to eat {{sweet potatoes}}.
 Russet Potatoes
+  BREF : A type of {{potato|potatoes}}.
 Sweet Potatoes
+  BREF : A type of {{potato|potatoes}}.
 Beets
-  BREF : Golden beets are rich in b-xanthin pigment, making it not a replacement to red beets (which contain betalain pigment). Both pigments offer different health benefits! Don't be alarmed, beet root juice will make your urine red for a day.
+  Long
+    & {{Golden beets}} are rich in b-xanthin pigment, so they cannot replace {{red beets}} (which contain betalain pigment). Both pigments offer different health benefits!
+    & The root of the beet plant is called a beetroot. Don't be alarmed, beetroot juice will make your urine red for a day.
 Golden Beets
+  BREF : A type of {{beet|beets}} containing b-xanthin pigment.
 Red Beets
+  BREF : A type of {{beet|beets}} containing betalain pigment.
 Yuka
   BREF : Tapioca is actually a starch extracted from Yuca roots.
 Garlic
-  BREF : Garlic has been used in many cultures around the world for thousands of years. Dating all the way back to the time the pyramids were built!
+  BREF : Garlic has been used in many cultures around the world for thousands of years, dating all the way back to the time the pyramids were built!
 Garlic Powder
 Red Onion
   Color : #C820B3
@@ -140,17 +168,14 @@ Yellow Onion
 
 ~ OTHER VEGETABLES
 
-Green cabbage
 Cucumber
   BREF : Cucumbers are usually more than 90% water.
 Eggplant
 Zucchini
 Chives
-  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic. 
-Chile
-Green Chile
+  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
 Peppers
-  BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to europe. The word pepper was given to all spices in europe that had a hot and pungent taste.
+  BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
 Green Peppers
 Red Peppers
 Yellow Peppers
@@ -159,14 +184,14 @@ Tomato
 Tomato Paste
   BREF : The tomatoes can also be dried with an oven.
 Avocado
-  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. It is a good source of fat. Fun fact: Avocado trees dont self-pollinate, they need another avocado tree nearby to bear fruit.
+  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of fat. Fun fact: Avocado trees don't self-pollinate, they need another avocado tree nearby to bear fruit.
 Pumpkin
-  BREF : The darker the skin of the pumpkin, the higher the beta carotene content.
+  BREF : The darker the skin of the pumpkin, the higher the beta-carotene content.
 Olives
 Green Olives
 Black Olives
 Palm
-  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad. 
+  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad.
 Squash
   BREF : The seeds of the acorn squash can be eaten, they're delicious when roasted!
 Artichokes
@@ -176,7 +201,7 @@ Breadfruit
 Scallions
   BREF : In some countries scallions are mistakenly referred to as 'shallots'.
 Spinach
-  Desc : During the cold war, wine with added spinach juice was given to weakened soldiers.
+  Desc : During the Cold War, wine with added spinach juice was given to weakened soldiers.
 Alfaalfa sprouts
 
 ~ BERRIES
@@ -189,22 +214,25 @@ Mulberries
 Raspberries
 Strawberries
 Cranberries
-  BREF : Dried cranberries are often coated with a bit of vegetable oil to keep them from sticking to each other, look in natural food stores to find brands that don't do this
+  BREF : Dried cranberries are often coated with a bit of vegetable oil to keep them from sticking to each other. Look in natural food stores to find brands that don't do this.
 Goji
 Mixed Berries
 
 ~ OTHER FRUITS
 
 Pandanus fruit
-  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they be transported for many months by ocean currents while remaining viable. 
+  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they can be transported for many months by ocean currents while remaining viable.
 
 Banana
-  BREF : A fruit (actually a berry) consummed the world over, and come from two wild species. It varies in size and color, and always grows in clusters at the top of the plant. They're 75% water. They can be used in a variety of ways in recipes, for both desserts and savoury meals. A low source of fat, it can be used to make non-dairy ice cream.
+  Long
+    & Bananas are fruit (actually berries) consumed the world over, and come from two wild species. They vary in size and color, and always grow in clusters at the top of the banana palm.
+    & Fun fact: they're 75% water.
+    & They can be used in a variety of ways in recipes, for both desserts and savoury meals. As a low source of fat, they can be used to make non-dairy {{ice creams|balsamic banana ice cream}}.
 Kiwi
 Apple
 Apples
 Lemon
-  BREF : Lemon juice can be used as an invisible ink, revealed with heat.
+  BREF : Fun fact: lemon juice can be used as an invisible ink, revealed with heat.
 Lemon Zest
 Lemon Juice
 Orange
@@ -219,7 +247,7 @@ Lime
 Hachiya Persimmon
 Persimmon
 Dates
-  BREF : Date palms have been around for at least 50 million years
+  BREF : Date palms have been around for at least 50 million years!
 Deglet Noor Dates
 Pamplemousse
 Rhubarb
@@ -235,24 +263,26 @@ Pineapple
 
 Aonori
 Kanten powder
-  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin. 
+  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
 Turmeric
-  BREF : Its sometimes used as a fabric dye, namely for Buddhist Monk's robes. 
+  BREF : Turmeric is sometimes used as a fabric dye, namely for Buddhist Monks' robes.
 Ground Turmeric
 Cinnamon
   Color : 875A2C
-  BREF : Cinnamon and {{garlic}} and be used to preserve fried foods
+  BREF : Cinnamon and {{garlic}} and be used to preserve fried foods.
 Rosemary
 Basil
 Dried Basil
-  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts. 
+  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts.
 Wasabi
 Wasabi Powder
 
 Sichuan peppercorns
+  BREF : Sichuan peppercorns are a numbing pepper, and are not to be confused with {{black peppeercorns}}.
 Coriander
 Mint
-  BREF : [#006633 fresh] Oil derived from fresh mint can be used as a friendly insecticide.
+  Color : #006633
+  BREF : Oil derived from {{fresh mint}} can be used as a friendly insecticide.
 Fresh Mint
 Cocoa
 Cocoa Powder
@@ -261,53 +291,72 @@ Cayenne Pepper
 Anise
 Anise Seeds
 Nutritional yeast
-  BREF : [#FFD800] In the US it's sometimes referred to as "nooch".
+  Color : #FFD800
+  BREF : In the US it's sometimes referred to as "nooch".
 Vanilla
 Vanilla Extract
 Nutmeg
-  BREF : [#875A2C] If consumed in high doses, raw nutmeg has psychoactive effects.
+  Color : #875A2C
+  BREF : If consumed in high doses, raw nutmeg has psychoactive effects.
 Thyme
-  BREF : [#006633] Thyme keeps its flavour better when dried than other herbs.
+  Color : #006633
+  BREF : Thyme keeps its flavour better when dried than other herbs.
 Poppy seeds
-  BREF : [#000000] Poppy seeds are less allergenic than a lot of other seeds or nuts.
+  Color : #000000
+  BREF : Poppy seeds are less allergenic than a lot of other seeds or nuts.
 Paprika
-  BREF : [#94191C smoked] Paprika is used with henna to give a red tint.
+  Color : #94191C
+  BREF : Paprika is used with henna to give a red tint. It can be {{smoked|smoked paprika}}.
 Smoked Paprika
 Curry
-  BREF : [#FFD800 powder green yellow] The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'
+  Color : #FFD800
+  Long
+    & The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'.
+    & Curry can be made as {{a powder|curry powder}}, and comes in several colors such as {{green|green curry}} and {{yellow|yellow curry}}.
 Curry Powder
 Tamarind
-  BREF : [#875A2C paste] 
+  Color : #875A2C
+  BREF : Tamarinds can be made into a {{paste|tamarind paste}}.
 Cumin
-  BREF : [#875A2C seeds] In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}
+  Color : #875A2C
+  BREF : In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}. It is derived from the {{cumin seed|cumin seeds}}.
 Cumin Seeds
-Mustard
-  BREF : [#FFD800 seeds dijon] Canada is the top producer of mustard seeds, it produces over 200,700 tonnes of it per year. 
+Mustard Seeds
+  Color : #FFD800
+  BREF : Canada is the top producer of {{mustard seeds}}, producing over 200,700 tonnes per year. One form of mustard is {{dijon mustard}}.
 Dijon Mustard
 Pepper
-  BREF : [#000000 black] Historically, black pepper is the world's most traded spice.
+  Color : #000000
+  BREF : Historically, {{black pepper}} is the world's most traded spice.
 Black Pepper
 Shichimi togarashi
-  BREF : [#94191C] 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
+  Color : #94191C
+  BREF : 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
 Gojuchang
-  BREF : [#94191C] Traditionally, gojuchang was fermented outdoors in large earthen pots.
+  Color : #94191C
+  BREF : Traditionally, gojuchang was fermented outdoors in large earthen pots.
 Masala
-  BREF : [#875A2C garam]
+  Color : #875A2C
+  BREF : Masala is a general term for many spice mixes used in Indian cooking (such as {{garam masala}}).
 Garam Masala
 Panko
-  BREF : No description.
 Carob
-  BREF : [#875A2C chips]
+  Color : #875A2C
+  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}).
 Carob Chips
 Peppercorn
-  BREF : [#000000 black]
+  Color : #000000
+  BREF : There are several types of peppercorn ({{black|black pepper}} and {{sichuan|sichuan peppercorns}}).
 Bay leaf
-  BREF : [#006633]
+  Color : #006633
 Chili
-  BREF : [#94191C flakes pepper peppers pepper_flakes] Chili pepper flakes have become a table top must over the years, it will often be present on a restaurant table alongside salt and pepper.
+  Color : #94191C
+  BREF : {{Chili pepper flakes}} have become a table top must over the years, and will often be present on a restaurant table alongside salt and pepper. See also {{green chili}}.
+Green Chili
 Chili Pepper Flakes
 Hops
-  BREF : [#006633] There are many different varieties of hops around, from all corners of the globe.
+  Color : #006633
+  BREF : There are many different varieties of hops around, from all corners of the globe.
 Dried orange peel
 Oregano
 Cardamom
@@ -321,7 +370,6 @@ Buckwheat
 Buckwheat noodles
 Buckwheat flour
 Quinoa
-  BREF : No description.
 Whole wheat
 Einkorn
 Einkorn Flour
@@ -334,9 +382,10 @@ Corn Semolina
 ~ GRAINS
 
 Oats
-  BREF : [#EFEFEF] If oat flour is used alone in baking, the flour wont rise. Best to mix it with other types of flour!
+  Color : #EFEFEF
+  BREF : If oat flour is used alone in baking, the flour won't rise. Best to mix it with other types of flour!
 Rice
-  BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, it's also more nutritious and chewier than white rice. Brown rice is producted by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
+  BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
 White Rice
 Black Rice
@@ -348,7 +397,8 @@ Rice Noodles
 Rice Flour
 
 Flour
-  BREF : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into! 
+  Color : #EFEFEF
+  BREF : {{Plain flour|all purpose flour}} has an average protein content, making it versatile to use in almost any recipe that requires flour. {{Spelt flour}} was a staple food during the Bronze age all the way up to medieval times. Brown {{rice flour}} is sometimes used as a base to grow mushrooms. {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
 All Purpose Flour
 Breadfruit Flour
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
@@ -360,15 +410,24 @@ Cornmeal
 
 Beni shouga
 Vegemite
-  BREF : [#875A2C] It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
+  Color : #875A2C
+  BREF : It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
 Miso
-  BREF : [white red#875A2C] Miso can be used to pickle vegetables.
+  Color : 
+  BREF : Miso can be used to pickle vegetables. It can be different colors such as {{red|red miso}} and {{white|white miso}}.
 Red Miso
+  Color : #875A2C
+~ Tell me (microlith57) if this color needs changing.
 White Miso
+  Color : #955C19
+~ #FFD800 mayo?
 Tofu
-  BREF : [#EFEFEF silken burmese#FFD800 mayo] The word {_bean curds_} for tofu has been used in the US since 1840.
+  Color : #EFEFEF
+  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{silken tofu}}, {{burmese tofu}}.
 Silken Tofu
+  Color : #EFEFEF
 Burmese Tofu
+  Color : #EFEFEF
 Nutolene
 Soy protein
 
@@ -377,7 +436,8 @@ Soy protein
 Soy sauce
   BREF : The solids left behind after the fermentation process is used as animal feed
 Sriracha
-  BREF : [#94191C] Sauce is named after the town of Si Racha in thailand where it was first made and served in restaurants.
+  Color : #94191C
+  BREF : Sauce is named after the town of Si Racha in thailand where it was first made and served in restaurants.
 Mirin
   BREF : Mirin is added to grilled fish to help reduce the fishy smell.
 
@@ -385,7 +445,11 @@ Mirin
 
 Baking powder
 Bamboo charcoal powder
-  BREF : [#000000] Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from 800 to 1200 °C. It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description). & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat. 
+  Color : #000000
+  Long
+    & Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from {#800 °C#} to {#1200 °C#}.
+    & It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description).
+    & {*Important note*}: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
 Cornstarch
 Active dry yeast
 Baking soda
@@ -397,18 +461,20 @@ Arrowroot starch
 ~ SYRUPS
 
 Maple syrup
-  BREF : [#875A2C] Quebec is the largest producer of maple syrup in the world
+  Color : #875A2C
+  BREF : Quebec is the largest producer of maple syrup in the world!
 Brown rice syrup
-  BREF : [#875A2C] Brown rice syrup is used to sweeten rice milk.
+  Color : #875A2C
+  BREF : Brown rice syrup is used to sweeten rice milk.
 
 ~ VINEGARS
 
 Rice vinegar
-  BREF : Substituting rice vinegar for western style vinegar isnt really appropriate, its too acidic.
+  BREF : Substituting rice vinegar for western style vinegar isnt really appropriate, it's too acidic.
 Balsamic vinegar
-  BREF : [#6620B3]
+  Color : #6620B3
 Apple cider vinegar
-  BREF : It is thought that consuming vinegar between meals will help to make you feel full longer.
+  BREF : It is thought that consuming vinegar between meals will help to make you feel full for longer.
 
 ~ SUPPLEMENTS
 
@@ -423,22 +489,21 @@ Matcha Powder
     Tea
 
 Houjicha
-  BREF : KitKat in japan has a houjicha flavour.
+  BREF : KitKat in Japan has a houjicha flavour.
   color : #875A2C
 Hibiscus
 
 Mint tea
 
 Lapsang souchong
-  BREF : Missing.
-  color : #875A2C
+  Color : #875A2C
   Tags
     Tea
 
 ~ ALCOHOL
 
 Wine
-  BREF : Wine has long been used as an antiseptic to treat wounds, it was even used to treat pain from child birth.
+  BREF : Wine has long been used as an antiseptic to treat wounds - it was even used to treat pain from child birth.
 Beer
 Sake
 Whisky
@@ -449,13 +514,15 @@ Porto
 ~ OILS
 
 Coconut oil
-  BREF : [#EFEFEF] Coconut oil was used in oil lamps in India before they had electrical lighting.
+  Color : #EFEFEF
+  BREF : Coconut oil was used in oil lamps in India before they had electrical lighting.
 Canola oil
-  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc 
+  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
 Olive oil
   BREF : Extra virgin olive oil has strict requirements, it's checked for all kinds of defects to be made perfect
 Sesame oil
-  BREF : [#875A2C] Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
+  Color : #875A2C
+  BREF : Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
 Peppermint oil
 
 ~ MISC
@@ -463,12 +530,12 @@ Peppermint oil
 Coconut milk
 Soy milk
 Purple potato powder
-  BREF : [#6620B3]
+  Color : #6620B3
 Baguette
-  BREF : [#875A2C] A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
+  Color : #875A2C
+  BREF : A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
 Bread crusts
 Vegan butter
-  BREF :  No description.
 Royal blue colouring
 Violet colouring
 Wholegrain macaroni
@@ -480,11 +547,11 @@ Blue corn tortilla
 Tofurky sausages
 Corn tortillas
 Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C. 
+  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
-  BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', it's known as 'stock cube' in Australia, Ireland, New Zealand, South Africa and in the UK. And as 'dehydrated bouillon' in France.
-macaroni
+  BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', as 'stock cube' in Australia, Ireland, New Zealand, South Africa, and the UK, and as 'dehydrated bouillon' in France.
+Macaroni
 Tajin
 Instant noodles
 Water
@@ -496,7 +563,7 @@ Whole Cane Sugar
 Coconut Sugar
 Brown Sugar
 Salt
-  BREF : Some boutiques in hawaii sell black salt with powdered black lava added in. Fleur de sel is considered more of a garnish or a condiment, it creates contrast in sweet deserts.
+  BREF : Some boutiques in hawaii sell black salt with powdered black lava added in. {{Fleur de sel}} is considered more of a garnish or a condiment, used to create contrast in sweet deserts.
 Sea Salt
 Chocolate
 `
