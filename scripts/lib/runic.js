@@ -27,7 +27,7 @@ function Runic (raw) {
       this.all.push({ rune: rune, item: item })
     },
     pop: function () {
-      var copy = this.copy(this.all)
+      let copy = this.copy(this.all)
       this.all = []
       return copy
     },
@@ -43,8 +43,8 @@ function Runic (raw) {
   }
 
   this.media = function (val) {
-    var service = val.split(' ')[0]
-    var id = val.split(' ')[1]
+    let service = val.split(' ')[0]
+    let id = val.split(' ')[1]
 
     if (service == 'itchio') {
       return `<iframe frameborder="0" src="https://itch.io/embed/${id}?link_color=000000" width="600" height="167"></iframe>`
@@ -58,17 +58,16 @@ function Runic (raw) {
   this.parse = function (raw = this.raw) {
     if (!raw) { return '' }
 
-    var html = ''
-    var lines = raw
-    var lines = !Array.isArray(raw) ? raw.split('\n') : raw
+    let html = ''
+    let lines = !Array.isArray(raw) ? raw.split('\n') : raw
 
     for (id in lines) {
-      var char = lines[id].substr(0, 1).trim().toString()
-      var rune = this.runes[char]
-      var trail = lines[id].substr(1, 1)
+      let char = lines[id].substr(0, 1).trim().toString()
+      let rune = this.runes[char]
+      let trail = lines[id].substr(1, 1)
       if (char == '$') { html += '<p>' + Ø('operation').request(lines[id].substr(2)).to_markup() + '</p>'; continue }
       if (char == '%') { html += this.media(lines[id].substr(2)); continue }
-      var line = lines[id].substr(2).to_markup()
+      let line = lines[id].substr(2).to_markup()
       if (!line || line.trim() == '') { continue }
       if (!rune) { console.log(`Unknown rune:${char} : ${line}`) }
       if (trail != ' ') { console.warn('Runic', 'Non-rune[' + trail + '] at:' + id + '(' + line + ')'); continue }
@@ -82,13 +81,13 @@ function Runic (raw) {
   }
 
   this.render_stash = function () {
-    var rune = this.stash.rune
-    var stash = this.stash.pop()
+    let rune = this.stash.rune
+    let stash = this.stash.pop()
 
-    var html = ''
+    let html = ''
     for (id in stash) {
-      var rune = stash[id].rune
-      var line = stash[id].item
+      let rune = stash[id].rune
+      let line = stash[id].item
       html += rune.wrap ? `<${rune.sub}><${rune.wrap}>${line.replace(/\|/g, `</${rune.wrap}><${rune.wrap}>`).trim()}</${rune.wrap}></${rune.sub}>` : `<${rune.sub}>${line}</${rune.sub}>`
     }
     return `<${rune.tag} class='${rune.class}'>${html}</${rune.tag}>`
@@ -128,16 +127,16 @@ String.prototype.to_markup = function () {
   html = html.replace(/{\*/g, '<b>').replace(/\*}/g, '</b>')
   html = html.replace(/{\#/g, "<code class='inline'>").replace(/\#}/g, '</code>')
 
-  var parts = html.split('{{')
+  let parts = html.split('{{')
   for (id in parts) {
-    var part = parts[id]
+    let part = parts[id]
     if (part.indexOf('}}') == -1) { continue }
-    var content = part.split('}}')[0]
+    let content = part.split('}}')[0]
     if (content.substr(0, 1) == '$') { html = html.replace(`{{${content}}}`, Ø('operation').request(content.replace('$', ''))); continue }
     // if(content.substr(0,1) == "%"){ html = html.replace(`{{${content}}}`, this.media(content)); continue; }
-    var target = content.indexOf('|') > -1 ? content.split('|')[1] : content
-    var name = content.indexOf('|') > -1 ? content.split('|')[0] : content
-    var external = (target.indexOf('https:') > -1 || target.indexOf('http:') > -1 || target.indexOf('dat:') > -1)
+    let target = content.indexOf('|') > -1 ? content.split('|')[1] : content
+    let name = content.indexOf('|') > -1 ? content.split('|')[0] : content
+    let external = (target.indexOf('https:') > -1 || target.indexOf('http:') > -1 || target.indexOf('dat:') > -1)
     html = html.replace(`{{${content}}}`, external ? `<a href='${target}' class='external' target='_blank'>${name}</a>` : `<a class='local' href="#${target.to_url()}" onclick="Ø('query').bang('${target}')">${name}</a>`)
   }
   return html

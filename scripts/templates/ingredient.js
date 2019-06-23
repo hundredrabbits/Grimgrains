@@ -6,7 +6,7 @@ function IngredientTemplate (id, rect) {
   // Create the recipe body
 
   this.answer = function (t) {
-    var ingredient = t.result
+    let ingredient = t.result
 
     return {
       title: `GrimGrains — ${t.name.capitalize()}`,
@@ -20,7 +20,7 @@ function IngredientTemplate (id, rect) {
   }
 
   function make_ingredient (name, ingredient, recipes) {
-    var html = ''
+    let html = ''
 
     html += `<h1>${ingredient.TYPE ? ingredient.TYPE.capitalize() + '/' : ''}${name.capitalize()}</h1>`
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
@@ -30,13 +30,13 @@ function IngredientTemplate (id, rect) {
   }
 
   function make_similar (search_name, recipes) {
-    var html = ''
-    var ingredients = find_ingredients(recipes)
-    var similar_ingredients = find_similar_ingredients(search_name, ingredients)
+    let html = ''
+    let ingredients = find_ingredients(recipes)
+    let similar_ingredients = find_similar_ingredients(search_name, ingredients)
 
     for (id in similar_ingredients) {
       if (similar_ingredients[id][1] < 1) { break }
-      var name = similar_ingredients[id][0]
+      let name = similar_ingredients[id][0]
       if (name.toLowerCase() == search_name.toLowerCase()) { continue }
       html += `
       <li class='ingredient'>
@@ -50,11 +50,11 @@ function IngredientTemplate (id, rect) {
   }
 
   function find_ingredients (recipes) {
-    var h = {}
+    let h = {}
     for (id in recipes) {
-      var recipe = recipes[id]
+      let recipe = recipes[id]
       for (id in recipe.INGR) {
-        var category = recipe.INGR[id]
+        let category = recipe.INGR[id]
         for (name in category) {
           h[name] = h[name] ? h[name] + 1 : 1
         }
@@ -64,11 +64,11 @@ function IngredientTemplate (id, rect) {
   }
 
   function find_similar_ingredients (name, ingredients) {
-    var a = []
+    let a = []
 
     for (id in ingredients) {
-      var words = id.toLowerCase().split(' ')
-      var index = similarity(name.toLowerCase().split(' '), words)
+      let words = id.toLowerCase().split(' ')
+      let index = similarity(name.toLowerCase().split(' '), words)
       if (index > 0) {
         a.push([id, index])
       }
@@ -82,11 +82,11 @@ function IngredientTemplate (id, rect) {
   }
 
   function similarity (a, b) {
-    var score = 0
+    let score = 0
     for (a_id in a) {
-      var word_a = a[a_id]
+      let word_a = a[a_id]
       for (b_id in b) {
-        var word_b = b[b_id]
+        let word_b = b[b_id]
         score += word_a == word_b ? 1 : 0
       }
     }
@@ -94,12 +94,12 @@ function IngredientTemplate (id, rect) {
   }
 
   function make_related (recipes) {
-    var html = ''
+    let html = ''
 
-    var count = 0
+    let count = 0
     for (id in recipes) {
-      var recipe = recipes[id]
-      var name = id
+      let recipe = recipes[id]
+      let name = id
       html += `
       <li class='recipe'>
         <a onclick="Ø('query').bang('${name}')" class='photo' href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
@@ -117,11 +117,11 @@ function IngredientTemplate (id, rect) {
   }
 
   function related_recipes (name, recipes) {
-    var h = {}
+    let h = {}
     for (id in recipes) {
-      var recipe = recipes[id]
+      let recipe = recipes[id]
       for (i in recipe.INGR) {
-        var ingredients = recipe.INGR[i]
+        let ingredients = recipe.INGR[i]
         for (n in ingredients) {
           if (n.indexOf(name.toUpperCase()) < 0) { continue }
           h[id] = recipes[id]
@@ -132,9 +132,9 @@ function IngredientTemplate (id, rect) {
   }
 
   function related_ingredients (name, tag, ingredients) {
-    var a = []
+    let a = []
     for (id in ingredients) {
-      var ingredient = ingredients[id]
+      let ingredient = ingredients[id]
       if (!ingredient.TAGS || ingredient.TAGS.indexOf(tag) < 0 || id == name) { continue }
       a.push(id)
     }
@@ -142,7 +142,7 @@ function IngredientTemplate (id, rect) {
   }
 
   function count_ingredients (recipe) {
-    var ingredients = {}
+    let ingredients = {}
     for (cat in recipe.INGR) {
       for (id in recipe.INGR[cat]) {
         ingredients[id] = 1

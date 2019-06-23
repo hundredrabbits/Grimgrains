@@ -6,8 +6,8 @@ function TemplateNode (id, rect) {
   this.cache = null
 
   this.receive = function (q) {
-    var assoc = this.signal(q.type ? q.type.slice(0, -1) : 'page')
-    var payload = assoc.answer(q)
+    let assoc = this.signal(q.type ? q.type.slice(0, -1) : 'page')
+    let payload = assoc.answer(q)
 
     this.send(payload)
     this.label = `template:${assoc.id}`

@@ -15,7 +15,7 @@ function PageTemplate (id, rect) {
       return this.signal('search').answer(q)
     }
 
-    var page = q.result
+    let page = q.result
     return {
       title: `GrimGrains — ${q.name.capitalize()}`,
       view: {
@@ -27,7 +27,7 @@ function PageTemplate (id, rect) {
   }
 
   function list (items) {
-    var html = ''
+    let html = ''
     for (id in items) {
       html += `<li>${id} -> ${items[id]}</li>`
       // html += list(items[id])

@@ -8,10 +8,10 @@ function Riven () {
 // QUERY
 
 function Ø (s, network = RIVEN.network) {
-  var id = s.toLowerCase()
+  let id = s.toLowerCase()
   if (id.indexOf(' ') > -1) {
-    var node_id = id.split(' ')[0]
-    var port_id = id.split(' ')[1]
+    let node_id = id.split(' ')[0]
+    let port_id = id.split(' ')[1]
     return network[node_id] && network[node_id].ports[port_id] ? network[node_id].ports[port_id] : null
   } else if (network[id]) {
     return network[id]
@@ -38,7 +38,7 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
   }
 
   this.create = function (pos = { x: 0, y: 0 }, type = Node, ...params) {
-    var node = new type(this.id, rect, ...params)
+    let node = new type(this.id, rect, ...params)
     this.rect.x = pos.x
     this.rect.y = pos.y
     node.setup()
@@ -47,7 +47,7 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
   }
 
   this.mesh = function (pos, n) {
-    var node = new Mesh(this.id, pos)
+    let node = new Mesh(this.id, pos)
     node.rect.x = pos.x
     node.rect.y = pos.y
     node.setup()
@@ -92,9 +92,9 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
 
   this.signal = function (target) {
     for (port_id in this.ports) {
-      var port = this.ports[port_id]
+      let port = this.ports[port_id]
       for (route_id in port.routes) {
-        var route = port.routes[route_id]
+        let route = port.routes[route_id]
         if (!route || !route.host || route.host.id != target.toLowerCase()) { continue }
         return route.host
       }
@@ -106,16 +106,16 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
 
   this.send = function (payload) {
     for (route_id in this.ports.output.routes) {
-      var route = this.ports.output.routes[route_id]
+      let route = this.ports.output.routes[route_id]
       if (!route) { continue }
       route.host.receive(payload)
     }
   }
 
   this.receive = function (q) {
-    var port = this.ports.output
+    let port = this.ports.output
     for (route_id in port.routes) {
-      var route = port.routes[route_id]
+      let route = port.routes[route_id]
       if (route) {
         route.host.receive(q)
       }
@@ -133,11 +133,11 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
   }
 
   this.request = function (q) {
-    var payload = {}
+    let payload = {}
     for (route_id in this.ports.request.routes) {
-      var route = this.ports.request.routes[route_id]
+      let route = this.ports.request.routes[route_id]
       if (!route) { continue }
-      var answer = route.host.answer(q)
+      let answer = route.host.answer(q)
       if (!answer) { continue }
       payload[route.host.id] = answer
     }
@@ -167,9 +167,9 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
     this.setup = function () {}
 
     this.update = function () {
-      var bounds = { x: 0, y: 0 }
+      let bounds = { x: 0, y: 0 }
       for (id in this.children) {
-        var node = this.children[id]
+        let node = this.children[id]
         bounds.x = node.rect.x > bounds.x ? node.rect.x : bounds.x
         bounds.y = node.rect.y > bounds.y ? node.rect.y : bounds.y
       }
@@ -179,9 +179,9 @@ function Node (id, rect = { x: 0, y: 0, w: 2, h: 2 }) {
   }
 }
 
-var PORT_TYPES = { default: 'default', input: 'input', output: 'output', request: 'request', answer: 'answer' }
-var ROUTE_TYPES = { default: 'default', request: 'request' }
-var NODE_GLYPHS = {
+let PORT_TYPES = { default: 'default', input: 'input', output: 'output', request: 'request', answer: 'answer' }
+let ROUTE_TYPES = { default: 'default', request: 'request' }
+let NODE_GLYPHS = {
   default: 'M150,60 L150,60 L60,150 L150,240 L240,150 Z',
   router: 'M60,120 L60,120 L150,120 L240,60 M60,150 L60,150 L240,150 M60,180 L60,180 L150,180 L240,240',
   parser: 'M60,60 L60,60 L240,60 M120,120 A30,30 0 0,1 150,150 M150,150 A30,30 0 0,0 180,180 M180,180 L180,180 L240,180 M120,120 L120,120 L60,120 M60,240 L60,240 L240,240 M240,120 L240,120 L180,120 M60,180 L60,180 L120,180',
