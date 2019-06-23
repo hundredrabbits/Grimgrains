@@ -12,27 +12,73 @@ function IngredientTemplate (id, rect) {
       title: `GrimGrains — ${t.name.capitalize()}`,
       view: {
         core: {
-          content: make_ingredient(t.name, ingredient, t.tables.recipes),
+          content: make_ingredient(t.name, ingredient, t.tables.recipes, t.tables.ingredients),
           related: make_related(related_recipes(t.name, t.tables.recipes))
         }
       }
     }
   }
 
-  function make_ingredient (name, ingredient, recipes) {
+  function make_ingredient (name, ingredient, recipes, all_ingredients) {
     let html = ''
 
-    html += `<h1>${ingredient.TYPE ? ingredient.TYPE.capitalize() + '/' : ''}${name.capitalize()}</h1>`
+    html += `<h1>${name.capitalize()}</h1>`
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
     html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
-    html += `${make_similar(name, recipes)}`
+    html += `${make_parents(ingredient)}`
+    html += `${make_children(name, all_ingredients)}`
+    html += `${make_similar(name, recipes, all_ingredients)}`
+    return html
+  }
+  
+  function make_parents (ingredient) {
+    let html = ''
+    if (!ingredient.PARENT) {return html}
+
+    html += "<h2>Parent Ingredients</h2><ul class='ingredients'>"
+    let parents = ingredient.PARENT.split(",")
+
+    for (id in parents) {
+      let name = parents[id].trim()
+      html += `
+      <li class='ingredient'>
+        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+          <img src='media/ingredients/${name.to_path()}.png'/>
+        </a>
+        <t class='name'>${name.capitalize()}</t>
+      </li>`
+    }
+
+    html += "</ul>"
+    return html
+  }
+  
+  function make_children (ingredient, all_ingredients) {
+    let html = ''
+    let child_ingredients = find_child_ingredients(ingredient, all_ingredients)
+    if (child_ingredients.length == 0) {return html}
+    
+    html += "<h2>Child Ingredients</h2><ul class='ingredients'>"
+
+    for (id in child_ingredients) {
+      let name = child_ingredients[id]
+      html += `
+      <li class='ingredient'>
+        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+          <img src='media/ingredients/${name.to_path()}.png'/>
+        </a>
+        <t class='name'>${name.capitalize()}</t>
+      </li>`
+    }
+    
+    html += "</ul>"
     return html
   }
 
-  function make_similar (search_name, recipes) {
+  function make_similar (search_name, recipes, all_ingredients) {
     let html = ''
     let ingredients = find_ingredients(recipes)
-    let similar_ingredients = find_similar_ingredients(search_name, ingredients)
+    let similar_ingredients = find_similar_ingredients(search_name, ingredients, all_ingredients)
 
     for (id in similar_ingredients) {
       if (similar_ingredients[id][1] < 1) { break }
@@ -46,7 +92,7 @@ function IngredientTemplate (id, rect) {
         <t class='name'>${name.capitalize()}</t>
       </li>`
     }
-    return similar_ingredients.length > 1 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${html}<hr /></ul>` : ''
+    return similar_ingredients.length >= 1 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${html}<hr /></ul>` : ''
   }
 
   function find_ingredients (recipes) {
@@ -63,10 +109,13 @@ function IngredientTemplate (id, rect) {
     return h
   }
 
-  function find_similar_ingredients (name, ingredients) {
+  function find_similar_ingredients (name, ingredients, all_ingredients) {
     let a = []
+    
+    let children = find_child_ingredients(name, all_ingredients)
 
     for (id in ingredients) {
+      if (children.includes(id.toLowerCase())) {continue}
       let words = id.toLowerCase().split(' ')
       let index = similarity(name.toLowerCase().split(' '), words)
       if (index > 0) {
@@ -79,6 +128,21 @@ function IngredientTemplate (id, rect) {
     })
 
     return a.reverse()
+  }
+  
+  function find_child_ingredients (search_name, all_ingredients) {
+    let a = []
+    
+    for (name in all_ingredients) {
+      let ingr = all_ingredients[name]
+      if (!ingr.PARENT) { continue }
+      let parents = ingr.PARENT.split(",").map(function (name) {return name.trim().toLowerCase()})
+      if (parents.includes(search_name.toLowerCase())) {
+        a.push(name.toLowerCase())
+      }
+    }
+
+    return a
   }
 
   function similarity (a, b) {
