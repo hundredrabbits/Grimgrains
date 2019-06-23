@@ -25,10 +25,10 @@ Lentils
   BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
 
 Beluga Lentils
-  Parent : lentils
+  Parent : Lentils
   Color : #000000
 Brown Lentils
-  Parent : lentils
+  Parent : Lentils
   BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
 Tempeh
   Color : #875A2C
@@ -320,20 +320,20 @@ Fenugreek
 ~ WHOLEGRAINS
 
 Whole wheat flour
-  Parent : flour
+  Parent : Flour
 Buckwheat
 Buckwheat noodles
 Buckwheat flour
-  Parent : flour
+  Parent : Flour
 Quinoa
   BREF : No description.
 Whole wheat
 Einkorn
 Einkorn Flour
-  Parent : flour
+  Parent : Flour
 Spelt
 Spelt Flour
-  Parent : flour
+  Parent : Flour
 Corn
 Cornmeal
 Corn Semolina
@@ -345,22 +345,29 @@ Oats
 Rice
   BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, it's also more nutritious and chewier than white rice. Brown rice is producted by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
+  Parent : Rice
 White Rice
+  Parent : Rice
 Black Rice
+  Parent : Rice
 Puffed Rice
+  Parent : Rice
 Brown Rice
+  Parent : Rice
 Black Glutinous Rice
+  Parent : Black Rice, Rice
 Wholegrain Brown Rice
+  Parent : Brown Rice, Rice
 Rice Noodles
 Rice Flour
-  Parent : rice, flour
+  Parent : Rice, Flour
 
 Flour
   BREF : [all_purpose#EFEFEF rice] Plain flour has an average protein content, making it versatile to use in almost any recipe that requires flour. Spelt flour was a staple food during the Bronze age all the way up to medieval times. Brown rice flour is sometimes used as a base to grow mushrooms. Einkorn wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into! 
 All Purpose Flour
-  Parent : flour
+  Parent : Flour
 Breadfruit Flour
-  Parent : flour
+  Parent : Flour
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
 Wheat Semolina
 Oatmeal
@@ -378,7 +385,9 @@ White Miso
 Tofu
   BREF : [#EFEFEF silken burmese#FFD800 mayo] The word {_bean curds_} for tofu has been used in the US since 1840.
 Silken Tofu
+  Parent : Tofu
 Burmese Tofu
+  Parent : Tofu
 Nutolene
 Soy protein
 
