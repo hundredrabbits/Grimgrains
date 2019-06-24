@@ -6,11 +6,13 @@ function RecipeTemplate (id, rect) {
   // Create the recipe body
 
   this.answer = function (t) {
+    let name = t.name
+    if (t.result && t.result.TITLE) {name = t.result.TITLE}
     return {
-      title: `GrimGrains — ${t.name.capitalize()}`,
+      title: `GrimGrains — ${name.capitalize()}`,
       view: {
         header: {
-          search: t.name.capitalize()
+          search: name.capitalize()
         },
         core: {
           content: make_content(t),
@@ -22,10 +24,11 @@ function RecipeTemplate (id, rect) {
 
   function make_content (q) {
     let recipe = q.result
+    let name = recipe.TITLE || q.name
     let html = ''
 
     html += `
-    <h1 class='name'>${q.name.capitalize()}</h1>
+    <h1 class='name'>${name.capitalize()}</h1>
     <h2 class='serving'>${recipe.SERV} — ${recipe.TIME} minutes</h2>
     <hr />
 
@@ -56,7 +59,7 @@ function RecipeTemplate (id, rect) {
 
   function formatTemperature (temperature) {
     const celcius = (parseInt(temperature) - 32) / 1.8
-    return `${temperature}°F(${parseInt(celcius / 10) * 10}°C)`
+    return `${temperature}°F / ${parseInt(celcius / 10) * 10}°C`
   }
 
   function convertTemperatures (content) {
