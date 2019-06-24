@@ -161,7 +161,7 @@ Chia seeds
 ~ ROOT VEGETABLES
 
 Nagaimo
-Carrot
+Carrots
   BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
 Heirloom Carrots
 Ginger
@@ -290,19 +290,22 @@ Persimmon
 Dates
   BREF : Date palms have been around for at least 50 million years!
 Deglet Noor Dates
+  PARENT : Dates
+Date caramel
+  PARENT : Dates
+  BREF : Date caramel is used to make {{salted caramel carob chip cookies}}, and has a recipe there.
 Pamplemousse
 Rhubarb
 Apricot Jam
 Starfruit
 Mixed fruits
 Coconut
-Date
 Plums
 Pineapple
 
 ~ SPICES
 
-Aonori
+Ao nori
 Kanten powder
   BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
 Turmeric
@@ -423,9 +426,13 @@ Einkorn Flour
 Spelt
 Spelt Flour
   PARENT : Flour
+Gluten Flour
+  PARENT : Flour
 Corn
 Cornmeal
+  PARENT : Corn
 Corn Semolina
+  PARENT : Corn
 
 ~ GRAINS
 
@@ -438,6 +445,8 @@ Basmati Rice
   PARENT : Rice
 White Rice
   PARENT : Rice
+Short Grain White Rice
+  PARENT : White Rice, Rice
 Black Rice
   PARENT : Rice
 Puffed Rice
@@ -482,7 +491,6 @@ Red Miso
 ~ Tell me (microlith57) if this color needs changing.
 White Miso
   COLOR : #955C19
-~ #FFD800 mayo?
 Tofu
   COLOR : #EFEFEF
   BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{silken tofu}}, {{burmese tofu}}.
@@ -492,6 +500,9 @@ Silken Tofu
 Burmese Tofu
   PARENT : Tofu
   COLOR : #EFEFEF
+Tofu Mayo
+  PARENT : Tofu
+  COLOR : #FFD800
 Nutolene
 Soy protein
 
@@ -518,7 +529,7 @@ Cornstarch
 Active dry yeast
 Baking soda
   BREF : Since sodium bicarbonate can cause alkalosis, it's sometimes used to treat aspirin overdoses.
-Agar agar
+Agar agar powder
   BREF : Agar is used to make impression material in dentistry.
 Arrowroot starch
 
