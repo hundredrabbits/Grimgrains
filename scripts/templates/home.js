@@ -57,14 +57,14 @@ function HomeTemplate (id, rect) {
     for (id in ingredients) {
       let name = ingredients[id][0]
       html += `
-      <li class='ingredient ${!table[name] ? 'missing' : ''}'>
+      <li class='ingredient${!table[name] ? ' missing' : ''}'>
         <a href='#${name.to_url()}' onclick="Ø('query').bang('${name}')">
           <img src='media/ingredients/${name.to_path()}.png'/>
         </a>
         <t class='name'>${name.capitalize()}</t>
       </li>`
     }
-    return `<ul class='ingredients'>${html}<hr/></ul>`
+    return `<ul class='ingredients'>${html}</ul>`
   }
 
   function count_ingredients (recipe) {
