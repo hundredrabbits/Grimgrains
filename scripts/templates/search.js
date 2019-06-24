@@ -32,7 +32,8 @@ function SearchTemplate (id, rect) {
     <h1 class='name'>Could not find "${q.name}"</h1>
     <h2 class='serving'>404</h2>
     <hr />
-    <p>Did you mean <a onclick="Ø('query').bang('${similar[0].word.toLowerCase()}')" href='#${similar[0].word.toLowerCase().to_url()}'>${similar[0].word.toLowerCase()}</a>, <a onclick="Ø('query').bang('${similar[1].word.toLowerCase()}')" href='#${similar[1].word.toLowerCase().to_url()}'>${similar[1].word.toLowerCase()}</a> or <a onclick="Ø('query').bang('${similar[2].word.toLowerCase()}')" href='#${similar[2].word.toLowerCase().to_url()}'>${similar[2].word.toLowerCase()}</a>.</p>`
+    <p>Did you mean <a onclick="Ø('query').bang('${similar[0].word.toLowerCase()}')" href='#${similar[0].word.toLowerCase().to_url()}'>${similar[0].word.toLowerCase()}</a>, <a onclick="Ø('query').bang('${similar[1].word.toLowerCase()}')" href='#${similar[1].word.toLowerCase().to_url()}'>${similar[1].word.toLowerCase()}</a>, or <a onclick="Ø('query').bang('${similar[2].word.toLowerCase()}')" href='#${similar[2].word.toLowerCase().to_url()}'>${similar[2].word.toLowerCase()}</a>?</p>
+    <p>To create this page, open an issue or pull request ${"{{on GitHub|https://github.com/hundredrabbits/Grimgrains}}".to_markup()}.</p>`
 
     return html
   }
