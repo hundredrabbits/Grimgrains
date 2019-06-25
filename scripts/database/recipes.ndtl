@@ -1,5 +1,38 @@
 DATABASE.recipes = `
 
+Scrambled chickpeas
+  DATE : 2019-06-25
+  TAGS
+    sidedish
+  TIME : 15
+  SERV : 2 servings
+  DESC
+    & An ingredient that is important in my galley, is {{chickpea flour}}, also known as garbanzo flour, gram flour and besan flour. It is not an essential ingredient, but I really love it. It helps to give my meals variety, plus it has a long shelf life due to the low-moisture and low-fat content.
+    % recipes/scrambled.chickpeas.2.jpg
+    & Chickpea flour has a texture and taste that is ideal for savoury pancakes or faux-omelettes. As this recipe suggests, it also makes a very good alternative to scrambled tofu. 
+    & {*Flavors*}
+    & You can add extra flavourings, like chili pepper flakes, curry powder, cumin, smoked paprika or liquid smoke for an extra kick.
+    & {*Recommendations*}
+    & I like to eat scrambled chickpeas with a side of sliced avocado, topped with a drizzle of sambal oelek or {{sriracha}}. Sometimes when I make meal salads, I add scrambled chickpeas for bulk. Another meal I enjoy with this recipe is a sort of ovenless deconstructed {{pate chinois}} (quebec-style sheperd's pie), I eat it with mashed potatoes, corn and sambal oelek. You can also make this with cooked chickpeas by smashing them with a fork and mixing them up with nutritional yeast, salt and other flavourings. 
+    % recipes/scrambled.chickpeas.3.jpg
+
+  INST
+    Scrambled chickpeas
+      - In a bowl, mix {_1/2 cup_} of {{chickpea flour}}, {_1/4 cup_} of {{nutritional yeast}}, {_1 tbsp_} of {{tahini}} and a {_pinch_} of {{salt}}.
+      - Bring a non-stick pan to medium heat. Sprinkle a bit water in the pan, if it sizzles pour the contents of the bowl into the pan. (this will make it stick less)
+      - Let mixture heat for {#3-5 minutes#}.
+      - When the edges start to cook, flip it and start to break it apart with the side of the spatula.
+      - Let it cook {#for a minute#}, then continue to break it apart further. You'll need to do this repeatedly, until the mixture is broken up into smaller bits and until it has become dry and crisp for {#8-10 minutes or so#}. When cooking, it's important to stir often, and to constantly break it up into smaller bits so all sides can can cook. 
+      - NOTE: I like to use a spatula and a fork to break it up, and also to brush some of the batter off the spatula (it is very wet in the beginning and is a bit sticky). Serve into salads, or as a side for other dishes. 
+
+  INGR
+    Main
+      Chickpea flour : 1/2 cup
+      Nutritional yeast : 1/4 cup
+      Tahini : 1 tbsp
+      Salt : to taste
+      Water : 2/3 cup
+
 CHEESE
   DATE : 2019-06-09
   TAGS
@@ -118,7 +151,7 @@ OKONOMIYAKI
   SERV : 4 servings
   DESC
     & {*Okonomiyaki*} (meaning, 'grilled as you like it') is a Japanese dish, similar to the American omelette, but the main difference is the variation of ingredients. Typical okonomiyaki are made with eggs, and often include meat or fish, because of this it's not something we would make at home. Making it without meat is simple enough, but without eggs? Back when we lived in Tokyo, our experience in cooking with plants was limited, but now we've been doing it long enough that we can think of alternatives with ease.
-    & The key ingredient? Chickpea flour, or 'besan flour'. We make chickpea pancakes, and scrambled chickpea flour (resembles scrambled eggs) at home all the time. Chickpea flour is a staple on Pino, and works very well for okonomiyaki.
+    & The key ingredient? {{Chickpea flour}}, or 'besan flour'. We make chickpea pancakes, and {{scrambled chickpeas}} (resembles scrambled eggs) at home all the time. Chickpea flour is a staple on Pino, and works very well for okonomiyaki.
     % recipes/okonomiyaki.1.jpg
     & If you're in a place were nagaimo (or yamaimo) is available, we highly reccommend adding it to the dish. It makes a fluffier pancake. Although we've made okonomiyaki without nagaimo before, so if you can't find it know that it will work and be very delicious anyway. It imparts little flavour, all it does is add nutrition and texture. Nagaimo, unlike most potatoes, can be eaten raw. However, it is best to handle the nagaimo with gloves, or to soak the peeled tuber in a vinegar-water solution to neutralize irritant {*oxalate crystals*} found on their skin. Nagaimo are low-calorie, high in protein, and have potassium, zinc, vitamin C and more. The texture of grated nagaimo can be off-putting, it looks like a regular tuber when whole, but when grated it becomes slime, almost liquid. This sort of texture is well-liked in Japan and referred to as being "neba neba" (slimy); it is present in many other foods like okra and nattou. This texture makes it an ideal egg alternative, it can be used to make deserts when baking. I'm thinking it too, could make a good faux-cheese pizza topping.
     & Aonori is another obscure ingredient - again, it can be omitted, although it tastes really amazing with it. We made okonomiyaki without it when we were in Majuro, because it simply wasn't available, so we used finely cut nori instead. Obviously, this isn't a perfect substitution, because aonori is very sweet and tastes nothing like nori. However, nori is still very delicious and pairs well enough with the okonomiyaki.
@@ -562,8 +595,9 @@ MISO VEGGIE PATE
   TIME : 60
   SERV : 4 blocks
   DESC
-    & Végé pâté is a quebec staple food, it's one of those things that you never think to make yourself. Every picnic i had this summer included this, it's great with veggies, on crackers and in sandwiches too! Purchasing it pre-made can get expensive, and not all kinds are good. This summer i decided to make it myself.
-    & A lot of végé pâté recipes call for whole wheat flour, I've made it using it before with great results. If you don't have oats, you can use whole wheat flour instead. AUsing oats as a substitute works great, I always have a bucket-load of steel-cut oats lying around. To grind it down into flour i use my blender stick, it takes more time but it works well!
+    & Végé pâté is a quebec staple food, it's also one of those things that most people never think to make yourself. Every picnic I had this summer included this, it's great with veggies, on crackers and in sandwiches too! Purchasing it pre-made can be expensive, and not all brands are good. This summer, I decided to learn to make it myself.
+    & {*Recommendations*}
+    & A lot of végé pâté recipes call for whole wheat flour, I've made pâté with it before with great results. If you don't have oats, you can use whole wheat flour instead. Using oats as a substitute works great, I always have a bucket-load of steel-cut oats lying around. To grind the whole oats down into flour, I use my mortar and pestle, but a handstick blender would work well too.
   INST
     Preparation
       - Soak {_1 cup_} of deshelled and {{unsalted sunflower seeds}} in {{water}} for at least {#8 hours#}. They will be easier to grind this way.
@@ -868,10 +902,10 @@ TERIYAKI CARROT PATTIES
   TIME : 40
   SERV : 2 servings
   DESC
-    & Taking the time to cook good food, is important. Someone said this to me ages ago, never forgot it, but it took me a while to understand and to do that myself. I now take the time, because food matters.
+    & Taking the time to cook good food is important, someone said this to me ages ago, never forgot it. It took me a while to understand, I didn't always care about what I ate. I now take the time, because food matters.
     % recipes/teriyaki.carrot.patties.2.jpg
     & Cooking isn't just about getting your hunger pangs to go away, it's also a time to be creative.
-    & With this recipe, I wanted to make something nutritious that would look nice on a plate. I didn't have to go out to get special ingredients, I just looked in my fridge and used items I had on hand. If you're planning a meal but are missing an item, try and see what else you can use instead. Doing this, will make you a more creative cook.
+    & With this recipe, I wanted to make something nutritious that would look nice on a plate. I didn't have to go out to get special ingredients, I just looked in my fridge and used items I had on hand. The result was fantastic! 
   INST
     Patties
       - Peel, and chop {_2_} {{carrots}} into pieces, mince {_2 cloves_} of {{garlic}}, chop {_1/2_} a {{yellow onion}} finely, grind {_4 tbsp_} of {{steel-cut oats}} into powder, and cut {_1 cup_} of {{raw cubed pumpkin bits}}.
@@ -1149,10 +1183,10 @@ FRENCH TOAST
   TIME : 20
   SERV : 4 servings
   DESC
-    & I baked a beautiful loaf of sandwich bread, with a soft texture that is perfect for french toast.
-    & It was my first time baking bread in a bread pan, I usually opt for free-form loaves, but for sandwich and french toast purposes it works better if it has a constrained shape.
-    & You can make your own soft bread, using my {{Basic bread|basic black bread}} recipe - it's very easy to make and you don't have to make it black (you can omit the bamboo charcoal).
-    & Using bananas makes for a consistent morning meal, and adds a bit of sweetness to it — bananas become sweeter when heated in a pan, it caramelizes and has a very pleasant taste. Adding a banana to the soy milk helps to thicken the mix, and will make the bread become a 'golden' color.
+    & I baked a beautiful loaf of sandwich bread with a soft texture that is perfect for french toast.
+    & It was my first time baking bread in a bread pan. I usually opt for free-form loaves, but for sandwich and french toast purposes, it works better if it has a constrained shape.
+    & You can make your own soft bread using my {{Basic black bread}} recipe - it's very easy to make. You can omit the {{bamboo charcoal}} if you don't want your dough to be black.
+    & Using bananas makes for a consistent morning meal, and adds a bit of sweetness to it. Bananas become sweeter when heated in a pan, they caramelize and develop a very pleasant taste. Adding a banana to the soy milk helps to thicken the mix and will make the bread become a 'golden' color.
     % recipes/french.toast.2.jpg
     & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
@@ -1161,7 +1195,7 @@ FRENCH TOAST
       - Melt {_1 tsp_} of {{coconut oil}} in a pan at medium heat, dip slice into the banana purée batter. Pan-fry bread until golden and crispy on both sides.
       - Serve with slices of {{kiwi}}, or a fruit of your choice, along with a generous serving of maple syrup!
     Black bread
-      - If you want to make black bread please refer to my {{basic bread recipe|basic black bread}}. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
+      - If you want to make black bread please refer to my {{basic black bread}} recipe. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
   INGR
     Main
       Banana : 1
@@ -1219,11 +1253,12 @@ UZUMAKI HUMMUS BITES
   TIME : 50
   SERV : 11 tortillas
   DESC
-    & {*Uzumaki*} means 'spiral' in Japanese, also the name of my favourite Junji Ito story. I thought this to be a good name for these savoury beet hummus bites.
+    & {*Uzumaki*} means 'spiral' in Japanese, it is also the name of my favourite Junji Ito story. I thought this to be a good name for these savoury beet hummus bites.
     % recipes/uzumaki.hummus.bites.2.jpg
-    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way, is to use a tortilla press, or it just requires lots of practice.
+    & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way is to use a tortilla press, or it just requires lots of practice.
     % recipes/uzumaki.hummus.bites.3.jpg
-    & Making the tortillas black is optional, but it adds a nice contrast to the beet hummus. NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
+    & Making the tortillas black is optional, but it adds a nice contrast to the beet hummus. 
+    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Beet hummus
       - Preheat oven to {#375F#}.
@@ -1455,12 +1490,12 @@ CARROT KINPIRA ONIGIRAZU
   TIME : 20
   SERV : 4 servings
   DESC
-    & Even if I don't live in Tokyo anymore, I try and keep up with what's happening over there. I still follow the news, and try to translate some simple texts to see how many kanji I've forgotten. My favourite kanji is the one for bone '骨' (pronounced 'ho-ne'). I also love the kanji combination for jellyfish or '水母' (pronounced 'ku-ra-ge'), which beautifully translates to 'water mother'. These two words come together to create this expression '水母の' or 'jellyfish bones'. It is used when talking about something that you would not expect to exist, like bones in a jellyfish. I could go on, but seeing as how this has nothing to with food, here goes. The recipe I'm sharing with you today is Japanese inspired, and is also currently part of a craze over there. I made some onigirazu, a sort of hybrid, Japanese rice ball sandwich.
-    & The word onigiri (or nigiru) means to press into shape using your hands, while "razu" means the opposite. Free form onigiri! This is perfect for people who have a hard time making rice balls, as is the case for me. Onigirazu has the same great taste, without the fear of imperfection. All the shame is hidden away under a blanket of nori, and fillings.
-    & The concept of this rice sandwich, is perfect when you don't have the right type of rice available for onigiri. You can use just about any type, i tested it out a few different kinds.
-    & The rice was seasoned with miso for added flavour, and was filled with carrot kinpira. Kinpira means "sauteed" (sually with a mixture of mirin soy sauce and chili peppers.) It's a sweet, and spicy dish that is often served in bentos. I knew I wanted this as a filling for my onigirazu, to satisfy my sudden craving for Japanese food. This would have been amazing with gobo, but finding the root here in Montreal is no easy task.
+    & An onigirazu is a Japanese rice ball sandwich, or a 'lazy onigiri'. 
+    & The word onigiri (or nigiru) means to press into shape using your hands, while "razu" means the opposite. Free form onigiri! This is perfect for people who have a hard time making rice balls, as is the case for me. Onigirazu has the same great taste, without the fear of imperfection. 
+    & This recipe is perfect when you don't have the right type of rice available for onigiri. You can use just about any type, I tested it out a few different kinds. The seaweed wrapping will keep it together, thus eliminating the need for sticky rice.
+    & The rice was seasoned with miso for added flavour, and was filled with carrot 'kinpira' — 'Kinpira' means "sauteed" (usually with a mixture of mirin soy sauce and chili peppers.) It's a sweet and spicy dish that is often served in bentos. 
     % recipes/carrot.kinpira.onigirazu.2.jpg
-    & You should try and make your own version of onigirazu at home! As i said, it's no-fail. I may not live near a 24h kombini, with readily available onigiri anymore, but i know i can make some at home easily, and quickly.
+    & You should try and make your own version of onigirazu at home! As I said, it's no-fail.
 
   INST
     Kinpira carrot
@@ -1848,9 +1883,13 @@ CORN DUMPLINGS
   TIME : 40
   SERV : 2 people
   DESC
-    & While Devine & I were still in British Columbia, I remember one morning waking up to the sound knocking at our boat. It was our neighbours, coming to offer some homemade pan-fried corn pone. I'd never had corn pone before, nor did I ever think of making any sort of flat cake using corn as a base. After that, I started to make it myself and would serve it with chili - lazy cornbread, as I like to call it. While sitting in the Niue yatch club, I found an old vegetarian cookbook; I must have spent an hour reading through it, the recipes were fantastic. The title read "The Farm Vegetarian Cookbook". It was sitting there, amongst a panoply of writing, including a Polish Murakami book (how I wish it had been written in English). The cookbook had an entire section dedicated to cooking with corn. It's in there that I found a recipe for masa dumplings.
-    & Masa is corn that is simmered and ground into a paste. It's the base for many recipes, you can make Mexican-style tortillas with it! Or, you can use it to make dumplings! I don't have access to fresh corn, nor do I have the space or the time to make my own masa, but I used polenta ({{corn semolina}}) instead and it worked! The only difference is that you need to add boiling water so you you can roll the mixture into balls. If you were to use masa, you wouldn't need the added moisture. The texture of the dumplings is fun and chewy. The outside is soft, but the inside is like that of dense cornbread. Corn dumplings, I imagine, could be used to make fake meatballs. Devine & I enjoy eating it with tomato sauce or with a spicy apricot sauce.
-    & Instead of apricot jam, you can add apricot juice to the mix (orange will taste wonderful too). I added jam because I don't have any juice on the boat currently, and besides, it works well in this recipe. Enjoy!
+    & While Devine & I lived in British Columbia, I remember one morning waking up to the sound of knocking on our boat, it was our neighbours, coming to offer some homemade pan-fried corn pone. It was delicious, and all to simple to prepare... just some cornmeal, water, salt and a bit of oil.
+    & I'd never had corn pone before, nor did I ever think of making any sort of flat cake using corn as a base. After that, I started to make it myself and would serve it with chili - lazy cornbread, as I like to call it. & While sitting in the Niue yatch club, I found an old vegetarian cookbook. I must have spent an hour reading through it, the recipes were fantastic, the title read "The Farm Vegetarian Cookbook". It was sitting there, amongst a panoply of writing, including a Polish Murakami book (how I wish it had been written in English). The cookbook had an entire section dedicated to cooking with corn. It's in there that I found a recipe for masa dumplings.
+    & Masa is corn that is simmered and ground into a paste. It's the base for many recipes, you can make Mexican-style tortillas with it, that, or you can use it to make dumplings! I don't have access to fresh corn, nor do I have the space or the time to make my own masa, but I used polenta ({{corn semolina}}) instead and it worked! The only difference is that you need to add boiling water so you can roll the mixture into balls. If you were to use masa, you wouldn't need the added moisture. 
+    & The texture of the dumplings is fun and chewy. The outside is soft, but the inside is like that of dense cornbread. 
+    {*Recommendations*}
+    & Devine & I enjoy eating it with tomato sauce or with a spicy apricot sauce.
+    & Instead of apricot jam, you can add apricot juice to the mix (orange will taste wonderful too). I added jam because I didn't have any juice on the boat, and besides, it works well in this recipe. Enjoy!
   INST
     Preparation
       - Mix {_1 cup_} {{corn semolina}}, {_1/4 cup_} {{all purpose flour}}, {_1/2 tsp_} {{baking soda}}, {_1 tsp_} {{baking powder}}, and {_1/2 tsp_} of {{salt}}. Stir until well mixed.
