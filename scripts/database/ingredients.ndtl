@@ -1,6 +1,7 @@
 DATABASE.ingredients = `
 
 Coffee
+  PARENT : Beans
   BREF : {{Coffee}} is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the {{Coffea plant|https://en.wikipedia.org/wiki/Coffea}}.
   LONG
     % blog/coffee.2.jpg
@@ -28,11 +29,13 @@ Lentils
     Lentil
 
 Beluga Lentils
+  PARENT : Lentils
   COLOR : #000000
   TAGS
     Legume
     Lentil
 Brown Lentils
+  PARENT : Lentils
   BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
   TAGS
     Legume
@@ -45,6 +48,7 @@ Peanut Butter
 Peanuts
   BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts, and can be made into {{peanut butter}}.
 Soy beans
+  PARENT : Beans
   COLOR : #EFEFEF
   LONG
     & A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. If you produce your own {{soy milk}}, know that there won't be any waste. The pulp can be used to make okara, which you can use to make baked goods.
@@ -53,13 +57,21 @@ Beans
   LONG
   & Fun fact: there are over 130 varieties of {{green beans}}.
   & See also: {{black beans}}, {{green beans}}, and {{kidney beans}}
+Black beans
+  PARENT : Beans
+Green beans
+  PARENT : Beans
+Kidney beans
+  PARENT : Beans
 Edamame
 Chickpeas
 Chickpea Flour
-  BREF : Chickpea flour is made from {{chickpeas}}.
+  PARENT : chickpeas, flour
 Peas
 Green Peas
+  PARENT : Peas
 Mungbeans
+  PARENT : Beans
 
 ~ CRUCIFEROUS
 
@@ -96,28 +108,41 @@ Radish
 
 ~ ALGEA FUNGI
 
+Seaweed
+Mushroom
 Wakame
+  PARENT : Seaweed
   COLOR : #006633
   BREF : Wakame is a very invasive plant - it's even banned in Australia.
 Dried Hijiki
+  PARENT : Seaweed
 Bull kelp powder
+  PARENT : Seaweed
 Nori
+  PARENT : Seaweed
   COLOR : #000000
-  BREF : Nori can be made into {{sheets|nori sheets}}. Fun fact: seaweed takes about 45 days to grow.
+  BREF : Fun fact: seaweed takes about 45 days to grow.
 Nori Sheets
+  PARENT : Nori, Seaweed
 Shiitake
+  PARENT : Mushroom
   COLOR : #875A2C
 Crimini
+  PARENT : Mushroom
   COLOR : #875A2C
   BREF : Mature crimini mushrooms are actually {{portobello}} mushrooms.
 Portobello
+  PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Portobello are mature {{crimini}} (or common) mushrooms. They can be used in plantbased recipes as hamburger steaks, you can even use them as buns.
+  BREF : Portobello are mature {{crimini}} (or common) mushrooms. They can be used in plant-based recipes as hamburger steaks, you can even use them as buns.
 Shimeji
+  PARENT : Mushroom
 Button Mushrooms
-Dehydrated mushro
+  PARENT : Mushroom
 Black mushrooms
+  PARENT : Mushroom
 Straw mushrooms
+  PARENT : Mushroom
 
 ~ SEEDS
 
@@ -136,35 +161,43 @@ Chia seeds
 ~ ROOT VEGETABLES
 
 Nagaimo
-Carrot
+Carrots
   BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
 Heirloom Carrots
 Ginger
 Ginger Root
+  PARENT : Ginger
 Potatoes
   BREF : Since vitamin A deficiency is a common problem in Africa, people are encouraged to eat {{sweet potatoes}}.
 Russet Potatoes
-  BREF : A type of {{potato|potatoes}}.
+  PARENT : Potatoes
 Sweet Potatoes
-  BREF : A type of {{potato|potatoes}}.
+  PARENT : Potatoes
 Beets
   LONG
     & {{Golden beets}} are rich in b-xanthin pigment, so they cannot replace {{red beets}} (which contain betalain pigment). Both pigments offer different health benefits!
     & The root of the beet plant is called a beetroot. Don't be alarmed, beetroot juice will make your urine red for a day.
 Golden Beets
+  PARENT : Beets
   BREF : A type of {{beet|beets}} containing b-xanthin pigment.
 Red Beets
+  PARENT : Beets
   BREF : A type of {{beet|beets}} containing betalain pigment.
 Yuka
   BREF : Tapioca is actually a starch extracted from Yuca roots.
 Garlic
   BREF : Garlic has been used in many cultures around the world for thousands of years, dating all the way back to the time the pyramids were built!
 Garlic Powder
+  PARENT : Garlic
+Onion
 Red Onion
+  PARENT : Onion
   COLOR : #C820B3
-  BREF : There is a variety of red onions in italy that has a stronger and sweeter taste, it is sometimes made into marmalades.
+  BREF : There is a variety of red onion in Italy that has a stronger and sweeter taste, and is sometimes made into marmalade.
 Onion Powder
+  PARENT : Onion
 Yellow Onion
+  PARENT : Onion
 
 ~ OTHER VEGETABLES
 
@@ -177,11 +210,14 @@ Chives
 Peppers
   BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
 Green Peppers
+  PARENT : Peppers
 Red Peppers
+  PARENT : Peppers
 Yellow Peppers
+  PARENT : Peppers
 Tomato
-  BREF : The tomatoes can also be dried with an oven.
 Tomato Paste
+  PARENT : Tomato
   BREF : The tomatoes can also be dried with an oven.
 Avocado
   BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of fat. Fun fact: Avocado trees don't self-pollinate, they need another avocado tree nearby to bear fruit.
@@ -189,7 +225,11 @@ Pumpkin
   BREF : The darker the skin of the pumpkin, the higher the beta-carotene content.
 Olives
 Green Olives
+  PARENT : Olives
 Black Olives
+  PARENT : Olives
+Pimento Olives
+  PARENT : Olives
 Palm
   BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad.
 Squash
@@ -208,6 +248,7 @@ Alfaalfa sprouts
 
 Raisins
 Dried Raisins
+  PARENT : Raisins
 Blackberries
 Cherries
 Mulberries
@@ -249,19 +290,22 @@ Persimmon
 Dates
   BREF : Date palms have been around for at least 50 million years!
 Deglet Noor Dates
+  PARENT : Dates
+Date caramel
+  PARENT : Dates
+  BREF : Date caramel is used to make {{salted caramel carob chip cookies}}, and has a recipe there.
 Pamplemousse
 Rhubarb
 Apricot Jam
 Starfruit
 Mixed fruits
 Coconut
-Date
 Plums
 Pineapple
 
 ~ SPICES
 
-Aonori
+Ao nori
 Kanten powder
   BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
 Turmeric
@@ -284,10 +328,13 @@ Mint
   COLOR : #006633
   BREF : Oil derived from {{fresh mint}} can be used as a friendly insecticide.
 Fresh Mint
+  PARENT : Mint
 Cocoa
 Cocoa Powder
-Cayenne
+  PARENT : Cocoa
 Cayenne Pepper
+Cayenne Powder
+  PARENT : Cayenne Pepper
 Anise
 Anise Seeds
 Nutritional yeast
@@ -366,18 +413,26 @@ Fenugreek
 ~ WHOLEGRAINS
 
 Whole wheat flour
+  PARENT : Flour
 Buckwheat
 Buckwheat noodles
 Buckwheat flour
+  PARENT : Flour
 Quinoa
 Whole wheat
 Einkorn
 Einkorn Flour
+  PARENT : Flour
 Spelt
 Spelt Flour
+  PARENT : Flour
+Gluten Flour
+  PARENT : Flour
 Corn
 Cornmeal
+  PARENT : Corn
 Corn Semolina
+  PARENT : Corn
 
 ~ GRAINS
 
@@ -387,14 +442,24 @@ Oats
 Rice
   BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
+  PARENT : Rice
 White Rice
+  PARENT : Rice
+Short Grain White Rice
+  PARENT : White Rice, Rice
 Black Rice
+  PARENT : Rice
 Puffed Rice
+  PARENT : Rice
 Brown Rice
+  PARENT : Rice
 Black Glutinous Rice
+  PARENT : Black Rice, Rice
 Wholegrain Brown Rice
+  PARENT : Brown Rice, Rice
 Rice Noodles
 Rice Flour
+  PARENT : Rice, Flour
 
 Flour
   COLOR : #EFEFEF
@@ -405,7 +470,9 @@ Flour
     & {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
     & {{Breadfruit flour}} is a type of flour made from dried and ground breadfruit.
 All Purpose Flour
+  PARENT : Flour
 Breadfruit Flour
+  PARENT : Flour
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
 Wheat Semolina
 Oatmeal
@@ -424,14 +491,18 @@ Red Miso
 ~ Tell me (microlith57) if this color needs changing.
 White Miso
   COLOR : #955C19
-~ #FFD800 mayo?
 Tofu
   COLOR : #EFEFEF
   BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{silken tofu}}, {{burmese tofu}}.
 Silken Tofu
+  PARENT : Tofu
   COLOR : #EFEFEF
 Burmese Tofu
+  PARENT : Tofu
   COLOR : #EFEFEF
+Tofu Mayo
+  PARENT : Tofu
+  COLOR : #FFD800
 Nutolene
 Soy protein
 
@@ -458,7 +529,7 @@ Cornstarch
 Active dry yeast
 Baking soda
   BREF : Since sodium bicarbonate can cause alkalosis, it's sometimes used to treat aspirin overdoses.
-Agar agar
+Agar agar powder
   BREF : Agar is used to make impression material in dentistry.
 Arrowroot starch
 
