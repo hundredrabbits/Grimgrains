@@ -1699,6 +1699,7 @@ HIJIKI SOBA
   TAGS
     pasta
   TIME : 40
+  HIDE : yes
   SERV : 2 portions
   DESC
     & After Japan opened itself to the world, Japanese cooks began to adapt western dishes in their own style. For instance in the west, people use ketchup as a condiment, but the Japanese use it as a base for tomato sauces. Spaghetti naporitan was created just after World War II, after Shigetada (the head chef at the Hotel New Grand in Yokohama) saw occupying soldiers eating it. Nowadays, you can find spaghetti seasoned with soy sauce, and served with seaweed.
@@ -1888,8 +1889,8 @@ CORN DUMPLINGS
     & Masa is corn that is simmered and ground into a paste. It's the base for many recipes, you can make Mexican-style tortillas with it, that, or you can use it to make dumplings! I don't have access to fresh corn, nor do I have the space or the time to make my own masa, but I used polenta ({{corn semolina}}) instead and it worked! The only difference is that you need to add boiling water so you can roll the mixture into balls. If you were to use masa, you wouldn't need the added moisture. 
     & The texture of the dumplings is fun and chewy. The outside is soft, but the inside is like that of dense cornbread. 
     {*Recommendations*}
-    & Devine & I enjoy eating it with tomato sauce or with a spicy apricot sauce.
-    & Instead of apricot jam, you can add apricot juice to the mix (orange will taste wonderful too). I added jam because I didn't have any juice on the boat, and besides, it works well in this recipe. Enjoy!
+    & Devine & I enjoy eating it with tomato sauce or with a spicy apricot sauce. Instead of apricot jam, you can add apricot juice to the mix (orange will taste wonderful too). I added jam because I didn't have any juice on the boat, and besides, it works well in this recipe. 
+    & Adding extra spices, like cumin, chili flakes and turmeric will add a nice flavour to the dumpling mix. 
   INST
     Preparation
       - Mix {_1 cup_} {{corn semolina}}, {_1/4 cup_} {{all purpose flour}}, {_1/2 tsp_} {{baking soda}}, {_1 tsp_} {{baking powder}}, and {_1/2 tsp_} of {{salt}}. Stir until well mixed.
