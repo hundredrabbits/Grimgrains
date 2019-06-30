@@ -6,8 +6,7 @@ ABOUT
     & This website showcases our favourite creations, along with hand-drawn illustrations for {{each ingredient|ingredients-list}}. You can contact us on our twitter {{@grimgrains|http://twitter.com/grimgrains}}, or by email at rekkabell at gmail dot com.
     * Copyright policy
     & You may adapt our recipes, but a link back or mention would be nice :).
-    * Disclaimer
-    & The content of grimgrains.com, unless stated otherwise, is © hundredrabbits. All rights reserved. Photographs, drawings or text should not be used, published, reprinted or modified without our permission.
+    & The assets of grimgrains.com, unless stated otherwise, are {{©hundredrabbits|http://100r.co/}}. Photographs, drawings or text should not be used, published, reprinted or modified without our permission. The source code of the website is under the {{MIT License|https://github.com/hundredrabbits/Grimgrains/blob/master/LICENSE}}.
     & All recipes featured on grimgrains.com are our own, unless stated otherwise. The information is for food enthusiasts like ourselves, we do not claim to be all-knowing. Nor are we health professionals. Our views are our own, we encourage openness and curiosity whenever possible.
     * Privacy statement
     & We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.
