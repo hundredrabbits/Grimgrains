@@ -16,7 +16,8 @@ function graph () {
     Ø('search').create({ x: 5, y: 14 }, SearchTemplate),
     Ø('home').create({ x: 2, y: 14 }, HomeTemplate),
     Ø('recipe').create({ x: 5, y: 8 }, RecipeTemplate),
-    Ø('ingredient').create({ x: 8, y: 8 }, IngredientTemplate)
+    Ø('ingredient').create({ x: 8, y: 8 }, IngredientTemplate),
+    Ø('service').create({ x: 8, y: 14 }, ServiceTemplate)
   ])
 
   Ø('client').mesh({ x: 32, y: 0 }, [
@@ -44,7 +45,7 @@ function graph () {
 
   // Assoc
   Ø('template').syphon(['recipe', 'ingredient', 'page'])
-  Ø('page').syphon(['home', 'search'])
+  Ø('page').syphon(['home', 'search', 'service'])
 
   Ø('template').connect(['view', 'document'])
   Ø('view').bind(['header', 'core', 'footer'])

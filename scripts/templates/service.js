@@ -1,22 +1,17 @@
-function HomeTemplate (id, rect) {
+function ServiceTemplate (id, rect) {
   Node.call(this, id, rect)
 
   this.glyph = NODE_GLYPHS.render
 
   this.answer = function (q) {
-    let ingredients = find_ingredients(q.tables.recipes)
-
-    ingredients['coffee'] = 1
-
-    let sorted_ingredients = sort_ingredients(ingredients)
+    let recipe_ingredients = find_ingredients(q.tables.recipes)
 
     let html = `
-    ${make_ingredients(sorted_ingredients, q.tables.ingredients)}
-    <h1>Recipes</h1>
-    ${make_recipes(q.tables.recipes)}
+    ${make_pageless(recipe_ingredients, q.tables.ingredients)}
+    ${make_unused(recipe_ingredients, q.tables.ingredients)}
     `
     return {
-      title: `GrimGrains — Home`,
+      title: `GrimGrains — Service Panel`,
       view: {
         core: {
           content: html,
@@ -27,29 +22,71 @@ function HomeTemplate (id, rect) {
   }
 
   function find_ingredients (recipes) {
-    let h = {}
+    let h = []
     for (id in recipes) {
       let recipe = recipes[id]
       for (id in recipe.INGR) {
         let category = recipe.INGR[id]
         for (name in category) {
-          h[name] = h[name] ? h[name] + 1 : 1
+          if (!h.includes(name.toLowerCase())) {h.push(name.toLowerCase())}
         }
       }
     }
     return h
   }
-
-  function sort_ingredients (ingredients) {
-    let a = []
-    for (name in ingredients) {
-      let value = ingredients[name]
-      a.push([name, value])
+  
+  function make_pageless (used, pages) {
+    let pageless = find_pageless(used, pages)
+    let html = ""
+    for (id in pageless) {
+      html += `
+      <li class='ingredient missing'>
+        <a href='#${pageless[id].to_url()}' onclick="Ø('query').bang('${pageless[id]}')">
+          <img src='media/ingredients/${pageless[id].to_path()}.png'/>
+        </a>
+        <t class='name'>${pageless[id].capitalize()}</t>
+      </li>`
     }
-    a.sort(function (a, b) {
-      return a[1] - b[1]
-    })
-    return a
+    if (html == "") {return `<h2>No Ingredients Without Pages!</h2>`}
+    return `<h2>Ingredients Without Pages</h2><ul class='ingredients'>${html}</ul>`
+  }
+  
+  function find_pageless (used, pages) {
+    let pageless = []
+    
+    for (id in used) {
+      let name = used[id].toUpperCase()
+      if (!pages[name]) {pageless.push(name)}
+    }
+    
+    return pageless
+  }
+  
+  function make_unused (used, pages) {
+    let unused = find_unused(used, pages)
+    let html = ""
+    
+    for (id in unused) {
+      html += `
+      <li class='ingredient'>
+        <a href='#${unused[id].to_url()}' onclick="Ø('query').bang('${unused[id]}')">
+          <img src='media/ingredients/${unused[id].to_path()}.png'/>
+        </a>
+        <t class='name'>${unused[id].capitalize()}</t>
+      </li>`
+    }
+    if (html == "") {return `<h2>No Unused Ingredients!</h2>`}
+    return `<h2>Unused Ingredients</h2><ul class='ingredients'>${html}</ul>`
+  }
+  
+  function find_unused (used, pages) {
+    let unused = []
+    
+    for (name in pages) {
+      if (!used.includes(name.toLowerCase())) {unused.push(name)}
+    }
+    
+    return unused
   }
 
   function make_ingredients (ingredients, table) {
@@ -97,7 +134,6 @@ function HomeTemplate (id, rect) {
       html += "<ul style='margin-bottom:15px'>"
       for (id in recipes) {
         let recipe = recipes[id]
-        if(recipe.HIDE){ continue; }
         html += `<li><a href="#${recipe.name.to_url()}" onclick="Ø('query').bang('${recipe.name.capitalize()}')">${recipe.name.capitalize()}</a></li>`
       }
       html += '</ul>'
