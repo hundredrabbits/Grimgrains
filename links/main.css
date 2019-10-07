@@ -17,7 +17,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #header #logo a { cursor: pointer; transition: all 250ms; }
 #view #header #logo a:hover { opacity: 0.7 }
 #view #header #logo a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px; }
-#view #header ul { display: block;line-height: 40px; border-bottom: 2px solid black; margin-bottom:30px }
+#view #header ul { display: block;line-height: 40px; border-bottom: 2px solid black; margin-bottom:30px; overflow: hidden;height: 40px; }
 #view #header ul li { display: inline-block;border-top-left-radius: 3px;border-top-right-radius: 3px; margin-right:10px; margin-bottom: -2px; line-height: 40px}
 #view #header ul li:hover { }
 #view #header ul li a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 40px; border-bottom:2px solid transparent }
@@ -70,7 +70,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content ul.ingredients li.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
 #view #core #content ul.ingredients li.ingredient:hover t.name { text-decoration: underline; }
 #view #core #content ul.ingredients li.ingredient.missing t.name { font-style: italic }
-#view #core #content ul.ingredients li.ingredient img { max-width: 100% }
+#view #core #content ul.ingredients li.ingredient img { max-width: 100%; display: block }
 #view #core #content ul.ingredients li.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
 #view #core #content ul.ingredients li.ingredient t.quantity { display: block; font-size:12px; }
 
@@ -96,4 +96,9 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
   #view #core #content h2.serving { float:none; font-size:18px; line-height: 12px }
   #view #core #related li { width:100%; clear:both; float:none; height:330px; }
   #view #core #related li a.photo { height:200px; }
+}
+
+@media (max-width: 500px) {
+  #view { padding:30px 15px; }
+  #view #header ul li.right { display: none }
 }
