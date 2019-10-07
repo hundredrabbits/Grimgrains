@@ -439,6 +439,9 @@ Corn Semolina
 Oats
   COLOR : #EFEFEF
   BREF : If oat flour is used alone in baking, the flour won't rise. Best to mix it with other types of flour!
+Ground Oats
+  COLOR : #EFEFEF
+  PARENT : Oats
 Rice
   BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
