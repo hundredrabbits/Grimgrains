@@ -116,6 +116,8 @@ Wakame
   BREF : Wakame is a very invasive plant - it's even banned in Australia.
 Dried Hijiki
   PARENT : Seaweed
+  WARN
+    & Consumption of only a small amount of hijiki seaweed could result in an intake of inorganic arsenic that exceeds the tolerable daily intake for this substance. Therefore, consumption of this type of seaweed is to be avoided. See also the {{Canadian Food Inspection Agency|http://www.inspection.gc.ca/food/information-for-consumers/fact-sheets-and-infographics/products-and-risks/chemical-hazards/inorganic-arsenic/eng/1332268146718/1332268231124}}.
 Bull kelp powder
   PARENT : Seaweed
 Nori
@@ -527,7 +529,8 @@ Bamboo charcoal powder
   LONG
     & Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from {#800 °C#} to {#1200 °C#}.
     & It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description).
-    & {*Important note*}: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
+  WARN
+    & Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
 Cornstarch
 Active dry yeast
 Baking soda

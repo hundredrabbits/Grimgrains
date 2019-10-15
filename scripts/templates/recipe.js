@@ -36,6 +36,7 @@ function RecipeTemplate (id, rect) {
 
     <columns>${new Runic(recipe.DESC)}</columns>
     ${make_ingredients(recipe.INGR)}
+    ${make_warnings(recipe, q.tables.ingredients)}
     ${make_instructions(recipe)}`
 
     return html
@@ -55,6 +56,25 @@ function RecipeTemplate (id, rect) {
     }
 
     return `<div id='instructions'>${html}</div>`
+  }
+
+  function make_warnings (recipe, all_ingredients) {
+    let html = ''
+
+    for (cat in recipe.INGR) {
+      for (id in recipe.INGR[cat]) {
+        if (all_ingredients[id].WARN) {
+          const warn = all_ingredients[id].WARN
+          html += `
+            <section id='warn'>
+              ${new Runic(warn)}
+            </section>
+          `
+        }
+      }
+    }
+
+    return html
   }
 
   function formatTemperature (temperature) {

@@ -25,6 +25,7 @@ function IngredientTemplate (id, rect) {
     html += `<h1>${name.capitalize()}</h1>`
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
     html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
+    html += ingredient.WARN ? `<section id='warn'>${new Runic(ingredient.WARN)}</section>` : ''
     html += `${make_parents(ingredient)}`
     html += `${make_children(name, all_ingredients)}`
     html += `${make_similar(name, recipes, all_ingredients)}`
