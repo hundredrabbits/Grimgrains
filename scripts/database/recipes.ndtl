@@ -22,7 +22,7 @@ Spicy stirfry chickpeas
 
   INST
     Marinade overnight
-      - Mix the marinade ingredients together, and add the {_2 cups_} of cooked {{chickpeas}} (or 19 oz can) and {_175g_} of {{tofu}}. Leave to marinate {#at least a few hours#}. {#Overnight#} is even better.
+      - Mix the marinade ingredients together, and add the {_2 cups_} of cooked {{chickpeas}} (or 19 oz can) and {_175g_} of cubed {{tofu}}. Leave to marinate {#at least a few hours#}. {#Overnight#} is even better.
     Preparation 
       - Peel and slice {_3 cloves_} of {{garlic}} and {_equal amounts_} of {{ginger}} thinly, and chop the {_2_} {{scallions}} in a size matching their diameter. Cut {_1_} {{carrot}} (peel carrot) and {_1/2 cup's worth_} of {{red cabbage}} into bite-sized bits.
     Sauce
@@ -36,7 +36,7 @@ Spicy stirfry chickpeas
     Main
       Chickpeas : 2 cups, fresh
       Carrots : 1
-      Tofu : 1/2 block, firm (175g)
+      Tofu : 175g cubed, firm
       Red cabbage : 1/2 cup
       Scallions : 2 stalks
       Garlic : 3 cloves
@@ -1751,21 +1751,22 @@ SALTED CARAMEL CAROB CHIP COOKIES
       Carob chips : 1/2 cup
       Fleur de sel : to taste
 
-HIJIKI SOBA
+ARAME SOBA
   DATE : 2015-12-12
   TAGS
     pasta
   TIME : 40
-  HIDE : yes
   SERV : 2 portions
   DESC
     & After Japan opened itself to the world, Japanese cooks began to adapt western dishes in their own style. For instance in the west, people use ketchup as a condiment, but the Japanese use it as a base for tomato sauces. Spaghetti naporitan was created just after World War II, after Shigetada (the head chef at the Hotel New Grand in Yokohama) saw occupying soldiers eating it. Nowadays, you can find spaghetti seasoned with soy sauce, and served with seaweed.
-    % recipes/hijiki.soba.2.jpg
+    % recipes/arame.soba.2.jpg
     & While living in Tokyo, we spent many evenings at Saizeriya, a cheap Japanese food chain of family-style italian restaurants. I had my very first yoshoku-style (western style) pasta there.
-    & This is a relatively simple recipe, and uses all of my favorite Japanese condiments! If you've never had yoshoku pasta, i envy you. A world of creativity awaits!
+    & {*About arame*}: {{Arame}} is a species of kelp of a dark brown color, it has a mild, semi-sweet flavor and a firm texture. It can be reconstituted in about 5 minutes, and can be added to many kinds of dishes. It is high in calcium, iodine, iron, magnesium and vitamin A. 
+    & NOTE: This recipe used to include {{hijiki}} seaweed, but because even small amounts can contain inorganic arsenic that exceeds the tolerable daily intake for this substance, I have decided to subsitute it for arame. It doesn't change the recipe much, and it is a healthier alternative.
+
   INST
     Preparation
-      - Put {_2 tbsp_} of dried {{hijiki}} in a bowl and cover with a cup of {{water}}. Let re-hydrate for at least {#30 minutes#}, drain.
+      - Put {_handful_} of dried {{arame}} in a bowl and cover with a cup of {{water}}. Let re-hydrate for at least {#5 minutes#}, drain.
       - Bring a pot of {{water}} to a boil, add {_2 portions_} of soba({{buckwheat noodles}}) and give them a quick stir so they go underwater. Reduce heat to medium and cook for {#5 minutes#}. Drain, rinse and transfer to a pot of cold water. Wash the noodles using your hands to remove the excess starch, drain and set aside.
       - Julienne {_1_} {{carrot}}, chop {_2 cloves_} of {{garlic}} and cut {_60g_} of {{tempeh}} into small cubes. I used {*noble bean*} original tempeh.
     Sauce
@@ -1773,11 +1774,11 @@ HIJIKI SOBA
     Cook
       - Heat a pan with a drizzle of {{oil}} at medium heat and sautee the {{garlic}} for a minute until fragrant. Add the {{tempeh}} as well as the julienned {{carrot}} and cook for {#2-3 minutes#}.
       - Pour the sauce and cook for an additional {#5 minutes#} until the {{tempeh}} and {{carrots}} are cooked.
-      - Remove from heat and add the noodles, as well as the {{hijiki}}. Stir well and divide into 2 plates, season with some {{sichuan pepper}}.
+      - Remove from heat and add the noodles, as well as the {{arame}}. Stir well and divide into 2 plates, season with some {{sichuan pepper}}.
   INGR
     Main
       Buckwheat noodles : 2 portions
-      Dried hijiki : 2 tbsp
+      Arame : handful
       Carrots : 1
       Garlic : 2 cloves
       Soy sauce : 2 tbsp
