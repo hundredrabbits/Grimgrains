@@ -1,5 +1,65 @@
 DATABASE.recipes = `
 
+Spicy stirfry chickpeas
+  DATE : 2019-06-25
+  TAGS
+    dinner
+  TIME : 15
+  SERV : 2 servings
+  DESC
+    & If someone were to ask me which food I could eat forever without stopping, I'd answer chickpeas, hands down. There's a TON of different ways to prepare them, and all of these ways are delicious. You can bake them, squish them, flour them, sprout them, fry them etc. It's endless. Their versatility make my life easier, I can add them to almost every meal without it ever being boring. 
+    % recipes/spicy.stirfry.chickpeas.3.jpg
+    & Another plus is that dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy if all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. I like to buy them in bulk and cook them as needed. An advantage of buying them dry is that it is cheap, and they taste better (honest). Read about {{storing dry beans|https://extension.usu.edu/foodstorage/howdoi/dry_beans}}.
+    & {*Cooking dried chickpeas*}
+    & Dried chickpeas triple in size when cooked (if not a little bit more). So 1 cup of dried chickpeas will make about 3 cups of cooked chickpeas. Dried chickpeas have a tough outer skin, and should be soaked overnight. Soaking them cuts down on cooking time, and in turn, saves energy. It also helps the beans cook more evenly and become completely tender all the way through. Another advantage to presoaking beans is that most of the gas-causing sugars are leached out into the soaking water. So when you drain off the soaking water, you are also getting rid of this unpleasant side effect to eating beans.
+    & Next morning, drain and cook them in a pot or pressure cooker. 
+    & {*Stove top Pot*}: Bring chickpeas to a boil, then lower to gentle simmer. Add salt when beans are almost cooked. In a pot, cooking them varies from 1-3 hours. 
+    & {*Pressure cooker*}: Because beans cook differently depending on the kind, age, and whether or not they’ve been presoaked, quick-soaked or not soaked at all, there is no single all-encompasssing rule for pressure cooking beans. Having a good chart with all the variables to consult is important so that you can adjust to your circumstances. A good resource for this is {{Hip Pressure Cooking’s bean chart|https://www.hippressurecooking.com/pressure-cooking-times/#beans}}. It’s a good idea to add {_1 tbsp_} of neutral oil to the pot. Beans produce foam when cooking which can clog the pressure valve, and the oil will help to keep that down. 
+    % recipes/spicy.stirfry.chickpeas.2.jpg
+    & {*Recommendations*}
+    & Adding a {{bay leaf}}, a bit of {{onion}} or a clove or two of {{garlic}} to the cooking water add a subtle seasoning to the {{chickpeas}} and boost flavor. 
+
+  INST
+    Marinade overnight
+      - Mix the marinade ingredients together, and add the {_2 cups_} of cooked {{chickpeas}} (or 19 oz can) and {_175g_} of {{tofu}}. Leave to marinate {#at least a few hours#}, {#overnight#} is even better.
+    Preparation 
+      - Peel and slice the {_3 cloves_} of {{garlic}} and {_equal amounts_} of {{ginger}} thinly, and chop the {_2_} {{scallions}} in a size matching their diameter. Cut {_1_} {{carrot}} (peel carrot) and {_1/2 cup's worth_} of {{red cabbage}} into bite-sized bits.
+    Sauce
+      - In a small bowl, combine the ingredients for the sauce: mix {_3 tsp_} of {{maple syrup}}, {_1 tbsp_} of {{soy sauce}}, {_2 tbsp_} of {{balsamic vinegar}}, {_1 tbsp_} {{arrowroot starch}} and {_1 tsp_} of {{sesame oil}}.
+    Stir fry
+      - Add {_1 tbsp_} of vegetable oil, then warm pan to high heat. When oil is hot, add {_handful_} of {{chili pepper flakes}} and {_1 tsp_} of {{sichuan peppercorns}}. Stir-fry until they're crisp and that the mixture is spicy and fragrant. Careful not to burn the spices, remove from heat for a bit if overheating.
+      - Add the {{chickpeas}}, {{tofu}}, {{carrot}} and {{red cabbage}} and fry over high heat, stirring constantly. {#After a minute#}, add the {{ginger root}}, {{garlic}} and {{scallions}} and stir-fry for {#a few more minutes#}.
+      - Stir the sauce, and add it to the pan while stirring and tossing. When the sauce starts to thicken, remove from heat and serve. 
+
+  INGR
+    Main
+      Chickpeas : 2 cups, fresh
+      Carrot : 1
+      Tofu : 1/2 block, firm (175g)
+      Red cabbage : 1/2 cup
+      Scallions : 2 stalks
+      Garlic : 3 cloves
+      Ginger root : Equal to garlic
+      Chili pepper flakes : handful
+      Sichuan peppercorns : 1 tsp, whole
+      Salt : 1/4 tsp
+      Black pepper : 1/4 tsp
+
+    Marinade
+      Soy sauce : 2 tsp
+      Balsamic vinegar : 1 tsp
+      Arrowroot starch : 1 tbsp
+      Salt : 1/4 tsp
+      Black pepper : 1/4 tsp
+
+    Sauce
+      Maple syrup : 3 tsp
+      Soy sauce : 1 tpsp
+      Balsamic vinegar : 2 tbsp
+      Arrowroot starch : 1 1/2 tsp
+      Sesame oil : 1 tsp
+      Arrowroot starch : 1 tbsp
+
 Scrambled chickpeas
   DATE : 2019-06-25
   TAGS
