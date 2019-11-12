@@ -60,6 +60,7 @@ NUTRITION
     * Protein
     > <hr class='stroke' />
     & Eat 2-3 servings of legumes per day. For example: 
+    % pages/protein.jpg
     - 1/2 cup of dried lentils or beans
     - 1/2 cup tofu or tempeh
     - 1 cup soy milk
@@ -71,6 +72,7 @@ NUTRITION
     * Iron
     > <hr class='stroke' />
     & Include:
+    % pages/iron.jpg
     - Beans
     - Soy (high in iron and not affected by phytic acid)
     - Nuts
@@ -90,6 +92,7 @@ NUTRITION
     * Calcium
     > <hr class='stroke' />
     & Consume at least 3 1/2 to 4 cups a day of:
+    % pages/calcium.jpg
     - Calcium-set tofu
     - Cooked chinese cabbage
     - Turnip greens
@@ -102,7 +105,8 @@ NUTRITION
     & {{Oxalate molecules|https://veganhealth.org/oxalate/}}, found in certain plant foods (such as spinach, beets, beet greens, sweet potatoes, peanuts, rhubarb, and swiss chard), can prevent the absorption of calcium. Oxalates plays a part in calcium-oxalate kidney stones. Consumming these items in moderation in fine, or to minimize effect it is important to drink plenty of fluids and to boil high-oxalate greens before consumption (and discard the cooking water).
     * Vitamin D
     > <hr class='stroke' />
-    & We make plenty of vitamin D when our skin is exposed to sunlight. Light-skinned people required 10-15 min a day, and dark-skinned people need 20-25 min per day. It's important to remember that because of smog, cloud coverage and sunscreen, we may be producing less than our body requires. In winter, it is especially important to get a dietary source of this nutrient. 
+    & We make plenty of vitamin D when our skin is exposed to sunlight. Light-skinned people required 10-15 min a day, and dark-skinned people need 20-25 min per day. It's important to remember that because of smog, cloud coverage and sunscreen, we may be producing less than our body requires. In winter, it is especially important to get a dietary source of this nutrient.
+    % pages/vitamind.jpg 
     & Vitamin D is available in fortified foods (like plant milk) under {*D2*}. 
     * Vitamin B-12
     > <hr class='stroke' />
@@ -112,11 +116,13 @@ NUTRITION
     - Nutritional yeast
     - Cyanocobalamin Supplements
     & {*What is B12 for:*} Vitamin b-12 is needed for the production of DNA and for maintaining nerve cells. Levels need to be over 400 pg/ml — or 4 to 6 mcg per day — for good health. 
+    % pages/vitaminb12.jpg
     & {*Absorption:*} These need to be consummed at least 4h apart for optimal absorption. Another way, is to take a daily supplement of {*cyanocobalamin B12*} that provides 25-100 mcg of vitamin B12, or a supplement that provides 1,000 mcg twice per week. 
     & Absorption of vitamin b-12 is tricky, because small amounts attach to receptors that become quickly saturated by just 1-2 mcg of B12 and will stay like this for several hours. This is what you get from a single meal of fortified foods. Ingesting a large dose of B12 from a supplement, you can absorb the excess that can't latch onto receptors, but that is a very small amount. It is easier to meet needs from many small servings of B12 to be eaten throughout the day, but if you rely on daily single-dose supplements you need to have a lot more since absorption rates are very low.
     * Iodine
     > <hr class='stroke' />
     & A quantity of 90 micrograms is recommended daily, and can be found in:
+    % pages/iodine.jpg
     - Fortified plant milk (few are fortified with it)
     - Iodized salt, 1/4 tsp/day
     - Seaweed 
@@ -125,6 +131,7 @@ NUTRITION
     * Omega-3
     > <hr class='stroke' />
     & It is recommended to consume 1600 mg (men) and 1100 (women) per day. Omega-3's is available in these foods:
+    % pages/omega3.jpg
     - Chia seeds
     - Flax seeds, ground
     - Soybeans
@@ -138,6 +145,7 @@ NUTRITION
     * Vitamin A
     > <hr class='stroke' />
     & Eat two or more servings of vitamin A-rich foods per day, this includes:
+    % pages/vitamina.jpg
     - Butternut squash
     - Pumpkin
     - Sweet potatoes
@@ -151,6 +159,7 @@ NUTRITION
     * Zinc
     > <hr class='stroke' />
     & Consume legumes, nuts, seeds and soyfoods, like:
+    % pages/zinc.jpg
     - Chickpeas, 1/3 cup (cooked)
     - Peanuts, 1/4 cup (raw)
     - Oatmeal, 1 cup (cooked)
