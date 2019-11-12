@@ -39,40 +39,129 @@ GALLERY
     % pages/simple.doctor.who.cake.jpg
 
 NUTRITION
-  BREF : The recommendations below address the nutrients which are of more concern in vegan than omnivore diets, but they aren’t everything anyone needs to know about eating for optimal health.
+  BREF : The recommendations below address the nutrients which are of more concern in vegan diets, but they aren’t everything anyone needs to know about eating for optimal health. The information in this guide may change as research develops. If you are concerned about your intake of vitamin and minerals, we highly recommend seeing a nutritionist who specializes in plantbased diets.
   LONG
-    * General rules
-    & Eat 3 servings of legumes per day (under 50yrs old)
-    & Eat 8 servings of fruits and veg per day. Eat more veg than fruit, and include leafy greens and bright orange veg for vitamin A and C.
-    & Eat wholegrains, avoid refined grains like white rice and flours.
-    & Eat some high fat foods like seeds and nuts. Include flax seeds or other items that contain the essential fat ALA.
-    & Eat plenty of calcium. Eat dark leafy greens, calcium set tofu, tahini or fortified plant milks or products.
-    & Take b-12 supplements. You can get this vitamin from fortified foods like plant milks and nutritional yeast but its better to supplement to be on the safe side, as their quantities aren't reliable. In winter, take vitamin D, or expose your skin for 10-15 min if your light-skinned, or 20-25 min if you're dark-skinned. 
-    & Eat iodized foods. Use some iodized salt, take supplements or eat seaweed to get your daily needs of iodine.
+    * General rules:
+    - Eat 3 servings of legumes per day (if under 50yrs-o).
+    - Eat enough calories. 
+    - Eat a variety of whole plant foods. 
+    - Eat 8 servings of fruits and veg per day. Eat more veg than fruit, and include leafy greens and bright orange veg for vitamin A and C.
+    - Eat wholegrains. Avoid refined grains like white rice and flours.
+    - Eat some high fat foods like seeds and nuts. Include flax seeds or other items that contain the essential fat ALA.
+    - Don't eat tea or coffee with meals.
+    - Eat plenty of calcium. Like dark leafy greens, calcium set tofu, tahini or fortified plant milks or products.
+    - Take b-12 supplements. You can get this vitamin from fortified foods like plant milks and nutritional yeast but supplementing is safer as their quantities aren't reliable. 
+    - Take vitamin D supplements in winter. Expose your skin for 10-15 min if your light-skinned, or 20-25 min if you're dark-skinned. 
+    - Eat iodized foods. Use some iodized salt, take supplements or eat seaweed to get your daily needs of iodine.
+    * Servings
+    & This image outlines how many servings of vegetables, legumes, fruits, grains/starches, nuts/seeds and other foods you should consume on a daily basis on a plantbased diet. 
+    % pages/nutrition.jpg
+    & In this next section is a list of vitamin and mineral supplements necessary to prevent nutrient deficiencies:
     * Protein
-    & Eat 2-3 servings of legumes per day. For example: 1/2 cup of dried lentils or beans, 1/2 cup tofu or tempeh, 1 cup soy milk, 1 cup quinoa or amaranth, 1/4 cup peanuts or 2 tbsp peanut butter.
-    & Protein is necessary for muscles, bones, hormones, digestive enzymes, to absorb nutrients and to rebuild cells. They are composed of 20 amino acids, 11 of which our bodies can synthesize. The other 9 called EAAS (essential amino acids) have to come from food as we can't produce them ourselves. All plant protein contain all 9 of the EAAS, but can be a little low in one or two EAAS. The body maintains reserve pools of amino acids from various sources for later use, for instance eating protein in one meal can combine with protein in another meal eaten later in the day.
-    & Legumes is an important part of the diet, and one of the best plant sources of lysine, one EAA. Quinoa and amaranth are two other grains that are sources of lysine, although not as rich as legumes. 
-    & Eat enough calories. Eat a variety of whole plant foods, at least 3 per day for legumes. 
-    * IRON
-    & Include beans, soy (high in iron not affected by phytic acid), nuts, seeds, winter squahes, dark leafy greens, dried fruit, oatmeal, quinoa and pearly barley. Eat whole grain bread, the leavening process helps make iron mire absorbable. Include vitamin C in as many meals as you canm or as side snacks, like citrus, mango, kiwifruit, pineapple, broccoli, brussel sprouts, cabbage, cauliflower, peppers etc. Don't eat tea or coffee with meals. 
-    & Plantfoods are rich in iron, hitting our daily target is easy, although iron from plant sources isnt absorbed as easily and means we may need to consume twice as much. Iron is necessary for red blood cells and to form hemoglobin which helps circulate oxygen around the body. We lose some of this mineral everyday from the skin and intestines, and menstruating women will lose a lot of it. 
-    & Iron rich plant foods are high in phytic acid, a compound that binds to iron and other minerals and that makes it more difficult for our bodies to absorb. The idea is not too avoid eating foods that contain phytic acid, but to eat them in a way that minimixzes its effects on iron. Adding vitamin C-rich foods, like 1/2 cup of cauliflower or a cup of orange juice, can increase iron absorption un plant foods by as much to 4 to 6 times. Fermentation can also improve absorption, like eating sourdough or bread leavened with yeast instead of other grains can help. 
-    & Other iron inhibitors include coffee, camomille and peppermint tea, as well as spices like turmeric and coriander, or calcium rich foods.  
-    * CALCIUM
-    & Consume at least 3 cups a day of calcium-set tofu, cooked chinese cabbage, turnip greens, mustard greens, collards and fortified plant milks or juices. This, with extra servings of beansm broccoli, kale, okra, sweet potatoes, figs, corn tortillas, navel oranges and blackstrap molasses.
-    & World Health Organization recommends 1,000mg of calcium per day, and 1,200mg if over 50, but what is most important is how much us truly absorbed. Most people absorb 25-30%. Absorption varies depending on food sources, so it's important to consume sources of well-absorbed calcium, like calcium-set tofu, kale, turnip greens, mustard greens and broccoli. Beans, nuts and seeds have moderate amounts of calcium and a slow absorption rate, soaking nuts and seeds aids in absorption. Fortified plant milk generally contains calcium with an absorption rate of 25%, similar to calcium-set tofu, although it is important to shake it before using it as the calcium tends to set a the bottom. 
+    > <hr class='stroke' />
+    & Eat 2-3 servings of legumes per day. For example: 
+    - 1/2 cup of dried lentils or beans
+    - 1/2 cup tofu or tempeh
+    - 1 cup soy milk
+    - 1 cup quinoa or amaranth
+    - 1/4 cup peanuts/2 tbsp peanut butter
+    & They are composed of {*20 amino acids*}, 11 of which our bodies can synthesize. The other 9 called {*EAAS (essential amino acids)*} have to come from food as we can't produce them ourselves. All plant protein contain all 9 of the EAAS, but can be a little low in one or two of them. The body maintains reserve pools of amino acids from various sources for later use, if you eat protein in one meal {*it can combine with protein in another meal eaten later in the day*}.
+    & Legumes is an important part of the diet, and one of the best plant sources of {*lysine*}, one EAA. Quinoa and amaranth are two other grains that are sources of lysine, although not as rich as legumes. 
+    & {*What does protein do:*} Protein is necessary for muscles, bones, hormones, digestive enzymes, to absorb nutrients and to rebuild cells. 
+    * Iron
+    > <hr class='stroke' />
+    & Include:
+    - Beans
+    - Soy (high in iron and not affected by phytic acid)
+    - Nuts
+    - Seeds
+    - Winter squahes
+    - Dark leafy greens
+    - Dried fruit
+    - Oatmeal
+    - Quinoa
+    - Pearled barley
+    - Whole grain bread 
+    & {*What is iron for:*} Iron is necessary for red blood cells and to form hemoglobins which helps circulate oxygen around the body. We lose some of this mineral everyday from the skin and intestines, menstruating women will lose a lot of it. 
+    & {*Absorption:*} To better absorb the iron in these foods, it is important to {*include vitamin C*} in as many meals as you can. This means items like: citrus, mango, kiwifruit, pineapple, broccoli, brussel sprouts, cabbage, cauliflower, peppers etc. 
+    & Plantfoods are rich in iron. Hitting our daily target is easy, although iron from plant sources isn't absorbed as easily and that means we need to consume twice as much.
+    & Iron-rich plant foods are high in {*phytic acid*}, a compound that binds to iron and other minerals, and that makes it more difficult for our bodies to absorb. Avoiding foods that contain phytic acid isn't necessary, but it's important to eat them in a way that minimizes their effects on iron. Adding vitamin C-rich foods — like 1/2 cup of cauliflower or a cup of orange juice — can increase iron absorption of plant foods by as much to 4 to 6 times. Fermentation can also improve absorption. Eating sourdough or bread leavened with yeast instead of other grains can help. 
+    & Other iron inhibitors include: coffee, camomille and peppermint tea, as well as spices like turmeric and coriander, or calcium rich foods.  
+    * Calcium
+    > <hr class='stroke' />
+    & Consume at least 3 1/2 to 4 cups a day of:
+    - Calcium-set tofu
+    - Cooked chinese cabbage
+    - Turnip greens
+    - Mustard greens
+    - Collards
+    - Fortified plant milks (shake well before consuming)
+    - Fortified juices. 
+    & This, with extra servings of beans, broccoli, kale, okra, sweet potatoes, figs, corn tortillas, navel oranges and blackstrap molasses.
+    & {*Absorption:*} The amount of calcium in plant foods is somewhat dependent on the amount of calcium in the soil. The World Health Organization recommends 1,000mg of calcium per day, and 1,200mg if over 50, but what is most important is how much is truly absorbed. Most people absorb 25-30% of calcium. Absorption varies depending on food sources, so {*it's important to consume sources of well-absorbed calcium*}, like {*calcium-set tofu*}, {*kale*}, {*turnip greens*}, {*mustard greens*} and {*broccoli*}. Beans, nuts and seeds have moderate amounts of calcium and a slow absorption rate, soaking nuts and seeds aids in absorption. Fortified plant milk generally contains calcium with an absorption rate of 25%, similar to calcium-set tofu, although it is important to shake it before using it as the calcium tends to set at the bottom. 
+    & {{Oxalate molecules|https://veganhealth.org/oxalate/}}, found in certain plant foods (such as spinach, beets, beet greens, sweet potatoes, peanuts, rhubarb, and swiss chard), can prevent the absorption of calcium. Oxalates plays a part in calcium-oxalate kidney stones. Consumming these items in moderation in fine, or to minimize effect it is important to drink plenty of fluids and to boil high-oxalate greens before consumption (and discard the cooking water).
     * Vitamin D
-    & We make plenty of vitamin D when our skin is exposed to sunlight, light-skinned people required 10-15 min a day and dark-skinned people need 25-30 min per day. It's important to remember that because of smog, cloud coverage and sunscreen we may be producing less than our body requires. In winter, it is especially important to get a dietary source of this nutrient. 
-    & Vitamin D is available in fortified foods under D2
+    > <hr class='stroke' />
+    & We make plenty of vitamin D when our skin is exposed to sunlight. Light-skinned people required 10-15 min a day, and dark-skinned people need 20-25 min per day. It's important to remember that because of smog, cloud coverage and sunscreen, we may be producing less than our body requires. In winter, it is especially important to get a dietary source of this nutrient. 
+    & Vitamin D is available in fortified foods (like plant milk) under {*D2*}. 
     * Vitamin B-12
-    & Eat two servings a day of fortified foods that contain at least 2-3.5 mcg of vitamin B12. These need to be consummed at least 4h apart for optimal absorption. Another way, is to take a daily supplement of cyanocobalamin B12 that provides 25 to 100 mcg of vitamin B12, or a supplement that provides 1,000 mcg twice per week. 
-    & Vitamin b-12 is needed for the prodouction of DNA and for maintaining nerve cells. Levels need to be over 400 pg/ml, or 4 to 6 mcg per day, for good health. This vitamin does not occur naturally in any plant, but it is available in fortified foods like plant milk, other fortified foods or beverages, nutritional yeast and supplements.
-    & Absorption of vitamin b-12 is tricky, because small amounts attach to receptors that become quickly saturated by just 1-2 mcg of B12 and will stay like this for several hours. This is what you get from a single meal of fortified foods. Ingested a large dose of B12 from a supplement, you can absorb the excess that can't latch onto receptors, but that is a very small amount. It is easier to meet needs from many small servings of B12 to be eaten throughout the day, but if you rely on daily single-dose supplements you need to have a lot more since absorption rates are very low.
+    > <hr class='stroke' />
+    & Eat two servings a day of fortified foods that contain at least 2-3.5 mcg of vitamin B12. This vitamin does not occur naturally in any plant, but it is available in:
+    - Fortified plant milks
+    - Fortified foods 
+    - Nutritional yeast
+    - Cyanocobalamin Supplements
+    & {*What is B12 for:*} Vitamin b-12 is needed for the production of DNA and for maintaining nerve cells. Levels need to be over 400 pg/ml — or 4 to 6 mcg per day — for good health. 
+    & {*Absorption:*} These need to be consummed at least 4h apart for optimal absorption. Another way, is to take a daily supplement of {*cyanocobalamin B12*} that provides 25-100 mcg of vitamin B12, or a supplement that provides 1,000 mcg twice per week. 
+    & Absorption of vitamin b-12 is tricky, because small amounts attach to receptors that become quickly saturated by just 1-2 mcg of B12 and will stay like this for several hours. This is what you get from a single meal of fortified foods. Ingesting a large dose of B12 from a supplement, you can absorb the excess that can't latch onto receptors, but that is a very small amount. It is easier to meet needs from many small servings of B12 to be eaten throughout the day, but if you rely on daily single-dose supplements you need to have a lot more since absorption rates are very low.
     * Iodine
-    & Have plant milk fortified with iodine (few do this though), use iodized salt or eat seaweed regularly. Although the amount of iodine in seaweed is variable. It may be better to take supplements. A quantity of 150 µg is recommended daily.
-    & Iodine is necessary for healthy thyroid function which regulates metabolism. 
+    > <hr class='stroke' />
+    & A quantity of 90 micrograms is recommended daily, and can be found in:
+    - Fortified plant milk (few are fortified with it)
+    - Iodized salt, 1/4 tsp/day
+    - Seaweed 
+    & Note that the amount of iodine in seaweed and other sea vegetables is variable, it is the same for sea salt and other natural salts. {*The only reliable sources are iodized salt or a supplement*}.
+    & {*What is iodine for:*} Iodine is necessary for healthy thyroid function which regulates our metabolism. 
     * Omega-3
+    > <hr class='stroke' />
+    & It is recommended to consume 1600 mg (men) and 1100 (women) per day. Omega-3's is available in these foods:
+    - Chia seeds
+    - Flax seeds, ground
+    - Soybeans
+    - Tofu/Tempeh
+    - Canola/flaxseed oil
+    & There are 3 omega-3 fatty acids:
+    - {*Alpha linolenic (ALA)*}, found in soy, walnuts, canola oil, flaxseeds, hemp seeds oil etc. The body cannot produce its own.
+    - {*Eicosapentaneoic acid (EPA)*}, found in small amounts in seaweed.
+    - {*Docosahexaneoic acid (DHA)*}, found in small amounts in seaweed. The body can convert EPA into DHA. 
+    & {*What is omega-3 for:*} Omega3's are needed for optimal cognition, and helps reduce blood clotting (which protects against heart attacks).
+    * Vitamin A
+    > <hr class='stroke' />
+    & Eat two or more servings of vitamin A-rich foods per day, this includes:
+    - Butternut squash
+    - Pumpkin
+    - Sweet potatoes
+    - Kale
+    - Carrots
+    - Spinach
+    - Kale
+    - Cantaloupe
+    & {*What is vitamin-A for:*} Vitamin A is important for growth and developments in young children, and for red blood cell formation. 
+    & {*Absorption:*} The body can convert 50 carotenoids into vitamin A, the most common being {*beta-carotene*}. Eating vegetables high in carotenoids (carrots, pumpkin etc) with some fat increased the absorption and synthesis of Vitamin A. 
+    * Zinc
+    > <hr class='stroke' />
+    & Consume legumes, nuts, seeds and soyfoods, like:
+    - Chickpeas, 1/3 cup (cooked)
+    - Peanuts, 1/4 cup (raw)
+    - Oatmeal, 1 cup (cooked)
+    - Tempeh, 1/2 cup
+    - Bread
+    & {*What is zinc for:*} Zinc is important for immunity. 
+    & {*Absorption:*} {{Phytates|https://www.nap.edu/read/10026/chapter/14#480}}, found in some plant foods, reduce zinc absorption. This is why it's important to increase our intake by at least 50%. Consuming protein — like legumes, leavened bread, fermented soy foods (miso or tempeh) and nuts – increases zinc absorption.
+    > <hr class='stroke' />
+    * References
+    & {{The vegan RD|https://www.theveganrd.com/}}
+    & {{Vegan Health|https://veganhealth.org/}}
 
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 

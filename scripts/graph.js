@@ -31,6 +31,7 @@ function graph () {
         <li><a class="local about" onclick="Ø('query').bang('About')">About</a></li>
         <li><a class="local tools" onclick="Ø('query').bang('Tools')">Tools</a></li>
         <li><a class="local gallery" onclick="Ø('query').bang('gallery')">Gallery</a></li>
+        <li><a class="local nutrition" onclick="Ø('query').bang('nutrition')">Nutrition</a></li>
         <li class='right'><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li>
       </ul>`.to_markup()),
     Ø('core').create({ x: 10, y: 11 }, DomNode),
