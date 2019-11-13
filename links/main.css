@@ -80,7 +80,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content .page ul { margin:0px 0px 30px;}
 #view #core #content .page ul li { line-height: 24px; position: relative; padding-left:15px;}
 #view #core #content .page ul li:before { content:"•"; position: absolute; left:0px; }
-
+#view #core #content .page ul li b { font-weight: bold; }
 
 #view #core #related { width:100%;}
 #view #core #related li { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
