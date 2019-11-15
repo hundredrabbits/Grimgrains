@@ -39,7 +39,7 @@ GALLERY
     % pages/simple.doctor.who.cake.jpg
 
 NUTRITION
-  BREF : The information in this guide may change as research develops. If you are concerned about your intake of vitamin and minerals, we highly recommend seeing a nutritionist who specializes in plantbased diets.
+  BREF : The information in this guide may change as research develops. If you are concerned about your intake of vitamin and minerals, we highly recommend seeing a nutritionist who specializes in plant-based diets.
   LONG
     % pages/nutrition.jpg
     * General rules:
@@ -69,7 +69,7 @@ NUTRITION
     - Soy (high in iron and not affected by phytic acid)
     - Nuts
     - Seeds
-    - Winter squahes
+    - Winter squashes
     - Dark leafy greens
     - Dried fruit
     - Oatmeal
@@ -85,7 +85,7 @@ NUTRITION
     * Sources
     & Consume at least 3 1/2 to 4 cups a day of:
     - Calcium-set tofu
-    - Cooked chinese cabbage
+    - Cooked Chinese cabbage
     - Turnip greens
     - Mustard greens
     - Collards
@@ -93,7 +93,7 @@ NUTRITION
     - Fortified juices. 
     & This, with extra servings of beans, broccoli, kale, okra, sweet potatoes, figs, corn tortillas, navel oranges and blackstrap molasses.
     & The amount of calcium in plant foods is somewhat dependent on the amount of calcium in the soil. The World Health Organization recommends 1,000mg of calcium per day, and 1,200mg if over 50, but what is most important is how much is truly absorbed. Most people absorb 25-30% of calcium. Absorption varies depending on food sources, so {*it's important to consume sources of well-absorbed calcium*}, like {*calcium-set tofu*}, {*kale*}, {*turnip greens*}, {*mustard greens*} and {*broccoli*}. Beans, nuts and seeds have moderate amounts of calcium and a slow absorption rate, soaking nuts and seeds aids in absorption. Fortified plant milk generally contains calcium with an absorption rate of 25%, similar to calcium-set tofu, although it is important to shake it before using it as the calcium tends to set at the bottom. 
-    & {{Oxalate molecules|https://veganhealth.org/oxalate/}}, found in certain plant foods (such as spinach, beets, beet greens, sweet potatoes, peanuts, rhubarb, and swiss chard), can prevent the absorption of calcium. Oxalates plays a part in calcium-oxalate kidney stones. Consumming calcium and high-oxalate foods is fine and necessary for good health, but it's important to drink plenty of fluids. Doing this helps oxalate and calcium “bind” to one another in the stomach and intestines before reaching the kidneys, making it less likely for kidney stones to form. Boiling high-oxalate greens before consumption and discarding the cooking water also helps.
+    & {{Oxalate molecules|https://veganhealth.org/oxalate/}}, found in certain plant foods (such as spinach, beets, beet greens, sweet potatoes, peanuts, rhubarb, and swiss chard), can prevent the absorption of calcium. Oxalates plays a part in calcium-oxalate kidney stones. Consuming calcium and high-oxalate foods is fine and necessary for good health, but it's important to drink plenty of fluids. Doing this helps oxalate and calcium “bind” to one another in the stomach and intestines before reaching the kidneys, making it less likely for kidney stones to form. Boiling high-oxalate greens before consumption and discarding the cooking water also helps.
     * Vitamin D
     > <hr class='stroke' />    
     % pages/vitamind.jpg 
@@ -118,7 +118,7 @@ NUTRITION
     - Fortified foods 
     - Nutritional yeast
     - Cyanocobalamin Supplements
-    & Eat two servings a day of fortified foods that contain at least 2-3.5 mcg of vitamin B12, these need to be consummed at least 4h apart for optimal absorption. Another way, is to take a daily supplement of {*cyanocobalamin B12*} that provides 25-100 mcg of vitamin B12, or a supplement that provides 1,000 mcg twice per week. 
+    & Eat two servings a day of fortified foods that contain at least 2-3.5 mcg of vitamin B12, these need to be consumed at least 4h apart for optimal absorption. Another way, is to take a daily supplement of {*cyanocobalamin B12*} that provides 25-100 mcg of vitamin B12, or a supplement that provides 1,000 mcg twice per week. 
     & Absorption of vitamin b-12 is tricky, because small amounts attach to receptors that become quickly saturated by just 1-2 mcg of B12 and will stay like this for several hours. This is what you get from a single meal of fortified foods. Ingesting a large dose of B12 from a supplement, you can absorb the excess that can't latch onto receptors, but that is a very small amount. It is easier to meet needs from many small servings of B12 to be eaten throughout the day, but if you rely on daily single-dose supplements you need to have a lot more since absorption rates are very low.
     * Iodine
     > <hr class='stroke' />
@@ -161,7 +161,7 @@ NUTRITION
     * Zinc
     > <hr class='stroke' />
     % pages/zinc.jpg
-    & Zinc is important for immunity, and is found in legumes, soyfoods, nuts and seeds.
+    & Zinc is important for immunity, and is found in legumes, soy foods, nuts and seeds.
     * Daily portions
     - Chickpeas, 1/3 cup (cooked)
     - Peanuts, 1/4 cup (raw)
@@ -173,6 +173,9 @@ NUTRITION
     * References
     & {{The vegan RD|https://www.theveganrd.com/}}
     & {{Vegan Health|https://veganhealth.org/}}
+    & {{Nutrition Facts|https://nutritionfacts.org/}}
+    > <hr class='stroke' />
+    & Information last updated on 15/11/19
 
 TOOLS
   BREF : Entering a store, with the goal of purchasing kitchenware can be a dizzying experience. There are many choices, but few are worth your money and attention. An ideal kitchen will have as few items as possible, be composed of things that make you happy and that you chose with purpose. With this in mind, for a tool to be awarded a place in your home, it needs to be effective and versatile. I made this list of notes on what to look for in a tool, based on experience and research: 
