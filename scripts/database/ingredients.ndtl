@@ -50,6 +50,9 @@ Brown Lentils
 
 Tempeh
   COLOR : #875A2C
+  BREF : Tempeh is a soy product, made from fermented {{soy beans}}. Tempeh is a source of protein, Omega-3's and zinc, and has a firm texture and earthy flavor. 
+  LONG 
+    & Tempeh is made by controlled fermentation that binds soybeans into a 'paddy'. The fungus {*Rhizopus Oligosporus*} is used as a starter to make tempeh. Fermented soyfoods like tempeh increased iron absorption. 
 Peanut Butter
   BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. Peanut butter is a rich source of {{protein|nutrition}}.
   LONG 
@@ -76,8 +79,15 @@ Kidney beans
   PARENT : Beans
 Edamame
 Chickpeas
+  BREF : Chickpeas are the earliest cultivated legumes in history, and a staple in many countries. Chickpeas are also very rich in protein, and a good source of iron. 
+  LONG 
+    & Chickpeas can be made into flour, it can be roasted, pureed, candied etc. It's a very versatile and inexpensive legume. The soaking liquid of chickpeas — {*aquafaba*} — can be used as an egg replacer in recipes. 
+    & Dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy of all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. 
 Chickpea Flour
   PARENT : chickpeas, flour
+  BREF : Chickpea flour — also known as {*besan*} or {*gram*} flour — is made from ground chickpeas.
+  LONG
+    & Chickpea flour has a long shelf life due to the low-moisture and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes or faux-omelettes.
 Peas
 Green Peas
   PARENT : Peas
@@ -91,6 +101,9 @@ Broccoli
 Green Cabbage
   TAGS
     Cruciferous
+  BREF : Green cabbage is a vegetable with dense-leaved heads, closely related to {{broccoli}}, {{brussel sprouts}} and {{cauliflower}}. Cabbage can be pickled, fermented, steamed, stewed, sauteed, braised or consumed raw. Cabbage is a source of vitamin C. 
+  LONG
+    & There are winter and summer cabbages, winter cabbages are more dense while summer cabbages are lighter and sweet. 
     
 ~ sauerkraut #C820B3
 Red Cabbage
@@ -135,7 +148,9 @@ Mushroom
 Wakame
   PARENT : Seaweed
   COLOR : #006633
-  BREF : Wakame is a very invasive plant - it's even banned in Australia.
+  BREF : Wakame is an edible seaweed, subtly sweet with a strong flavour and texture. Wakame is a source of iodine, although isn't a dependable source because the amount in seaweed varies greatly. 
+  LONG 
+    & Wakame is often served in soups, or in salads. Wakame is often sold dried (can be re-constituted in water) or salted. 
 Dried Hijiki
   PARENT : Seaweed
   WARN
@@ -145,12 +160,20 @@ Bull kelp powder
 Nori
   PARENT : Seaweed
   COLOR : #000000
-  BREF : Fun fact: seaweed takes about 45 days to grow.
+  BREF : Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. 
+  LONG 
+    & Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. 
 Nori Sheets
   PARENT : Nori, Seaweed
+  BREF : Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. 
+  LONG 
+    & Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. 
 Shiitake
   PARENT : Mushroom
   COLOR : #875A2C
+  BREF : Shiitake is an edible mushroom, and can provide vitamin D2 if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
+  LONG
+    & Shiitake mushrooms are used as a base in vegan dashi, to flavor simmered and steamed dishes. 
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
@@ -171,7 +194,9 @@ Straw mushrooms
 ~ SEEDS
 
 Flax seeds
-  BREF : Flax is the national flower of Belarus.
+  BREF : Flax seeds, or {*linseed*}, are harvested from the flax plant. Flax seeds are a source of Omega-3's, and can be used whole in breads, or ground as an egg-replacer in recipes.
+  LONG
+    & Flax seeds are used to make textiles, and is also made into oil. 
 Sunflower seeds
 Pumpkin seeds
 Sesame seeds
@@ -596,13 +621,17 @@ B12 supplement
 ~ TEA
 
 Matcha Powder
-  BREF : Only Tencha can be used to make matcha.
+  BREF : Matcha is finely ground powder of specialty grown green tea leaves.
+  LONG
+    & There are different grades of matcha, used for different purposes. There is {*ceremonial grade*}, {*premium grade*} and {*culinary grade*}. In recipes, it is used in desserts and drinks, it adds both bitterness and color to a dish and pairs well with sweet. 
   COLOR : #006633
   TAGS
     Tea
 
 Houjicha
-  BREF : KitKat in Japan has a houjicha flavour.
+  BREF : Houjicha is roasted Japanese green tea. It is roasted in a porcelain pot over charcoal, instead of being steamed like most Japanese teas. The leaves turn from green to brown, and develop a nutty, caramel-like flavor. 
+  LONG
+    & Houjicha is lower in caffeine than green tea, because of the roasting process. Because of this, it is popular tea to serve in evenings after meals. 
   COLOR : #875A2C
 Hibiscus
 
@@ -616,9 +645,21 @@ Lapsang souchong
 ~ ALCOHOL
 
 Wine
-  BREF : Wine has long been used as an antiseptic to treat wounds - it was even used to treat pain from child birth.
+  BREF : Wine is made from fermented grapes, with different varieties of grapes and strains of yeast produced different styles of wine. 
+  LONG
+    & There are many wine variants, like {*red wine*}, {*white wine*}, {*rosé wine*}. {*fruit wines*}, {*honey wines*} and {*starch-based wines*}. Different concentrations of alcohol in the human body have different effects on a person. 
+    & Wine is often served with dinner, paired with specific dishes for enhanced flavors. There are sweet wines, to accompany desserts. Wine is also cooked as a flavor agent in dishes, like in stocks or when braising. The acidity of wine lends balance to rich savory or sweet dishes. 
 Beer
+  BREF : Beer is brewed from cereal grains, like malted barley, wheat, maize and rice. 
+  LONG
+    & During the brewing process, the starch sugars ferment and produce ethanol and carbonation in the beer. Nowadays, {{hops|hops}} is added to beer, as a preserving agent, but also because it adds bitterness and other flavors. Modern beer ranges from 4% to 6% strength ABV (alcohol by volume), but there are varieties that are much lower and much higher than this (up to 20%-40%).
+    & The sediment in craft beer, can be used as a leavening agent in {{beer bread|beer bread}}.
+    & There is some nutritional value in beer, but it varies greatly from beer to beer, and this does not make it essential to good health. 
 Sake
+  BREF : Sake is Japanese rice beer, and it comes in a variety of flavors and concentrations. 
+  LONG
+    & There is {*nihonshu-do 日本酒度*}, {*san-do 酸度*}, {*aminosan-do アミノ酸度*}, {*ginjoushu 吟醸酒*} and many, many more. Sake is made by fermenting rice that has been polished to remove the outer bran. The process of sake is more similar to beer than to wine, because the starch is converted into sugars which ferment into alcohol.The serving temperature of sake depends on the type. Sake can be served at room temperature {*hiya 冷や*}, chilled {*reishu 冷酒*} or heated {*atsukan 熱燗*}. 
+    & In cooking, you can use a cheaper variety called {*ryorishu 料理酒*} or {*cooking sake*}. Cooking sake has added salt to make it unfit for drinking, so that shop owners can sell it without an alcohol license. Adding regular sake in recipes though is also fine.
 Whisky
 Cider
 Rhum
