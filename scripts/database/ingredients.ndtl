@@ -23,20 +23,27 @@ Coffee
 ~ LEGUMES
 
 Lentils
-  BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+  BREF : Lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
+  LONG 
+    & Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils can be soaked, germinated, boiled, fried and baked, the most common being boiled. They require a cooking time of 10-40 minutes, depending on variety. The cooking time is shorter for varieties with the husk removed, like red lentils. Lentils without husks tend to soften into purees, while the husked variety remain whole.
   TAGS
     Legume
     Lentil
 
 Beluga Lentils
   PARENT : Lentils
+  BREF : Beluga lentils are black, bead-like, lens-shaped, almost spherical. They have a delicate flavor and a firm texture that doesn't disintegrate when cooked. 
+  LONG
+    & Beluga lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soybeans}}.
   COLOR : #000000
   TAGS
     Legume
     Lentil
 Brown Lentils
   PARENT : Lentils
-  BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
+  BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor, with a firm texture that doesn't disintegrate when cooked. 
+  LONG
+    & Lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soybeans}}.
   TAGS
     Legume
     Lentil
@@ -44,15 +51,19 @@ Brown Lentils
 Tempeh
   COLOR : #875A2C
 Peanut Butter
-  BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. The US consumes $800 million of this stuff annually. Peanut butter's flavor combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers.
+  BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. Peanut butter is a rich source of {{protein|nutrition}}.
+  LONG 
+    & The US consumes $800 million of this stuff annually. The flavor of peanut butter combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers.
 Peanuts
   BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts, and can be made into {{peanut butter}}.
+  LONG
+    & Peanuts are are rich source of {{protein|nutrition}}, 1/4 cup of peanuts equals one serving of the 3-4 servings of protein required for good health. 
 Soy beans
   PARENT : Beans
   COLOR : #EFEFEF
+  BREF : Soy beans are a species of legumes, widely grown for its edible bean. 1/2 cup of dried soybeans equals one serving of the 3-4 servings of protein required for good health. It is also a good source of {{Omega 3's (ALA)|nutrition}}.
   LONG
-    & A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. If you produce your own {{soy milk}}, know that there won't be any waste. The pulp can be used to make okara, which you can use to make baked goods.
-    & Soy beans can be made into {{milk|soy milk}}, {{yoghurt|soy yogurt}}, {{soy sauce}}, and {{protein|soy protein}}.
+    & Unfermented food uses of soybeans include {{soy milk}} and {{tofu}}, while fermented soy foods include {{soy sauce}}, {{miso}}, natto and {{tempheh}}. A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. 
 Beans
   LONG
   & Fun fact: there are over 130 varieties of {{green beans}}.
@@ -84,32 +95,41 @@ Green Cabbage
 ~ sauerkraut #C820B3
 Red Cabbage
   COLOR : #6620B3
-  BREF : Red cabbage can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour.
+  PARENT : green cabbage
+  BREF : Red cabbage is a good source of Vitamin C, and can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour. The plant changes its color according to the pH value of the soil, due to a pigment belonging to anthocyanins. Red cabbage keeps better than other varieties, and does not need to be converted to sauerkraut to last the winter. 
   TAGS
     Cruciferous
 
 Kale
   COLOR : #006633
-  BREF : Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable!
+  BREF : Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable! Kale is a rich source of vitamin A, C, B6, folate and manganese, and a good source of vitamin E, Iron and calcium (boiling kale diminishes these last nutrients). It is better to steam or stir-fry kale.
+  & Kale is a source of well-absorbed calcium.
 Arugula
   COLOR : #006633
+  BREF : Arugula, or "rocket" is a plant grown for its leaves, which are fresh, taste and bitter. Arugula is rich in vitamin C and potassium. Its flowers, young seed pods and mature seeds are also edible. 
 Cauliflower
-  BREF : The oldest record of cauliflower dates back to the 6th century BC. They come in {{white|white cauliflower}} and {{purple|purple cauliflower}} varieties.
+  BREF : The oldest record of cauliflower dates back to the 6th century BC. They come in {{white|white cauliflower}} and {{purple|purple cauliflower}} varieties. Cauliflower is high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 White Cauliflower
   COLOR : #EFEFEF
-  BREF : A type of {{cauliflower}}.
+  PARENT : cauliflower
+  BREF : A type of {{cauliflower}}, high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 Purple Cauliflower
   COLOR : #6620B3
-  BREF : A type of {{cauliflower}}.
+  PARENT : cauliflower
+  BREF : A type of {{cauliflower}}, the purple color in this cauliflower is caused by the presence anthocyanins, water-soluble pigments that are found in many other plants and plant-based products, such as red cabbage and red wine. Cauliflower is high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 Brussel sprouts
+  PARENT : green cabbage
+  BREF : Brussel sprouts are leafy vegetables that are high in vitamin C. To prepare them, cut the buds from the stalk and cut the surplus of stems away, as well as any loose surface leaves. Once they are cut and clean, they can be boiled, steamed, stir-fried, grilled or roasted! Making a cross at the center of the stem can help it cook better. 
 Daikon
+  BREF : Daikon is a mild-flavored winter radish, originating from southeast asia. There are many varieties of daikon, with differences in color, taste and shape. Daikon is low in food energy, but is a good source of vitamin C. 
 Bok choy
+  BREF :Bok Choy is a winter-hardy vegetable, a type of Chinese cabbage. Bok Choy is a rich source of vitamin A and C, and provides some folate, vitamin B6 and calcium. 
 Radish
-
+  BREF : The radish is an edible root vegetable, domesticated in Europe in pre-Roman times. There are many varieties, varying in color, size and flavor. Radish are often grown as companion plants for pest control, they are easy to grow and quick to harvest. Radishes have a moderate amount of vitamin C.
 ~ ALGEA FUNGI
 
 Arame
-    & Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
+  BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
 Mushroom
 Wakame
@@ -598,27 +618,50 @@ Porto
 
 Coconut oil
   COLOR : #EFEFEF
-  BREF : Coconut oil was used in oil lamps in India before they had electrical lighting.
+  BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
+  LONG
+    & Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. Fun fact: Coconut oil was used in oil lamps in India before they had electrical lighting.
 Canola oil
-  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
+  BREF : Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
+  LONG
+    & Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Olive oil
-  BREF : Extra virgin olive oil has strict requirements, it's checked for all kinds of defects to be made perfect
+  BREF : Olive oil is produced by pressing whole olives, and is used in frying or as salad dressings. It also has cosmetic and pharmaceutical uses.
+  LONG
+    & Olive oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Sesame oil
   COLOR : #875A2C
-  BREF : Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
+  BREF : Sesame oil is an edible oil derived from sesame seeds. It is used as a cooking oil, but also as a flavor enhancer because of its nutty aroma and taste. 
+  LONG
+    & Light sesame oil has a high smoking point and is suitable for deep-frying, while darker varieties are used for stir-frying or sauteing food. Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
+    & Sesame oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Peppermint oil
+  BREF : Peppermint oil is made from peppermint leaves, obtained by extracting the oils from dried or fresh leaves and the flowering tops of the plant using alcohol. 
+  LONG
+    & Peppermint oil is used as an insect repellent against ants, flying insects and spiders. Peppermint oil is a stronger ingredient than peppermint extract, often used in candy-making. 
 
 ~ MISC
 
 Coconut milk
+  BREF : Coconut milk is extracted from the grated pulp of mature coconuts. The rich taste of the milk is due to its high oil content. This high-fat milk is a perfect base for {{ice cream|hop ice cream}}. 
+  LONG
+    & There are many varieties, differentiated on fat content: coconut cream (up to 50% fat), coconut milk (20% fat) and coconut skim milk (least fat). The terminology is not always described like this in products sold in western countries. Traditionally, coconut milk is made from grating the white inner flesh of mature coconuts and mixing the shredded pulp with a bit of hot water to suspend the fat in the pulp. The grating process was often done by hand. 
 Soy milk
+  BREF : {{Soy milk}} is a by-product of the manufacture of {{tofu}}, and an important source of protein, calcium, vitamin D and B12 for vegans. When buying soy milk, prioritize unsweetened enriched varieties. 
+  LONG
+    & {{Soy milk}} is made from soaking and griding {{soy beans}}, boiling the mixture and filtering out the pulp. Soy milk is a stable emulsion of oil, water and protein. 
 Purple potato powder
   COLOR : #6620B3
 Baguette
   COLOR : #875A2C
-  BREF : A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
+  BREF : Originating in France, baguettes are made from basic lean dough. It is recognizable by its length and crisp crust. 
+  LONG
+    & The supposed history of baguettes is an interesting one. A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
 Bread crusts
 Vegan butter
+  BREF : Vegan butter is made from vegetable oils, and serves as an alternative to cow's milk. 
+  LONG
+    & Common brands include {{earth balance|https://world.openfoodfacts.org/product/0033776011703/original-buttery-spread-78-vegetable-oils-earth-balance}}. High-fat oils like coconut and olive oil can be used instead.  
 Royal blue colouring
 Violet colouring
 Wholegrain macaroni
@@ -626,11 +669,14 @@ Scoobi do
 Fusilli
 Soy yogurt
 Kinako
+  BREF : Kinako is roasted soybean flour, used in Japanese cuisine. Kinako means "yellow flour" in Japanese. Kinako contains B vitamins and some protein. 
+  LONG
+    & Kinako is produced by grinding roasted soybeans into powder, some kinds keep the roasted skin which alters the color of the final product. Kinako is often used to make desserts, like dumplings coated with it, it is also sometimes combined with {{soy milk}}.
 Blue corn tortilla
 Tofurky sausages
 Corn tortillas
 Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
+  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and are very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
   BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', as 'stock cube' in Australia, Ireland, New Zealand, South Africa, and the UK, and as 'dehydrated bouillon' in France.
@@ -640,13 +686,30 @@ Instant noodles
 Water
   BREF : 70% of the fresh water used by people goes to agriculture.
 Sugar
-  BREF : The average person consumes about 24kg of sugar per year, which is about 260 calories per day. Natural brown sugars that have been highly centrifuged go by the names of turbinado, demeara or raw sugar. Others that have been midly centrifuged and that have a higher molasses content go by Panela, rapadura, jaggery, muscovado etc. Powdered sugar is available in different degrees of fineness, the more X's the finer the grain.
+  BREF : Sugar is a generic name for sweet-tasting, soluble carbohydrates. 
+  LONG 
+    & Natural brown sugars that have been highly centrifuged go by the names of turbinado, demeara or raw sugar. Others that have been midly centrifuged and that have a higher molasses content go by Panela, rapadura, jaggery, muscovado etc. Powdered sugar is available in different degrees of fineness, the more X's the finer the grain.
+    & The average person consumes about 24kg of sugar per year, which is about 260 calories per day. Sugar is not essential to good health, and should be eaten sparingly.
 Powdered Sugar
 Whole Cane Sugar
+  BREF : Cane sugar is extracted from sugarcane, then treated to remove impurities. The resulting juice is boiled, and as it cools the liquid crystallizes to produce sugar crystals. 
+  LONG
+    & Whole cane sugar is not essential to good health. It is used in cooking, but also to produce ethanol fuel. 
 Coconut Sugar
+  BREF : Coconut sugar has a caramel-like flavor, and is subtly sweet. It is produced from the sap of the flower bud stem of the coconut palm. It is used as a sweetener in many countries.
+  LONG
+    & Coconut sugar isn't highly processed, and so its flavor can vary depending on what species was used and where/when it was harvested. Coconut sugar is not essential to good health and should be consumed in moderation. 
 Brown Sugar
+  BREF : Brown sugar has a brown color because of the presence of molasses. 
+  LONG 
+    & Brown sugar adds flavor to desserts and baked goods, and caramelizes better than refined sugar. 
 Salt
-  BREF : Some boutiques in hawaii sell black salt with powdered black lava added in. {{Fleur de sel}} is considered more of a garnish or a condiment, used to create contrast in sweet deserts.
+  BREF : Salt is present in large quantities in seawater, with about 35g/L of seawater. Salt is essential to life, and is one of the oldest food seasonings. Iodized salt is a good source of {{iodine|nutrition}}.
+  LONG
+    & Salting is an important method of preserving food, used in many cultures around the world. Salt is produced by evaporating sea water and mineral-rich spring water in shallow pools. Industrial byproducts include caustic soda and chlorine, and is used to manufactur many products like plastics and paper pulp. Two hundred million tonnes of salt are use for human consumption per year. 
 Sea Salt
+  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food. 
+  LONG
+    & Iodine, an element essential for human health, is present only in small amounts in sea salt.
 Chocolate
 `
