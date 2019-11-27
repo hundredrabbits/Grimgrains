@@ -78,6 +78,9 @@ Green beans
 Kidney beans
   PARENT : Beans
 Edamame
+  BREF : Edamame are immature {{soy beans}}, still in their pods. {*Eda 枝*} means 'stem' and {*mame 豆*} means 'beans', literally 'steam beans.' Edamame, like all soyfoods, are rich in {*protein*}. 
+  LONG 
+    & Edamame can be boiled or steamed, and served with salts of other condiments. Fresh edamame last for 3 days in the refrigerator, wrapped in a material that traps moisture to prevent discoloration and wilting. Fresh edamame can be frozen, but should be blanched first. Frozen edamame lasts for many months. 
 Chickpeas
   BREF : Chickpeas are the earliest cultivated legumes in history, and a staple in many countries. Chickpeas are also very rich in protein, and a good source of iron. 
   LONG 
@@ -145,6 +148,9 @@ Arame
   BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
 Mushroom
+  BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin D2*}.
+  LONG
+    & Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 Wakame
   PARENT : Seaweed
   COLOR : #006633
@@ -177,44 +183,86 @@ Shiitake
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Mature crimini mushrooms are actually {{portobello}} mushrooms.
+  BREF : Crimini mushrooms, or {*agaricus bisporus*}, are immature {{portobello mushrooms}}. They are brown and known under a variety of other names, like swiss brown, roman brown, italian brown and chestnut. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
 Portobello
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Portobello are mature {{crimini}} (or common) mushrooms. They can be used in plant-based recipes as hamburger steaks, you can even use them as buns.
+  BREF : Portobello are mature brown or white {*agaricus bisporus*} mushrooms. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
+  LONG
+    & They can be used in plant-based recipes as hamburger patties, you can even use them as buns.
 Shimeji
   PARENT : Mushroom
+  BREF : Shimeji {*占地*} are a group of edible mushrooms native to East Asia. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. Shimejis are rich in 'umami', they have a distint nutty flavor. 
+  LONG
+    & Shimeji mushrooms should always be cooked, because of its bitter taste which disappears upon cooking. It has a firm texture with a bit of a crunch. They are used in soups, stews and sauces, or stir-fried with vegetables. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification.
 Button Mushrooms
   PARENT : Mushroom
-Black mushrooms
-  PARENT : Mushroom
-Straw mushrooms
-  PARENT : Mushroom
+  BREF : Button mushrooms, or {*agaricus bisporus*}, are small immature {{portobello mushrooms}}. They are white in color and like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
+  LONG
+    & Most button mushrooms are picked and sold when they are young, with their caps closed. The whole mushrooms is often used is recipes, stem included. To prepare button mushrooms, wipe them gently to remove dirt. They can be found in the wild, butcan easily be confused with A. Californicus, a look-alike that is mildly toxic. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 
 ~ SEEDS
 
 Flax seeds
   BREF : Flax seeds, or {*linseed*}, are harvested from the flax plant. Flax seeds are a source of Omega-3's, and can be used whole in breads, or ground as an egg-replacer in recipes.
   LONG
-    & Flax seeds are used to make textiles, and is also made into oil. 
+    & Flax seeds are used to make textiles, and are also made into oil (flaxseed oil).
 Sunflower seeds
+  BREF : Sunflower seeds are the fruit of the sunflower. There are 3 types, {*linoleic*} being the most common. Sunflower seeds are a rich source of {*protein*}, {*iron*} and {*zinc*}.
+  LONG 
+    & Sunflower seeds are commonly eaten as snacks, but can be used in recipes as garnishes or bases for {{vegan faux-cheese sauces|Sunflower heirloom carrot pasta}}. Seeds are sold in-shell or dehulled, both salted and unsalted.
 Pumpkin seeds
+  PARENT : Pumpkin, Squash
+  BREF : Pumpkin seeds is the edible seed of a {*pumpkin*} and certain {*squashes*}. The seeds are flat, with a white outer husk. The inner seed is a dark green color. Pumpkin seeds are righ in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Pumpkin seeds can be consumed raw, {{roasted|Roasted pumpkin seeds}}, or pureed into a nut butter. They can also be added to {{crackers|Crackers}}, {{cakes|Halloween pumpkin cookies}} and breads.  
 Sesame seeds
-  BREF : Tahini is made by grinding toasted hulled sesame seeds. It is used in baba ghanoush, halva, hummus and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
+  BREF : Sesame seeds has many other species, coming in a variety of colors ranging from light to dark. It has the highest oil content of any seed, with a nutty flavor. Sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of sesame seeds also include {{tahini}} and {{sesame oil}}. The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 White sesame seeds
+  PARENT : sesame seeds
+  BREF : White sesame is the seed of a flowering plant of the genus {*Sesamum*}. It has the highest oil content of any seed, with a nutty flavor. White sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of white sesame seeds also include {{tahini}} and {{sesame oil}}. The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 Black sesame seeds
+  PARENT : sesame seeds
+  BREF : Black sesame is the seed of a flowering plant of the genus {*Sesamum*}. It has the highest oil content of any seed, with a nutty flavor. Black sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of black sesame seeds also include {*gomashio*} (Japanese sesame salt) and {*chikki*} (Indian sweet brittle). The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 Tahini
+  BREF : Tahini is a condiment made from toasted and ground hulled white sesame seeds. It is a rich source of {*protein*} and {*calcium*}.
+  LONG
+    & It is used in {*baba ghanoush*} (roasted eggplant dip), {*pekmez*} (sweet turkish dip), {{hummus|uzumaki hummus bites}} and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
 Pomegranate seeds
 Chia seeds
+  BREF : Chia seeds are the edible seeds of {*Salvia hispanica*}, a flowering plant belonging to the mint family. They are small, oval, grey/white/black seeds. Chia seeds are a source of {*Omega-3's*}.
+  LONG 
+    & Chia seeds are {*hydrophilic*}, meaning that they can absorb up to 12x their weight in liquid. Soaking the seeds creates a thick, gluey coating that gives it a gel-like texture.  
 
 ~ ROOT VEGETABLES
 
 Nagaimo
+  BREF : Nagaimo is a Chinese yam, the only species that can be consumed raw. It has a bland flavor, and is primarily consumed due to the resulting {*mucilaginous*} texture when sliced or grated. 
+  LONG
+    & When preparing nagaimo for consumption, gloves should be used because it can cause skin irritation. Nagaimo should be peeled and brieftly soaked in a vinegar-water solution to neutralize the {*oxalate crystals*} found in their skin, then, it can be cut into slices or grated. Grated nagaimo develops a {*mucilaginous*} texture, which can be added to dips for soba noodles, or to {{okonomiyaki|okonomiyaki}}.
 Carrots
-  BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
+  BREF : Carrots are a root vegetable, that comes in a variety of colors (orange, purple, black, red white and yellow). It is cultivated for its leaves and taproot. Carrots contain high quantities of vitamin A. 
+  LONG
+    & Carrot cultivars can be grouped into two broad classes, {*eastern carrots*} (purple, yellow, often with branched roots) and {*western carrots*} (with an abundance of carotene). Carrots benefit from companion plants. Onions, leeks and chives for instance help repel the carrot root fly. Carrots can be stored for many months in a refrigerator, or in moist, cool places in winter. For long-term storage, carrots can be stashed in a bucket between layers of sand. A storage temperature of 0 to 5 °C is ideal. 
 Heirloom Carrots
+  PARENT : Carrots
+  BREF : Heirloom carrots are a root vegetable, that comes in a variety of colors (orange, purple, black, red white and yellow). It is cultivated for its leaves and taproot. Carrots contain high quantities of vitamin A. 
+  LONG
+    & Heirloom carrots are an old cultivar grown and maintained by a minority of gardeners and farmers. They were commonly grown during earlier periods in human history, but are not used in modern large-scale agriculture. Many heirloom carrots kept their traits through {*open pollination*}, plants pollinated naturally by birds, insects, wind, or human hands.
 Ginger
+  BREF : Ginger root is the rhizome of the Ginger plant, used to flavor dishes. It is pickled, steeped (for hot beverages), candied, brewed into beer, powdered and used in an incredible range of recipes. 
+  LONG
+    & Dried and powdered ginger can be used as a substitute for fresh at a ratio of 6 to 1, but the flavor differs greatly. Ginger root should be peeled before consumption, and can be refrigerated or frozen for long-term storage. 
 Ginger Root
+  BREF : Ginger root is the rhizome of the Ginger plant, used to flavor dishes. It is pickled, steeped (for hot beverages), candied, brewed into beer, powdered and used in an incredible range of recipes. 
+  LONG
+    & Dried and powdered ginger can be used as a substitute for fresh at a ratio of 6 to 1, but the flavor differs greatly. Ginger root should be peeled before consumption, and can be refrigerated or frozen for long-term storage. 
   PARENT : Ginger
 Potatoes
   BREF : Since vitamin A deficiency is a common problem in Africa, people are encouraged to eat {{sweet potatoes}}.
@@ -223,19 +271,25 @@ Russet Potatoes
 Sweet Potatoes
   PARENT : Potatoes
 Beets
+  BREF : Beets, or {*beetroots*}, are the taproot portion of the beet plant. There are many cultivated varieties, like red beets, golden beats, table beet etc. 
   LONG
-    & {{Golden beets}} are rich in b-xanthin pigment, so they cannot replace {{red beets}} (which contain betalain pigment). Both pigments offer different health benefits!
-    & The root of the beet plant is called a beetroot. Don't be alarmed, beetroot juice will make your urine red for a day.
+    & Beetroot is used as a red food colorant in desserts, candies and a variety of other {{baked goods|raisin beet bread}}, {{soups|borscht with tofu sour cream}} and desserts, it's also used to make {{sauces|roasted beet lentils}}. Don't be alarmed, red beetroot juice will make your stools and urine red for a day.
 Golden Beets
   PARENT : Beets
-  BREF : A type of {{beet|beets}} containing b-xanthin pigment.
+  BREF : Golden or yellow beets, or {*beetroots*}, are the taproot portion of the beet plant and have a golden/yellow fleshy interior. This cultivar is sweeter and milder than their red counterparts. 
+  LONG
+    & Golden beets keep in the refrigerator up to two weeks, but the beet tops should be eaten shortly after harvest. 
 Red Beets
   PARENT : Beets
-  BREF : A type of {{beet|beets}} containing betalain pigment.
+  BREF : Red beets, or {*beetroots*}, are the taproot portion of the beet plant and have a red fleshy interior. Underneath the surface, the flesh is a deep crimson and is dense, aqueous, and crunchy. When cooked, Red beets develop a tender, soft texture with a mildly sweet, earthy flavor. The beet plant also grows leafy stalks that are edible and have a taste similar to swiss chard. 
+  LONG
+    & It is consumed raw in salads, they can also be roasted, steamed, fried and boiled. Beetroot is used as a red food colorant in desserts, candies and a variety of other {{baked goods|raisin beet bread}}, {{soups|borscht with tofu sour cream}} and desserts, it's also used to make {{sauces|roasted beet lentils}} and {{dips|uzumaki hummus bites}}. Don't be alarmed, beetroot juice will make your stools and urine red for a day.
 Yuka
   BREF : Tapioca is actually a starch extracted from Yuca roots.
 Garlic
-  BREF : Garlic has been used in many cultures around the world for thousands of years, dating all the way back to the time the pyramids were built!
+  BREF : Garlic bulbs range from medium to large, consisting of gloves encased in individual wrappers. It has a mild allium scent and taste. Crushing or pressing the cloves releases enzyme compounds that produce a sulfur-based molecule called {*acilin*}, which is responsible for giving garlic its pungent aroma and taste. 
+  LONG
+    & Garlic can be consumed both raw or cooked, with raw having a stronger flavor. Garlic pairs well with acidic fruits and vegetables like {{tomatoes}} and citrus, herbs like {{basil}}, {{thyme}} and {{oregano}} and vegetables like broccoli, {{brussel sprouts}}, {{snap peas}} and {{artichokes}}.
 Garlic Powder
   PARENT : Garlic
 Onion
