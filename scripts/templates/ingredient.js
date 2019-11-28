@@ -25,8 +25,20 @@ function IngredientTemplate (id, rect) {
     let html = ''
 
     html += `<h1>${name.capitalize()}</h1>`
+    html += `<ul class='ingredients' style='float:right'>${print_ingredient(name)}</ul>`
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
     html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
+
+    if(ingredient.PARENT){
+      const parent_ingr = all_ingredients[ingredient.PARENT.toUpperCase()]
+      if(parent_ingr && parent_ingr.BREF){
+        html += `<p>${parent_ingr.BREF}</p>`
+      }
+      if(parent_ingr && parent_ingr.LONG){
+        html += `${new Runic(parent_ingr.LONG)}`
+      }
+    }
+
     html += ingredient.WARN ? `<section id='warn'>${new Runic(ingredient.WARN)}</section>` : ''
 
     const parents = ingredient && ingredient.PARENT ? ingredient.PARENT.split(',') : []
