@@ -29,12 +29,12 @@ function IngredientTemplate (id, rect) {
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
     html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
 
-    if(ingredient.PARENT){
+    if (ingredient.PARENT) {
       const parent_ingr = all_ingredients[ingredient.PARENT.toUpperCase()]
-      if(parent_ingr && parent_ingr.BREF){
-        html += `<p>${parent_ingr.BREF}</p>`
+      if (parent_ingr && parent_ingr.BREF) {
+        html += `<p>${parent_ingr.BREF.to_markup()}</p>`
       }
-      if(parent_ingr && parent_ingr.LONG){
+      if (parent_ingr && parent_ingr.LONG) {
         html += `${new Runic(parent_ingr.LONG)}`
       }
     }
@@ -44,7 +44,7 @@ function IngredientTemplate (id, rect) {
     const parents = ingredient && ingredient.PARENT ? ingredient.PARENT.split(',') : []
     const children = find_child_ingredients(name, all_ingredients)
     const related = parents.concat(children)
-    html += related.length > 0 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${related.reduce((acc,ingr) => { return acc+print_ingredient(ingr) },'')}</ul>` : ''
+    html += related.length > 0 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${related.reduce((acc, ingr) => { return acc + print_ingredient(ingr) }, '')}</ul>` : ''
 
     return html
   }
@@ -167,7 +167,7 @@ function IngredientTemplate (id, rect) {
     return Object.keys(ingredients).length
   }
 
-  function print_ingredient(name){
+  function print_ingredient (name) {
     return `
       <li class='ingredient'>
         <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
