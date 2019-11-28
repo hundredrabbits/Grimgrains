@@ -28,74 +28,13 @@ function IngredientTemplate (id, rect) {
     html += ingredient.BREF ? `<p class='bref'>${ingredient.BREF.to_markup()}</p>` : ''
     html += ingredient.LONG ? `${new Runic(ingredient.LONG)}` : ''
     html += ingredient.WARN ? `<section id='warn'>${new Runic(ingredient.WARN)}</section>` : ''
-    html += `${make_parents(ingredient)}`
-    html += `${make_children(name, all_ingredients)}`
-    html += `${make_similar(name, recipes, all_ingredients)}`
+
+    const parents = ingredient && ingredient.PARENT ? ingredient.PARENT.split(',') : []
+    const children = find_child_ingredients(name, all_ingredients)
+    const related = parents.concat(children)
+    html += related.length > 0 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${related.reduce((acc,ingr) => { return acc+print_ingredient(ingr) },'')}</ul>` : ''
+
     return html
-  }
-
-  function make_parents (ingredient) {
-    let html = ''
-    if (!ingredient.PARENT) { return html }
-
-    html += "<h2>Parent Ingredients</h2><ul class='ingredients'>"
-    const parents = ingredient.PARENT.split(',')
-
-    for (id in parents) {
-      const name = parents[id].trim()
-      html += `
-      <li class='ingredient'>
-        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
-          <img src='media/ingredients/${name.to_path()}.png'/>
-          <span class='name'>${name.capitalize()}</span>
-        </a>
-      </li>`
-    }
-
-    html += '</ul>'
-    return html
-  }
-
-  function make_children (ingredient, all_ingredients) {
-    let html = ''
-    const child_ingredients = find_child_ingredients(ingredient, all_ingredients)
-    if (child_ingredients.length == 0) { return html }
-
-    html += "<h2>Child Ingredients</h2><ul class='ingredients'>"
-
-    for (id in child_ingredients) {
-      const name = child_ingredients[id]
-      html += `
-      <li class='ingredient'>
-        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
-          <img src='media/ingredients/${name.to_path()}.png'/>
-          <span class='name'>${name.capitalize()}</span>
-        </a>
-      </li>`
-    }
-
-    html += '</ul>'
-    return html
-  }
-
-  function make_similar (search_name, recipes, all_ingredients) {
-    let html = ''
-    const ingredients = find_ingredients(recipes)
-    const similar_ingredients = find_similar_ingredients(search_name, ingredients, all_ingredients)
-
-    for (id in similar_ingredients) {
-      if (similar_ingredients[id][1] < 1) { break }
-      const name = similar_ingredients[id][0]
-      if (name.toLowerCase() == search_name.toLowerCase()) { continue }
-      html += `
-      <li class='ingredient'>
-        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
-          <img src='media/ingredients/${name.to_path()}.png'/>
-          <span class='name'>${name.capitalize()}</span>
-        </a>
-      </li>`
-    }
-    return similar_ingredients.length >= 1 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${html}<hr /></ul>` : ''
   }
 
   function find_ingredients (recipes) {
@@ -135,7 +74,6 @@ function IngredientTemplate (id, rect) {
 
   function find_child_ingredients (search_name, all_ingredients) {
     const a = []
-
     for (name in all_ingredients) {
       const ingr = all_ingredients[name]
       if (!ingr.PARENT) { continue }
@@ -144,7 +82,6 @@ function IngredientTemplate (id, rect) {
         a.push(name.toLowerCase())
       }
     }
-
     return a
   }
 
@@ -216,5 +153,15 @@ function IngredientTemplate (id, rect) {
       }
     }
     return Object.keys(ingredients).length
+  }
+
+  function print_ingredient(name){
+    return `
+      <li class='ingredient'>
+        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+          <img src='media/ingredients/${name.to_path()}.png'/>
+          <span class='name'>${name.capitalize()}</span>
+        </a>
+      </li>`
   }
 }
