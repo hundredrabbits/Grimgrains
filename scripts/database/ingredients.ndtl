@@ -23,9 +23,7 @@ Coffee
 ~ LEGUMES
 
 Lentils
-  BREF : Lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
-  LONG 
-    & Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils can be soaked, germinated, boiled, fried and baked, the most common being boiled. They require a cooking time of 10-40 minutes, depending on variety. The cooking time is shorter for varieties with the husk removed, like red lentils. Lentils without husks tend to soften into purees, while the husked variety remain whole.
+  BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils can be soaked, germinated, boiled, fried and baked, the most common being boiled. They require a cooking time of 10-40 minutes, depending on variety. The cooking time is shorter for varieties with the husk removed, like red lentils. Lentils without husks tend to soften into purees, while the husked variety remain whole.
   TAGS
     Legume
     Lentil
@@ -34,7 +32,7 @@ Beluga Lentils
   PARENT : Lentils
   BREF : Beluga lentils are black, bead-like, lens-shaped, almost spherical. They have a delicate flavor and a firm texture that doesn't disintegrate when cooked. 
   LONG
-    & Beluga lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soybeans}}.
+    & Beluga lentils are a rich source of numerous essential nutrients like {{protein|#nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
   COLOR : #000000
   TAGS
     Legume
@@ -43,7 +41,7 @@ Brown Lentils
   PARENT : Lentils
   BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor, with a firm texture that doesn't disintegrate when cooked. 
   LONG
-    & Lentils are a rich source of numerous essential nutrients like {{protein|nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soybeans}}.
+    & Lentils are a rich source of numerous essential nutrients like {{protein|#nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
   TAGS
     Legume
     Lentil
@@ -66,7 +64,7 @@ Soy beans
   COLOR : #EFEFEF
   BREF : Soy beans are a species of legumes, widely grown for its edible bean. 1/2 cup of dried soybeans equals one serving of the 3-4 servings of protein required for good health. It is also a good source of {{Omega 3's (ALA)|nutrition}}.
   LONG
-    & Unfermented food uses of soybeans include {{soy milk}} and {{tofu}}, while fermented soy foods include {{soy sauce}}, {{miso}}, natto and {{tempheh}}. A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. 
+    & Unfermented food uses of soybeans include {{soy milk}} and {{tofu}}, while fermented soy foods include {{soy sauce}}, {{miso}}, natto and {{tempeh}}. A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. 
 Beans
   LONG
   & Fun fact: there are over 130 varieties of {{green beans}}.
@@ -78,6 +76,7 @@ Green beans
 Kidney beans
   PARENT : Beans
 Edamame
+  PARENT : soy beans
   BREF : Edamame are immature {{soy beans}}, still in their pods. {*Eda 枝*} means 'stem' and {*mame 豆*} means 'beans', literally 'steam beans.' Edamame, like all soyfoods, are rich in {*protein*}. 
   LONG 
     & Edamame can be boiled or steamed, and served with salts of other condiments. Fresh edamame last for 3 days in the refrigerator, wrapped in a material that traps moisture to prevent discoloration and wilting. Fresh edamame can be frozen, but should be blanched first. Frozen edamame lasts for many months. 
@@ -139,20 +138,22 @@ Brussel sprouts
   PARENT : green cabbage
   BREF : Brussel sprouts are leafy vegetables that are high in vitamin C. To prepare them, cut the buds from the stalk and cut the surplus of stems away, as well as any loose surface leaves. Once they are cut and clean, they can be boiled, steamed, stir-fried, grilled or roasted! Making a cross at the center of the stem can help it cook better. 
 Daikon
-  BREF : Daikon is a mild-flavored winter radish, originating from southeast asia. There are many varieties of daikon, with differences in color, taste and shape. Daikon is low in food energy, but is a good source of vitamin C. 
+  BREF : Daikon is a mild-flavored winter radish, originating from southeast asia. Daikon is low in food energy, but is a good source of {*vitamin C*}. 
+  LONG
+    & There are many varieties of daikon, with differences in color, taste and shape. 
 Bok choy
-  BREF :Bok Choy is a winter-hardy vegetable, a type of Chinese cabbage. Bok Choy is a rich source of vitamin A and C, and provides some folate, vitamin B6 and calcium. 
+  BREF : Bok Choy is a winter-hardy vegetable, a type of Chinese cabbage. Bok Choy is a rich source of vitamin A and C, and provides some folate, vitamin B6 and calcium. 
 Radish
-  BREF : The radish is an edible root vegetable, domesticated in Europe in pre-Roman times. There are many varieties, varying in color, size and flavor. Radish are often grown as companion plants for pest control, they are easy to grow and quick to harvest. Radishes have a moderate amount of vitamin C.
+  BREF : The radish is an edible root vegetable, domesticated in Europe in pre-Roman times. There are many varieties, varying in color, size and flavor. Radishes have a moderate amount of {*vitamin C*}.
+  LONG
+    & Radish are often grown as companion plants for pest control, they are easy to grow and quick to harvest. 
 ~ ALGEA FUNGI
 
 Arame
   BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
 Mushroom
-  BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin D2*}.
-  LONG
-    & Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
+  BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin d2*}. Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 Wakame
   PARENT : Seaweed
   COLOR : #006633
@@ -179,29 +180,25 @@ Nori Sheets
 Shiitake
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Shiitake is an edible mushroom, and can provide vitamin D2 if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
-  LONG
-    & Shiitake mushrooms are used as a base in vegan dashi, to flavor simmered and steamed dishes. 
+  BREF : Shiitake is an edible mushroom, used as a base in vegan dashi, to flavor simmered and steamed dishes. 
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Crimini mushrooms, or {*agaricus bisporus*}, are immature {{portobello mushrooms}}. They are brown and known under a variety of other names, like swiss brown, roman brown, italian brown and chestnut. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
+  BREF : Crimini mushrooms, or {*agaricus bisporus*}, are immature {{portobello mushrooms}}. They are brown and known under a variety of other names, like swiss brown, roman brown, italian brown and chestnut. 
 Portobello
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Portobello are mature brown or white {*agaricus bisporus*} mushrooms. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
-  LONG
-    & They can be used in plant-based recipes as hamburger patties, you can even use them as buns.
+  BREF : Portobello are mature brown or white {*agaricus bisporus*} mushrooms. They can be used in plant-based recipes as hamburger patties, you can even use them as buns.
 Shimeji
   PARENT : Mushroom
-  BREF : Shimeji {*占地*} are a group of edible mushrooms native to East Asia. Like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. Shimejis are rich in 'umami', they have a distint nutty flavor. 
+  BREF : Shimeji {*占地*} are a group of edible mushrooms native to East Asia. Shimejis are rich in 'umami', they have a distint nutty flavor. 
   LONG
-    & Shimeji mushrooms should always be cooked, because of its bitter taste which disappears upon cooking. It has a firm texture with a bit of a crunch. They are used in soups, stews and sauces, or stir-fried with vegetables. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification.
+    & Shimeji mushrooms should always be cooked, because of its bitter taste which disappears upon cooking. It has a firm texture with a bit of a crunch. They are used in soups, stews and sauces, or stir-fried with vegetables. 
 Button Mushrooms
   PARENT : Mushroom
-  BREF : Button mushrooms, or {*agaricus bisporus*}, are small immature {{portobello mushrooms}}. They are white in color and like most mushrooms, they can provide {*vitamin D2*} if exposed to UVB rays from sunligt of broadband UVB fluorescent tubes. 
+  BREF : Button mushrooms, or {*agaricus bisporus*}, are small immature {{portobello mushrooms}}. They are white in color.
   LONG
-    & Most button mushrooms are picked and sold when they are young, with their caps closed. The whole mushrooms is often used is recipes, stem included. To prepare button mushrooms, wipe them gently to remove dirt. They can be found in the wild, butcan easily be confused with A. Californicus, a look-alike that is mildly toxic. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
+    & Most button mushrooms are picked and sold when they are young, with their caps closed. The whole mushrooms is often used is recipes, stem included. To prepare button mushrooms, wipe them gently to remove dirt. They can be found in the wild, butcan easily be confused with A. Californicus, a look-alike that is mildly toxic. 
 
 ~ SEEDS
 
@@ -324,13 +321,17 @@ Chives
   LONG
     & Chives are used as a garnish, and as an aromatic herb. In cooking, it is best to add them at the end of the cooking process because they lose their flavor when heated. They have insect-repelling properties that can be ued in gardens to control pests. Chives can be stored in a bag in the refrigerator, if kept dry they will last up to a week.
 Peppers
-  BREF : Peppers, or {*capsicum*}.
+  BREF : Peppers, or the fruit (botanically berries) of the {*capsicum plants*}, have a variety of names depending on place and type. The more spicy varieties are commonly called {*chili peppers*}. The large, mild form is called bell pepper, or by color {{green pepper}}, green bell pepper, {{red bell pepper}}. 
   LONG
     & The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
-Green Peppers
+Green Bell Peppers
   PARENT : Peppers
-Red Peppers
+  BREF : Green bell peppers are medium to large in size, with a firm skin that is crisp and juicy. They are an aromatic 'green', almost biter flavor. They are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG 
+    & They can be served raw, or baked, sauteed, roasted and grilled. Green bell peppers keep 1-2 weeks when stored in the refrigerator. 
+Red Bell Peppers
   PARENT : Peppers
+  BREF : 
 Yellow Peppers
   PARENT : Peppers
 Tomato
@@ -338,7 +339,9 @@ Tomato Paste
   PARENT : Tomato
   BREF : The tomatoes can also be dried with an oven.
 Avocado
-  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of fat. Fun fact: Avocado trees don't self-pollinate, they need another avocado tree nearby to bear fruit.
+  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of {*vitamin C*}, 75% of its energy comes from fat. Its flesh is thick, yellow/green and oily. It has a rich, creamy flavor with a nutty, yet clean, grassy finish. 
+  LONG
+    & Avocado can be pureed, spooned out its shell and eaten as is (when ripe), or added to salads. The flesh is prone to enzymatic browning, quickly turning brown after exposure to air. To prevent browning, add lime or lemon juice to avocados after peeling. 
 Pumpkin
   BREF : The darker the skin of the pumpkin, the higher the beta-carotene content.
 Olives
@@ -767,6 +770,7 @@ Coconut milk
   LONG
     & There are many varieties, differentiated on fat content: coconut cream (up to 50% fat), coconut milk (20% fat) and coconut skim milk (least fat). The terminology is not always described like this in products sold in western countries. Traditionally, coconut milk is made from grating the white inner flesh of mature coconuts and mixing the shredded pulp with a bit of hot water to suspend the fat in the pulp. The grating process was often done by hand. 
 Soy milk
+  PARENT : Soy beans, edamame, tofu, tempeh
   BREF : {{Soy milk}} is a by-product of the manufacture of {{tofu}}, and an important source of protein, calcium, vitamin D and B12 for vegans. When buying soy milk, prioritize unsweetened enriched varieties. 
   LONG
     & {{Soy milk}} is made from soaking and griding {{soy beans}}, boiling the mixture and filtering out the pulp. Soy milk is a stable emulsion of oil, water and protein. 
