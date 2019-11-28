@@ -284,8 +284,8 @@ Red Beets
   BREF : Red beets, or {*beetroots*}, are the taproot portion of the beet plant and have a red fleshy interior. Underneath the surface, the flesh is a deep crimson and is dense, aqueous, and crunchy. When cooked, Red beets develop a tender, soft texture with a mildly sweet, earthy flavor. The beet plant also grows leafy stalks that are edible and have a taste similar to swiss chard. 
   LONG
     & It is consumed raw in salads, they can also be roasted, steamed, fried and boiled. Beetroot is used as a red food colorant in desserts, candies and a variety of other {{baked goods|raisin beet bread}}, {{soups|borscht with tofu sour cream}} and desserts, it's also used to make {{sauces|roasted beet lentils}} and {{dips|uzumaki hummus bites}}. Don't be alarmed, beetroot juice will make your stools and urine red for a day.
-Yuka
-  BREF : Tapioca is actually a starch extracted from Yuca roots.
+Cassava
+  BREF : Cassava
 Garlic
   BREF : Garlic bulbs range from medium to large, consisting of gloves encased in individual wrappers. It has a mild allium scent and taste. Crushing or pressing the cloves releases enzyme compounds that produce a sulfur-based molecule called {*acilin*}, which is responsible for giving garlic its pungent aroma and taste. 
   LONG
@@ -296,11 +296,15 @@ Onion
 Red Onion
   PARENT : Onion
   COLOR : #C820B3
-  BREF : There is a variety of red onion in Italy that has a stronger and sweeter taste, and is sometimes made into marmalade.
+  BREF : Red onions have a purplish-red skin, and flesh that is white and tinged with red. They are crunchy, pungent, sweet and a bit spicy when raw. When cooked, they become milder. They contain {*vitamin C*}, {*iron*} and {*calcium*}. LONG
+    & Red onions can be grilled, roasted, braised, caramelized and pickled. The bulbs will keep for 1-2 months when stored in a cool, dark and dry place with good air circulation. 
 Onion Powder
   PARENT : Onion
 Yellow Onion
   PARENT : Onion
+  BREF : Yellow onions are encased in a light-yellow to copper papery skin, while the inner flesh is white. They are crunchy, with a pungent flavor when raw. If cooked, yellow onions develop a milder flavor, that is both nutty and sweet. Yellow onions are a good source of {*vitamin C*}. 
+  LONG
+    & Yellow onions can be sauteed, braised, caramelized, grilled or dry-roasted. They are used to add flavor to broths, soups and stews. The bulbs will keep for 1-2 months if stored in a cool, dry and dark place with good air circulation. 
 
 ~ OTHER VEGETABLES
 
@@ -309,7 +313,7 @@ Cucumber
 Eggplant
 Zucchini
 Chives
-  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
+  BREF : Chinese chives or {*nira*} in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
 Peppers
   BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
 Green Peppers
