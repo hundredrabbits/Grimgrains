@@ -112,7 +112,9 @@ Green Cabbage
 Red Cabbage
   COLOR : #6620B3
   PARENT : green cabbage
-  BREF : Red cabbage is a good source of Vitamin C, and can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour. The plant changes its color according to the pH value of the soil, due to a pigment belonging to anthocyanins. Red cabbage keeps better than other varieties, and does not need to be converted to sauerkraut to last the winter. 
+  BREF : Red cabbage is a good source of Vitamin C. It
+  LONG
+    & It can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour. The plant changes its color according to the pH value of the soil, due to a pigment belonging to anthocyanins. Red cabbage keeps better than other varieties, and does not need to be converted to sauerkraut to last the winter. 
   TAGS
     Cruciferous
 
@@ -297,7 +299,8 @@ Onion
 Red Onion
   PARENT : Onion
   COLOR : #C820B3
-  BREF : Red onions have a purplish-red skin, and flesh that is white and tinged with red. They are crunchy, pungent, sweet and a bit spicy when raw. When cooked, they become milder. They contain {*vitamin C*}, {*iron*} and {*calcium*}. LONG
+  BREF : Red onions have a purplish-red skin, and flesh that is white and tinged with red. They are crunchy, pungent, sweet and a bit spicy when raw. When cooked, they become milder. They contain {*vitamin C*}, {*iron*} and {*calcium*}. 
+  LONG
     & Red onions can be grilled, roasted, braised, caramelized and pickled. The bulbs will keep for 1-2 months when stored in a cool, dark and dry place with good air circulation. 
 Onion Powder
   PARENT : Onion
@@ -313,10 +316,17 @@ Cucumber
   BREF : Cucumbers are usually more than 90% water.
 Eggplant
 Zucchini
+  BREF : Zucchini squash, or {*courgette*}, can be dark or light green. Botanically they are treated as vegetables, but they are fruits. Zucchini squah can be harvested when young, or later once it has grown to 6-8" long. Immature squashes have better flavor, with a spongy yet firm texture. Zucchini are a low energy food, being 94% water, and are a source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
+  LONG
+    & Zucchinis have a mild flavor which makes them ideal in both sweet and savory recipes. They can be grated, steamed, sauteed, battered, fried, baked, julienned for pasta, eaten raw etc. Zucchini will keep for 1-2 weeks if kept dry and refrigerated. 
 Chives
-  BREF : Chinese chives or {*nira*} in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
+  BREF : Chives grow in clusters, with hollow leaves that come to a point. They have a mild onion flavor, which doesn't linger. They are a good source of {*calcium*} and {*iron*}.
+  LONG
+    & Chives are used as a garnish, and as an aromatic herb. In cooking, it is best to add them at the end of the cooking process because they lose their flavor when heated. They have insect-repelling properties that can be ued in gardens to control pests. Chives can be stored in a bag in the refrigerator, if kept dry they will last up to a week.
 Peppers
-  BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
+  BREF : Peppers, or {*capsicum*}.
+  LONG
+    & The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
 Green Peppers
   PARENT : Peppers
 Red Peppers
