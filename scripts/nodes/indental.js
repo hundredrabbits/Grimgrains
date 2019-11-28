@@ -1,3 +1,5 @@
+'use strict'
+
 function IndentalNode (id, rect, type) {
   Node.call(this, id, rect)
 
@@ -23,10 +25,10 @@ function IndentalNode (id, rect, type) {
 
     function build (lines, type) {
       // Assoc lines
-      let stack = {}
+      const stack = {}
       let target = lines[0]
       for (id in lines) {
-        let line = lines[id]
+        const line = lines[id]
         if (line.skip) { continue }
         target = stack[line.indent - 2]
         if (target) { target.children.push(line) }
@@ -34,21 +36,21 @@ function IndentalNode (id, rect, type) {
       }
 
       // Format
-      let h = {}
+      const h = {}
       for (id in lines) {
-        let line = lines[id]
+        const line = lines[id]
         if (line.skip || line.indent > 0) { continue }
-        let key = line.content.toUpperCase()
+        const key = line.content.toUpperCase()
         h[key] = type ? new type(key, format(line)) : format(line)
       }
       return h
     }
 
     function format (line) {
-      let a = []
-      let h = {}
+      const a = []
+      const h = {}
       for (id in line.children) {
-        let child = line.children[id]
+        const child = line.children[id]
         if (child.key) { h[child.key.toUpperCase()] = child.value } else if (child.children.length == 0 && child.content) { a.push(child.content) } else { h[child.content.toUpperCase()] = format(child) }
       }
       return a.length > 0 ? a : h
@@ -67,4 +69,4 @@ function IndentalNode (id, rect, type) {
   }
 }
 
-let DATABASE = {}
+const DATABASE = {}

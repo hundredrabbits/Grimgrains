@@ -37,7 +37,7 @@ function graph () {
     Ø('core').create({ x: 10, y: 11 }, DomNode),
     Ø('content').create({ x: 10, y: 16 }, DomNode),
     Ø('related').create({ x: 14, y: 16 }, DomNode, 'ul'),
-    Ø('footer').create({ x: 6, y: 11 }, DomNode, 'wr', `<a onclick="Ø('query').bang('about')">Grimgrains</a> © 2014—2019<br/><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a>`)
+    Ø('footer').create({ x: 6, y: 11 }, DomNode, 'wr', '<a onclick="Ø(\'query\').bang(\'about\')">Grimgrains</a> © 2014—2019<br/><a href=\'http://100r.co/\' target=\'_blank\'>Hundred Rabbits</a>')
   ])
 
   // Model

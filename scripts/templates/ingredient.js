@@ -1,3 +1,5 @@
+'use strict'
+
 function IngredientTemplate (id, rect) {
   Node.call(this, id, rect)
 
@@ -6,7 +8,7 @@ function IngredientTemplate (id, rect) {
   // Create the recipe body
 
   this.answer = function (t) {
-    let ingredient = t.result
+    const ingredient = t.result
 
     return {
       title: `GrimGrains — ${t.name.capitalize()}`,
@@ -31,77 +33,77 @@ function IngredientTemplate (id, rect) {
     html += `${make_similar(name, recipes, all_ingredients)}`
     return html
   }
-  
+
   function make_parents (ingredient) {
     let html = ''
-    if (!ingredient.PARENT) {return html}
+    if (!ingredient.PARENT) { return html }
 
     html += "<h2>Parent Ingredients</h2><ul class='ingredients'>"
-    let parents = ingredient.PARENT.split(",")
+    const parents = ingredient.PARENT.split(',')
 
     for (id in parents) {
-      let name = parents[id].trim()
+      const name = parents[id].trim()
       html += `
       <li class='ingredient'>
         <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
           <img src='media/ingredients/${name.to_path()}.png'/>
+          <span class='name'>${name.capitalize()}</span>
         </a>
-        <t class='name'>${name.capitalize()}</t>
       </li>`
     }
 
-    html += "</ul>"
+    html += '</ul>'
     return html
   }
-  
+
   function make_children (ingredient, all_ingredients) {
     let html = ''
-    let child_ingredients = find_child_ingredients(ingredient, all_ingredients)
-    if (child_ingredients.length == 0) {return html}
-    
+    const child_ingredients = find_child_ingredients(ingredient, all_ingredients)
+    if (child_ingredients.length == 0) { return html }
+
     html += "<h2>Child Ingredients</h2><ul class='ingredients'>"
 
     for (id in child_ingredients) {
-      let name = child_ingredients[id]
+      const name = child_ingredients[id]
       html += `
       <li class='ingredient'>
         <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
           <img src='media/ingredients/${name.to_path()}.png'/>
+          <span class='name'>${name.capitalize()}</span>
         </a>
-        <t class='name'>${name.capitalize()}</t>
       </li>`
     }
-    
-    html += "</ul>"
+
+    html += '</ul>'
     return html
   }
 
   function make_similar (search_name, recipes, all_ingredients) {
     let html = ''
-    let ingredients = find_ingredients(recipes)
-    let similar_ingredients = find_similar_ingredients(search_name, ingredients, all_ingredients)
+    const ingredients = find_ingredients(recipes)
+    const similar_ingredients = find_similar_ingredients(search_name, ingredients, all_ingredients)
 
     for (id in similar_ingredients) {
       if (similar_ingredients[id][1] < 1) { break }
-      let name = similar_ingredients[id][0]
+      const name = similar_ingredients[id][0]
       if (name.toLowerCase() == search_name.toLowerCase()) { continue }
       html += `
       <li class='ingredient'>
         <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
           <img src='media/ingredients/${name.to_path()}.png'/>
+          <span class='name'>${name.capitalize()}</span>
         </a>
-        <t class='name'>${name.capitalize()}</t>
       </li>`
     }
     return similar_ingredients.length >= 1 ? `<h2>Related Ingredients</h2><ul class='ingredients'>${html}<hr /></ul>` : ''
   }
 
   function find_ingredients (recipes) {
-    let h = {}
+    const h = {}
     for (id in recipes) {
-      let recipe = recipes[id]
+      const recipe = recipes[id]
       for (id in recipe.INGR) {
-        let category = recipe.INGR[id]
+        const category = recipe.INGR[id]
         for (name in category) {
           h[name] = h[name] ? h[name] + 1 : 1
         }
@@ -111,14 +113,14 @@ function IngredientTemplate (id, rect) {
   }
 
   function find_similar_ingredients (name, ingredients, all_ingredients) {
-    let a = []
-    
-    let children = find_child_ingredients(name, all_ingredients)
+    const a = []
+
+    const children = find_child_ingredients(name, all_ingredients)
 
     for (id in ingredients) {
-      if (children.includes(id.toLowerCase())) {continue}
-      let words = id.toLowerCase().split(' ')
-      let index = similarity(name.toLowerCase().split(' '), words)
+      if (children.includes(id.toLowerCase())) { continue }
+      const words = id.toLowerCase().split(' ')
+      const index = similarity(name.toLowerCase().split(' '), words)
       if (index > 0) {
         a.push([id, index])
       }
@@ -130,14 +132,14 @@ function IngredientTemplate (id, rect) {
 
     return a.reverse()
   }
-  
+
   function find_child_ingredients (search_name, all_ingredients) {
-    let a = []
-    
+    const a = []
+
     for (name in all_ingredients) {
-      let ingr = all_ingredients[name]
+      const ingr = all_ingredients[name]
       if (!ingr.PARENT) { continue }
-      let parents = ingr.PARENT.split(",").map(function (name) {return name.trim().toLowerCase()})
+      const parents = ingr.PARENT.split(',').map(function (name) { return name.trim().toLowerCase() })
       if (parents.includes(search_name.toLowerCase())) {
         a.push(name.toLowerCase())
       }
@@ -148,10 +150,10 @@ function IngredientTemplate (id, rect) {
 
   function similarity (a, b) {
     let score = 0
-    for (a_id in a) {
-      let word_a = a[a_id]
-      for (b_id in b) {
-        let word_b = b[b_id]
+    for (const a_id in a) {
+      const word_a = a[a_id]
+      for (const b_id in b) {
+        const word_b = b[b_id]
         score += word_a == word_b ? 1 : 0
       }
     }
@@ -163,13 +165,13 @@ function IngredientTemplate (id, rect) {
 
     let count = 0
     for (id in recipes) {
-      let recipe = recipes[id]
-      let name = id
+      const recipe = recipes[id]
+      const name = id
       html += `
       <li class='recipe'>
         <a onclick="Ø('query').bang('${name}')" class='photo' href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
-        <t class='name'>${name.capitalize()}</t>
-        <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</t>
+        <span class='name'>${name.capitalize()}</span>
+        <span class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</span>
       </li>`
       if (count > 1) { break }
       count += 1
@@ -182,12 +184,12 @@ function IngredientTemplate (id, rect) {
   }
 
   function related_recipes (name, recipes) {
-    let h = {}
+    const h = {}
     for (id in recipes) {
-      let recipe = recipes[id]
-      for (i in recipe.INGR) {
-        let ingredients = recipe.INGR[i]
-        for (n in ingredients) {
+      const recipe = recipes[id]
+      for (const i in recipe.INGR) {
+        const ingredients = recipe.INGR[i]
+        for (const n in ingredients) {
           if (n.indexOf(name.toUpperCase()) < 0) { continue }
           h[id] = recipes[id]
         }
@@ -197,9 +199,9 @@ function IngredientTemplate (id, rect) {
   }
 
   function related_ingredients (name, tag, ingredients) {
-    let a = []
-    for (id in ingredients) {
-      let ingredient = ingredients[id]
+    const a = []
+    for (const id in ingredients) {
+      const ingredient = ingredients[id]
       if (!ingredient.TAGS || ingredient.TAGS.indexOf(tag) < 0 || id == name) { continue }
       a.push(id)
     }
@@ -207,9 +209,9 @@ function IngredientTemplate (id, rect) {
   }
 
   function count_ingredients (recipe) {
-    let ingredients = {}
-    for (cat in recipe.INGR) {
-      for (id in recipe.INGR[cat]) {
+    const ingredients = {}
+    for (const cat in recipe.INGR) {
+      for (const id in recipe.INGR[cat]) {
         ingredients[id] = 1
       }
     }

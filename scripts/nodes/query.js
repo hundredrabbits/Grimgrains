@@ -1,3 +1,5 @@
+'use strict'
+
 function QueryNode (id, rect) {
   Node.call(this, id, rect)
 
@@ -5,7 +7,7 @@ function QueryNode (id, rect) {
   this.label = 'query'
 
   this.bang = function (input = window.location.hash) {
-    let target = input.to_url() === '' ? 'home' : input.to_url()
+    const target = input.to_url() === '' ? 'home' : input.to_url()
 
     Ø('view').el.className = `${target.to_path()} loading`
 
@@ -22,12 +24,12 @@ function QueryNode (id, rect) {
   }
 }
 
-let detectBackOrForward = function (onBack, onForward) {
-  hashHistory = [window.location.hash]
-  historyLength = window.history.length
+const detectBackOrForward = function (onBack, onForward) {
+  let hashHistory = [window.location.hash]
+  let historyLength = window.history.length
 
   return function () {
-    let hash = window.location.hash; let length = window.history.length
+    const hash = window.location.hash; const length = window.history.length
     if (hashHistory.length && historyLength == length) {
       if (hashHistory[hashHistory.length - 2] == hash) {
         hashHistory = hashHistory.slice(0, -1)

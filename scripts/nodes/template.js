@@ -1,3 +1,5 @@
+'use strict'
+
 function TemplateNode (id, rect) {
   Node.call(this, id, rect)
 
@@ -6,8 +8,8 @@ function TemplateNode (id, rect) {
   this.cache = null
 
   this.receive = function (q) {
-    let assoc = this.signal(q.type ? q.type.slice(0, -1) : 'page')
-    let payload = assoc.answer(q)
+    const assoc = this.signal(q.type ? q.type.slice(0, -1) : 'page')
+    const payload = assoc.answer(q)
 
     this.send(payload)
     this.label = `template:${assoc.id}`

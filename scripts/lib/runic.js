@@ -16,7 +16,7 @@ function Runic (raw) {
     '=': { glyph: '=', tag: 'h3', class: '' },
     '+': { glyph: '+', tag: 'hs', class: '' },
     '>': { glyph: '>', tag: '', class: '' },
-    '$': { glyph: '>', tag: '', class: '' }
+    $: { glyph: '>', tag: '', class: '' }
   }
 
   this.stash = {
@@ -27,7 +27,7 @@ function Runic (raw) {
       this.all.push({ rune: rune, item: item })
     },
     pop: function () {
-      let copy = this.copy(this.all)
+      const copy = this.copy(this.all)
       this.all = []
       return copy
     },
@@ -43,8 +43,8 @@ function Runic (raw) {
   }
 
   this.media = function (val) {
-    let service = val.split(' ')[0]
-    let id = val.split(' ')[1]
+    const service = val.split(' ')[0]
+    const id = val.split(' ')[1]
 
     if (service == 'itchio') {
       return `<iframe frameborder="0" src="https://itch.io/embed/${id}?link_color=000000" width="600" height="167"></iframe>`
@@ -59,15 +59,15 @@ function Runic (raw) {
     if (!raw) { return '' }
 
     let html = ''
-    let lines = !Array.isArray(raw) ? raw.split('\n') : raw
+    const lines = !Array.isArray(raw) ? raw.split('\n') : raw
 
     for (id in lines) {
-      let char = lines[id].substr(0, 1).trim().toString()
-      let rune = this.runes[char]
-      let trail = lines[id].substr(1, 1)
+      const char = lines[id].substr(0, 1).trim().toString()
+      const rune = this.runes[char]
+      const trail = lines[id].substr(1, 1)
       if (char == '$') { html += '<p>' + Ø('operation').request(lines[id].substr(2)).to_markup() + '</p>'; continue }
       if (char == '%') { html += this.media(lines[id].substr(2)); continue }
-      let line = lines[id].substr(2).to_markup()
+      const line = lines[id].substr(2).to_markup()
       if (!line || line.trim() == '') { continue }
       if (!rune) { console.log(`Unknown rune:${char} : ${line}`) }
       if (trail != ' ') { console.warn('Runic', 'Non-rune[' + trail + '] at:' + id + '(' + line + ')'); continue }
@@ -81,13 +81,13 @@ function Runic (raw) {
   }
 
   this.render_stash = function () {
-    let rune = this.stash.rune
-    let stash = this.stash.pop()
+    const rune = this.stash.rune
+    const stash = this.stash.pop()
 
     let html = ''
     for (id in stash) {
-      let rune = stash[id].rune
-      let line = stash[id].item
+      const rune = stash[id].rune
+      const line = stash[id].item
       html += rune.wrap ? `<${rune.sub}><${rune.wrap}>${line.replace(/\|/g, `</${rune.wrap}><${rune.wrap}>`).trim()}</${rune.wrap}></${rune.sub}>` : `<${rune.sub}>${line}</${rune.sub}>`
     }
     return `<${rune.tag} class='${rune.class}'>${html}</${rune.tag}>`
@@ -127,16 +127,16 @@ String.prototype.to_markup = function () {
   html = html.replace(/{\*/g, '<b>').replace(/\*}/g, '</b>')
   html = html.replace(/{\#/g, "<code class='inline'>").replace(/\#}/g, '</code>')
 
-  let parts = html.split('{{')
+  const parts = html.split('{{')
   for (id in parts) {
-    let part = parts[id]
+    const part = parts[id]
     if (part.indexOf('}}') == -1) { continue }
-    let content = part.split('}}')[0]
+    const content = part.split('}}')[0]
     if (content.substr(0, 1) == '$') { html = html.replace(`{{${content}}}`, Ø('operation').request(content.replace('$', ''))); continue }
     // if(content.substr(0,1) == "%"){ html = html.replace(`{{${content}}}`, this.media(content)); continue; }
-    let target = content.indexOf('|') > -1 ? content.split('|')[1] : content
-    let name = content.indexOf('|') > -1 ? content.split('|')[0] : content
-    let external = (target.indexOf('https:') > -1 || target.indexOf('http:') > -1 || target.indexOf('dat:') > -1)
+    const target = content.indexOf('|') > -1 ? content.split('|')[1] : content
+    const name = content.indexOf('|') > -1 ? content.split('|')[0] : content
+    const external = (target.indexOf('https:') > -1 || target.indexOf('http:') > -1 || target.indexOf('dat:') > -1)
     html = html.replace(`{{${content}}}`, external ? `<a href='${target}' class='external' target='_blank'>${name}</a>` : `<a class='local' href="#${target.to_url()}" onclick="Ø('query').bang('${target}')">${name}</a>`)
   }
   return html
