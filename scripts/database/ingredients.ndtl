@@ -265,11 +265,18 @@ Ginger Root
     & Dried and powdered ginger can be used as a substitute for fresh at a ratio of 6 to 1, but the flavor differs greatly. Ginger root should be peeled before consumption, and can be refrigerated or frozen for long-term storage. 
   PARENT : Ginger
 Potatoes
-  BREF : Since vitamin A deficiency is a common problem in Africa, people are encouraged to eat {{sweet potatoes}}.
+  BREF : The potato is a root vegetable, of the plant {*solanum tuberosum*}. They are a staple throughout the world, and the 4th largest food crap after corn, wheat and rice. After years of selective breeding, there are now 1,000 different types of potatoes. Potatoes should not be eaten raw, because we don't digest it well. 
+
 Russet Potatoes
   PARENT : Potatoes
+  BREF : Russet potatoes are large with a dark brown skin. Their flesh is white, dry and mealy. Russet potatoes are a good source of {*vitamin C*} and {*iron*}.
+  LONG 
+    & Russet potatoes can be baked, mashed, and are often made into fries. Russet potatoes keep for up to a month if stored in a cool, dry and dark place. 
 Sweet Potatoes
   PARENT : Potatoes
+  BREF : Sweet potatoes are big, starchy, sweet-tasting, root vegetables. They come in a variety of colors, with their skin ranging from yellow, orange, brown, red purple and beige. The flesh ranges from beinge through white, red, purple, yellow, orange and violet. Light-skinned sweet potatoes have flesh that is firm, while orange-fleshed varieties are softer. Sweet potatoes are a good source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
+  LONG
+    & Sweet potatoes are used in both sweet and savory recipes, they can be served cooked, mashed, they can also be baked, roasted, steamed, simmered or fried. Sweet potatoes keep well if stored loose in a cool dry place, away from direct sunlight. Their leaves are edible and can be prepared like {{spinach}} or turnip greens.
 Beets
   BREF : Beets, or {*beetroots*}, are the taproot portion of the beet plant. There are many cultivated varieties, like red beets, golden beats, table beet etc. 
   LONG
@@ -292,6 +299,9 @@ Garlic
     & Garlic can be consumed both raw or cooked, with raw having a stronger flavor. Garlic pairs well with acidic fruits and vegetables like {{tomatoes}} and citrus, herbs like {{basil}}, {{thyme}} and {{oregano}} and vegetables like broccoli, {{brussel sprouts}}, {{snap peas}} and {{artichokes}}.
 Garlic Powder
   PARENT : Garlic
+  BREF : Garlic powder is dehydrated garlic. It is used in recipes where moisture content is key. 1/8 of a teaspoon of garlic powder equals one fresh {{garlic}} clove. 
+  LONG
+    & To make garlic powder, the cloves are peeled and sliced, and then heated to a temperature of between 150-160C to remove all moisture. The dehydrated garlic is then sliced, chopped and ground into a powder.  
 Onion
 Red Onion
   PARENT : Onion
@@ -326,18 +336,23 @@ Peppers
     & The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
 Green Bell Peppers
   PARENT : Peppers
-  BREF : Green bell peppers are medium to large in size, with a firm skin that is crisp and juicy. They are an aromatic 'green', almost biter flavor. They are a good source of {*vitamin C*} and {*vitamin A*}.
+  BREF : Green bell peppers, or {*capsicum*}, are medium to large in size, with a firm skin that is crisp and juicy. They are an aromatic 'green', almost biter flavor. They are a good source of {*vitamin C*} and {*vitamin A*}.
   LONG 
-    & They can be served raw, or baked, sauteed, roasted and grilled. Green bell peppers keep 1-2 weeks when stored in the refrigerator. 
+    & They can be served raw, or baked, sauteed, roasted and grilled. Green bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
 Red Bell Peppers
   PARENT : Peppers
-  BREF : 
-Yellow Peppers
+  BREF : Red bell peppers, or {*capsicum*}, are medium to large in size, with a firm skin that is crisp and juicy. They have a sweet and fruity flavor. Red bell peppers are simply ripened {{green bell peppers}}, and are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG
+    & They can be served raw, or baked, sauteed, roasted and grilled. Red bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
+Yellow Bell Peppers
   PARENT : Peppers
+  BREF : Yellow bell peppers, or {*capsicum*}, are medium to large in size. The smooth skin is firm, glossy, and pale green when young, transforming to bright yellow with age. They have a mild, sweet flavor, and are a good source of {*vitamin C*}, {*iron*}, {*calcium*} and {*vitamin A*}.
+  LONG
+    & They can be served raw, or baked, sauteed, roasted and grilled. Red bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
 Tomato
 Tomato Paste
   PARENT : Tomato
-  BREF : The tomatoes can also be dried with an oven.
+  BREF : 
 Avocado
   BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of {*vitamin C*}, 75% of its energy comes from fat. Its flesh is thick, yellow/green and oily. It has a rich, creamy flavor with a nutty, yet clean, grassy finish. 
   LONG
