@@ -323,7 +323,7 @@ Cucumber
   BREF : Cucumbers are usually more than 90% water.
 Eggplant
 Zucchini
-  BREF : Zucchini squash, or {*courgette*}, can be dark or light green. Botanically they are treated as vegetables, but they are fruits. Zucchini squah can be harvested when young, or later once it has grown to 6-8" long. Immature squashes have better flavor, with a spongy yet firm texture. Zucchini are a low energy food, being 94% water, and are a source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
+  BREF : Zucchini squash, or {*courgette*}, are summer squashes. They can be dark or light green. Botanically they are treated as vegetables, but they are fruits. Zucchini squah can be harvested when young, or later once it has grown to 6-8" long. Immature squashes have better flavor, with a spongy yet firm texture. Zucchini are a low energy food, being 94% water, and are a source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
   LONG
     & Zucchinis have a mild flavor which makes them ideal in both sweet and savory recipes. They can be grated, steamed, sauteed, battered, fried, baked, julienned for pasta, eaten raw etc. Zucchini will keep for 1-2 weeks if kept dry and refrigerated. 
 Chives
@@ -620,11 +620,10 @@ Flour
     & {{Spelt flour}} was a staple food during the Bronze age all the way up to medieval times.
     & Brown {{rice flour}} is sometimes used as a base to grow mushrooms.
     & {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
-    & {{Breadfruit flour}} is a type of flour made from dried and ground breadfruit.
 All Purpose Flour
   PARENT : Flour
 Breadfruit Flour
-  PARENT : Flour
+  PARENT : Breadfruit
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
 Wheat Semolina
 Oatmeal
