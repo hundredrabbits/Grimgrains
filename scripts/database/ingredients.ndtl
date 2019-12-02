@@ -360,25 +360,38 @@ Avocado
 Pumpkin
   BREF : The darker the skin of the pumpkin, the higher the beta-carotene content.
 Olives
+  BREF : Olives come from {*Olea Europea*}, a small tree. Olives are the fruit of the olive tree. 90% of harvested olives are turned into {{olive oil}}, while the rest are sold as table olives. 
+  LONG
+    & Table olives are classified into 3 groups: {*green olives*}, {*turning color olives (semi-ripe)*} and {*ripe olives*}. 
 Green Olives
   PARENT : Olives
+  BREF : Green olives are picked before the olive ripening cycle has begun, they are either green or yellow. 
 Black Olives
   PARENT : Olives
+  BREF : Ripe olives, or black olives, are picked at full maturity and come in shades of purple to brown to black. Most black olives sold in stores though are not ripe, they're green olives which have been chemically treated so that they are black. 
 Pimento Olives
-  PARENT : Olives
+  PARENT : Olives 
+  BREF : Pimento olives are pitted green olives with a {*pimento pepper*} stuffed inside, all preserved in oil. Pimento peppers are mild in taste. 
 Palm
-  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad.
-Squash
-  BREF : The seeds of the acorn squash can be eaten, they're delicious when roasted!
+  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees, like {*Bactris gasipaes*}. Heart of palm are rich in {*iron*}, {*zinc*}, {*vitamin C*}. 
+  LONG
+  Heart of palm is considered a delicacy since harvesting them is labor-intensive. 
+Acorn Squash
+  BREF : Acorn squash is a winter squash, with skin a ridged outer skin and a sweet, yellow-orange flesh. Acorn squash comes in a variety of colors, like green, white and gold. They contain small amounts of {*vitamin C*}. 
+  LONG
+    & Acorn squash can be baked, sauteed or steamed. When cooked, the flesh becomes tender and offers a mildly sweet and nutty flavor with a dry-ish texture. It is often used in savory recipes, stuffed with rice or vegetables. Adding {{maple syrup}} as a glaze when baking enhances the flavor of the squash. The seeds can be eaten, but must be roasted first. Acorn squash keep up to 1 month when stored uncut, in a cold and dry place.
 Artichokes
 Asparagus
 Bamboo shoots
 Breadfruit
+  BREF : Breadfruit are prickly with yellow-green skin. Their appearances depends on the variety and growing conditions. When immature, the fruit is hard, and the flesh is starchy and a bit fibrous. Ripe breadfruit becomes soft, with the skin turning a yellow color, it also develops a creamy texture with a sweet aroma. Breadfruit is a high-energy food, containing all 9 EAA's. It's rich in {*protein*}, and contains {*vitamin C*}, {*calcium*} and {*iron*}.
+  LONG
+    & Breadfruit trees can grow more than 80 feet tall, they are one of the highest yielding food plants with a single tree producing up to 450 pounds of fruit per year. Because of it's high-yield and energy content, it has the potential to address world hunger. Breadfruit can be baked into cakes and bread, it can also be made into {{pasta|#breadfruit pasta}}, {{pan-fried|#Pan fried breadfruit}}, marinated, pickled, made into chips etc. 
 Scallions
   BREF : In some countries scallions are mistakenly referred to as 'shallots'.
 Spinach
   BREF : During the Cold War, wine with added spinach juice was given to weakened soldiers.
-Alfaalfa sprouts
+Alfalfa sprouts
 
 ~ BERRIES
 
