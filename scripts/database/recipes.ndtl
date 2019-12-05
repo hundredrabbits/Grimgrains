@@ -1854,29 +1854,26 @@ BEER BREAD
       Olive oil : 1 tbsp
       Oats : 3 tbsp
 
-CHARCOAL TOOTHPASTE
+BASIC TOOTHPASTE
   DATE : 2016-11-05
   TAGS
     lifestyle
   TIME : 5
   SERV : 1 jar
   DESC
-    & I've always liked making things from scratch, especially when cooking. I enjoy the process, making it myself means that i control the quality and quantity of each ingredient. In the last couple of years, I've removed most pre-made cleaning and hygiene products from my life. I make my own shampoo, deodorant, toilet cleaner, kitchen cleaner and I also make my own toothpaste.
-    % recipes/charcoal.toothpaste.1.jpg
-    & Making it yourself is cheaper, and you're not burdened by wasteful packaging. Chances are you already have all of the ingredients at home to make it, there's nothing to it. The recipe consists of baking soda, foodgrade bamboo charcoal powder, coconut oil and peppermint oil (also food grade). You can omit the bamboo charcoal to make your own toothpaste, it will work just as well. If you want black toothpaste to match your black-everything though, this is a must. If you want some, make sure to get it from a reliable source. If you're a hardcore minimalist, you can also brush your teeth with a simple baking soda and water paste (though the saltiness can be overwhelming). Adding coconut and peppermint oil, makes for a better taste and texture. In colder climates, your toothpaste will solidify. Scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down.
-    % recipes/charcoal.toothpaste.2.jpg
-    & Baking soda you can purchase in bulk; you can use to make a ton of products. I use it almost everyday on the boat to polish metals, unclog drains etc. One day i will make a post about cleaning products, for now, enjoy the bamboo charcoal toothpaste recipe! Awaken the Ohaguro in you (be assured that the bamboo charcoal won't really stain your teeth).
-    & You can order your own bamboo charcoal powder from {{Taketora|http://www.taketora.co.jp/fs/taketora/su00248}}, it's where i got mine.
+    & I've always liked making things from scratch, especially when cooking. I enjoy the process. Making it myself means that I control the quality and quantity of each ingredient. In the last couple of years, I've removed most pre-made cleaning and hygiene products from my life. I make my own shampoo, deodorant, toilet cleaner, kitchen cleaner, and I also make my own toothpaste.
+    & Chances are you already have all of the ingredients at home to make it. The recipe consists of {{baking soda}}, {{coconut oil}} and {{peppermint oil}} (also food grade). 
+    & You can also brush your teeth with a simple baking soda and water paste. Baking soda is abrasive enough to remove accumulations on teeth and rinses completely clear with only a very slightly salty taste. For those who dislike brushing with a salty taste, adding coconut and peppermint oil helps to smooth down both the taste and texture. 
+    & {*NOTE*}: In colder climates your toothpaste will solidify and scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down.
+    & Toothpaste is only as good as your brushing (which should last for a min of 2min). It is more important to brush your teeth thoroughly than to use toothpaste, especially after eating sweets. 
   INST
     Preparation
-      - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_1/2 tsp_} of {{bamboo charcoal powder}}.
-      - Add {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
+      - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
       - Add {_1/2 tsp_} of food grade {{peppermint oil}}.
       - Mix everything up and brush your teeth!
   INGR
     Main
       Baking soda : 1 1/2 tbsp
-      Bamboo charcoal powder : 1/2 tsp
       Coconut oil : 3 tbsp
       Peppermint oil : 1/2 tsp, to taste
 
