@@ -1854,6 +1854,33 @@ BEER BREAD
       Olive oil : 1 tbsp
       Oats : 3 tbsp
 
+STOVETOP POPCORN
+  DATE : 2017-11-08
+  TAGS
+    basic
+  TIME : 5
+  SERV : 20 cups
+  DESC
+    & Making popcorn on the stovetop is not a recipe perse, it's a reminder that it is something that is easy to do and that doesn't require any specialized tools of ingredients. 
+    & When I was a kid my family used Jiffy Pop, unpopped kernels, oil, and flavoring agents that come in a heavy-gauge aluminum foil pan. I enjoyed seeing the foil rise up into a dome as the kernels started to pop. Then later, my family adopted microwavable bags. These products, while easy, cost more and create unecessary waste. Because I grew up with packaged popcorn, the idea of trying to pop my own kernels only occurred to me later, MUCH later in life. 
+    & So, again, this is a reminder that there are conveniences in life that we just don't need. 
+
+  INST
+    Preparation
+      - Put {_2 tbsp_} of {{olive oil}} in a deep pot, bring to a high heat.
+      - Add a few corn kernels into the pot. Once they start to pop, add the rest of the {{dry corn kernels}} and cover pot with a lid. 
+      - Shake pot for 10 seconds, let rest for 10 seconds. Do this until the popping sounds begin to lessen. 
+      - Add desired toppings. 
+
+  INGR
+    Main
+      Dry corn kernels : 1/2 cup
+      Olive oil : 2 tbsp
+    Optional toppings
+      Nutritional yeast : 3 tbsp
+      Smoked paprika : 1 tsp
+      Salt : pinch
+
 BASIC TOOTHPASTE
   DATE : 2016-11-05
   TAGS
@@ -1866,6 +1893,7 @@ BASIC TOOTHPASTE
     & You can also brush your teeth with a simple baking soda and water paste. Baking soda is abrasive enough to remove accumulations on teeth and rinses completely clear with only a very slightly salty taste. For those who dislike brushing with a salty taste, adding coconut and peppermint oil helps to smooth down both the taste and texture. 
     & {*NOTE*}: In colder climates your toothpaste will solidify and scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down.
     & Toothpaste is only as good as your brushing (which should last for a min of 2min). It is more important to brush your teeth thoroughly than to use toothpaste, especially after eating sweets. 
+
   INST
     Preparation
       - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
@@ -1875,7 +1903,7 @@ BASIC TOOTHPASTE
     Main
       Baking soda : 1 1/2 tbsp
       Coconut oil : 3 tbsp
-      Peppermint oil : 1/2 tsp, to taste
+      Peppermint oil : 1/2 tsp
 
 PAPAYA BRUSCHETTA TOPPING
   DATE : 2017-19-20

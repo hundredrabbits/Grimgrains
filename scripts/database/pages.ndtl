@@ -39,7 +39,7 @@ GALLERY
     % pages/simple.doctor.who.cake.jpg
 
 NUTRITION
-  BREF : The information in this guide may change as research develops. If you are concerned about your intake of vitamin and minerals, we highly recommend seeing a dietitian who specializes in plant-based diets.
+  BREF : The information in this guide may change as research develops. If you are concerned about your intake of vitamin and minerals, we highly recommend seeing a {*dietitian*} who specializes in plant-based diets.
   LONG
     % pages/nutrition.jpg
     * General rules:
