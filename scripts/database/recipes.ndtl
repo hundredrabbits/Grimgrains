@@ -1,5 +1,37 @@
 DATABASE.recipes = `
 
+Tzaziki
+  DATE : 2019-12-06
+  TAGS
+    sauce
+  TIME : 10
+  SERV : 8 servings
+  DESC
+    & Making tzaziki is easy. This is a basic recipe that works well enough with all kinds of substitutions, depending on dietary restrictions. 
+    & {*Substitutions*}
+    & It is possible to use {{sunflower seeds}}, cashews and {{tofu}} to replace the hemp seeds. In this recipe, I used half hemp and half soy, because hemp — while being nutritious — is not cheap. Using just {{shelled hemp seeds}} — wallet permitting — is very possible, although you may have to add more water. 
+    & If using cashews or sunflower seeds, you should pre-soak them for a few hours prior to blending (discard the soaking water and rinse them well). If using only tofu, you may not require extra water in the recipe. 
+
+  INST
+    Preparation 
+      - Blend {_1/2 cup_} of {{shelled hemp seeds }} with {_225g_} of {{soft tofu}}, {_3 cloves_} of {{garlic}}, {_1/4 cup_} of {{water}} and the juice of {_1_} {{lemon}}.
+      - Mince the {{fresh dill}} and {{fresh mint}}, set aside. 
+      - Cut {_1_} cucumber into small cubes. 
+      - Add {{fresh dill}}, {{fresh mint}}, the cubed {{persian cucumbers}} and {_1 pinch_} of {{salt}} to the rest of the ingredients and mix well. 
+      - Garnish with some {{fresh mint}} and {{fresh dill}} leaves.
+
+  INGR
+    Main
+      Shelled hemp seeds : 1/2 cup
+      Soft tofu : 250g
+      Garlic : 2 cloves
+      Water : 1/4 cup
+      Lemon : 1, juiced
+      Fresh Dill : 1 tbsp
+      Fresh Mint : 1 tbsp
+      Persian cucumbers : 2
+      Salt : pinch
+
 Spicy stirfry chickpeas
   DATE : 2019-06-25
   TAGS
@@ -518,10 +550,10 @@ BORSCHT WITH TOFU SOUR CREAM
     & Funny to think that when I was a kid, I didn't want to go anywhere near beets. For the longest time, it was this thing that my family served around xmas time and that i didn't like. How things change! I buy beets regularly now, I use it to make pasta sauce, to serve over salads, to mix into smoothies and now to make Borscht!
     & Devine has been taking russian classes every week, and he comes back from his lessons with new words to teach me. Last week, he not only returned with new words, he also brought back a Borscht recipe. Borscht fits perfectly in the Grim Grains universe - It's bright, red, beautiful and delicious!
     % recipes/borscht.with.tofu.sour.cream.1.jpg
-    & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
+    & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. soft tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
   INST
     Tofu sour cream
-      - Drain the pack of {{silken tofu}}, press it lightly with a cloth or paper towels to remove some of the water.
+      - Drain the pack of {{soft tofu}}, press it lightly with a cloth or paper towels to remove some of the water.
       - Put the {{tofu}}, {_1 tsp_} of {{whole cane sugar}}, {_1 tbsp_} of {{apple cider vinegar}} and {_5 tsp_} of {{lemon juice}} in a bowl. Blend until smooth.
       - Put in the refrigerator for {#1 hour#} to give it time to thicken.
     Borscht
@@ -533,7 +565,7 @@ BORSCHT WITH TOFU SOUR CREAM
       - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise purée it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day, just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
-      Silken tofu : 1 pack
+      Soft tofu : 1 pack
       Whole cane sugar : 1 tsp
       Apple cider vinegar : 1 tbsp
       Lemon juice : 5 tsp
@@ -738,7 +770,7 @@ MASON JAR BREAD PUDDING
   INST
     Preparation
       - Preheat oven at {#350F#}
-      - Combine {_1/4 cup_} of {{tofu}} (or silken tofu), {_1/3 cup_} of {{soy milk}} and {_1/4 tsp_} of {{vanilla extract}}. Blend until smooth.
+      - Combine {_1/4 cup_} of {{tofu}} (or soft tofu), {_1/3 cup_} of {{soy milk}} and {_1/4 tsp_} of {{vanilla extract}}. Blend until smooth.
       - Take a {_1/2 pint_} wide-mouthed mason jar. Fill it up halfway with {{bread crusts}}. Add a bit of {{dried raisins}}, pour liquid to cover Until it's at a level with bread crusts
       - Cover with more bread crusts and dried raisins. Pour more liquid onto it, until the jar is about 3/4 full.
       - Sprinkle {_1 tsp_} of {{whole cane sugar}} on top, decorate with slices of {{apple}} and add {{cinnamon}} to taste.
@@ -747,7 +779,7 @@ MASON JAR BREAD PUDDING
     Main
       Bread crusts : 1/2 cup, packed
       Dried raisins : 1 tbsp
-      Silken tofu : 1/4 cup
+      Soft tofu : 1/4 cup
       Soy milk : 1/3 cup
       Vanilla extract : 1/4 tsp
       Whole cane sugar : 1 tsp
@@ -1028,7 +1060,7 @@ SWEET MOCK EEL NIGIRI
   TIME : 50
   SERV : 2 servings
   DESC
-    & Burmese tofu is not really tofu, I know, it's confusing. At first, I thought it was tofu blended with turmeric, far from it! Burmese tofu is made with chickpea flour, one of my staple foods. The cool thing about it, is that it takes 10 minutes to make and sets under 1 hour. It's a great soy-free alternative, and the texture is comparable to that of silken tofu.
+    & Burmese tofu is not really tofu, I know, it's confusing. At first, I thought it was tofu blended with turmeric, far from it! Burmese tofu is made with chickpea flour, one of my staple foods. The cool thing about it, is that it takes 10 minutes to make and sets under 1 hour. It's a great soy-free alternative, and the texture is comparable to that of soft tofu.
     % recipes/sweet.mock.eel.nigiri.1.jpg
     & The original recipe for chickpea tofu, I believe, was sourced from a book called {{The Burmese kitchen|http://www.amazon.com/gp/product/0871317680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871317680&linkCode=as2&tag=girl07-20}} by Aung Thein.
     & This recipe will use up about half of the burmese tofu, which means you'll have a whole other half to use in other meals.
@@ -1809,7 +1841,7 @@ CHICKPEA KELP SANDWICH
       - Season with {{black pepper}} and some {{shichimi togarashi}}, serve over toasted sliced bread.
   INGR
     Tofu Mayo
-      Tofu : 1 cup, silken
+      Tofu : 1 cup, soft
       Olive oil : 3 tbsp
       Apple cider vinegar : 2 tbsp
       Dijon mustard : 3 tbsp

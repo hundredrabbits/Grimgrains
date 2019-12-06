@@ -45,6 +45,11 @@ Brown Lentils
   TAGS
     Legume
     Lentil
+Shelled hemp seeds
+  BREF : Hemp seeds are produced from the hemp plant {*Cannabis sativa L*}. Hemp seeds contain the perfect balance of essential amino acids for sustaining good health. They are a rich source of {*protein*}, {*zinc*} and {*iron*}. 
+  LONG
+    & Hemp belongs to the same family as marijuana, but both are different. Hemp contains less than 1% of the psychoactive drug present in marijuana. The plant thrives a variety of growing conditions, make it a very hardy plant. The oil in hemp seeds can go rancid quickly, they should be used up quickly and should be stored in a cool environment. Cooking hemp seeds destoys their nutritional benefits, it's better to eat them raw or to add them to foods after cooking {{ref|http://www.seedguides.info/hemp-seeds/}}. 
+    & Hemp has many other uses, it is used to make paper, textiles, plastics and fuel. 
 
 Tempeh
   COLOR : #875A2C
@@ -321,7 +326,12 @@ Yellow Onion
 ~ OTHER VEGETABLES
 
 Cucumber
-  BREF : Cucumbers are usually more than 90% water.
+  BREF : There are many varieties of cucumbers, but the 3 main are: slicing, pickling and seedless. Cucumbers are 95% water, making them a low-energy food. 
+Persian cucumbers
+  PARENT : Cucumber
+  BREF : Persian cucumbers are of the Burpless variety, meaning they are easy to digest and have a pleasant taste. They are crisp, sweet and void of developed seeds. It is harvested when 4-6" in length, when they are at peak sweetness. They absorb flavors quickly, unlike garden cucumbers. 
+  LONG
+    & They are sometimes marketed as seedless or burpless, because the seeds and skin of other varieties of cucumbers are said to give some people {{gas|https://www.livestrong.com/article/471722-why-do-cucumbers-upset-my-digestion/}}.
 Eggplant
 Zucchini
   BREF : Zucchini squash, or {*courgette*}, are summer squashes. They can be dark or light green. Botanically they are treated as vegetables, but they are fruits. Zucchini squah can be harvested when young, or later once it has grown to 6-8" long. Immature squashes have better flavor, with a spongy yet firm texture. Zucchini are a low energy food, being 94% water, and are a source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
@@ -433,9 +443,15 @@ Kiwi
 Apple
 Apples
 Lemon
-  BREF : Fun fact: lemon juice can be used as an invisible ink, revealed with heat.
+  BREF : Lemons are a citrus fruit with a distinctive sour taste. They are a rich source of {*vitamin C*}.
+  LONG
+    & Lemon is sometimes used as a short-term preservative on foods (apples, avocados, bananas) that brown or oxidize after being sliced. 
 Lemon Zest
+  PARENT : Lemon
+  BREF : The rind of lemons can be grated, and used as 'zest' in baking and many other recipes. 
 Lemon Juice
+  PARENT : Lemon
+  BREF : Lemon juice is used in many culinary and cleaning uses. 
 Orange
   BREF : In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
 Pear
@@ -657,10 +673,10 @@ White Miso
   COLOR : #955C19
 Tofu
   COLOR : #EFEFEF
-  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{silken tofu}}, {{burmese tofu}}.
-Silken Tofu
+  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{soft tofu}}, {{burmese tofu}}.
+Soft tofu
   PARENT : Tofu
-  COLOR : #EFEFEF
+  BREF : Soft tofu, as its name suggests, is a softer version of tofu. It has a high water content, this should be taken into consideration when added to recipes. It is often used to make sauces, or smoothies. 
 Burmese Tofu
   PARENT : Tofu
   COLOR : #EFEFEF
@@ -802,6 +818,10 @@ Peppermint oil
   BREF : Peppermint oil is made from peppermint leaves, obtained by extracting the oils from dried or fresh leaves and the flowering tops of the plant using alcohol. 
   LONG
     & Peppermint oil is used as an insect repellent against ants, flying insects and spiders. Peppermint oil is a stronger ingredient than peppermint extract, often used in candy-making. 
+Fresh dill
+  BREF : Dill is an herb, a wispy fern-like plant. This herb is a cross of {{lemon}}, parsley and {{anise}}.
+  LONG
+    & Dill is best used fresh. It is often used to flavor pickles and soups. 
 
 ~ MISC
 
