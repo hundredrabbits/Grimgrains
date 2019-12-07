@@ -1,5 +1,93 @@
 DATABASE.recipes = `
 
+Tzaziki
+  DATE : 2019-12-06
+  TAGS
+    sauce
+  TIME : 10
+  SERV : 8 servings
+  DESC
+    & Making tzaziki is easy. This is a basic recipe that works well enough with all kinds of substitutions, depending on dietary restrictions. 
+    & {*Substitutions*}
+    & It is possible to use {{sunflower seeds}}, cashews and {{tofu}} to replace the hemp seeds. In this recipe, I used half hemp and half soy, because hemp — while being nutritious — is not cheap. Using just {{shelled hemp seeds}} — wallet permitting — is very possible, although you may have to add more water. 
+    & If using cashews or sunflower seeds, you should pre-soak them for a few hours prior to blending (discard the soaking water and rinse them well). If using only tofu, you may not require extra water in the recipe. 
+
+  INST
+    Preparation 
+      - Blend {_1/2 cup_} of {{shelled hemp seeds }} with {_225g_} of {{soft tofu}}, {_3 cloves_} of {{garlic}}, {_1/4 cup_} of {{water}} and the juice of {_1_} {{lemon}}.
+      - Mince the {{fresh dill}} and {{fresh mint}}, set aside. 
+      - Cut {_1_} cucumber into small cubes. 
+      - Add {{fresh dill}}, {{fresh mint}}, the cubed {{persian cucumbers}} and {_1 pinch_} of {{salt}} to the rest of the ingredients and mix well. 
+      - Garnish with some {{fresh mint}} and {{fresh dill}} leaves.
+
+  INGR
+    Main
+      Shelled hemp seeds : 1/2 cup
+      Soft tofu : 250g
+      Garlic : 2 cloves
+      Water : 1/4 cup
+      Lemon : 1, juiced
+      Fresh Dill : 1 tbsp
+      Fresh Mint : 1 tbsp
+      Persian cucumbers : 2
+      Salt : pinch
+
+Spicy stirfry chickpeas
+  DATE : 2019-06-25
+  TAGS
+    dinner
+  TIME : 15
+  SERV : 2 servings
+  DESC
+    & If someone was to ask me which food I could eat forever without stopping, I'd answer chickpeas. There's a TON of different ways to prepare them, and all of these ways are delicious. They can be baked, squished, pureed, ground, sprouted and baked. Their versatility make my life easier, I can eat them everyday and it doesn't ever get boring. 
+    & {*Nutrition*}: Legumes is an important part of the diet, and one of the best plant sources of {*lysine*}, one of 9 essential amino acids required for good health. Protein is necessary for muscles, bones, hormones, digestive enzymes, to absorb nutrients and to rebuild cells. If you eat 1/2 cup dry beans a day, your daily protein needs are covered.
+    % recipes/spicy.stirfry.chickpeas.3.jpg
+    & Another plus is that dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy of all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. I like to buy them in bulk and cook them as needed. An advantage of buying them dry is that it is cheap, and they taste better (honest). Read about {{storing dry beans|https://extension.usu.edu/foodstorage/howdoi/dry_beans}}.
+    & {*Recommendations*}
+    & Adding a {{bay leaf}}, a bit of {{onion}} or a clove or two of {{garlic}} to the cooking water add a subtle seasoning to the {{chickpeas}} and boost flavor. 
+
+  INST
+    Marinade overnight
+      - Cook {_3/4 cup_} of dried {{chickpeas}} (see {{instructions|#chickpeas}}), or use 1 can (15oz). 
+      - Mix the marinade ingredients together, and add the {_1.5 cups_} of cooked {{chickpeas}} (or 15-19 oz can) and {_175g_} of cubed {{tofu}}. Leave to marinate {#at least a few hours#}. {#Overnight#} is even better.
+    Preparation 
+      - Peel and slice {_3 cloves_} of {{garlic}} and {_equal amounts_} of {{ginger}} thinly, and chop the {_2_} {{scallions}} in a size matching their diameter. Cut {_1_} {{carrot}} (peel carrot) and {_1/2 cup's worth_} of {{red cabbage}} into bite-sized bits.
+    Sauce
+      - In a small bowl, combine the ingredients for the sauce: mix {_3 tsp_} of {{maple syrup}}, {_1 tbsp_} of {{soy sauce}}, {_2 tbsp_} of {{balsamic vinegar}}, {_1 tbsp_} {{arrowroot starch}} and {_1 tsp_} of {{sesame oil}}.
+    Stir fry
+      - Add {_1 tbsp_} of vegetable oil, then warm pan to high heat. When oil is hot, add {_~1-2 tbsp_} of {{chili pepper flakes}} and {_1 tsp_} of {{sichuan peppercorns}}. Stir-fry until they're crisp and that the mixture is spicy and fragrant. Careful not to burn the spices, remove from heat for a bit if overheating.
+      - Add the {{chickpeas}}, {{tofu}}, {{carrot}} and {{red cabbage}} and fry over high heat, stirring constantly. {#After a minute#}, add the {{ginger root}}, {{garlic}} and {{scallions}} and stir-fry for {#a few more minutes#}.
+      - Stir the sauce, and add it to the pan while stirring and tossing. When the sauce starts to thicken, remove from heat and serve.
+
+  INGR
+    Main
+      Chickpeas : 1.5 cups, cooked
+      Carrots : 1
+      Tofu : 175g cubed, firm
+      Red cabbage : 1/2 cup
+      Scallions : 2 stalks
+      Garlic : 3 cloves
+      Ginger root : equal to garlic
+      Chili pepper flakes : 1-2 tbsp
+      Sichuan peppercorns : 1 tsp, whole
+      Salt : 1/4 tsp
+      Black pepper : 1/4 tsp
+
+    Marinade
+      Soy sauce : 2 tsp
+      Balsamic vinegar : 1 tsp
+      Arrowroot starch : 1 tbsp
+      Salt : 1/4 tsp
+      Black pepper : 1/4 tsp
+
+    Sauce
+      Maple syrup : 3 tsp
+      Soy sauce : 1 tbsp
+      Balsamic vinegar : 2 tbsp
+      Arrowroot starch : 1 tbsp
+      Sesame oil : 1 tsp
+      Arrowroot starch : 1 tbsp
+
 Scrambled chickpeas
   DATE : 2019-06-25
   TAGS
@@ -104,7 +192,7 @@ SWEET AND SOUR LENTILS
       Salt : 1/4 tsp
     Sauce
       Soy sauce : 2 tbsp
-      Rice vinegar : 2 tbsp
+      Japanese rice vinegar : 2 tbsp
       Chili pepper flakes : 2 tsp
       Peanut butter : 1 tbsp
       Maple syrup : 2 tbsp
@@ -262,7 +350,7 @@ SPINACH PAJEON
       Scallions : 1 bunch
     Sauce
       Soy sauce : 2 tbsp
-      Rice vinegar : 1 tbsp
+      Japanese rice vinegar : 1 tbsp
       Chili pepper flakes : 1 tsp
       Black sesame seeds : 1 tsp
       Maple syrup : 1 tsp
@@ -377,7 +465,7 @@ ROASTED CARROTS WITH BELUGA LENTILS
       - Wash {_1/2 cup_} of {{beluga lentils}}. Put {_375 ml_} of {{vegetable bouillon}} in a pot and add the {{lentils}}, bring to a boil.
       - Reduce heat to {#medium#} and simmer for {#25 minutes#} — don't let them cook for too long or they'll get too mushy. If the lentils seem cooked but haven't absorbed all of the water, strain them out.
     Sauce
-      - Mix {_2 tbsp_} of {{sriracha}}, {_2 tbsp_} {{peanut butter}}, {_1/4 cup_} {{soy sauce}} and {_2 tbsp_} {{rice vinegar}} in a small bowl.
+      - Mix {_2 tbsp_} of {{sriracha}}, {_2 tbsp_} {{peanut butter}}, {_1/4 cup_} {{soy sauce}} and {_2 tbsp_} {{Japanese rice vinegar}} in a small bowl.
     Combine
       - Set the beluga lentils on a plate with a bit of sauce and top with 4 roasted carrots!
   INGR
@@ -394,7 +482,7 @@ ROASTED CARROTS WITH BELUGA LENTILS
       Sriracha : 2 tbsp
       Peanut butter : 2 tbsp
       Soy sauce : 1/4 cup
-      Rice vinegar : 2 tbsp
+      Japanese rice vinegar : 2 tbsp
 
 BLACK SESAME BRITTLE
   DATE : 2014-11-06
@@ -457,10 +545,10 @@ BORSCHT WITH TOFU SOUR CREAM
     & Funny to think that when I was a kid, I didn't want to go anywhere near beets. For the longest time, it was this thing that my family served around xmas time and that i didn't like. How things change! I buy beets regularly now, I use it to make pasta sauce, to serve over salads, to mix into smoothies and now to make Borscht!
     & Devine has been taking russian classes every week, and he comes back from his lessons with new words to teach me. Last week, he not only returned with new words, he also brought back a Borscht recipe. Borscht fits perfectly in the Grim Grains universe - It's bright, red, beautiful and delicious!
     % recipes/borscht.with.tofu.sour.cream.1.jpg
-    & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. Silken tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
+    & Borscht is traditionally served with sour cream, so evidently I needed to have that be part of this recipe as well! A lot of vegan sour cream recipes have cashews, because of my tree nut allergy, i had to opt for something different. soft tofu does the job well, the mix of that plus lemon and apple cider vinegar gives a perfect sour taste! Sour cream recipe adapted from {{The blender girl|http://healthyblenderrecipes.com/recipes/tonys_vegan_tofu_sour_cream}}.
   INST
     Tofu sour cream
-      - Drain the pack of {{silken tofu}}, press it lightly with a cloth or paper towels to remove some of the water.
+      - Drain the pack of {{soft tofu}}, press it lightly with a cloth or paper towels to remove some of the water.
       - Put the {{tofu}}, {_1 tsp_} of {{whole cane sugar}}, {_1 tbsp_} of {{apple cider vinegar}} and {_5 tsp_} of {{lemon juice}} in a bowl. Blend until smooth.
       - Put in the refrigerator for {#1 hour#} to give it time to thicken.
     Borscht
@@ -472,7 +560,7 @@ BORSCHT WITH TOFU SOUR CREAM
       - At the end, take pot off heat and stir in {_2 tsp_} of {{lemon juice}}. You can serve as is if you like a chunkier soup, otherwise purée it with a handblender. Serve hot with tofu sour cream! For thicker and tastier Borscht, cook the soup the day before you plan to eat it. Let it cool and refrigerate it. It tastes better the next day, just re-heat it. Trust me, it'll be delicious.
   INGR
     Sour cream
-      Silken tofu : 1 pack
+      Soft tofu : 1 pack
       Whole cane sugar : 1 tsp
       Apple cider vinegar : 1 tbsp
       Lemon juice : 5 tsp
@@ -510,7 +598,6 @@ DARK YAKI GYOZA
     & We had a lot of fun making these gyoza, it's best made and eaten with friends!
     % recipes/dark.yaki.gyoza.5.jpg
     & Gyoza wrapper techniques and ratios were based on the recipe from {{Just one cookbook|http://www.justonecookbook.com/recipes/gyoza-wrappers/}}. She explains it really well too on her blog it's worth taking a look. I learned a lot from her even if our techniques differ slightly. While I preferred not to knead by hand, or with a rolling pin, i did do it her way the first time.
-    & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Dough
       - Mix {_2 cups_} of {{all purpose flour}} with {_1 tsp_} of {{bamboo charcoal powder}} in a bowl.
@@ -547,7 +634,7 @@ DARK YAKI GYOZA
       Black pepper : pinch
       Sea salt : 1/2 tsp
     Dipping sauce
-      Rice vinegar : 3 tbsp
+      Japanese rice vinegar : 3 tbsp
       Soy sauce : 3 tbsp
       Sesame oil : 1 tsp
 
@@ -633,7 +720,7 @@ PERSIMMON CURRY
   DESC
     & I've been looking for ways to incorporate persimmon into savoury recipes. I always thought it could make a great sauce for pasta or rice meals. If puréed, it will taste very sweet, but if you mix in curry powder and other spices and ingredients it becomes less of a dessert.
     & Be careful when selecting your persimmon, there are two varieties. Hachiya persimmon are more elongated and you need to wait for it to soften down before attempting to eat it. Fuyu persimmon, have a tomato-like shape and you can eat it like an apple.
-    & There are many different varieties of curry powders it's just a pre-mixed combination of different ground spices. If you're in a hurry, buying a mix is best. But if you have a full stocked spice rack, it may be better and more fun to do it yourself. Typically curry mixes have turmeric, coriander, cumin, black and red pepper, cinnamon cloves, fennel seeds, cardamom, ginger and fenugreek. There can be as much as 20 different spices, but you can probably omit a few and it'll still taste pretty great.
+    & There are many different varieties of curry powders it's just a pre-mixed combination of different ground spices. If you're in a hurry, buying a mix is best. But if you have a full stocked spice rack, it may be better and more fun to do it yourself. Typically curry mixes have turmeric, coriander, cumin, black and red bell pepper, cinnamon cloves, fennel seeds, cardamom, ginger and fenugreek. There can be as much as 20 different spices, but you can probably omit a few and it'll still taste pretty great.
     & Enjoy over some basmasti rice, or grated cauliflower rice for a lighter and grain-free meal.
   INST
     Rice
@@ -678,7 +765,7 @@ MASON JAR BREAD PUDDING
   INST
     Preparation
       - Preheat oven at {#350F#}
-      - Combine {_1/4 cup_} of {{tofu}} (or silken tofu), {_1/3 cup_} of {{soy milk}} and {_1/4 tsp_} of {{vanilla extract}}. Blend until smooth.
+      - Combine {_1/4 cup_} of {{tofu}} (or soft tofu), {_1/3 cup_} of {{soy milk}} and {_1/4 tsp_} of {{vanilla extract}}. Blend until smooth.
       - Take a {_1/2 pint_} wide-mouthed mason jar. Fill it up halfway with {{bread crusts}}. Add a bit of {{dried raisins}}, pour liquid to cover Until it's at a level with bread crusts
       - Cover with more bread crusts and dried raisins. Pour more liquid onto it, until the jar is about 3/4 full.
       - Sprinkle {_1 tsp_} of {{whole cane sugar}} on top, decorate with slices of {{apple}} and add {{cinnamon}} to taste.
@@ -687,7 +774,7 @@ MASON JAR BREAD PUDDING
     Main
       Bread crusts : 1/2 cup, packed
       Dried raisins : 1 tbsp
-      Silken tofu : 1/4 cup
+      Soft tofu : 1/4 cup
       Soy milk : 1/3 cup
       Vanilla extract : 1/4 tsp
       Whole cane sugar : 1 tsp
@@ -711,7 +798,6 @@ BASIC BLACK BREAD
     & I made this loaf for a brunch I had with friends, we wanted to have fondue with a set I got as a gift during the holidays. We  cut the loaf into cubes, and dunked them in! Soft bread is perfect for fondue!
     % recipes/basic.black.bread.2.jpg
     & So there you have it! A basic black bread!
-    & NOTE: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Loaf
       - In a large bowl, stir {_1 1/2 tsp_} of {{salt}} and {_3/4 tbsp_} of {{maple syrup}} in {_1 cup_} of {{warm water}} until dissolved. Sprinkle tsp of {{active dry yeast}}, let sit for {#10 minutes#}.
@@ -818,7 +904,6 @@ POTATO GNOCCHI
     & These turned out perfect! This is a large recipe, so if you're only two you'll have plenty left-over that you can let dry, freeze and eat later.
     % recipes/potato.gnocchi.2.jpg
     & Because the sauce and toppings are light and simple, you can focus on the texture of the gnocchi.
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Gnocchi
       - Preheat oven to {#400F#}.
@@ -970,18 +1055,18 @@ SWEET MOCK EEL NIGIRI
   TIME : 50
   SERV : 2 servings
   DESC
-    & Burmese tofu is not really tofu, I know, it's confusing. At first, I thought it was tofu blended with turmeric, far from it! Burmese tofu is made with chickpea flour, one of my staple foods. The cool thing about it, is that it takes 10 minutes to make and sets under 1 hour. It's a great soy-free alternative, and the texture is comparable to that of silken tofu.
+    & Burmese tofu is not really tofu, I know, it's confusing. At first, I thought it was tofu blended with turmeric, far from it! Burmese tofu is made with chickpea flour, one of my staple foods. The cool thing about it, is that it takes 10 minutes to make and sets under 1 hour. It's a great soy-free alternative, and the texture is comparable to that of soft tofu.
     % recipes/sweet.mock.eel.nigiri.1.jpg
     & The original recipe for chickpea tofu, I believe, was sourced from a book called {{The Burmese kitchen|http://www.amazon.com/gp/product/0871317680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0871317680&linkCode=as2&tag=girl07-20}} by Aung Thein.
     & This recipe will use up about half of the burmese tofu, which means you'll have a whole other half to use in other meals.
     & I thought the chickpea tofu would be well-suited as a 'mock unagi kabayaki', and that it would look especially striking atop some black rice.
     % recipes/sweet.mock.eel.nigiri.2.jpg
     & The sauce served over unagi (eel) kabayaki is sweet, with hints of caramel; it's easy to prepare and really makes the dish!
-    & Most Japanese sauces are easy to make, and usually require around 3-4 ingredients, these almost always include: soy sauce, sake, mirin, or rice vinegar. If you want to cook Japanese food, having these around is a must.
+    & Most Japanese sauces are easy to make, and usually require around 3-4 ingredients, these almost always include: soy sauce, sake, mirin, or Japanese rice vinegar. If you want to cook Japanese food, having these around is a must.
   INST
     Rice
       - Prepare {{black glutinous rice}}, it needs to be prepared at a 2:1 water to rice ratio. If you prepare 1 cup of dry rice, you need 2 cups of water.
-      - Put {_1 1/2 tbsp_} of {{rice vinegar}}, {_1 tbsp_} of {{whole cane sugar}} and {_1/2 tsp_} of {{salt}} in a sauce pan. Stir over low heat, until sugar dissolves.
+      - Put {_1 1/2 tbsp_} of {{Japanese rice vinegar}}, {_1 tbsp_} of {{whole cane sugar}} and {_1/2 tsp_} of {{salt}} in a sauce pan. Stir over low heat, until sugar dissolves.
       - Once rice is cooked, transfer to a flat tray, and pour sushi dressing over it. Mix dressing into rice with a spatula, using a sideways cutting motion. Cover with a damp towel, and let cool.
     Unagi sauce
       - Mix {_2 tbsp_} of {{soy sauce}}, {_2 tbsp_} of {{mirin}}, {_1 tbsp_} of {{whole cane sugar}} and {_1 tbsp_} of {{sake}}.
@@ -1003,7 +1088,7 @@ SWEET MOCK EEL NIGIRI
     Nigiri
       Black glutinous rice : 3/4 cup
       Water : 2 cups
-      Rice vinegar : 1 1/2 tbsp
+      Japanese rice vinegar : 1 1/2 tbsp
       Whole cane sugar : 1 tbsp
       Sea salt : 1/2 tsp
       Nori sheets : 1 sheet
@@ -1151,10 +1236,10 @@ CHILI POMEGRANATE BROWNIES
       - Cut {_1/3 cup_} of {{pumpkin}}, steam until softened and process into a purée.
       - Put {_3 tbsp_} of {{ground flax seeds}} in a bowl with {_9 tbsp_} of {{water}}, let thicken for {#5 minutes#}. Set aside.
       - Put {_5 tbsp_} of {{coconut oil}}, {_5 tbsp_} of {{pumpkin purée}}, {_3/4 cup_} {{whole cane sugar}}, {_3/4 cup_} {{cocoa powder}} and a {_1/4 tsp_} {{salt}} in a pan over medium to low heat. Stir until the {{coconut oil}} is melted, and all is well mixed.
-      - Stir in the flax 'egg', as well as the {_2 tbsp_} of {{red pepper flakes}} and {_1 tsp_} of {{cayenne powder}}. Add {_1/2 cup_} of {{all purpose flour}} and mix well. Mixture should be very thick.
+      - Stir in the flax 'egg', as well as the {_2 tbsp_} of {{chili pepper flakes}} and {_1 tsp_} of {{cayenne powder}}. Add {_1/2 cup_} of {{all purpose flour}} and mix well. Mixture should be very thick.
       - Pour into a 8X8 baking dish lined with parchment papper. Flatten with the back of a spoon to even it out and bake for {#25 minutes#}, or until knife comes out clean. Let cool. {_Cut in 24 small squares_}.
     Syrup
-      - Pour {_2 cups_} of {{unsweetened pomegranate juice}} into a pot with {_1 tsp_} {{red pepper flakes}} and {_1 tsp_} {{cayenne powder}}. Bring to a boil, lower to medium-high heat and leave for up to {#1h#} or until liquid has been reduced to {_1 cup_}.
+      - Pour {_2 cups_} of {{unsweetened pomegranate juice}} into a pot with {_1 tsp_} {{chili pepper flakes}} and {_1 tsp_} {{cayenne powder}}. Bring to a boil, lower to medium-high heat and leave for up to {#1h#} or until liquid has been reduced to {_1 cup_}.
       - Let cool, the syrup will thicken when cooled.
       - Top brownies with fresh {{pomegranate seeds}}, and drizzle with the chili-infused syrup!
   INGR
@@ -1189,12 +1274,11 @@ FRENCH TOAST
     & You can make your own soft bread using my {{Basic black bread}} recipe - it's very easy to make. You can omit the {{bamboo charcoal}} if you don't want your dough to be black.
     & Using bananas makes for a consistent morning meal, and adds a bit of sweetness to it. Bananas become sweeter when heated in a pan, they caramelize and develop a very pleasant taste. Adding a banana to the soy milk helps to thicken the mix and will make the bread become a 'golden' color.
     % recipes/french.toast.2.jpg
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Preparation
       - Purée {_1_} {{banana}}, {_3/4 cup_} of {{soy milk}} and {_1/2 tsp_} of {{vanilla extract}}.
       - Melt {_1 tsp_} of {{coconut oil}} in a pan at medium heat, dip slice into the banana purée batter. Pan-fry bread until golden and crispy on both sides.
-      - Serve with slices of {{kiwi}}, or a fruit of your choice, along with a generous serving of maple syrup!
+      - Serve with slices of {{kiwifruit}}, or a fruit of your choice, along with a generous serving of maple syrup!
     Black bread
       - If you want to make black bread please refer to my {{basic black bread}} recipe. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
   INGR
@@ -1259,13 +1343,12 @@ UZUMAKI HUMMUS BITES
     & Making tortillas at home is damn easy, it doesn't require a lot of waiting time or preparation. The only thing I had trouble with, was making them into nice circular shapes. The easy way is to use a tortilla press, or it just requires lots of practice.
     % recipes/uzumaki.hummus.bites.3.jpg
     & Making the tortillas black is optional, but it adds a nice contrast to the beet hummus. 
-    & NOTE: {*Bamboo charcoal*} binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
   INST
     Beet hummus
       - Preheat oven to {#375F#}.
       - Wash and cut {_2 small_} {{red beets}} into 4, rub quarters lightly with {{olive oil}}.
       - Roast for {#30-40 minutes#} or until fork tender.
-      - Purée the roasted beets, with {_1 1/4 cup_} of {{chickpeas}}, {_2 minced cloves_} of {{garlic}}, a {_1/4 cup_} of {{tahini}}, {_1/2 tsp_} of {{salt}} and {_1 tbsp_} of {{balsamic vinegar}}. Mix in {_2 tbsp_} of {{olive oil}} at the end. If the hummus feels too thick, add a few tbsp of water until you the desired consistency.
+      - Purée the roasted beets, with {_1 1/4 cup_} of cooked {{chickpeas}}, {_2 minced cloves_} of {{garlic}}, a {_1/4 cup_} of {{tahini}}, {_1/2 tsp_} of {{salt}} and {_1 tbsp_} of {{balsamic vinegar}}. Mix in {_2 tbsp_} of {{olive oil}} at the end. If the hummus feels too thick, add a few tbsp of water until you the desired consistency.
     Tortillas
       - Put {_3 cups_} of {{all purpose flour}}, {_1 tsp_} {{bamboo powder}} and {_1 tsp_} of {{salt}} in a bowl. Mix well.
       - Add {_1/4 cup_} of {{olive oil}} and {_3/4 cup_} of {{cold water}}.
@@ -1278,7 +1361,7 @@ UZUMAKI HUMMUS BITES
   INGR
     Beet hummus
       Red beets : 2
-      Chickpeas : 1 1/4 cups
+      Chickpeas : 1 1/4 cups, cooked
       Garlic : 2 cloves, minced
       Tahini : 1/4 cup
       Sea salt : 1/2 tsp
@@ -1568,17 +1651,19 @@ FRESH PESTO PASTA
     & You can find the recipe for my roasted pepitas {{here|roasted pumpkin seeds}}! It's easy, and ready in 20 minutes. I usually make a double recipe, and add it to salads and other meals during the week. Enjoy!
   INST
     Pesto
-      - Blend the following ingredients in a food processor or blender: {_2 cups_} of {{fresh basil}}, {_3 cloves_} of {{garlic}}, {#1/4 cup_} of {{nutritional yeast}}, {_1/4 tsp_} of {{salt}} and a dash of {{black pepper}}. Add {_1/4 cup_} of {{olive oil}} and blend again until smooth. Set aside.
+      - Blend the following ingredients in a food processor or blender: {_2 cups_} of {{fresh basil}}, {_3 cloves_} of {{garlic}}, {_1/4 cup_} of {{nutritional yeast}}, {_1/4 tsp_} of {{salt}} and a dash of {{black pepper}}. 
+      - Add {_1/4 cup_} of {{olive oil}} and blend again until smooth. Set aside.
     Cook
       - Bring a pot of {{water}} to a boil, add {_1 1/2 cups_} of {{scoobi do}} pasta and cook until tender. While the pasta is cooking julienne {_2_} {{carrots}} and {_1_} {{zucchini}}.
       - Drizzle some {{olive oil}} in a pan and bring up to medium heat. Add the vegetable strips and cook for {#2-3 minutes#}.
       - Remove from heat, add the cooked pasta as well as a few tablespoons of pesto! The recipe makes about 1 cup of pesto, which you can keep and use for future meals.
-      - Season pasta with {{salt}} and {{black pepper}}. Finally, top it all off with {{roasted pumpkin seeds}} and {{cherry tomatoes}}!
+      - Season pasta with {{salt}} and {{black pepper}}. Finally, top it all off with {{roasted pumpkin seeds}} and {{small heirloom tomatoes}}!
   INGR
     Main
       Carrots : 2
       Scoobi do : 1 1/2 cups
       Zucchini : 1 large
+      Small heirloom tomatoes : 6
     Pesto
       Basil : 2 cups
       Garlic : 3 cloves
@@ -1695,21 +1780,22 @@ SALTED CARAMEL CAROB CHIP COOKIES
       Carob chips : 1/2 cup
       Fleur de sel : to taste
 
-HIJIKI SOBA
+ARAME SOBA
   DATE : 2015-12-12
   TAGS
     pasta
   TIME : 40
-  HIDE : yes
   SERV : 2 portions
   DESC
     & After Japan opened itself to the world, Japanese cooks began to adapt western dishes in their own style. For instance in the west, people use ketchup as a condiment, but the Japanese use it as a base for tomato sauces. Spaghetti naporitan was created just after World War II, after Shigetada (the head chef at the Hotel New Grand in Yokohama) saw occupying soldiers eating it. Nowadays, you can find spaghetti seasoned with soy sauce, and served with seaweed.
-    % recipes/hijiki.soba.2.jpg
+    % recipes/arame.soba.2.jpg
     & While living in Tokyo, we spent many evenings at Saizeriya, a cheap Japanese food chain of family-style italian restaurants. I had my very first yoshoku-style (western style) pasta there.
-    & This is a relatively simple recipe, and uses all of my favorite Japanese condiments! If you've never had yoshoku pasta, i envy you. A world of creativity awaits!
+    & {*About arame*}: {{Arame}} is a species of kelp of a dark brown color, it has a mild, semi-sweet flavor and a firm texture. It can be reconstituted in about 5 minutes, and can be added to many kinds of dishes. It is high in calcium, iodine, iron, magnesium and vitamin A. 
+    & NOTE: This recipe used to include {{hijiki}} seaweed, but because even small amounts can contain inorganic arsenic that exceeds the tolerable daily intake for this substance, I have decided to subsitute it for arame. It doesn't change the recipe much, and it is a healthier alternative.
+
   INST
     Preparation
-      - Put {_2 tbsp_} of dried {{hijiki}} in a bowl and cover with a cup of {{water}}. Let re-hydrate for at least {#30 minutes#}, drain.
+      - Put {_handful_} of dried {{arame}} in a bowl and cover with a cup of {{water}}. Let re-hydrate for at least {#5 minutes#}, drain.
       - Bring a pot of {{water}} to a boil, add {_2 portions_} of soba({{buckwheat noodles}}) and give them a quick stir so they go underwater. Reduce heat to medium and cook for {#5 minutes#}. Drain, rinse and transfer to a pot of cold water. Wash the noodles using your hands to remove the excess starch, drain and set aside.
       - Julienne {_1_} {{carrot}}, chop {_2 cloves_} of {{garlic}} and cut {_60g_} of {{tempeh}} into small cubes. I used {*noble bean*} original tempeh.
     Sauce
@@ -1717,11 +1803,11 @@ HIJIKI SOBA
     Cook
       - Heat a pan with a drizzle of {{oil}} at medium heat and sautee the {{garlic}} for a minute until fragrant. Add the {{tempeh}} as well as the julienned {{carrot}} and cook for {#2-3 minutes#}.
       - Pour the sauce and cook for an additional {#5 minutes#} until the {{tempeh}} and {{carrots}} are cooked.
-      - Remove from heat and add the noodles, as well as the {{hijiki}}. Stir well and divide into 2 plates, season with some {{sichuan pepper}}.
+      - Remove from heat and add the noodles, as well as the {{arame}}. Stir well and divide into 2 plates, season with some {{sichuan pepper}}.
   INGR
     Main
       Buckwheat noodles : 2 portions
-      Dried hijiki : 2 tbsp
+      Arame : handful
       Carrots : 1
       Garlic : 2 cloves
       Soy sauce : 2 tbsp
@@ -1730,7 +1816,34 @@ HIJIKI SOBA
       Tempeh : 60g or 1/4 of 240g
       Sichuan peppercorns : To taste
 
-CHICKPEA KELP SANDWICH
+Homemade Veganaise
+  DATE : 2019-12-06
+  TAGS
+    sauce
+  TIME : 5
+  SERV : 1.5 cup
+  DESC
+    & Making mayo is easy. This is a basic recipe that can be prepared right before eating, and that requires few tools. 
+    & It's possible to add other spices and ingredients to augment the flavor of this homemade plant-based mayonnaise, ingredients like smoked paprika, garlic or fresh herbs. 
+    & {*Substitutions*}
+    & In this recipe it's possible to use {{olive oil}} instead of canola. I used canola oil because it has a neutral flavor, while olive oil does not. 
+    & Instead of using {{dijon mustard}}, you can sub with 1 tsp of mustard powder. If you have a spice grinder or a coffee grinder, you can grind your own mustard powder from whole mustard seeds. If you use mustard powder, you'll have to add 1 extra tbsp of apple cider vinegar to the recipe. In this recipe, I used old style {{dijon mustard}} with mustard seeds, which explains the texture present in the veganaise. If you want to know how to make old-style dijon mustard, check out {{my recipe|#mustard from seed}}.
+    & If you prefer sweeter venagaise, add 1/2 tsp of a sweetener.
+  INST
+    Preparation
+      - Blend {_1 cup_} of {{soft tofu}}, {_3 tbsp_} of olive oil, {_2 tbsp_} {{apple cider vinegar}}, {_3 tbsp_} {{dijon mustard}} and {_1/4 tsp_} {{salt}}. 
+
+  INGR
+    Preparation
+      Soft tofu : 250g
+      Canola oil : 3 tbsp
+      Apple cider vinegar : 1 tbsp
+      Lemon juice : 1 tsp
+      Dijon mustard : 3 tbsp
+      Salt : 1/4 tsp
+
+
+CHICKPEA SALAD SANDWICH
   DATE : 2016-01-18
   TAGS
     dinner
@@ -1740,27 +1853,24 @@ CHICKPEA KELP SANDWICH
     & I recently ordered ingredients from BC Kelp, a company in northern Canada that grows their own seaweed. A lot of the food I make these days has either nori, wakame, bull kelp or bladderwack whole tips in it.
     & I'd like to see more people cooking with sea vegetables. You can snack on dried seaweed, or add it to soups and salads. The powdered version I'm using in this recipe, adds a lot of umami and color to meals.
     & You can order your own bull kelp powder from the {{BC Kelp website|http://www.bckelp.com/index.html}}, they have a wide range of quality seaweed to choose from.
+    & {*Recommendations*}
+    & Adding a bay leaf, a bit of onion or a clove or two of garlic to the cooking water add a subtle seasoning to the chickpeas and boost flavor.
+    & {*Substitutions*}
+    & If you don't have access to {{bull kelp powder}}, you can use 1 tsp capers or dulse flakes. These needs to be added to create a briny no-tuna taste. 
   INST
-    Tofu mayo
-      - Blend {_1 cup_} of {{tofu}}, {_3 tbsp_} of olive oil, {_2 tbsp_} {{apple cider vinegar}}, {_3 tbsp_} {{dijon mustard}} and {_1/4 tsp_} {{salt}}. This makes more than you'll need, but that means you get to use the rest in another recipe!
+    Venagaise
+      - See the {{recipe|#homemade veganaise}}.
     Main
-      - Soak dry {{chickpeas}} {#overnight#}, or for {#8h#}. Drain, rinse and cook according to pressure cooker instructions. I cook mine at the longer time, so they soften up. Alternatively, you can use a can of chickpeas.
-      - Pressure cooker chickpeas come out a lot softer, if cooked at the longer time. Because of this, they don't need to be mashed as much. If you decide to use canned chickpeas ({_1 can_} will do), you may have to put a bit more effort to soften them up.
-      - Mix the mashed {{chickpeas}} with {_3-4 tbsp_} of tofu mayo, {_1 tbsp_} {{dijon mustard}}, {_1/2 tsp_} {{kelp powder}}, {_2 branches_} of chopped {{scallions}} and {_1/4 tsp_} of {{cayenne powder}}.
-      - Season with {{black pepper}} and some {{shichimi togarashi}}, serve over toasted sliced bread.
+      - Cook {_3/4 cup_} of dried {{chickpeas}} (see {{instructions|#chickpeas}}), or use 1 can (15oz). 
+      - Mix the cooked {{chickpeas}} with {_3-4 tbsp_} of {{venagaise|#homemade veganaise}}, {_1 tbsp_} {{dijon mustard}}, {_1/2 tsp_} {{bull kelp powder}}, {_2 stalks_} of chopped {{scallions}} and {_1/4 tsp_} of {{cayenne powder}}.
+      - Season with {{black pepper}} and {{shichimi togarashi}}, and serve over toasted bread.
   INGR
-    Tofu Mayo
-      Tofu : 1 cup, silken
-      Olive oil : 3 tbsp
-      Apple cider vinegar : 2 tbsp
-      Dijon mustard : 3 tbsp
-      Salt : 1/4 tsp
     Main
-      Chickpeas : 3/4 cup, dry
-      Tofu mayo : 3-4 tbsp
+      Chickpeas : 15oz, cooked
+      Veganaise : 3-4 tbsp
       Dijon mustard : 1 tbsp
-      Bull kelp powder : 1/2 tsp
-      Scallions : 2 branches
+      Bull kelp powder : 1 tsp
+      Scallions : 2 stalks
       Cayenne powder : 1/4 tsp
       Sea salt : 1/4 tsp
       Black pepper : 1/4 tsp
@@ -1797,31 +1907,56 @@ BEER BREAD
       Olive oil : 1 tbsp
       Oats : 3 tbsp
 
-CHARCOAL TOOTHPASTE
+STOVETOP POPCORN
+  DATE : 2017-11-08
+  TAGS
+    basic
+  TIME : 5
+  SERV : 20 cups
+  DESC
+    & Making popcorn on the stovetop is not a recipe perse, it's a reminder that it's easy to do and that it doesn't require any specialized tools or ingredients. It doesn't require a microwave, just a pot and source of heat (stove).
+    & When I was a kid my family used Jiffy Pop, unpopped kernels, oil, and flavoring agents that come in a heavy-gauge aluminum foil pan. I enjoyed seeing the foil rise up into a dome as the kernels started to pop. Then later, my family adopted microwavable bags. These products — while easy and fun — cost more and create unecessary waste. Because I grew up with packaged popcorn, the idea of trying to pop my own kernels only occurred to me MUCH later in life. 
+    & So, again, this is a reminder that there are conveniences in life that we just don't need. 
+
+  INST
+    Preparation
+      - Put {_2 tbsp_} of {{olive oil}} in a deep pot, bring to a high heat.
+      - Add a few corn kernels into the pot. Once they start to pop, add the rest of the {{dry corn kernels}} and cover pot with a lid. 
+      - Shake pot for 10 seconds, let rest for 10 seconds. Do this until the popping sounds begin to lessen. 
+      - Add desired toppings. 
+
+  INGR
+    Main
+      Dry corn kernels : 1/2 cup
+      Olive oil : 2 tbsp
+    Optional toppings
+      Nutritional yeast : 3 tbsp
+      Smoked paprika : 1 tsp
+      Salt : pinch
+
+BASIC TOOTHPASTE
   DATE : 2016-11-05
   TAGS
     lifestyle
   TIME : 5
   SERV : 1 jar
   DESC
-    & I've always liked making things from scratch, especially when cooking. I enjoy the process, making it myself means that i control the quality and quantity of each ingredient. In the last couple of years, I've removed most pre-made cleaning and hygiene products from my life. I make my own shampoo, deodorant, toilet cleaner, kitchen cleaner and I also make my own toothpaste.
-    % recipes/charcoal.toothpaste.1.jpg
-    & Making it yourself is cheaper, and you're not burdened by wasteful packaging. Chances are you already have all of the ingredients at home to make it, there's nothing to it. The recipe consists of baking soda, foodgrade bamboo charcoal powder, coconut oil and peppermint oil (also food grade). You can omit the bamboo charcoal to make your own toothpaste, it will work just as well. If you want black toothpaste to match your black-everything though, this is a must. If you want some, make sure to get it from a reliable source. If you're a hardcore minimalist, you can also brush your teeth with a simple baking soda and water paste (though the saltiness can be overwhelming). Adding coconut and peppermint oil, makes for a better taste and texture. In colder climates, your toothpaste will solidify. Scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down.
-    % recipes/charcoal.toothpaste.2.jpg
-    & Baking soda you can purchase in bulk; you can use to make a ton of products. I use it almost everyday on the boat to polish metals, unclog drains etc. One day i will make a post about cleaning products, for now, enjoy the bamboo charcoal toothpaste recipe! Awaken the Ohaguro in you (be assured that the bamboo charcoal won't really stain your teeth).
-    & You can order your own bamboo charcoal powder from {{Taketora|http://www.taketora.co.jp/fs/taketora/su00248}}, it's where i got mine.
+    & I've always liked making things from scratch, especially when cooking. I enjoy the process. Making it myself means that I control the quality and quantity of each ingredient. In the last couple of years, I've removed most pre-made cleaning and hygiene products from my life. I make my own shampoo, deodorant, toilet cleaner, kitchen cleaner, and I also make my own toothpaste.
+    & Chances are you already have all of the ingredients at home to make it. The recipe consists of {{baking soda}}, {{coconut oil}} and {{peppermint oil}} (also food grade). 
+    & You can also brush your teeth with a simple baking soda and water paste. Baking soda is abrasive enough to remove accumulations on teeth and rinses completely clear with only a very slightly salty taste. For those who dislike brushing with a salty taste, adding coconut and peppermint oil helps to smooth down both the taste and texture. 
+    & {*NOTE*}: In colder climates your toothpaste will solidify and scraping some onto your toothbrush can be a challenge. Put the jar near a heater for 5 minutes or so to help soften it down.
+    & Toothpaste is only as good as your brushing (which should last for a min of 2min). It is more important to brush your teeth thoroughly than to use toothpaste, especially after eating sweets. 
+
   INST
     Preparation
-      - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_1/2 tsp_} of {{bamboo charcoal powder}}.
-      - Add {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
+      - Mix {_1 1/2 tbsp_} of {{baking soda}} with {_3 tbsp_} of {{coconut oil}}. If the coconut oil is hard, melt it down and mix it with the dry ingredients
       - Add {_1/2 tsp_} of food grade {{peppermint oil}}.
       - Mix everything up and brush your teeth!
   INGR
     Main
       Baking soda : 1 1/2 tbsp
-      Bamboo charcoal powder : 1/2 tsp
       Coconut oil : 3 tbsp
-      Peppermint oil : 1/2 tsp, to taste
+      Peppermint oil : 1/2 tsp
 
 PAPAYA BRUSCHETTA TOPPING
   DATE : 2017-19-20
@@ -1913,7 +2048,7 @@ CORN DUMPLINGS
     Sauce
       Apricot jam : 3 tsp
       Soy sauce : 2 tbsp
-      Rice vinegar : 2 tbsp
+      Japanese rice vinegar : 2 tbsp
       Lemon juice : 1 tbsp
       Sesame oil : 1 tsp
       Water : 1/4 cup

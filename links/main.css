@@ -65,21 +65,29 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline-block;font-weight: bold;border-radius: 3px;color: #333;line-height: 15px }
 #view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline-block;font-weight: bold;border-radius: 3px;border: 2px solid black;line-height: 15px}
 
+#view #core #content #warn p { border-left: 3px solid orangered; padding-left: 7px; }
+#view #core #content #warn p::before { content: 'Warning: '; font-weight: bold; }
+
 #view #core #content ul.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
 #view #core #content ul.ingredients h3 { margin-left:-20px; }
 #view #core #content ul.ingredients li.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
-#view #core #content ul.ingredients li.ingredient:hover t.name { text-decoration: underline; }
-#view #core #content ul.ingredients li.ingredient.missing t.name { font-style: italic }
+#view #core #content ul.ingredients li.ingredient:hover span.name { text-decoration: underline; }
+#view #core #content ul.ingredients li.ingredient.missing span.name { font-style: italic }
 #view #core #content ul.ingredients li.ingredient img { max-width: 100%; display: block }
-#view #core #content ul.ingredients li.ingredient t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
-#view #core #content ul.ingredients li.ingredient t.quantity { display: block; font-size:12px; }
+#view #core #content ul.ingredients li.ingredient span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
+#view #core #content ul.ingredients li.ingredient span.quantity { display: block; font-size:12px; }
+
+#view #core #content .page ul { margin:0px 0px 30px;}
+#view #core #content .page ul li { line-height: 24px; position: relative; padding-left:15px;}
+#view #core #content .page ul li:before { content:"•"; position: absolute; left:0px; }
+#view #core #content .page ul li b { font-weight: bold; }
 
 #view #core #related { width:100%;}
 #view #core #related li { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
 #view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;} 
 #view #core #related li a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
-#view #core #related li t.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
-#view #core #related li t.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
+#view #core #related li span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
+#view #core #related li span.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
 
 #view #core #content #recipes { columns:3; font-size:14px; font-weight: bold}
 #view #core #content #recipes li { display: block }

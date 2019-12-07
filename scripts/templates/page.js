@@ -1,3 +1,5 @@
+'use strict'
+
 function PageTemplate (id, rect) {
   Node.call(this, id, rect)
 
@@ -15,12 +17,12 @@ function PageTemplate (id, rect) {
       return this.signal('search').answer(q)
     }
 
-    let page = q.result
+    const page = q.result
     return {
       title: `GrimGrains — ${q.name.capitalize()}`,
       view: {
         core: {
-          content: `<h1>${q.name.capitalize()}</h1><p>${page.BREF.to_markup()}</p>${new Runic(page.LONG).toString()}`
+          content: `<h1>${q.name.capitalize()}</h1><p>${page.BREF.to_markup()}</p><div class='page'>${new Runic(page.LONG).toString()}</div>`
         }
       }
     }

@@ -1,3 +1,5 @@
+'use strict'
+
 function DocumentNode (id, rect, ...params) {
   Node.call(this, id, rect)
 

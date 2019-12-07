@@ -23,36 +23,53 @@ Coffee
 ~ LEGUMES
 
 Lentils
-  BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil.
+  BREF : Lentils are considered to be one of the best foods because their chemical structures are not altered by cooking. Lens is the latin name for lentil. Lentils can be soaked, germinated, boiled, fried and baked, the most common being boiled. They require a cooking time of 10-40 minutes, depending on variety. The cooking time is shorter for varieties with the husk removed, like red lentils. Lentils without husks tend to soften into purees, while the husked variety remain whole.
   TAGS
     Legume
     Lentil
 
 Beluga Lentils
   PARENT : Lentils
+  BREF : Beluga lentils are black, bead-like, lens-shaped, almost spherical. They have a delicate flavor and a firm texture that doesn't disintegrate when cooked. 
+  LONG
+    & Beluga lentils are a rich source of numerous essential nutrients like {{protein|#nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
   COLOR : #000000
   TAGS
     Legume
     Lentil
 Brown Lentils
   PARENT : Lentils
-  BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor.
+  BREF : The most common variety of lentils, found in most grocery stores. They have a mild, earthy-flavor, with a firm texture that doesn't disintegrate when cooked. 
+  LONG
+    & Lentils are a rich source of numerous essential nutrients like {{protein|#nutrition}}, iron and zinc. Lentils have the second-highest ratio of protein per calorie of any legume, after {{soy beans}}.
   TAGS
     Legume
     Lentil
+Shelled hemp seeds
+  BREF : Hemp seeds are produced from the hemp plant {*Cannabis sativa L*}. Hemp seeds contain the perfect balance of essential amino acids for sustaining good health. They are a rich source of {*protein*}, {*zinc*} and {*iron*}. 
+  LONG
+    & Hemp belongs to the same family as marijuana, but both are different. Hemp contains less than 1% of the psychoactive drug present in marijuana. The plant thrives a variety of growing conditions, make it a very hardy plant. The oil in hemp seeds can go rancid quickly, they should be used up quickly and should be stored in a cool environment. Cooking hemp seeds destoys their nutritional benefits, it's better to eat them raw or to add them to foods after cooking {{ref|http://www.seedguides.info/hemp-seeds/}}. 
+    & Hemp has many other uses, it is used to make paper, textiles, plastics and fuel. 
 
 Tempeh
   COLOR : #875A2C
+  BREF : Tempeh is a soy product, made from fermented {{soy beans}}. Tempeh is a source of protein, Omega-3's and zinc, and has a firm texture and earthy flavor. 
+  LONG 
+    & Tempeh is made by controlled fermentation that binds soybeans into a 'paddy'. The fungus {*Rhizopus Oligosporus*} is used as a starter to make tempeh. Fermented soyfoods like tempeh increased iron absorption. 
 Peanut Butter
-  BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. The US consumes $800 million of this stuff annually. Peanut butter's flavor combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers.
+  BREF : A spread made from dry-roasted {{peanuts}}, kinds without added sugar or oils are preferable. Peanut butter is a rich source of {{protein|nutrition}}.
+  LONG 
+    & The US consumes $800 million of this stuff annually. The flavor of peanut butter combines well with other flavors, such as oatmeal, savory sauces, and various types of breads and crackers.
 Peanuts
   BREF : A crop grown mainly for its edible seeds! Peanuts are similar in taste and nutritional profile to tree nuts, and can be made into {{peanut butter}}.
+  LONG
+    & Peanuts are are rich source of {{protein|nutrition}}, 1/4 cup of peanuts equals one serving of the 3-4 servings of protein required for good health. 
 Soy beans
   PARENT : Beans
   COLOR : #EFEFEF
+  BREF : Soy beans are a species of legumes, widely grown for its edible bean. 1/2 cup of dried soybeans equals one serving of the 3-4 servings of protein required for good health. It is also a good source of {{Omega 3's (ALA)|nutrition}}.
   LONG
-    & A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. If you produce your own {{soy milk}}, know that there won't be any waste. The pulp can be used to make okara, which you can use to make baked goods.
-    & Soy beans can be made into {{milk|soy milk}}, {{yoghurt|soy yogurt}}, {{soy sauce}}, and {{protein|soy protein}}.
+    & Unfermented food uses of soybeans include {{soy milk}} and {{tofu}}, while fermented soy foods include {{soy sauce}}, {{miso}}, natto and {{tempeh}}. A staple in Eastern Asia, soy beans are used as a base for many vegan faux-meat dishes. 
 Beans
   LONG
   & Fun fact: there are over 130 varieties of {{green beans}}.
@@ -64,9 +81,24 @@ Green beans
 Kidney beans
   PARENT : Beans
 Edamame
+  PARENT : soy beans
+  BREF : Edamame are immature {{soy beans}}, still in their pods. {*Eda 枝*} means 'stem' and {*mame 豆*} means 'beans', literally 'steam beans.' Edamame, like all soyfoods, are rich in {*protein*}. 
+  LONG 
+    & Edamame can be boiled or steamed, and served with salts of other condiments. Fresh edamame last for 3 days in the refrigerator, wrapped in a material that traps moisture to prevent discoloration and wilting. Fresh edamame can be frozen, but should be blanched first. Frozen edamame lasts for many months. 
 Chickpeas
+  BREF : Chickpeas are the earliest cultivated legumes in history, and a staple in many countries. Chickpeas are also very rich in {*protein*}, and a good source of {*iron*}. 
+  LONG 
+    & Chickpeas can be made into flour, it can be roasted, pureed, candied etc. It's a very versatile and inexpensive legume. The soaking liquid of chickpeas — {*aquafaba*} — can be used as an egg replacer in recipes. 
+    & Dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy of all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. 
+    & {*How to cook dried chickpeas*}
+    & Dried chickpeas triple in size when cooked (if not a little bit more). So 1 cup of dried chickpeas will make about 3 cups of cooked chickpeas. Dried chickpeas have a tough outer skin, and {*should be soaked overnight*}. Soaking them cuts down on cooking time, and in turn, saves energy. It also helps the beans cook more evenly and become completely tender all the way through. Another advantage to presoaking beans is that most of the gas-causing sugars are leached out into the soaking water. So when you drain off the soaking water, you are also getting rid of this unpleasant side effect to eating beans. Next morning, drain and cook them in a pot or pressure cooker.
+    & {*Stove top Pot:*} Bring chickpeas to a boil, then lower to gentle simmer. Add salt when beans are almost cooked. In a pot, cooking them varies from 1-3 hours.
+    & {*Pressure cooker:*} Because beans cook differently depending on the kind, age, and whether or not they’ve been presoaked, quick-soaked or not soaked at all, there is no single all-encompasssing rule for pressure cooking beans. Having a good chart with all the variables to consult is important so that you can adjust to your circumstances. A good resource for this is {{Hip Pressure Cooking’s bean chart|https://www.hippressurecooking.com/pressure-cooking-times/#beans}}. It’s a good idea to add 1 tbsp of neutral oil to the pot. Beans produce foam when cooking which can clog the pressure valve, and the oil will help to keep that down.
 Chickpea Flour
   PARENT : chickpeas, flour
+  BREF : Chickpea flour — also known as {*besan*} or {*gram*} flour — is made from ground chickpeas.
+  LONG
+    & Chickpea flour has a long shelf life due to the low-moisture and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes or faux-omelettes.
 Peas
 Green Peas
   PARENT : Peas
@@ -80,207 +112,372 @@ Broccoli
 Green Cabbage
   TAGS
     Cruciferous
+  BREF : Green cabbage is a vegetable with dense-leaved heads, closely related to {{broccoli}}, {{brussel sprouts}} and {{cauliflower}}. Cabbage can be pickled, fermented, steamed, stewed, sauteed, braised or consumed raw. Cabbage is a source of vitamin C. 
+  LONG
+    & There are winter and summer cabbages, winter cabbages are more dense while summer cabbages are lighter and sweet. 
     
 ~ sauerkraut #C820B3
 Red Cabbage
   COLOR : #6620B3
-  BREF : Red cabbage can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour.
+  PARENT : green cabbage
+  BREF : Red cabbage is a good source of Vitamin C. It
+  LONG
+    & It can be used as a natural colorant - it needs to be boiled and mixed with vinegar to keep its colour. The plant changes its color according to the pH value of the soil, due to a pigment belonging to anthocyanins. Red cabbage keeps better than other varieties, and does not need to be converted to sauerkraut to last the winter. 
   TAGS
     Cruciferous
 
 Kale
   COLOR : #006633
-  BREF : Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable!
+  BREF : Some people grow kale for their ornamental leaves, in colours varying in red, pink and even lavender. They are beautiful and eatable! Kale is a rich source of vitamin A, C, B6, folate and manganese, and a good source of vitamin E, Iron and calcium (boiling kale diminishes these last nutrients). It is better to steam or stir-fry kale.
+  & Kale is a source of well-absorbed calcium.
 Arugula
   COLOR : #006633
+  BREF : Arugula, or "rocket" is a plant grown for its leaves, which are fresh, taste and bitter. Arugula is rich in vitamin C and potassium. Its flowers, young seed pods and mature seeds are also edible. 
 Cauliflower
-  BREF : The oldest record of cauliflower dates back to the 6th century BC. They come in {{white|white cauliflower}} and {{purple|purple cauliflower}} varieties.
+  BREF : The oldest record of cauliflower dates back to the 6th century BC. They come in {{white|white cauliflower}} and {{purple|purple cauliflower}} varieties. Cauliflower is high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 White Cauliflower
   COLOR : #EFEFEF
-  BREF : A type of {{cauliflower}}.
+  PARENT : cauliflower
+  BREF : A type of {{cauliflower}}, high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 Purple Cauliflower
   COLOR : #6620B3
-  BREF : A type of {{cauliflower}}.
+  PARENT : cauliflower
+  BREF : A type of {{cauliflower}}, the purple color in this cauliflower is caused by the presence anthocyanins, water-soluble pigments that are found in many other plants and plant-based products, such as red cabbage and red wine. Cauliflower is high in vitamin C. Eating ½ cup of cauliflower has been shown to {{increase iron absorption|https://www.theveganrd.com/vegan-nutrition-101/vegan-nutrition-primers/iron-a-vegan-nutrition-primer/}} from plant foods by as much as four to six times.
 Brussel sprouts
+  PARENT : green cabbage
+  BREF : Brussel sprouts are leafy vegetables that are high in vitamin C. To prepare them, cut the buds from the stalk and cut the surplus of stems away, as well as any loose surface leaves. Once they are cut and clean, they can be boiled, steamed, stir-fried, grilled or roasted! Making a cross at the center of the stem can help it cook better. 
 Daikon
+  BREF : Daikon is a mild-flavored winter radish, originating from southeast asia. Daikon is low in food energy, but is a good source of {*vitamin C*}. 
+  LONG
+    & There are many varieties of daikon, with differences in color, taste and shape. 
 Bok choy
+  BREF : Bok Choy is a winter-hardy vegetable, a type of Chinese cabbage. Bok Choy is a rich source of vitamin A and C, and provides some folate, vitamin B6 and calcium. 
 Radish
-
+  BREF : The radish is an edible root vegetable, domesticated in Europe in pre-Roman times. There are many varieties, varying in color, size and flavor. Radishes have a moderate amount of {*vitamin C*}.
+  LONG
+    & Radish are often grown as companion plants for pest control, they are easy to grow and quick to harvest. 
 ~ ALGEA FUNGI
 
+Arame
+  BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
 Mushroom
+  BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin d2*}. Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 Wakame
   PARENT : Seaweed
   COLOR : #006633
-  BREF : Wakame is a very invasive plant - it's even banned in Australia.
+  BREF : Wakame is an edible seaweed, subtly sweet with a strong flavour and texture. Wakame is a source of iodine, although isn't a dependable source because the amount in seaweed varies greatly. 
+  LONG 
+    & Wakame is often served in soups, or in salads. Wakame is often sold dried (can be re-constituted in water) or salted. 
 Dried Hijiki
   PARENT : Seaweed
+  WARN
+    & Consumption of only a small amount of hijiki seaweed could result in an intake of inorganic arsenic that exceeds the tolerable daily intake for this substance. Therefore, consumption of this type of seaweed is to be avoided. See also the {{Canadian Food Inspection Agency|http://www.inspection.gc.ca/food/information-for-consumers/fact-sheets-and-infographics/products-and-risks/chemical-hazards/inorganic-arsenic/eng/1332268146718/1332268231124}}.
 Bull kelp powder
   PARENT : Seaweed
 Nori
   PARENT : Seaweed
   COLOR : #000000
-  BREF : Fun fact: seaweed takes about 45 days to grow.
+  BREF : Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. 
+  LONG 
+    & Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. 
 Nori Sheets
   PARENT : Nori, Seaweed
+  BREF : Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. 
+  LONG 
+    & Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. 
 Shiitake
   PARENT : Mushroom
   COLOR : #875A2C
+  BREF : Shiitake is an edible mushroom, used as a base in vegan dashi, to flavor simmered and steamed dishes. 
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Mature crimini mushrooms are actually {{portobello}} mushrooms.
+  BREF : Crimini mushrooms, or {*agaricus bisporus*}, are immature {{portobello mushrooms}}. They are brown and known under a variety of other names, like swiss brown, roman brown, italian brown and chestnut. 
 Portobello
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Portobello are mature {{crimini}} (or common) mushrooms. They can be used in plant-based recipes as hamburger steaks, you can even use them as buns.
+  BREF : Portobello are mature brown or white {*agaricus bisporus*} mushrooms. They can be used in plant-based recipes as hamburger patties, you can even use them as buns.
 Shimeji
   PARENT : Mushroom
+  BREF : Shimeji {*占地*} are a group of edible mushrooms native to East Asia. Shimejis are rich in 'umami', they have a distint nutty flavor. 
+  LONG
+    & Shimeji mushrooms should always be cooked, because of its bitter taste which disappears upon cooking. It has a firm texture with a bit of a crunch. They are used in soups, stews and sauces, or stir-fried with vegetables. 
 Button Mushrooms
   PARENT : Mushroom
-Black mushrooms
-  PARENT : Mushroom
-Straw mushrooms
-  PARENT : Mushroom
+  BREF : Button mushrooms, or {*agaricus bisporus*}, are small immature {{portobello mushrooms}}. They are white in color.
+  LONG
+    & Most button mushrooms are picked and sold when they are young, with their caps closed. The whole mushrooms is often used is recipes, stem included. To prepare button mushrooms, wipe them gently to remove dirt. They can be found in the wild, butcan easily be confused with A. Californicus, a look-alike that is mildly toxic. 
 
 ~ SEEDS
 
 Flax seeds
-  BREF : Flax is the national flower of Belarus.
+  BREF : Flax seeds, or {*linseed*}, are harvested from the flax plant. Flax seeds are a source of Omega-3's, and can be used whole in breads, or ground as an egg-replacer in recipes.
+  LONG
+    & Flax seeds are used to make textiles, and are also made into oil (flaxseed oil).
 Sunflower seeds
+  BREF : Sunflower seeds are the fruit of the sunflower. There are 3 types, {*linoleic*} being the most common. Sunflower seeds are a rich source of {*protein*}, {*iron*} and {*zinc*}.
+  LONG 
+    & Sunflower seeds are commonly eaten as snacks, but can be used in recipes as garnishes or bases for {{vegan faux-cheese sauces|Sunflower heirloom carrot pasta}}. Seeds are sold in-shell or dehulled, both salted and unsalted.
 Pumpkin seeds
+  PARENT : Pumpkin, Squash
+  BREF : Pumpkin seeds is the edible seed of a {*pumpkin*} and certain {*squashes*}. The seeds are flat, with a white outer husk. The inner seed is a dark green color. Pumpkin seeds are righ in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Pumpkin seeds can be consumed raw, {{roasted|Roasted pumpkin seeds}}, or pureed into a nut butter. They can also be added to {{crackers|Crackers}}, {{cakes|Halloween pumpkin cookies}} and breads.  
 Sesame seeds
-  BREF : Tahini is made by grinding toasted hulled sesame seeds. It is used in baba ghanoush, halva, hummus and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
+  BREF : Sesame seeds has many other species, coming in a variety of colors ranging from light to dark. It has the highest oil content of any seed, with a nutty flavor. Sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of sesame seeds also include {{tahini}} and {{sesame oil}}. The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 White sesame seeds
+  PARENT : sesame seeds
+  BREF : White sesame is the seed of a flowering plant of the genus {*Sesamum*}. It has the highest oil content of any seed, with a nutty flavor. White sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of white sesame seeds also include {{tahini}} and {{sesame oil}}. The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 Black sesame seeds
+  PARENT : sesame seeds
+  BREF : Black sesame is the seed of a flowering plant of the genus {*Sesamum*}. It has the highest oil content of any seed, with a nutty flavor. Black sesame seeds are high in {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & Sesame seeds are added to breads, or over the top of baked goods, they are also baked into {{crackers|crackers}} or sprinkled onto a variety of foods. Popular uses of black sesame seeds also include {*gomashio*} (Japanese sesame salt) and {*chikki*} (Indian sweet brittle). The seeds need stored at 6% moisture or less. If the seed is too moist, it can quickly heat up and become rancid.
 Tahini
+  PARENT : Sesame seeds
+  BREF : Tahini is a condiment made from toasted and ground hulled white sesame seeds. It is a rich source of {*protein*} and {*calcium*}.
+  LONG
+    & It is used in {*baba ghanoush*} (roasted eggplant dip), {*pekmez*} (sweet turkish dip), {{hummus|uzumaki hummus bites}} and in many other recipes. Because of its high oil content, it needs to be refrigerated to prevent spoilage. Tahini has high levels of calcium and protein, making it a must ingredient in any plantbased pantry.
 Pomegranate seeds
 Chia seeds
+  BREF : Chia seeds are the edible seeds of {*Salvia hispanica*}, a flowering plant belonging to the mint family. They are small, oval, grey/white/black seeds. Chia seeds are a source of {*Omega-3's*}.
+  LONG 
+    & Chia seeds are {*hydrophilic*}, meaning that they can absorb up to 12x their weight in liquid. Soaking the seeds creates a thick, gluey coating that gives it a gel-like texture.  
 
 ~ ROOT VEGETABLES
 
 Nagaimo
+  BREF : Nagaimo is a Chinese yam, the only species that can be consumed raw. It has a bland flavor, and is primarily consumed due to the resulting {*mucilaginous*} texture when sliced or grated. 
+  LONG
+    & When preparing nagaimo for consumption, gloves should be used because it can cause skin irritation. Nagaimo should be peeled and brieftly soaked in a vinegar-water solution to neutralize the {*oxalate crystals*} found in their skin, then, it can be cut into slices or grated. Grated nagaimo develops a {*mucilaginous*} texture, which can be added to dips for soba noodles, or to {{okonomiyaki|okonomiyaki}}.
 Carrots
-  BREF : Overconsumming carrots can cause what is reffered to as "Carotenosis", a condition in which the skin turns orange.
+  BREF : Carrots contain high quantities of vitamin A. 
+  LONG
+    & Carrot cultivars can be grouped into two broad classes, {*eastern carrots*} (purple, yellow, often with branched roots) and {*western carrots*} (with an abundance of carotene). Carrots benefit from companion plants. Onions, leeks and chives for instance help repel the carrot root fly. Carrots can be stored for many months in a refrigerator, or in moist, cool places in winter. For long-term storage, carrots can be stashed in a bucket between layers of sand. A storage temperature of 0 to 5 °C is ideal. 
+Small heirloom tomatoes
 Heirloom Carrots
+  PARENT : Carrots
+  BREF : Heirloom carrots are a root vegetable, that comes in a variety of colors (orange, purple, black, red white and yellow). It is cultivated for its leaves and taproot. Carrots contain high quantities of vitamin A. 
+  LONG
+    & Heirloom carrots are an old cultivar grown and maintained by a minority of gardeners and farmers. They were commonly grown during earlier periods in human history, but are not used in modern large-scale agriculture. Many heirloom carrots kept their traits through {*open pollination*}, plants pollinated naturally by birds, insects, wind, or human hands.
 Ginger
+  BREF : Ginger root is the rhizome of the Ginger plant, used to flavor dishes. It is pickled, steeped (for hot beverages), candied, brewed into beer, powdered and used in an incredible range of recipes. 
+  LONG
+    & Dried and powdered ginger can be used as a substitute for fresh at a ratio of 6 to 1, but the flavor differs greatly. Ginger root should be peeled before consumption, and can be refrigerated or frozen for long-term storage. 
 Ginger Root
+  BREF : Ginger root is the rhizome of the Ginger plant, used to flavor dishes. It is pickled, steeped (for hot beverages), candied, brewed into beer, powdered and used in an incredible range of recipes. 
+  LONG
+    & Dried and powdered ginger can be used as a substitute for fresh at a ratio of 6 to 1, but the flavor differs greatly. Ginger root should be peeled before consumption, and can be refrigerated or frozen for long-term storage. 
   PARENT : Ginger
 Potatoes
-  BREF : Since vitamin A deficiency is a common problem in Africa, people are encouraged to eat {{sweet potatoes}}.
+  BREF : The potato is a root vegetable, of the plant {*solanum tuberosum*}. They are a staple throughout the world, and the 4th largest food crop after corn, wheat and rice. After years of selective breeding, there are now 1,000 different types of potatoes. Potatoes should not be eaten raw, because we don't digest it well. 
+
 Russet Potatoes
   PARENT : Potatoes
+  BREF : Russet potatoes are large with a dark brown skin. Their flesh is white, dry and mealy. Russet potatoes are a good source of {*vitamin C*} and {*iron*}.
+  LONG 
+    & Russet potatoes can be baked, mashed, and are often made into fries. Russet potatoes keep for up to a month if stored in a cool, dry and dark place. 
 Sweet Potatoes
   PARENT : Potatoes
-Beets
+  BREF : Sweet potatoes are big, starchy, sweet-tasting, root vegetables. They come in a variety of colors, with their skin ranging from yellow, orange, brown, red purple and beige. The flesh ranges from beinge through white, red, purple, yellow, orange and violet. Light-skinned sweet potatoes have flesh that is firm, while orange-fleshed varieties are softer. Sweet potatoes are a good source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
   LONG
-    & {{Golden beets}} are rich in b-xanthin pigment, so they cannot replace {{red beets}} (which contain betalain pigment). Both pigments offer different health benefits!
-    & The root of the beet plant is called a beetroot. Don't be alarmed, beetroot juice will make your urine red for a day.
+    & Sweet potatoes are used in both sweet and savory recipes, they can be served cooked, mashed, they can also be baked, roasted, steamed, simmered or fried. Sweet potatoes keep well if stored loose in a cool dry place, away from direct sunlight. Their leaves are edible and can be prepared like {{spinach}} or turnip greens.
+Beets
+  BREF : Beets, or {*beetroots*}, are the taproot portion of the beet plant. There are many cultivated varieties, like red beets, golden beats, table beet etc. 
+  LONG
+    & Beetroot is used as a red food colorant in desserts, candies and a variety of other {{baked goods|raisin beet bread}}, {{soups|borscht with tofu sour cream}} and desserts, it's also used to make {{sauces|roasted beet lentils}}. Don't be alarmed, red beetroot juice will make your stools and urine red for a day.
 Golden Beets
   PARENT : Beets
-  BREF : A type of {{beet|beets}} containing b-xanthin pigment.
+  BREF : Golden or yellow beets, or {*beetroots*}, are the taproot portion of the beet plant and have a golden/yellow fleshy interior. This cultivar is sweeter and milder than their red counterparts. 
+  LONG
+    & Golden beets keep in the refrigerator up to two weeks, but the beet tops should be eaten shortly after harvest. 
 Red Beets
   PARENT : Beets
-  BREF : A type of {{beet|beets}} containing betalain pigment.
-Yuka
-  BREF : Tapioca is actually a starch extracted from Yuca roots.
+  BREF : Red beets, or {*beetroots*}, are the taproot portion of the beet plant and have a red fleshy interior. Underneath the surface, the flesh is a deep crimson and is dense, aqueous, and crunchy. When cooked, Red beets develop a tender, soft texture with a mildly sweet, earthy flavor. The beet plant also grows leafy stalks that are edible and have a taste similar to swiss chard. 
+  LONG
+    & It is consumed raw in salads, they can also be roasted, steamed, fried and boiled. Beetroot is used as a red food colorant in desserts, candies and a variety of other {{baked goods|raisin beet bread}}, {{soups|borscht with tofu sour cream}} and desserts, it's also used to make {{sauces|roasted beet lentils}} and {{dips|uzumaki hummus bites}}. Don't be alarmed, beetroot juice will make your stools and urine red for a day.
+Cassava
+  BREF : Cassava
 Garlic
-  BREF : Garlic has been used in many cultures around the world for thousands of years, dating all the way back to the time the pyramids were built!
+  BREF : Garlic bulbs range from medium to large, consisting of gloves encased in individual wrappers. It has a mild allium scent and taste. Crushing or pressing the cloves releases enzyme compounds that produce a sulfur-based molecule called {*acilin*}, which is responsible for giving garlic its pungent aroma and taste. 
+  LONG
+    & Garlic can be consumed both raw or cooked, with raw having a stronger flavor. Garlic pairs well with acidic fruits and vegetables like {{tomatoes}} and citrus, herbs like {{basil}}, {{thyme}} and {{oregano}} and vegetables like broccoli, {{brussel sprouts}}, {{snap peas}} and {{artichokes}}.
 Garlic Powder
   PARENT : Garlic
+  BREF : Garlic powder is dehydrated garlic. It is used in recipes where moisture content is key. 1/8 of a teaspoon of garlic powder equals one fresh {{garlic}} clove. 
+  LONG
+    & To make garlic powder, the cloves are peeled and sliced, and then heated to a temperature of between 150-160C to remove all moisture. The dehydrated garlic is then sliced, chopped and ground into a powder.  
 Onion
 Red Onion
   PARENT : Onion
   COLOR : #C820B3
-  BREF : There is a variety of red onion in Italy that has a stronger and sweeter taste, and is sometimes made into marmalade.
+  BREF : Red onions have a purplish-red skin, and flesh that is white and tinged with red. They are crunchy, pungent, sweet and a bit spicy when raw. When cooked, they become milder. They contain {*vitamin C*}, {*iron*} and {*calcium*}. 
+  LONG
+    & Red onions can be grilled, roasted, braised, caramelized and pickled. The bulbs will keep for 1-2 months when stored in a cool, dark and dry place with good air circulation. 
 Onion Powder
   PARENT : Onion
 Yellow Onion
   PARENT : Onion
+  BREF : Yellow onions are encased in a light-yellow to copper papery skin, while the inner flesh is white. They are crunchy, with a pungent flavor when raw. If cooked, yellow onions develop a milder flavor, that is both nutty and sweet. Yellow onions are a good source of {*vitamin C*}. 
+  LONG
+    & Yellow onions can be sauteed, braised, caramelized, grilled or dry-roasted. They are used to add flavor to broths, soups and stews. The bulbs will keep for 1-2 months if stored in a cool, dry and dark place with good air circulation. 
 
 ~ OTHER VEGETABLES
 
 Cucumber
-  BREF : Cucumbers are usually more than 90% water.
+  BREF : There are many varieties of cucumbers, but the 3 main are: slicing, pickling and seedless. Cucumbers are 95% water, making them a low-energy food. 
+Persian cucumbers
+  PARENT : Cucumber
+  BREF : Persian cucumbers are of the Burpless variety, meaning they are easy to digest and have a pleasant taste. They are crisp, sweet and void of developed seeds. It is harvested when 4-6" in length, when they are at peak sweetness. They absorb flavors quickly, unlike garden cucumbers. 
+  LONG
+    & They are sometimes marketed as seedless or burpless, because the seeds and skin of other varieties of cucumbers are said to give some people {{gas|https://www.livestrong.com/article/471722-why-do-cucumbers-upset-my-digestion/}}.
 Eggplant
 Zucchini
+  BREF : Zucchini squash, or {*courgette*}, are summer squashes. They can be dark or light green. Botanically they are treated as vegetables, but they are fruits. Zucchini squah can be harvested when young, or later once it has grown to 6-8" long. Immature squashes have better flavor, with a spongy yet firm texture. Zucchini are a low energy food, being 94% water, and are a source of {*vitamin A*}, {*vitamin C*} and {*iron*}.
+  LONG
+    & Zucchinis have a mild flavor which makes them ideal in both sweet and savory recipes. They can be grated, steamed, sauteed, battered, fried, baked, julienned for pasta, eaten raw etc. Zucchini will keep for 1-2 weeks if kept dry and refrigerated. 
 Chives
-  BREF : Chinese chives or "nira" in Japanese, are full of vitamins and add a lot of flavor to a dish. Nira is often found in gyoza, it shares the same pungent smell as garlic.
+  BREF : Chives grow in clusters, with hollow leaves that come to a point. They have a mild onion flavor, which doesn't linger. They are a good source of {*calcium*} and {*iron*}.
+  LONG
+    & Chives are used as a garnish, and as an aromatic herb. In cooking, it is best to add them at the end of the cooking process because they lose their flavor when heated. They have insect-repelling properties that can be ued in gardens to control pests. Chives can be stored in a bag in the refrigerator, if kept dry they will last up to a week.
 Peppers
-  BREF : The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
-Green Peppers
+  BREF : Peppers, or the fruit (botanically berries) of the {*capsicum plants*}, have a variety of names depending on place and type. The more spicy varieties are commonly called {*chili peppers*}. The large, mild form is called bell pepper, or by color {{green pepper}}, green bell pepper, {{red bell pepper}}. 
+  LONG
+    & The misleading name 'pepper' was given by Christopher Columbus when he brought back a plant to Europe. The word pepper was given to all spices in Europe that had a hot and pungent taste.
+Green Bell Peppers
   PARENT : Peppers
-Red Peppers
+  BREF : Green bell peppers, or {*capsicum*}, are medium to large in size, with a firm skin that is crisp and juicy. They are an aromatic 'green', almost biter flavor. They are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG 
+    & They can be served raw, or baked, sauteed, roasted and grilled. Green bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
+Red Bell Peppers
   PARENT : Peppers
-Yellow Peppers
+  BREF : Red bell peppers, or {*capsicum*}, are medium to large in size, with a firm skin that is crisp and juicy. They have a sweet and fruity flavor. Red bell peppers are simply ripened {{green bell peppers}}, and are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG
+    & They can be served raw, or baked, sauteed, roasted and grilled. Red bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
+Yellow Bell Peppers
   PARENT : Peppers
+  BREF : Yellow bell peppers, or {*capsicum*}, are medium to large in size. The smooth skin is firm, glossy, and pale green when young, transforming to bright yellow with age. They have a mild, sweet flavor, and are a good source of {*vitamin C*}, {*iron*}, {*calcium*} and {*vitamin A*}.
+  LONG
+    & They can be served raw, or baked, sauteed, roasted and grilled. Red bell peppers keep 1-2 weeks when stored unwashed in the refrigerator. 
 Tomato
 Tomato Paste
   PARENT : Tomato
-  BREF : The tomatoes can also be dried with an oven.
+  BREF : 
 Avocado
-  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of fat. Fun fact: Avocado trees don't self-pollinate, they need another avocado tree nearby to bear fruit.
+  BREF : Avocados are botanically 'berries', they may be pear-shaped, round or egg-shaped. They are a good source of {*vitamin C*}, 75% of its energy comes from fat. Its flesh is thick, yellow/green and oily. It has a rich, creamy flavor with a nutty, yet clean, grassy finish. 
+  LONG
+    & Avocado can be pureed, spooned out its shell and eaten as is (when ripe), or added to salads. The flesh is prone to enzymatic browning, quickly turning brown after exposure to air. To prevent browning, add lime or lemon juice to avocados after peeling. 
 Pumpkin
   BREF : The darker the skin of the pumpkin, the higher the beta-carotene content.
 Olives
+  BREF : Olives come from {*Olea Europea*}, a small tree. Olives are the fruit of the olive tree. 90% of harvested olives are turned into {{olive oil}}, while the rest are sold as table olives. 
+  LONG
+    & Table olives are classified into 3 groups: {*green olives*}, {*turning color olives (semi-ripe)*} and {*ripe olives*}. 
 Green Olives
   PARENT : Olives
+  BREF : Green olives are picked before the olive ripening cycle has begun, they are either green or yellow. 
 Black Olives
   PARENT : Olives
+  BREF : Ripe olives, or black olives, are picked at full maturity and come in shades of purple to brown to black. Most black olives sold in stores though are not ripe, they're green olives which have been chemically treated so that they are black. 
 Pimento Olives
-  PARENT : Olives
+  PARENT : Olives 
+  BREF : Pimento olives are pitted green olives with a {*pimento pepper*} stuffed inside, all preserved in oil. Pimento peppers are mild in taste. 
 Palm
-  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees. They can be eaten as is, but they're especially delicious when tossed into a salad.
-Squash
-  BREF : The seeds of the acorn squash can be eaten, they're delicious when roasted!
+  BREF : Heart of palm is a vegetable that is harvested from the inner core of certain palm trees, like {*Bactris gasipaes*}. Heart of palm are rich in {*iron*}, {*zinc*}, {*vitamin C*}. 
+  LONG
+  Heart of palm is considered a delicacy since harvesting them is labor-intensive. 
+Acorn Squash
+  BREF : Acorn squash is a winter squash, with skin a ridged outer skin and a sweet, yellow-orange flesh. Acorn squash comes in a variety of colors, like green, white and gold. They contain small amounts of {*vitamin C*}. 
+  LONG
+    & Acorn squash can be baked, sauteed or steamed. When cooked, the flesh becomes tender and offers a mildly sweet and nutty flavor with a dry-ish texture. It is often used in savory recipes, stuffed with rice or vegetables. Adding {{maple syrup}} as a glaze when baking enhances the flavor of the squash. The seeds can be eaten, but must be roasted first. Acorn squash keep up to 1 month when stored uncut, in a cold and dry place.
 Artichokes
 Asparagus
 Bamboo shoots
 Breadfruit
+  BREF : Breadfruit are prickly with yellow-green skin. Their appearances depends on the variety and growing conditions. When immature, the fruit is hard, and the flesh is starchy and a bit fibrous. Ripe breadfruit becomes soft, with the skin turning a yellow color, it also develops a creamy texture with a sweet aroma. Breadfruit is a high-energy food, containing all 9 EAA's. It's rich in {*protein*}, and contains {*vitamin C*}, {*calcium*} and {*iron*}.
+  LONG
+    & Breadfruit trees can grow more than 80 feet tall, they are one of the highest yielding food plants with a single tree producing up to 450 pounds of fruit per year. Because of it's high-yield and energy content, it has the potential to address world hunger. Breadfruit can be baked into cakes and bread, it can also be made into {{pasta|#breadfruit pasta}}, {{pan-fried|#Pan fried breadfruit}}, marinated, pickled, made into chips etc. 
 Scallions
-  BREF : In some countries scallions are mistakenly referred to as 'shallots'.
+  BREF : Scallions, or green onions, is a term used for multiple varieties that were harvested when young before a bulb appears. They are crisp and juicy and have a milder taste than most onions. Scallions are a source of {*vitamin C*}, {*calcium*} and {*vitamin A*}.
+  LONG
+    & Scallions can be stir-fried, sauteed, roasted and grilled, but they can also be consumed raw, added as a topping on a variety of dishes. The leaves will keep up to 5 days when wrapped and stored in the refrigerator. 
 Spinach
-  BREF : During the Cold War, wine with added spinach juice was given to weakened soldiers.
-Alfaalfa sprouts
+  BREF : Spinach, or {*Spinacia oleracea*}, is a leafy green with a subtle green flavor and iron/metallic notes. There are 3 main varieties: {*savoy*} (primary commercial type), {*semi savoy*} (partially crinkled leaves, often processed)and {*flat-leafed*} (mainly processed). Spinach is a rich source of {*beta-carotene*}, and is a good source of {*vitamin A*}, {*calcium*}, {*vitamin C*} and {*iron*}.
+  LONG
+    & Raw spinach contains high levels of {{oxalates|https://veganhealth.org/oxalate/}}, which block absorption of calcium and iron in the stomach and small intestine. Spinach cooked in several changes of water has much lower levels, and can be {{digested more easily|https://www.nof.org/patients/treatment/nutrition/}}. Spinach can be baked into breads of cakes, sauteed etc. Spinach can keep 1-2 weeks if dry and kept in a cool place. 
+Alfalfa sprouts
+  BREF : Alfalfa sprouts, or {*lucerne*}, are soaked in water and allowed to {{sprout|https://web.archive.org/web/20130515011922/http://coolshinystuff.com/how-to-sprout-alfalfa}} over several days. Sprouts have a crunchy texture with a sweet and nutty taste. They are a source of {*vitamin C*} and {*zinc*}. 
+  LONG
+    & Alfalfa sprouts can be added to sandwiches, salads, or sprinkled atop dishes. Sprouting alfalfa usually takes three to four days with one tablespoon of seed yielding up to three full cups of sprouts. If you want to sprout seeds, make sure they are fresh and washed thoroughly with water before use. The FDA has made {{recommendations|https://www.regulations.gov/docket?D=FDA-2018-D-4534}} for both growers and consumers on how to avoid contamination.
 
 ~ BERRIES
 
-Raisins
 Dried Raisins
-  PARENT : Raisins
+  BREF : Raisins are large, dried, dark-colored grapes, not to be confused with {*sultanas*} (golden-colored)and {*currants*} (small black seedless grapes). They contain some {*vitamin C*}, but less than fresh grapes. 
+  LONG
+    & Raisins are dried in 3 steps, the first is pre-treatment. Raisins are dipped in a dry emulsion 'cold dip' that increases the rate of water loss by 3x. A faster water removal lowers browning and produces better raisins. Step two, is drying, where the raisins are either sun-dried, shade-dried or dried mechanically. Step three, involves cleaning the raisins and removing all foreign objects for consumption. This 'washing' process causes rehydration, which means that another drying step is require to remove all moisture. 
+    & Important note: Raisins are toxic to dogs.  
 Blackberries
-Cherries
-Mulberries
-Raspberries
-Strawberries
-Cranberries
+  BREF : Blackberry is used as a generic term to refer to a wide range of bush berries ( loganberries, boysenberries, marionberries and ollalieberries), the fruit is a member of the  {*Rosaceae*} family and of the {*Rubus*} genus. They are sweet, slightly tart and juicy. Blackberries are a good source of {*vitamin A*}, {*vitamin C*}, {*iron*} and {*calcium*}.
+  LONG
+    & Blackberries can be added to both sweet and savory dishes. 
+Dried cranberries
   BREF : Dried cranberries are often coated with a bit of vegetable oil to keep them from sticking to each other. Look in natural food stores to find brands that don't do this.
-Goji
-Mixed Berries
+Dried White Mulberries
+  BREF : White mulberries are one of many species of mulberries, one whose fruit remains white when ripe. White mulberries are sweet, with a mild flavor. The dried variety can be reconstituted in water. They are a source of {*vitamin C*} and {*iron*}.
+  LONG
+    & Dried mulberries can be reconstituted in water, and can also be used in herbal teas or granolas to add a bit of sweet. It is considered an invasive species in North America. If you want to dry your own mulberries, check out {{this tutorial|https://oureverydaylife.com/556453-how-to-dry-mulberries.html}}.
+Dry corn kernels
+  BREF : Corn kernels are the fruit of corn, or {*maize*}. One ear of corn has roughly 800 kernels and they come in a grand variety of colors: Black, blue-grey, purple, green, white and yellow. 
+  LONG
+    & Corn kernels have many uses other than food, they're used to produce biofuel and bioplastics. 
 
 ~ OTHER FRUITS
 
 Pandanus fruit
-  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they can be transported for many months by ocean currents while remaining viable.
+  BREF : The fruit of the {*pandanus tectorius*} tree is widely consumed in the pacific islands, but it goes under other names, like {*hala*}, {*screwpine*} or {*pu hala*}. The fruits are large, and composed of 40-80 wedge-like phalanges (or keys). The fruit changes from green to orange/red as it matures, and can stay on the tree for more than 12 months. The fruit is eaten raw or cooked, and is a source of {*vitamin A*}.
+  LONG
+    & Pandanus are a source of food, but they're also used to produce material for clothing, basket and weaving and shelters. Pandanus trees are super trees, they can withstand difficult conditions (storms, sea air, drought) and propagate with ease. The phalanges covering the inner core are buoyant, so like coconuts they can be transported for many months by ocean currents while remaining viable.
 
 Banana
+  BREF :
+    & Bananas are a starch fruit (botanically berries) consumed the world over, and come from two wild species. They vary in size and color, and always grow in clusters at the top of the banana palm. Bananas are a source of {*vitamin C*}.
+  LONG 
+    & They can be used in a variety of ways in recipes, for both desserts and savoury meals. They can be deep fried, baked in their skin, steamed, made into preserves, processed into vinegar etc. 
+Kiwifruit
+  BREF : Kiwifruit is the edible berry of species of {*woody vines*} in the genus {*Actinidia*}. Kiwifruit have a thin, hair-like skin with a light green or golden flesh. It has a soft texture with a sweet tart flavor. Kiwi fruit is a rich source of {*vitamin C*}, and a source of {*calcium*} and {*iron*}. 
   LONG
-    & Bananas are fruit (actually berries) consumed the world over, and come from two wild species. They vary in size and color, and always grow in clusters at the top of the banana palm.
-    & Fun fact: they're 75% water.
-    & They can be used in a variety of ways in recipes, for both desserts and savoury meals. As a low source of fat, they can be used to make non-dairy {{ice creams|balsamic banana ice cream}}.
-Kiwi
+    & Kiwifruit is eaten raw, used as a garnish, it is also processed into juices and baked into cakes. The whole fruit is edible, even the skin. To store, refrigerate ripe fruit up to ten days. Refrigerated unripe fruit lasts up to one month. 
 Apple
 Apples
 Lemon
-  BREF : Fun fact: lemon juice can be used as an invisible ink, revealed with heat.
+  BREF : Lemons are a citrus fruit with a distinctive sour taste. They are a rich source of {*vitamin C*}.
+  LONG
+    & Lemon is sometimes used as a short-term preservative on foods (apples, avocados, bananas) that brown or oxidize after being sliced. 
 Lemon Zest
+  PARENT : Lemon
+  BREF : The rind of lemons can be grated, and used as 'zest' in baking and many other recipes. 
 Lemon Juice
+  PARENT : Lemon
+  BREF : Lemon juice is used in many culinary and cleaning uses. 
 Orange
   BREF : In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
-Pear
+Pears
+  BREF : Pears are the fruit of the pear tree, a species of genus {*Pyrus*}. Most pears are cold-hardy, withstanding temperatures between -25C and -30C in winter. There are many species of pears, ranging in size, shape and color. They will keep up to 3 weeks when stored in the refrigerator and a little over 1 year if frozen. Pears ripen at room temperature. They will ripen faster if placed next to bananas in a fruit bowl.
 Bartlett Pear
+  PARENT : Pears
+  BREF : Barlett pears are large, and have a skin that brightens as it ripens, transforming it from a green to a golden yellow tint. They have a cream-colored flesh, that is crunchy and tart when ripe, and a buttery and sweet taste when fully ripe. They are rich in {*vitamin C*} and {*iron*}.
+  LONG
+    & Bartlett pears can be eaten raw, they can be baked, boiled and grilled. Bartlett pears are known as the “canning pear” because they hold their shape and have a distinct flavor and sweetness when preserved. 
 Papaya
+  BREF : Papayas, or {*pawpaw*}, are the fruit (berries) of the {*carica papaya*}. It is one of 22 species of the genus {*Carica*}. There are two main kinds: Red papayas and yellow papayas. Even when unripe, these two varieties can be grated and eaten and are known as 'green papayas'. Papayas are a rich source of {*vitamin C*}.
+  LONG
+    & The ripe fruit can be consumed raw, and the unripe green fruit can be eaten cooked in salads or other meals. The seeds are edible, they can be washed and dried and used like {{black pepper}}. 
 Pomegranate
 Pomegranate Juice
 Mango
@@ -339,7 +536,9 @@ Anise
 Anise Seeds
 Nutritional yeast
   COLOR : #FFD800
-  BREF : In the US it's sometimes referred to as "nooch".
+  BREF : Nutritional yeast is a deactivated yeast, a strain of {{Saccharomyces cerevisiae|https://www.sciencedirect.com/topics/neuroscience/saccharomyces-cerevisiae}}. It is sold as yellow flakes or powder, and has a cheesy, nutty taste and flavor. Fortified nutritional yeast is a good source of {*vitamin B12*}.
+  LONG
+    & Nutritional yeast is often confused with brewer’s yeast, but the two are distinct. Brewer’s yeast is aptly named, as it was initially offered as a byproduct of the beer brewing industry. It is a key ingredient in vegan cheese sauces, it can also be used as a condiment. Nutritional yeast adds a lot of depth and flavor to a variety of dishes.
 Vanilla
 Vanilla Extract
 Nutmeg
@@ -471,11 +670,10 @@ Flour
     & {{Spelt flour}} was a staple food during the Bronze age all the way up to medieval times.
     & Brown {{rice flour}} is sometimes used as a base to grow mushrooms.
     & {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
-    & {{Breadfruit flour}} is a type of flour made from dried and ground breadfruit.
 All Purpose Flour
   PARENT : Flour
 Breadfruit Flour
-  PARENT : Flour
+  PARENT : Breadfruit
   BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
 Wheat Semolina
 Oatmeal
@@ -484,6 +682,10 @@ Cornmeal
 ~ SPECIAL
 
 Beni shouga
+  PARENT : Ginger root
+  BREF : Beni shouga, or pickled ginger, is a Japanese pickle or {*tsukemono 漬物*}. 
+  LONG
+    & Beni shouga is made from thin strips of ginger, pickled in {*umezu 梅酢*} (plum brine). Umezu is the brine that results during the process of making {*umeboshi 梅干*} (pickled plums). Traditionally, the red of the ginger comes from the {*shiso シソ*} plant of the genus {*Perilla*}, although most commercial products use artificial coloring. Beni shouga is commonly served in yakisoba (sauteed buckwheat noodles) and {{okonomiyaki|#okonomiyaki}}. 
 Vegemite
   COLOR : #875A2C
   BREF : It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
@@ -496,18 +698,17 @@ White Miso
   COLOR : #955C19
 Tofu
   COLOR : #EFEFEF
-  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{silken tofu}}, {{burmese tofu}}.
-Silken Tofu
+  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{soft tofu}}, {{burmese tofu}}.
+Soft tofu
   PARENT : Tofu
-  COLOR : #EFEFEF
+  BREF : Soft tofu, as its name suggests, is a softer version of tofu. It has a high water content, this should be taken into consideration when added to recipes. It is often used to make sauces, or smoothies. 
 Burmese Tofu
   PARENT : Tofu
   COLOR : #EFEFEF
-Tofu Mayo
+Veganaise
   PARENT : Tofu
+  BREF : Venagaise is a brand of plant-based mayonnaise, and it is also a general word used to refer to mayos that don't use animal products. To view the ingredients, see the {{recipe|#homemade veganaise}}.
   COLOR : #FFD800
-Nutolene
-Soy protein
 
 ~ SAUCES
 
@@ -527,7 +728,8 @@ Bamboo charcoal powder
   LONG
     & Bamboo charcoal comes from pieces of bamboo plants, harvested after at least five years, and burned in ovens at temperatures ranging from {#800 °C#} to {#1200 °C#}.
     & It benefits environmental protection by reducing pollutant residue. It is an environmentally functional material featuring excellent absorption properties. It can be added to foods to give it a black tint, it's very popular in Japan. You can get some through Taketora, a japanese company. (wikipedia description).
-    & {*Important note*}: Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
+  WARN
+    & Bamboo charcoal binds on the nutrients in food that you're meant to be digesting, so it's preferable to not add bamboo charcoal to every food you make. Use it sparingly, as an occasional treat.
 Cornstarch
 Active dry yeast
 Baking soda
@@ -546,13 +748,23 @@ Brown rice syrup
   BREF : Brown rice syrup is used to sweeten rice milk.
 
 ~ VINEGARS
-
 Rice vinegar
-  BREF : Substituting rice vinegar for western style vinegar isnt really appropriate, it's too acidic.
+  BREF : Rice vinegar is made by fermenting rice, and is often used as a dressing or as seasoning. 
+  LONG 
+    & Rice vinegar comes in a variety of flavors and color, ranging from clear to red, brown and black. The Chinese varieties are stronger, and known as 'rice wine vinegars' while Japanese vinegars are less acidic. 
+Japanese rice vinegar
+  BREF : Japanese Rice vinegar "komezu" or simply "su" has a very mild taste, and is either colorless or yellow. Japanese rice vinegar is made from rice.
+  LONG 
+    & This type of vinegar is less acidic than Chinese varieties, and are used to season rice, and for making "sunomono" (vinegar dishes) and "tsukemono" (pickles). There are some kinds of Japanese rice vinegars that are 'seasoned', meaning that they have additives like {{sake}}, {{salt}} and {{sugar}}, for added flavor. 
 Balsamic vinegar
   COLOR : #6620B3
+  BREF : Balsamic vinegar, or {*aceto balsamico*} is a dark, concentrated, flavoured vinegar from Italy. It is made wholly, or in part from grape must. True balsamic vinegar is rich with a complex flavor that is both sweet and sour. 
+  LONG
+    & The name "aceto balsamico" isn't regulated, but there are 3 in existence that are: Aceto Balsamic Tradizionale di Modena, Aceto Balsamico Tradizionale di Reggio Emilia and Aceto Balsamico di Modena. The two traditional varieties are made from a reduction of pressed Trebbiano and Lambrusco grapes that are aged for many years in wooden barrels (for a minimum of 12yrs), produced exclusively in the province of Modena or the Emilia region around it. Aceto Balsamico di Modena is also made from grape must, but it is blended with wine vinegar, and imitates the traditional product. 
 Apple cider vinegar
-  BREF : It is thought that consuming vinegar between meals will help to make you feel full for longer.
+  BREF : Apple cider vinegar is made from fermented apple juice, it is used for food preservation, marinades, vinaigrettes salad dressings. It has a sour taste, and can be used to make homemade cleaning products. 
+  LONG
+    & ACV is made from crushing apples and extracting the juice, bacteria and yeast are then aded to kickstart the fermentation process which converts the sugars into alcohol. There is a second fermentation, which then turns the alcohol into vinegar by acetic acid-forming bacteria. It can be used as a leavening agent in recipes, when mixed with baking soda, creating a chemical reaction which produces carbon dioxide which helps lift the batter.
 
 ~ SUPPLEMENTS
 
@@ -561,13 +773,17 @@ B12 supplement
 ~ TEA
 
 Matcha Powder
-  BREF : Only Tencha can be used to make matcha.
+  BREF : Matcha is finely ground powder of specialty grown green tea leaves.
+  LONG
+    & There are different grades of matcha, used for different purposes. There is {*ceremonial grade*}, {*premium grade*} and {*culinary grade*}. In recipes, it is used in desserts and drinks, it adds both bitterness and color to a dish and pairs well with sweet. 
   COLOR : #006633
   TAGS
     Tea
 
 Houjicha
-  BREF : KitKat in Japan has a houjicha flavour.
+  BREF : Houjicha is roasted Japanese green tea. It is roasted in a porcelain pot over charcoal, instead of being steamed like most Japanese teas. The leaves turn from green to brown, and develop a nutty, caramel-like flavor. 
+  LONG
+    & Houjicha is lower in caffeine than green tea, because of the roasting process. Because of this, it is popular tea to serve in evenings after meals. 
   COLOR : #875A2C
 Hibiscus
 
@@ -581,9 +797,21 @@ Lapsang souchong
 ~ ALCOHOL
 
 Wine
-  BREF : Wine has long been used as an antiseptic to treat wounds - it was even used to treat pain from child birth.
+  BREF : Wine is made from fermented grapes, with different varieties of grapes and strains of yeast produced different styles of wine. 
+  LONG
+    & There are many wine variants, like {*red wine*}, {*white wine*}, {*rosé wine*}. {*fruit wines*}, {*honey wines*} and {*starch-based wines*}. Different concentrations of alcohol in the human body have different effects on a person. 
+    & Wine is often served with dinner, paired with specific dishes for enhanced flavors. There are sweet wines, to accompany desserts. Wine is also cooked as a flavor agent in dishes, like in stocks or when braising. The acidity of wine lends balance to rich savory or sweet dishes. 
 Beer
+  BREF : Beer is brewed from cereal grains, like malted barley, wheat, maize and rice. 
+  LONG
+    & During the brewing process, the starch sugars ferment and produce ethanol and carbonation in the beer. Nowadays, {{hops|hops}} is added to beer, as a preserving agent, but also because it adds bitterness and other flavors. Modern beer ranges from 4% to 6% strength ABV (alcohol by volume), but there are varieties that are much lower and much higher than this (up to 20%-40%).
+    & The sediment in craft beer, can be used as a leavening agent in {{beer bread|beer bread}}.
+    & There is some nutritional value in beer, but it varies greatly from beer to beer, and this does not make it essential to good health. 
 Sake
+  BREF : Sake is Japanese rice beer, and it comes in a variety of flavors and concentrations. 
+  LONG
+    & There is {*nihonshu-do 日本酒度*}, {*san-do 酸度*}, {*aminosan-do アミノ酸度*}, {*ginjoushu 吟醸酒*} and many, many more. Sake is made by fermenting rice that has been polished to remove the outer bran. The process of sake is more similar to beer than to wine, because the starch is converted into sugars which ferment into alcohol.The serving temperature of sake depends on the type. Sake can be served at room temperature {*hiya 冷や*}, chilled {*reishu 冷酒*} or heated {*atsukan 熱燗*}. 
+    & In cooking, you can use a cheaper variety called {*ryorishu 料理酒*} or {*cooking sake*}. Cooking sake has added salt to make it unfit for drinking, so that shop owners can sell it without an alcohol license. Adding regular sake in recipes though is also fine.
 Whisky
 Cider
 Rhum
@@ -593,27 +821,55 @@ Porto
 
 Coconut oil
   COLOR : #EFEFEF
-  BREF : Coconut oil was used in oil lamps in India before they had electrical lighting.
+  BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
+  LONG
+    & Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. Fun fact: Coconut oil was used in oil lamps in India before they had electrical lighting.
 Canola oil
-  BREF : Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
+  BREF : Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
+  LONG
+    & Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Olive oil
-  BREF : Extra virgin olive oil has strict requirements, it's checked for all kinds of defects to be made perfect
+  BREF : Olive oil is produced by pressing whole olives, and is used in frying or as salad dressings. It also has cosmetic and pharmaceutical uses.
+  LONG
+    & Olive oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Sesame oil
   COLOR : #875A2C
-  BREF : Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
+  BREF : Sesame oil is an edible oil derived from sesame seeds. It is used as a cooking oil, but also as a flavor enhancer because of its nutty aroma and taste. 
+  LONG
+    & Light sesame oil has a high smoking point and is suitable for deep-frying, while darker varieties are used for stir-frying or sauteing food. Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
+    & Sesame oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Peppermint oil
+  BREF : Peppermint oil is made from peppermint leaves, obtained by extracting the oils from dried or fresh leaves and the flowering tops of the plant using alcohol. 
+  LONG
+    & Peppermint oil is used as an insect repellent against ants, flying insects and spiders. Peppermint oil is a stronger ingredient than peppermint extract, often used in candy-making. 
+Fresh dill
+  BREF : Dill is an herb, a wispy fern-like plant. This herb is a cross of {{lemon}}, parsley and {{anise}}.
+  LONG
+    & Dill is best used fresh. It is often used to flavor pickles and soups. 
 
 ~ MISC
 
 Coconut milk
+  BREF : Coconut milk is extracted from the grated pulp of mature coconuts. The rich taste of the milk is due to its high oil content. This high-fat milk is a perfect base for {{ice cream|hop ice cream}}. 
+  LONG
+    & There are many varieties, differentiated on fat content: coconut cream (up to 50% fat), coconut milk (20% fat) and coconut skim milk (least fat). The terminology is not always described like this in products sold in western countries. Traditionally, coconut milk is made from grating the white inner flesh of mature coconuts and mixing the shredded pulp with a bit of hot water to suspend the fat in the pulp. The grating process was often done by hand. 
 Soy milk
+  PARENT : Soy beans, edamame, tofu, tempeh
+  BREF : {{Soy milk}} is a by-product of the manufacture of {{tofu}}, and an important source of protein, calcium, vitamin D and B12 for vegans. When buying soy milk, prioritize unsweetened enriched varieties. 
+  LONG
+    & {{Soy milk}} is made from soaking and griding {{soy beans}}, boiling the mixture and filtering out the pulp. Soy milk is a stable emulsion of oil, water and protein. 
 Purple potato powder
   COLOR : #6620B3
 Baguette
   COLOR : #875A2C
-  BREF : A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
+  BREF : Originating in France, baguettes are made from basic lean dough. It is recognizable by its length and crisp crust. 
+  LONG
+    & The supposed history of baguettes is an interesting one. A law in the 1920's was put in place to keep bakers from working before 4 am, this didn't give them time to make proper rounded loaves. Making slender baguettes was a simple solution to this problem since they bake more rapidly.
 Bread crusts
 Vegan butter
+  BREF : Vegan butter is made from vegetable oils, and serves as an alternative to cow's milk. 
+  LONG
+    & Common brands include {{earth balance|https://world.openfoodfacts.org/product/0033776011703/original-buttery-spread-78-vegetable-oils-earth-balance}}. High-fat oils like coconut and olive oil can be used instead.  
 Royal blue colouring
 Violet colouring
 Wholegrain macaroni
@@ -621,11 +877,14 @@ Scoobi do
 Fusilli
 Soy yogurt
 Kinako
+  BREF : Kinako is roasted soybean flour, used in Japanese cuisine. Kinako means "yellow flour" in Japanese. Kinako contains B vitamins and some protein. 
+  LONG
+    & Kinako is produced by grinding roasted soybeans into powder, some kinds keep the roasted skin which alters the color of the final product. Kinako is often used to make desserts, like dumplings coated with it, it is also sometimes combined with {{soy milk}}.
 Blue corn tortilla
 Tofurky sausages
 Corn tortillas
 Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and str very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
+  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and are very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
   BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', as 'stock cube' in Australia, Ireland, New Zealand, South Africa, and the UK, and as 'dehydrated bouillon' in France.
@@ -635,13 +894,30 @@ Instant noodles
 Water
   BREF : 70% of the fresh water used by people goes to agriculture.
 Sugar
-  BREF : The average person consumes about 24kg of sugar per year, which is about 260 calories per day. Natural brown sugars that have been highly centrifuged go by the names of turbinado, demeara or raw sugar. Others that have been midly centrifuged and that have a higher molasses content go by Panela, rapadura, jaggery, muscovado etc. Powdered sugar is available in different degrees of fineness, the more X's the finer the grain.
+  BREF : Sugar is a generic name for sweet-tasting, soluble carbohydrates. 
+  LONG 
+    & Natural brown sugars that have been highly centrifuged go by the names of turbinado, demeara or raw sugar. Others that have been midly centrifuged and that have a higher molasses content go by Panela, rapadura, jaggery, muscovado etc. Powdered sugar is available in different degrees of fineness, the more X's the finer the grain.
+    & The average person consumes about 24kg of sugar per year, which is about 260 calories per day. Sugar is not essential to good health, and should be eaten sparingly.
 Powdered Sugar
 Whole Cane Sugar
+  BREF : Cane sugar is extracted from sugarcane, then treated to remove impurities. The resulting juice is boiled, and as it cools the liquid crystallizes to produce sugar crystals. 
+  LONG
+    & Whole cane sugar is not essential to good health. It is used in cooking, but also to produce ethanol fuel. 
 Coconut Sugar
+  BREF : Coconut sugar has a caramel-like flavor, and is subtly sweet. It is produced from the sap of the flower bud stem of the coconut palm. It is used as a sweetener in many countries.
+  LONG
+    & Coconut sugar isn't highly processed, and so its flavor can vary depending on what species was used and where/when it was harvested. Coconut sugar is not essential to good health and should be consumed in moderation. 
 Brown Sugar
+  BREF : Brown sugar has a brown color because of the presence of molasses. 
+  LONG 
+    & Brown sugar adds flavor to desserts and baked goods, and caramelizes better than refined sugar. 
 Salt
-  BREF : Some boutiques in hawaii sell black salt with powdered black lava added in. {{Fleur de sel}} is considered more of a garnish or a condiment, used to create contrast in sweet deserts.
+  BREF : Salt is present in large quantities in seawater, with about 35g/L of seawater. Salt is essential to life, and is one of the oldest food seasonings. Iodized salt is a good source of {{iodine|nutrition}}.
+  LONG
+    & Salting is an important method of preserving food, used in many cultures around the world. Salt is produced by evaporating sea water and mineral-rich spring water in shallow pools. Industrial byproducts include caustic soda and chlorine, and is used to manufactur many products like plastics and paper pulp. Two hundred million tonnes of salt are use for human consumption per year. 
 Sea Salt
+  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food. 
+  LONG
+    & Iodine, an element essential for human health, is present only in small amounts in sea salt.
 Chocolate
 `

@@ -1,3 +1,5 @@
+'use strict'
+
 function SearchTemplate (id, rect) {
   Node.call(this, id, rect)
 
@@ -6,10 +8,10 @@ function SearchTemplate (id, rect) {
   // Create the search body
 
   this.answer = function (q) {
-    let html = ''
+    const html = ''
 
     return {
-      title: `GrimGrains — Search`,
+      title: 'GrimGrains — Search',
       view: {
         header: {
           search: 'search'
@@ -33,7 +35,7 @@ function SearchTemplate (id, rect) {
     <h2 class='serving'>404</h2>
     <hr />
     <p>Did you mean <a onclick="Ø('query').bang('${similar[0].word.toLowerCase()}')" href='#${similar[0].word.toLowerCase().to_url()}'>${similar[0].word.toLowerCase()}</a>, <a onclick="Ø('query').bang('${similar[1].word.toLowerCase()}')" href='#${similar[1].word.toLowerCase().to_url()}'>${similar[1].word.toLowerCase()}</a>, or <a onclick="Ø('query').bang('${similar[2].word.toLowerCase()}')" href='#${similar[2].word.toLowerCase().to_url()}'>${similar[2].word.toLowerCase()}</a>?</p>
-    <p>To create this page, open an issue or pull request ${"{{on GitHub|https://github.com/hundredrabbits/Grimgrains}}".to_markup()}.</p>`
+    <p>To create this page, open an issue or pull request ${'{{on GitHub|https://github.com/hundredrabbits/Grimgrains}}'.to_markup()}.</p>`
 
     return html
   }

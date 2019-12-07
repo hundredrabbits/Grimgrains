@@ -1,3 +1,5 @@
+'use strict'
+
 function RecipeTemplate (id, rect) {
   Node.call(this, id, rect)
 
@@ -7,7 +9,7 @@ function RecipeTemplate (id, rect) {
 
   this.answer = function (t) {
     let name = t.name
-    if (t.result && t.result.TITLE) {name = t.result.TITLE}
+    if (t.result && t.result.TITLE) { name = t.result.TITLE }
     return {
       title: `GrimGrains — ${name.capitalize()}`,
       view: {
@@ -23,8 +25,8 @@ function RecipeTemplate (id, rect) {
   }
 
   function make_content (q) {
-    let recipe = q.result
-    let name = recipe.TITLE || q.name
+    const recipe = q.result
+    const name = recipe.TITLE || q.name
     let html = ''
 
     html += `
@@ -36,6 +38,7 @@ function RecipeTemplate (id, rect) {
 
     <columns>${new Runic(recipe.DESC)}</columns>
     ${make_ingredients(recipe.INGR)}
+    ${make_warnings(recipe, q.tables.ingredients)}
     ${make_instructions(recipe)}`
 
     return html
@@ -44,17 +47,36 @@ function RecipeTemplate (id, rect) {
   function make_instructions (recipe) {
     let html = ''
 
-    html += `<h2>Instructions</h2>`
+    html += '<h2>Instructions</h2>'
 
     let count = 1
-    for (cat in recipe.INST) {
+    for (const cat in recipe.INST) {
       html += `<h3>Step ${count}: ${cat.capitalize()}</h3>`
-      let category = recipe.INST[cat].map(convertTemperatures)
+      const category = recipe.INST[cat].map(convertTemperatures)
       html += new Runic(category).toString()
       count += 1
     }
 
     return `<div id='instructions'>${html}</div>`
+  }
+
+  function make_warnings (recipe, all_ingredients) {
+    let html = ''
+
+    for (const cat in recipe.INGR) {
+      for (const id in recipe.INGR[cat]) {
+        if (all_ingredients[id].WARN) {
+          const warn = all_ingredients[id].WARN
+          html += `
+            <section id='warn'>
+              ${new Runic(warn)}
+            </section>
+          `
+        }
+      }
+    }
+
+    return html
   }
 
   function formatTemperature (temperature) {
@@ -75,18 +97,18 @@ function RecipeTemplate (id, rect) {
 
   function make_related (q) {
     let html = ''
-    let recipe = q.result
-    let recipes = find_related(q.name, recipe, q.tables.recipes)
+    const recipe = q.result
+    const recipes = find_related(q.name, recipe, q.tables.recipes)
 
     let count = 0
     for (id in recipes) {
-      let name = recipes[id][0]
-      let recipe = q.tables.recipes[name]
+      const name = recipes[id][0]
+      const recipe = q.tables.recipes[name]
       html += `
       <li class='recipe'>
         <a class='photo' onclick="Ø('query').bang('${name}')" href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
-        <t class='name'>${name.capitalize()}</t>
-        <t class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${Object.keys(recipe.INST).length} step${Object.keys(recipe.INST).length > 1 ? 's' : ''}</t>
+        <span class='name'>${name.capitalize()}</span>
+        <span class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${Object.keys(recipe.INST).length} step${Object.keys(recipe.INST).length > 1 ? 's' : ''}</span>
       </li>`
       if (count > 1) { break }
       count += 1
@@ -95,9 +117,9 @@ function RecipeTemplate (id, rect) {
   }
 
   function count_ingredients (recipe) {
-    let ingredients = {}
-    for (cat in recipe.INGR) {
-      for (id in recipe.INGR[cat]) {
+    const ingredients = {}
+    for (const cat in recipe.INGR) {
+      for (const id in recipe.INGR[cat]) {
         ingredients[id] = 1
       }
     }
@@ -105,10 +127,10 @@ function RecipeTemplate (id, rect) {
   }
 
   function find_related (name, target, recipes) {
-    let a = []
+    const a = []
     for (id in recipes) {
-      let recipe = recipes[id]
-      let index = similarity(target.TAGS, recipe.TAGS)
+      const recipe = recipes[id]
+      const index = similarity(target.TAGS, recipe.TAGS)
       if (id.toLowerCase() != name.toLowerCase()) {
         a.push([id, index])
       }
@@ -122,32 +144,32 @@ function RecipeTemplate (id, rect) {
   function make_ingredients (categories) {
     let html = ''
     for (id in categories) {
-      let elements = categories[id]
+      const elements = categories[id]
 
-      html += `<ul class='ingredients'>`
+      html += '<ul class=\'ingredients\'>'
       html += Object.keys(categories).length > 1 ? `<h3>${id.capitalize()}</h3>` : ''
       for (name in elements) {
-        let element = elements[name]
+        const element = elements[name]
         html += `
         <li class='ingredient'>
           <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
             <img src='media/ingredients/${name.to_path()}.png'/>
           </a>
-          <t class='name'>${name.capitalize()}</t>
-          <t class='quantity'>${element}</t>
+          <span class='name'>${name.capitalize()}</span>
+          <span class='quantity'>${element}</span>
         </li>`
       }
-      html += `<hr /></ul>`
+      html += '<hr /></ul>'
     }
     return html
   }
 
   function similarity (a, b) {
     let score = 0
-    for (a_id in a) {
-      let tag_a = a[a_id]
-      for (b_id in b) {
-        let tag_b = b[b_id]
+    for (const a_id in a) {
+      const tag_a = a[a_id]
+      for (const b_id in b) {
+        const tag_b = b[b_id]
         score += tag_a.toLowerCase() == tag_b.toLowerCase() ? 1 : 0
       }
     }
