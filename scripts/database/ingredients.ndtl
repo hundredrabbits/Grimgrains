@@ -86,10 +86,14 @@ Edamame
   LONG 
     & Edamame can be boiled or steamed, and served with salts of other condiments. Fresh edamame last for 3 days in the refrigerator, wrapped in a material that traps moisture to prevent discoloration and wilting. Fresh edamame can be frozen, but should be blanched first. Frozen edamame lasts for many months. 
 Chickpeas
-  BREF : Chickpeas are the earliest cultivated legumes in history, and a staple in many countries. Chickpeas are also very rich in protein, and a good source of iron. 
+  BREF : Chickpeas are the earliest cultivated legumes in history, and a staple in many countries. Chickpeas are also very rich in {*protein*}, and a good source of {*iron*}. 
   LONG 
     & Chickpeas can be made into flour, it can be roasted, pureed, candied etc. It's a very versatile and inexpensive legume. The soaking liquid of chickpeas — {*aquafaba*} — can be used as an egg replacer in recipes. 
     & Dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy of all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. 
+    & {*How to cook dried chickpeas*}
+    & Dried chickpeas triple in size when cooked (if not a little bit more). So 1 cup of dried chickpeas will make about 3 cups of cooked chickpeas. Dried chickpeas have a tough outer skin, and {*should be soaked overnight*}. Soaking them cuts down on cooking time, and in turn, saves energy. It also helps the beans cook more evenly and become completely tender all the way through. Another advantage to presoaking beans is that most of the gas-causing sugars are leached out into the soaking water. So when you drain off the soaking water, you are also getting rid of this unpleasant side effect to eating beans. Next morning, drain and cook them in a pot or pressure cooker.
+    & {*Stove top Pot:*} Bring chickpeas to a boil, then lower to gentle simmer. Add salt when beans are almost cooked. In a pot, cooking them varies from 1-3 hours.
+    & {*Pressure cooker:*} Because beans cook differently depending on the kind, age, and whether or not they’ve been presoaked, quick-soaked or not soaked at all, there is no single all-encompasssing rule for pressure cooking beans. Having a good chart with all the variables to consult is important so that you can adjust to your circumstances. A good resource for this is {{Hip Pressure Cooking’s bean chart|https://www.hippressurecooking.com/pressure-cooking-times/#beans}}. It’s a good idea to add 1 tbsp of neutral oil to the pot. Beans produce foam when cooking which can clog the pressure valve, and the oil will help to keep that down.
 Chickpea Flour
   PARENT : chickpeas, flour
   BREF : Chickpea flour — also known as {*besan*} or {*gram*} flour — is made from ground chickpeas.
@@ -425,21 +429,30 @@ Blackberries
 Dried cranberries
   BREF : Dried cranberries are often coated with a bit of vegetable oil to keep them from sticking to each other. Look in natural food stores to find brands that don't do this.
 Dried White Mulberries
+  BREF : White mulberries are one of many species of mulberries, one whose fruit remains white when ripe. White mulberries are sweet, with a mild flavor. The dried variety can be reconstituted in water. They are a source of {*vitamin C*} and {*iron*}.
+  LONG
+    & Dried mulberries can be reconstituted in water, and can also be used in herbal teas or granolas to add a bit of sweet. It is considered an invasive species in North America. If you want to dry your own mulberries, check out {{this tutorial|https://oureverydaylife.com/556453-how-to-dry-mulberries.html}}.
 Dry corn kernels
-Goji
-Mixed Berries
+  BREF : Corn kernels are the fruit of corn, or {*maize*}. One ear of corn has roughly 800 kernels and they come in a grand variety of colors: Black, blue-grey, purple, green, white and yellow. 
+  LONG
+    & Corn kernels have many uses other than food, they're used to produce biofuel and bioplastics. 
 
 ~ OTHER FRUITS
 
 Pandanus fruit
-  BREF : The fruit of the pandanus tectorius tree is widely consumed in the pacific islands, but it goes under other names, like "hala", "screwpine" or "pu hala". The phalanges covering the inner core are buoyant, so like coconuts they can be transported for many months by ocean currents while remaining viable.
+  BREF : The fruit of the {*pandanus tectorius*} tree is widely consumed in the pacific islands, but it goes under other names, like {*hala*}, {*screwpine*} or {*pu hala*}. The fruits are large, and composed of 40-80 wedge-like phalanges (or keys). The fruit changes from green to orange/red as it matures, and can stay on the tree for more than 12 months. The fruit is eaten raw or cooked, and is a source of {*vitamin A*}.
+  LONG
+    & Pandanus are a source of food, but they're also used to produce material for clothing, basket and weaving and shelters. Pandanus trees are super trees, they can withstand difficult conditions (storms, sea air, drought) and propagate with ease. The phalanges covering the inner core are buoyant, so like coconuts they can be transported for many months by ocean currents while remaining viable.
 
 Banana
+  BREF :
+    & Bananas are a starch fruit (botanically berries) consumed the world over, and come from two wild species. They vary in size and color, and always grow in clusters at the top of the banana palm. Bananas are a source of {*vitamin C*}.
+  LONG 
+    & They can be used in a variety of ways in recipes, for both desserts and savoury meals. They can be deep fried, baked in their skin, steamed, made into preserves, processed into vinegar etc. 
+Kiwifruit
+  BREF : Kiwifruit is the edible berry of species of {*woody vines*} in the genus {*Actinidia*}. Kiwifruit have a thin, hair-like skin with a light green or golden flesh. It has a soft texture with a sweet tart flavor. Kiwi fruit is a rich source of {*vitamin C*}, and a source of {*calcium*} and {*iron*}. 
   LONG
-    & Bananas are fruit (actually berries) consumed the world over, and come from two wild species. They vary in size and color, and always grow in clusters at the top of the banana palm.
-    & Fun fact: they're 75% water.
-    & They can be used in a variety of ways in recipes, for both desserts and savoury meals. As a low source of fat, they can be used to make non-dairy {{ice creams|balsamic banana ice cream}}.
-Kiwi
+    & Kiwifruit is eaten raw, used as a garnish, it is also processed into juices and baked into cakes. The whole fruit is edible, even the skin. To store, refrigerate ripe fruit up to ten days. Refrigerated unripe fruit lasts up to one month. 
 Apple
 Apples
 Lemon
@@ -454,9 +467,17 @@ Lemon Juice
   BREF : Lemon juice is used in many culinary and cleaning uses. 
 Orange
   BREF : In the early 16th century, the orange was considered a luxury item and rich people would grow it in private conservatories called "orangeries".
-Pear
+Pears
+  BREF : Pears are the fruit of the pear tree, a species of genus {*Pyrus*}. Most pears are cold-hardy, withstanding temperatures between -25C and -30C in winter. There are many species of pears, ranging in size, shape and color. They will keep up to 3 weeks when stored in the refrigerator and a little over 1 year if frozen. Pears ripen at room temperature. They will ripen faster if placed next to bananas in a fruit bowl.
 Bartlett Pear
+  PARENT : Pears
+  BREF : Barlett pears are large, and have a skin that brightens as it ripens, transforming it from a green to a golden yellow tint. They have a cream-colored flesh, that is crunchy and tart when ripe, and a buttery and sweet taste when fully ripe. They are rich in {*vitamin C*} and {*iron*}.
+  LONG
+    & Bartlett pears can be eaten raw, they can be baked, boiled and grilled. Bartlett pears are known as the “canning pear” because they hold their shape and have a distinct flavor and sweetness when preserved. 
 Papaya
+  BREF : Papayas, or {*pawpaw*}, are the fruit (berries) of the {*carica papaya*}. It is one of 22 species of the genus {*Carica*}. There are two main kinds: Red papayas and yellow papayas. Even when unripe, these two varieties can be grated and eaten and are known as 'green papayas'. Papayas are a rich source of {*vitamin C*}.
+  LONG
+    & The ripe fruit can be consumed raw, and the unripe green fruit can be eaten cooked in salads or other meals. The seeds are edible, they can be washed and dried and used like {{black pepper}}. 
 Pomegranate
 Pomegranate Juice
 Mango
@@ -661,6 +682,10 @@ Cornmeal
 ~ SPECIAL
 
 Beni shouga
+  PARENT : Ginger root
+  BREF : Beni shouga, or pickled ginger, is a Japanese pickle or {*tsukemono 漬物*}. 
+  LONG
+    & Beni shouga is made from thin strips of ginger, pickled in {*umezu 梅酢*} (plum brine). Umezu is the brine that results during the process of making {*umeboshi 梅干*} (pickled plums). Traditionally, the red of the ginger comes from the {*shiso シソ*} plant of the genus {*Perilla*}, although most commercial products use artificial coloring. Beni shouga is commonly served in yakisoba (sauteed buckwheat noodles) and {{okonomiyaki|#okonomiyaki}}. 
 Vegemite
   COLOR : #875A2C
   BREF : It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
@@ -680,11 +705,10 @@ Soft tofu
 Burmese Tofu
   PARENT : Tofu
   COLOR : #EFEFEF
-Tofu Mayo
+Veganaise
   PARENT : Tofu
+  BREF : Venagaise is a brand of plant-based mayonnaise, and it is also a general word used to refer to mayos that don't use animal products. To view the ingredients, see the {{recipe|#homemade veganaise}}.
   COLOR : #FFD800
-Nutolene
-Soy protein
 
 ~ SAUCES
 
