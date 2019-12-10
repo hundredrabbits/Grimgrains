@@ -159,14 +159,16 @@ Radish
 ~ ALGEA FUNGI
 
 Arame
-  BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
+  PARENT : Seaweed
+  BREF : Arame is a species of kelp (brown algae), and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
+  BREF : There are many kinds of edible seaweed, popular in East Asia. There are 3 main groups: Red algea, green algea and brown algea. Most edible seaweeds are marine algae whereas most freshwater algae are toxic. Seaweed contains high levels of {*iodine*} and {*calcium*}. It is possibly a source of {*vitamin B12*} (see {{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4042564/}}), but the amount is variable and therefore, not dependable.
 Mushroom
   BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin d2*}. Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 Wakame
   PARENT : Seaweed
   COLOR : #006633
-  BREF : Wakame is an edible seaweed, subtly sweet with a strong flavour and texture. Wakame is a source of iodine, although isn't a dependable source because the amount in seaweed varies greatly. 
+  BREF : Wakame, or {*Undaria pinnatifida*} is an edible seaweed, subtly sweet with a strong flavour and texture. It has a salty, savoury taste. 
   LONG 
     & Wakame is often served in soups, or in salads. Wakame is often sold dried (can be re-constituted in water) or salted. 
 Dried Hijiki
@@ -175,6 +177,7 @@ Dried Hijiki
     & Consumption of only a small amount of hijiki seaweed could result in an intake of inorganic arsenic that exceeds the tolerable daily intake for this substance. Therefore, consumption of this type of seaweed is to be avoided. See also the {{Canadian Food Inspection Agency|http://www.inspection.gc.ca/food/information-for-consumers/fact-sheets-and-infographics/products-and-risks/chemical-hazards/inorganic-arsenic/eng/1332268146718/1332268231124}}.
 Bull kelp powder
   PARENT : Seaweed
+  BREF :  Nereocystis a genus of brown kelp containing the species {*Nereocystis luetkeana*}. Some common names include edible kelp, bull kelp, bullwhip kelp, ribbon kelp, bladder wrack. Bull kelp powder is made from dried bull kelp, and is one of the tastiest seaweeds. It is used as a seasoning to create a briny taste. 
 Nori
   PARENT : Seaweed
   COLOR : #000000
@@ -189,7 +192,9 @@ Nori Sheets
 Shiitake
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Shiitake is an edible mushroom, used as a base in vegan dashi, to flavor simmered and steamed dishes. 
+  BREF : Shiitake, or {*Lentinula edodes*}, is an edible mushroom that grows in groups on the decaying wood of deciduous trees. When cooked, these mushrooms have a savory, earthy umami flavor. 
+  LONG
+    & They are sold both fresh and dried, dried shiitakes can be reconstituted in water. Shiitake are used as a base in vegan dashi, to flavor simmered and steamed dishes. They are also used in soups, or sauteed with other vegetables. Rarely, consumption of raw or slightly cooked shiitake mushrooms may cause an allergic reaction called "shiitake dermatitis". They will keep 1-2 weeks when stored in a paper bag in the refrigerator. 
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
@@ -512,21 +517,26 @@ Deglet Noor Dates
     & Deglet noor dates lend well to baking, due to their moderate sweetness and firmness. They are the preferred variety for the production of date syrup and date sugar. 
 Date caramel
   PARENT : Dates
-  BREF : Date caramel is used to make {{salted caramel carob chip cookies}}, and has a recipe there.
-Pamplemousse
-Rhubarb
+  BREF : A type of plant-based 'caramel' made from {{dates}}.  
 Apricot Jam
-Starfruit
-Mixed fruits
+  BREF : Apricot jam is made from the pureed flesh of the apricot fruit. It's easy to prepare, requiring only fresh apricots, {{sugar}} and {{lemon juice}}. Apricots are a moderate source of {*vitamin A*} and {*vitamin C*}.
 Coconut
-Plums
-Pineapple
+  BREF : Coconuts stem from the coconut tree, or {*Cocos nucifera*}. Coconuts are known for their versatility of uses, ranging from food to cosmetics. The water in young coconuts is very high in electrolytes. They are a good source of {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & They are ideal for making deserts, and are used in a variety of dishes like {{ice cream|#hop ice cream}}, beverages, frostings on cakes, smoothies, curry sauces etc. Whole coconuts will keep at room temperature for two weeks. For longer storage, refrigerate.
 
 ~ SPICES
 
 Ao nori
+  PARENT : Seaweed
+  BREF : Aonori {*青海苔*}, or green laver, is a type of edible green seaweed which includes species from the genus {*Monostroma*} and {*Ulva*}. It is referred to as aosa {*アオサ*} in some parts of Japan. The color of the aonori is intense, beautiful green. It has a distinctive fragrant green flavor. This type of seaweed is rich in {*calcium*} and is a moderate source of {*iodine*}.
+  LONG
+    & Aonori is sold dried, and is used in soups and tempura. It is also sprinkled atop a variety of Japanese dishes like yakisoba and {{okonomiyaki|#okonomiyaki}}.
 Kanten powder
-  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
+  PARENT : Seaweed
+  BREF : Kanten is a seaweed-based gelling agent derived from tengusa {*テングサ*}, a specific type of red seaweed. It is semi-translucent, and firm when it solidifies. Kanten is 80% fiber, and has no odor or taste.
+  LONG
+    & It is used to make Japanese confectionery, and unlike gelatin kanten-based confections don't dissolve at room temperature. Kanten is often confused with agar agar. Both are seaweed-based, but they come from different algea. Kanten can be swapped 1:1 with agar agar in a recipe, although the resulting texture will not be the same. Kanten produces a firmer texture than agar. 
 Turmeric
   BREF : Turmeric is sometimes used as a fabric dye, namely for Buddhist Monks' robes.
 Ground Turmeric
@@ -842,6 +852,7 @@ Porto
 ~ OILS
 
 Coconut oil
+  PARENT : Coconut
   COLOR : #EFEFEF
   BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
   LONG
@@ -872,6 +883,7 @@ Fresh dill
 ~ MISC
 
 Coconut milk
+  PARENT : Coconut
   BREF : Coconut milk is extracted from the grated pulp of mature coconuts. The rich taste of the milk is due to its high oil content. This high-fat milk is a perfect base for {{ice cream|hop ice cream}}. 
   LONG
     & There are many varieties, differentiated on fat content: coconut cream (up to 50% fat), coconut milk (20% fat) and coconut skim milk (least fat). The terminology is not always described like this in products sold in western countries. Traditionally, coconut milk is made from grating the white inner flesh of mature coconuts and mixing the shredded pulp with a bit of hot water to suspend the fat in the pulp. The grating process was often done by hand. 
