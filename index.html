@@ -55,6 +55,25 @@
 
     let RIVEN = new Riven();
     graph()
+
+    // Find missing ingredients
+
+    const db = Ø('database').request()
+
+    for(const recipe of Object.values(db.recipes)){
+      if(!recipe.INGR){ console.warn('Missing ingredients for ', recipe.name); continue }
+      if(!recipe.INST){ console.warn('Missing instructions for ', recipe.name); continue }
+      if(!recipe.DESC){ console.warn('Missing description for ', recipe.name); continue }
+      if(!recipe.TIME){ console.warn('Missing time for ', recipe.name); continue }
+      if(!recipe.SERV){ console.warn('Missing serv for ', recipe.name); continue }
+      if(!recipe.TAGS){ console.warn('Missing tag for ', recipe.name); continue }
+      for(const part of Object.values(recipe.INGR)){
+        for(const name of Object.keys(part)){
+          if(!db.ingredients[name]){ console.warn(`Missing ingredient: ${name} for ${recipe.name}`) }
+        }
+      }
+    }
+
   </script>
   
   <noscript>
