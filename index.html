@@ -19,9 +19,11 @@
   <meta property="og:description" content="An illustrated food blog." /> 
   <meta property="og:site_name" content="Grimgrains" />
   
+  <script  type="text/javascript" src="scripts/helpers.js"></script>
   <script  type="text/javascript" src="scripts/lib/riven.js"></script>
   <script  type="text/javascript" src="scripts/graph.js"></script>
   <script  type="text/javascript" src="scripts/lib/runic.js"></script>
+  <script  type="text/javascript" src="scripts/runic.library.js"></script>
 
   <script  type="text/javascript" src="scripts/nodes/query.js"></script>
   <script  type="text/javascript" src="scripts/nodes/router.js"></script>
@@ -49,6 +51,8 @@
 </head>
 <body>
   <script>
+    const runic = new Runic(runicLibrary)
+
     let RIVEN = new Riven();
     graph()
   </script>

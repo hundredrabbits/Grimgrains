@@ -50,7 +50,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content columns ul li { padding-left:25px; position: relative; }
 #view #core #content columns ul li:before { content:"●"; position: absolute; top:0px; left:0px; font-size:12px;}
 #view #core #content columns ul li a { font-weight: bold }
-#view #core #content ul.bullet li { font-weight: bold;position: relative;padding-left:30px;line-height: 25px; }
+#view #core #content ul.bullet li { position: relative;padding-left:30px;line-height: 25px; }
 #view #core #content ul.bullet li:before { content:"•"; position: absolute;left:15px; }
 #view #core #content ul.bullet li a { text-decoration: underline; }
 
