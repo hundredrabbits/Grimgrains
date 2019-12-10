@@ -49,10 +49,9 @@ NUTRITION
     - Eat at least {*3 servings of fruits*} per day.
     - Eat at least {*1 serving of seeds*} per day.
     * Protein
-    > <hr class='stroke' />
     % pages/protein.jpg
     & Proteins are necessary for the growth and repair of muscles, bones, hormones, digestive enzymes and to absorb nutrients. They are composed of {*20 amino acids*}, 11 of which our bodies can synthesize. The other 9 must come from the food that we eat, they are called the "essential amino acids". 
-    * Sources
+    + Sources
     & Consume 3-4 servings of:
     - 1/2 cup of dried lentils or beans
     - 1/2 cup tofu or tempeh
@@ -63,10 +62,9 @@ NUTRITION
     & Legumes are the best source of {*lysine*}, one of the essential amino acids. Quinoa and amaranth are two grains that are rich in lysine, although not as much as legumes. 
     & {{Read more|https://veganhealth.org/protein-part-1/}} about proteins.
     * Iron
-    > <hr class='stroke' />
     % pages/iron.jpg
     & Iron is necessary for red blood cells and to form hemoglobins which helps circulate oxygen around the body. We lose some of this mineral everyday from the skin and intestines, menstruating women will lose a lot of it. 
-    * Sources
+    + Sources
     - Beans
     - Soy (high in iron and not affected by phytic acid)
     - Nuts
@@ -83,9 +81,8 @@ NUTRITION
     & Other iron inhibitors include: turmeric and coriander, or calcium rich foods.  
     & {{Read more|https://veganhealth.org/iron/}} about iron.
     * Calcium
-    > <hr class='stroke' />
     % pages/calcium.jpg
-    * Sources
+    + Sources
     & Consume at least 3 1/2 to 4 cups a day of:
     - Calcium-set tofu
     - Cooked Chinese cabbage
@@ -98,12 +95,11 @@ NUTRITION
     & The amount of calcium in plant foods is somewhat dependent on the amount of calcium in the soil. The World Health Organization recommends 1,000mg of calcium per day, and 1,200mg if over 50, but what is most important is how much is truly absorbed. Most people absorb 25-30% of calcium. Absorption varies depending on food sources, so {*it's important to consume sources of well-absorbed calcium*}, like {*calcium-set tofu*}, {*kale*}, {*turnip greens*}, {*mustard greens*} and {*broccoli*}. Beans, nuts and seeds have moderate amounts of calcium and a slow absorption rate, soaking nuts and seeds aids in absorption. Fortified plant milk generally contains calcium with an absorption rate of 25%, similar to calcium-set tofu, although it is important to shake it before using it as the calcium tends to set at the bottom. 
     & {{Oxalate molecules|https://veganhealth.org/oxalate/}}, found in certain plant foods (such as spinach, beets, beet greens, sweet potatoes, peanuts, rhubarb, and swiss chard), can prevent the absorption of calcium. Oxalates plays a part in calcium-oxalate kidney stones. Consuming calcium and high-oxalate foods is fine and necessary for good health, but it's important to drink plenty of fluids. Doing this helps oxalate and calcium “bind” to one another in the stomach and intestines before reaching the kidneys, making it less likely for kidney stones to form. Boiling high-oxalate greens before consumption and discarding the cooking water also helps.
     & {{Read more|https://veganhealth.org/calcium/}} about calcium.
-    * Vitamin D
-    > <hr class='stroke' />    
+    * Vitamin D    
     % pages/vitamind.jpg 
     & Vitamin D can help prevent osteoporosis by increasing calcium absorption in the body. 
     & We make plenty of vitamin D when our skin is exposed to sunlight, but because of smog, cloud coverage and sunscreen, we may be producing less than our body requires. Light-skinned people require 10-15 minutes in the sun, while dark-skinned people might need {{two hours|https://veganhealth.org/vitamin-d-part-2-the-research/#dark}}. In winter, it is important to get a dietary source of this nutrient, especially for people with darker skin.
-    * Sources
+    + Sources
     - The sun
     - Fortified plant milk
     - Fortified foods
@@ -115,10 +111,9 @@ NUTRITION
     & D2 is vegan, made from exposing fungi to UV Rays, while D3 comes from fish oil or sheep's wool. Vitamin D2 is not as effective as vitamin D3 if taken weekly, it must be consumed daily.
     & {{Read more|https://veganhealth.org/vitamin-d/}} about vitamin D.
     * Vitamin B-12
-    > <hr class='stroke' />
     % pages/vitaminb12.jpg
     & Vitamin b-12 is needed for the production of DNA and for maintaining nerve cells. Levels need to be over 400 pg/ml — or 4 to 6 mcg per day — for good health. This vitamin does not occur naturally in any plant. 
-    * Sources
+    + Sources
     - Fortified plant milks
     - Fortified foods 
     - Nutritional yeast
@@ -127,10 +122,9 @@ NUTRITION
     & Absorption of vitamin b-12 is tricky, because small amounts attach to receptors that become quickly saturated by just 1-2 mcg of B12 and will stay like this for several hours. This is what you get from a single meal of fortified foods. Ingesting a large dose of B12 from a supplement, you can absorb the excess that can't latch onto receptors, but that is a very small amount. It is easier to meet needs from many small servings of B12 to be eaten throughout the day, but if you rely on daily single-dose supplements you need to have a lot more since absorption rates are very low.
     & {{Read more|https://veganhealth.org/vitamin-b12/}} about vitamin B12.
     * Iodine
-    > <hr class='stroke' />
     % pages/iodine.jpg
     & Iodine is necessary for healthy thyroid function which regulates our metabolism.  
-    * Sources  
+    + Sources  
     - Some fortified plant milks (few are fortified with it)
     - Iodized salt, 1/4 tsp/day
     - Seaweed 
@@ -138,10 +132,9 @@ NUTRITION
     & Note that the amount of iodine in seaweed and other sea vegetables is variable, it is the same for sea salt and other natural salts. {*The only reliable sources are iodized salt or a supplement*}.
     & {{Read more|https://veganhealth.org/iodine/}} about iodine.
     * Omega-3
-    > <hr class='stroke' />
     % pages/omega3.jpg
     & Omega3's are needed for optimal cognition, and helps reduce blood clotting (which protects against heart attacks).
-    * Sources
+    + Sources
     - Chia seeds, 1 tsp | 713mg
     - Flax seeds, 1 tsp, ground | 570mg
     - Soybeans, cooked, 1/2 cup | 500mg
@@ -156,10 +149,9 @@ NUTRITION
     & Adult males require 1,600 mg/day while females require 1,100 mg/day of ALA. The numbers vary for {{babies, infants and pregnant women|https://veganhealth.org/daily-needs/#Omega-3-Fats}}. To be safe, it is recommended to take 200-300 mg of DHA per day. 
     & {{Read more|https://veganhealth.org/omega-3s-part-2/}} about omega-3's.
     * Vitamin A
-    > <hr class='stroke' />
     % pages/vitamina.jpg
     & Vitamin A is important for growth and developments in young children, and for red blood cell formation. 
-    * Sources
+    + Sources
     & Consume 2 or more per day.
     - Butternut squash
     - Pumpkin
@@ -172,10 +164,9 @@ NUTRITION
     & The body can convert 50 carotenoids into vitamin A, the most common being {*beta-carotene*}. Eating vegetables high in carotenoids (carrots, pumpkin etc) with some fat increased the absorption and synthesis of Vitamin A. 
     & {{Read more|https://veganhealth.org/vitamin-a/}} about vitamin A.
     * Zinc
-    > <hr class='stroke' />
     % pages/zinc.jpg
     & Zinc is important for immunity.
-    * Sources
+    + Sources
     - Chickpeas, 1/3 cup (cooked) 
     - Peanuts, 1/4 cup (raw)
     - Oatmeal, 1 cup (cooked)
@@ -184,13 +175,11 @@ NUTRITION
     & Adult males (19-50yrs) require 11mg/day, while adult females (19-50yrs) require 40mg/day. {{These amounts vary|https://veganhealth.org/daily-needs/#zinc}} for newborns, infants, teens, pregnant/breastfeeding women and older adults.
     & {{Phytates|https://www.nap.edu/read/10026/chapter/14#480}}, found in some plant foods, reduce zinc absorption. This is why it's important to increase our intake of zinc by at least 50%. Consuming protein — like legumes, leavened bread, fermented soy foods (miso or tempeh) and nuts – increases zinc absorption.
     & {{Read more|https://veganhealth.org/zinc/}} about zinc.
-    > <hr class='stroke' />
     * Nutrition References
     & {{The vegan RD|https://www.theveganrd.com/}}
     & {{Vegan Health|https://veganhealth.org/}}
     & {{Nutrition Facts|https://nutritionfacts.org/}}
     & {{Open Food Facts|https://world.openfoodfacts.org/}}
-    > <hr class='stroke' />
     & Information last updated on 15/11/19
     & See a mistake? {{Make a pull request|https://github.com/hundredrabbits/Grimgrains}} on Github. Or contact us on {{twitter|https://twitter.com/grimgrains}} or {{mastodon|https://merveilles.town/@rek}}.
 
