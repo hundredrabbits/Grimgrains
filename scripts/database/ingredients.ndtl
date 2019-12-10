@@ -479,15 +479,37 @@ Papaya
   LONG
     & The ripe fruit can be consumed raw, and the unripe green fruit can be eaten cooked in salads or other meals. The seeds are edible, they can be washed and dried and used like {{black pepper}}. 
 Pomegranate
+  BREF : Pomegranates come from the {*Punica granatum*}, a fruit-bearing shrub (botanically a berry). Pomegranates can range in color from pink, white, yellow and purple, the most common being the red variety. It is estimated that there are some 500 different cultivars of Pomegranate grown world-wide.
+Pomegranate Seeds
+  PARENT : Pomegranate
+  BREF : The inside of the pomegranate fruit is filled with seeds, technically called {*arils*}. Pomegranate arils are a source of {*vitamin C*}.
+  LONG
+    & {*How to extract the arils*}: Score it with a knife to break it open. The seeds are separated from the peel and internal white pulp membranes. Separating the seeds is easier in a bowl of water because the seeds sink and the inedible pulp floats. The seeds may simply be eaten raw as a snack or added into salads, relishes, garnishes or {{desserts|#Chili pomegranate brownies}}.
 Pomegranate Juice
+  PARENT : Pomegranate
+  BREF : Pomegranate juice is extracted from the arils (seeds) of the fruit of the pomegranate. 
+  LONG
+    & The juice is very flavorful on its own, it can be sweet or sour, but most fruits are moderate in taste. The juice can be reduced down into pomegranate molasses or fermented into pomegranate vinegar.
 Mango
-Lime
+  BREF : Mangoes are stone fruits produced by many species of tropical trees of the genus {*Mangifera*}. They vary in size, taste, shape and color (pale yellow, gold and orange). Mangoes are generally sweet, and are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG
+    & Unripe mangoes can be made into pickles, or used in chutneys, side dishes or eaten with salt & chili. Ripe mangoes can be eaten raw, baked into cakes, made into preserves, pureed etc. The skin of unripe mango has the potential to cause contact dermatitis of the lips, gums, or tongue in susceptible people. Mangoes that are still firm will continue to ripen if stored at room temperature. Once fully ripe, they can be stored in the refrigerator for about 5 days. 
 Hachiya Persimmon
+  PARENT : Persimmon
+  BREF : Hachiya persimmons are acorn-shaped, it must be completely ripened before consumption. When fully ripe, it develops a sweet flavor. 
+  LONG
+    & The pulp of the hachiya persimmon is used to make sherbets, puddings, cakes, jams and purees. When the fruit is fully ripe, the skin turns a deep orange color. Another indicator of ripeness is that the fruit becomes soft like a water balloon. The consumption of unripened persimmons can cause {{phytobezoars|http://www.persimmonpudding.com/bezoars.html}} to form in the body. 
 Persimmon
+  BREF : The persimmon (or {*kaki*}) is the fruit of many species of trees in the genus {*Diospyros*}. Colors range from light yellow-orange to dark red-orange. They very in size and shape, some varieties can be spherical, acorn or pumpkin-shaped. Persimmons are sweet in taste, and are a good source of {*vitamin C*} and {*vitamin A*}. Some varieties are edible in the crisp, firm state (like an apple) but it has its best flavor when allowed to rest and soften slightly after harvest. Some varieties, like {{hachiya persimmon}}, should not be eaten when unripe. 
 Dates
-  BREF : Date palms have been around for at least 50 million years!
+  BREF : Dates are the fruit of the date palm (or Phoenix dactylifera) of the {*Phoenix*} genus, which contains 19 species of wild date palms. There are 3 classifications of dates: dry, semi-dry and soft. Date fruits range from bright red to bright yellow in color, and are very sweet with a sugar content of about 80% when dried. Dates are a source of {*iron*} and {*protein*}.
+  LONG
+    & Dry dates are often pitted and stuffed with a variety of fillings, like nuts, candied orange, tahini etc.  
 Deglet Noor Dates
   PARENT : Dates
+  BREF : Deglet noor dates are medium-sized with a narrow elongated shape. They have a semi-dry texture, and have less sugar than Medjool dates and offer a complex sweetness. 
+  LONG
+    & Deglet noor dates lend well to baking, due to their moderate sweetness and firmness. They are the preferred variety for the production of date syrup and date sugar. 
 Date caramel
   PARENT : Dates
   BREF : Date caramel is used to make {{salted caramel carob chip cookies}}, and has a recipe there.
