@@ -537,19 +537,36 @@ Kanten powder
   BREF : Kanten is a seaweed-based gelling agent derived from tengusa {*テングサ*}, a specific type of red seaweed. It is semi-translucent, and firm when it solidifies. Kanten is 80% fiber, and has no odor or taste.
   LONG
     & It is used to make Japanese confectionery, and unlike gelatin kanten-based confections don't dissolve at room temperature. Kanten is often confused with agar agar. Both are seaweed-based, but they come from different algea. Kanten can be swapped 1:1 with agar agar in a recipe, although the resulting texture will not be the same. Kanten produces a firmer texture than agar. 
-Turmeric
-  BREF : Turmeric is sometimes used as a fabric dye, namely for Buddhist Monks' robes.
+Turmeric Root
+  BREF : Turmeric, or {*Cucurma longa*}, belongs to the {{ginger root}} family. The rhizomes can be used fresh, boiled in water and dried. It's used as a coloring and flavoring agent, and has a bitter black pepper-like taste and earthy mustard-like aroma. Fresh Turmeric's gentle carrot/ginger-like flavor lends itself well to both sweet and savory applications.
 Ground Turmeric
+  PARENT : Turmeric root
+  BREF : Ground turmeric is made from the rhizomes of the turmeric plant, after harvest it is boiled, then dried and ground into a powder.
 Cinnamon
   COLOR : #875A2C
-  BREF : Cinnamon and {{garlic}} and be used to preserve fried foods.
+  BREF : Cinnamon is an aromatic spice from the inner bark of many species of tree from the genus {*Cinnamomum*}. It's a flavouring additive used in both sweet and savoury dishes. It's sold in the form of quills or powdered. Cinnamon is a rich source of {*calcium*} and {*iron*}.
+  LONGmailto:info@specialtyproduce.com
+    & Only a tiny sliver of the inner bark is used. The outer, woody portion is discarded, leaving metre-long cinnamon strips that curl into rolls (referred to as "quills") on drying. The processed bark is dried, and cut into 5-10 cm lengths for sale. There are many varieties of cinnamon, with {*Cinnamomum cassia*} being the most common commercial type. Cassia has a strong, spicy flavor and handles baking conditions well. 
 Rosemary
+  BREF : Rosemary, or {*Salvia rosmarinus*}, is a fragrant evergreen herb with needle-like leaves and white, pink, purple of blue flowers. It's leaves are used to flavor a variety of foods. It's a source of {*vitamin A*} and {*calcium*}.
+  LONG
+    & Rosemary is very potent, and should be used sparingly. A good technique to remove the leaves, is to hold the stem at the top and to run your fingers along the stem backwards. To keep cuttings of rosemary fresh, wrap in a damp towel. Dried rosemary keeps up to 6 months if stored in an airtight container. 
 Basil
+  BREF : Basil, or {*Ocimum basilicum*} is an aromatic plant, with a wide range of fragrances (depending on the variety). The leaves may taste like anise, with a strong smell. The most common type is sweet basil, but there is also thai basil, lemon basil and holy basil. 
+  LONG
+    & In cooking, add it at the last moment, as cooking quickly destroys the flavor. Fresh basil can be used whole, chopped, made into a paste or dried. Basil will keep if dry and refrigerated, but should be used up within a week. When soaked in water, the seeds of several basil varieties become gelatinous.
 Dried Basil
-  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts.
-Wasabi
+  BREF : Dried basil loses most of its flavor, and what little flavor remains tastes very different from fresh basil. 
+Wasabi Root
+  BREF : Wasabi, or {*Wasabia japonica*}, is part of the family {*Brassicaea*} which includes horseradish and mustard. It is primarily cultivated for its rhizome, which has a fiery, mustard-like flavor and pungent fragrance.
+  LONG
+    & Wasabi is difficult to grow, which makes it expensive to buy. Wasabi is sold as a rhizome or as a dried powder. Fresh wasabi is served with a grater and served to the table right away, because it loses flavor very quickly once it's made into a paste. Fresh Wasabi root will keep, wrapped and refrigerated, for up to two weeks. 
 Wasabi Powder
-
+  PARENT : Wasabi Root
+  BREF : Wasabi powder is made from the dried, grated flesh of the wasabi root. It has a light lime coloring and sharp, hot taste and aroma. Most of the wasabi powder that is sold internationally is not 100% wasabi, but a mixture of mustard, horseradish and color additives (due to the high cost of the root).
+  LONG
+    & Wasabi powder has a long shelf life, it will retain its taste if kept in a cool and dry place. 
+    & {*How to make wasabi paste:*} To make wasabi paste, mix 1:1 quantity of wasabi powder and water, mix well. The texture should be a bit dry. Cover wasabi and allow to sit for 15 min to allow the enzymes to work, doing this helps bring out the full flavors of the wasabi. 
 Sichuan peppercorns
   BREF : Sichuan peppercorns are a numbing pepper, and are not to be confused with {{black peppeercorns}}.
 Coriander
