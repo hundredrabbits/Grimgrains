@@ -13,20 +13,20 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view.ready { opacity: 1; transition: opacity 250ms }
 #view.ready #header #photo { opacity: 1 }
 
-#view #header { }
 #view #header #logo a { cursor: pointer; transition: all 250ms; }
 #view #header #logo a:hover { opacity: 0.7 }
+#view #header #logo a:focus { opacity: 0.7 }
 #view #header #logo a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px; }
-#view #header ul { display: block;line-height: 40px; border-bottom: 2px solid black; margin-bottom:30px; overflow: hidden;height: 40px; }
+#view #header ul { display: block;line-height: 40px; border-bottom: 2px solid black; margin-bottom:30px; overflow: hidden;min-height: 40px; }
 #view #header ul li { display: inline-block;border-top-left-radius: 3px;border-top-right-radius: 3px; margin-right:10px; margin-bottom: -2px; line-height: 40px}
-#view #header ul li:hover { }
 #view #header ul li a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 40px; border-bottom:2px solid transparent }
-#view #header ul li a:hover { opacity: 1 !important; }
 #view #header ul li.right { float: right;margin-right:0px;margin-left:10px }
 #view #header #search { display: none }
-#view.home #header ul a.home { color:#ccc;}
-#view.about #header ul a.about { color:#ccc;}
-#view.tools #header ul a.tools { color:#ccc;}
+#view.home      #header ul a.home,
+#view.about     #header ul a.about,
+#view.tools     #header ul a.tools,
+#view.gallery   #header ul a.gallery,
+#view.nutrition #header ul a.nutrition { color: #333; }
 
 #view #core { margin-bottom:30px; }
 
@@ -42,6 +42,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content p.bref { font-size:28px; margin-bottom: 45px; line-height: 34px }
 #view #core #content p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
 #view #core #content p a:hover { text-decoration: none; }
+#view #core #content p a:focus { text-decoration: dotted underline; }
 #view #core #content p a.external:after { content:"*"; color:#999; }
 #view #core #content p b { font-weight: bold; }
 #view #core #content img { margin-bottom: 30px; border-radius: 2px }
@@ -63,6 +64,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content #instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
 #view #core #content #instructions a { font-weight: bold;  }
 #view #core #content #instructions a:hover { text-decoration: underline; cursor: pointer }
+#view #core #content #instructions a:focus { text-decoration: underline; cursor: pointer }
 #view #core #content #instructions i { background: #eee;font-size: 12px;text-transform: uppercase;padding: 5px 7.5px;display: inline-block;font-weight: bold;border-radius: 3px;color: #333;line-height: 15px }
 #view #core #content #instructions code { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline-block;font-weight: bold;border-radius: 3px;border: 2px solid black;line-height: 15px}
 
@@ -72,7 +74,8 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content ul.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
 #view #core #content ul.ingredients h3 { margin-left:-20px; }
 #view #core #content ul.ingredients li.ingredient { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
-#view #core #content ul.ingredients li.ingredient:hover span.name { text-decoration: underline; }
+#view #core #content ul.ingredients li.ingredient a:hover span.name { text-decoration: underline; }
+#view #core #content ul.ingredients li.ingredient a:focus span.name { text-decoration: underline; border: 1px dotted black; }
 #view #core #content ul.ingredients li.ingredient.missing span.name { font-style: italic }
 #view #core #content ul.ingredients li.ingredient img { max-width: 100%; display: block }
 #view #core #content ul.ingredients li.ingredient span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
@@ -85,18 +88,22 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view #core #related { width:100%;}
 #view #core #related li { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
-#view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;} 
-#view #core #related li a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
-#view #core #related li span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
+#view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;}
+#view #core #related li a .photo { border-radius: 2px; display: block; width:100%; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
+#view #core #related li a span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
+#view #core #related li a:hover span.name { text-decoration: underline; cursor: pointer }
+#view #core #related li a:focus span.name { text-decoration: underline; cursor: pointer }
 #view #core #related li span.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
 
 #view #core #content #recipes { columns:3; font-size:14px; font-weight: bold}
 #view #core #content #recipes li { display: block }
-#view #core #content #recipes li a:hover { text-decoration: underline; cursor: pointer; }
+#view #core #content #recipes li a:hover { text-decoration: underline; cursor: pointer; opacity: 1; }
+#view #core #content #recipes li a:focus { text-decoration: underline; cursor: pointer; opacity: 1; }
 #view #core #content #recipes h3 { margin-bottom:10px; }
 
 #view #footer { display: block; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; }
 #view #footer a:hover { text-decoration: underline; cursor: pointer }
+#view #footer a:focus { text-decoration: underline; cursor: pointer }
 
 @media (max-width: 850px) {
   #view #core #content #recipes { columns:1; }

@@ -97,7 +97,7 @@ function ServiceTemplate (id, rect) {
       const name = ingredients[id][0]
       html += `
       <li class='ingredient${!table[name] ? ' missing' : ''}'>
-        <a href='#${name.to_url()}' onclick="Ø('query').bang('${name}')">
+        <a href='#${name.to_url()}'>
           <img src='media/ingredients/${name.to_path()}.png'/>
           <span class='name'>${name.capitalize()}</span>
         </a>
