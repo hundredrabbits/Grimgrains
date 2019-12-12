@@ -36,7 +36,7 @@ function RecipeTemplate (id, rect) {
 
     <img class='photo' src='media/recipes/${q.name.to_path()}.jpg'/>
 
-    <columns>${new Runic(recipe.DESC)}</columns>
+    <columns>${runic.run(recipe.DESC)}</columns>
     ${make_ingredients(recipe.INGR)}
     ${make_warnings(recipe, q.tables.ingredients)}
     ${make_instructions(recipe)}`
@@ -53,7 +53,7 @@ function RecipeTemplate (id, rect) {
     for (const cat in recipe.INST) {
       html += `<h3>Step ${count}: ${cat.capitalize()}</h3>`
       const category = recipe.INST[cat].map(convertTemperatures)
-      html += new Runic(category).toString()
+      html += runic.run(category).toString()
       count += 1
     }
 
@@ -69,7 +69,7 @@ function RecipeTemplate (id, rect) {
           const warn = all_ingredients[id].WARN
           html += `
             <section id='warn'>
-              ${new Runic(warn)}
+              ${runic.run(warn)}
             </section>
           `
         }

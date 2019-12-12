@@ -22,7 +22,7 @@ function PageTemplate (id, rect) {
       title: `GrimGrains — ${q.name.capitalize()}`,
       view: {
         core: {
-          content: `<h1>${q.name.capitalize()}</h1><p>${page.BREF.to_markup()}</p><div class='page'>${new Runic(page.LONG).toString()}</div>`
+          content: `<h1>${q.name.capitalize()}</h1><p>${page.BREF.to_markup()}</p><div class='page'>${runic.run(page.LONG).toString()}</div>`
         }
       }
     }

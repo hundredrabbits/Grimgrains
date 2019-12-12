@@ -159,14 +159,16 @@ Radish
 ~ ALGEA FUNGI
 
 Arame
-  BREF : Arame is a species of kelp, of the Brown Algae, and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
+  PARENT : Seaweed
+  BREF : Arame is a species of kelp (brown algae), and is very popular in Japanese cuisine. It is indigenous to the temperate Pacific Ocean waters around Japan. 
 Seaweed
+  BREF : There are many kinds of edible seaweed, popular in East Asia. There are 3 main groups: Red algea, green algea and brown algea. Most edible seaweeds are marine algae whereas most freshwater algae are toxic. Seaweed contains high levels of {*iodine*} and {*calcium*}. It is possibly a source of {*vitamin B12*} (see {{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4042564/}}), but the amount is variable and therefore, not dependable.
 Mushroom
   BREF : Mushrooms are the fleshy fruiting body of a fungus. They grow above ground, soil or from a food source. UV ray-treated (due to both sunlight and articial UV light tech) mushrooms are a source of {*vitamin d2*}. Many mushrooms are poisonous, resembling certain edible species. Gathering mushrooms in the wild is risky for the inexperienced and should only be undertaken by persons knowledgeable in mushroom identification. 
 Wakame
   PARENT : Seaweed
   COLOR : #006633
-  BREF : Wakame is an edible seaweed, subtly sweet with a strong flavour and texture. Wakame is a source of iodine, although isn't a dependable source because the amount in seaweed varies greatly. 
+  BREF : Wakame, or {*Undaria pinnatifida*} is an edible seaweed, subtly sweet with a strong flavour and texture. It has a salty, savoury taste. 
   LONG 
     & Wakame is often served in soups, or in salads. Wakame is often sold dried (can be re-constituted in water) or salted. 
 Dried Hijiki
@@ -175,6 +177,7 @@ Dried Hijiki
     & Consumption of only a small amount of hijiki seaweed could result in an intake of inorganic arsenic that exceeds the tolerable daily intake for this substance. Therefore, consumption of this type of seaweed is to be avoided. See also the {{Canadian Food Inspection Agency|http://www.inspection.gc.ca/food/information-for-consumers/fact-sheets-and-infographics/products-and-risks/chemical-hazards/inorganic-arsenic/eng/1332268146718/1332268231124}}.
 Bull kelp powder
   PARENT : Seaweed
+  BREF :  Nereocystis a genus of brown kelp containing the species {*Nereocystis luetkeana*}. Some common names include edible kelp, bull kelp, bullwhip kelp, ribbon kelp, bladder wrack. Bull kelp powder is made from dried bull kelp, and is one of the tastiest seaweeds. It is used as a seasoning to create a briny taste. 
 Nori
   PARENT : Seaweed
   COLOR : #000000
@@ -189,7 +192,9 @@ Nori Sheets
 Shiitake
   PARENT : Mushroom
   COLOR : #875A2C
-  BREF : Shiitake is an edible mushroom, used as a base in vegan dashi, to flavor simmered and steamed dishes. 
+  BREF : Shiitake, or {*Lentinula edodes*}, is an edible mushroom that grows in groups on the decaying wood of deciduous trees. When cooked, these mushrooms have a savory, earthy umami flavor. 
+  LONG
+    & They are sold both fresh and dried, dried shiitakes can be reconstituted in water. Shiitake are used as a base in vegan dashi, to flavor simmered and steamed dishes. They are also used in soups, or sauteed with other vegetables. Rarely, consumption of raw or slightly cooked shiitake mushrooms may cause an allergic reaction called "shiitake dermatitis". They will keep 1-2 weeks when stored in a paper bag in the refrigerator. 
 Crimini
   PARENT : Mushroom
   COLOR : #875A2C
@@ -479,45 +484,89 @@ Papaya
   LONG
     & The ripe fruit can be consumed raw, and the unripe green fruit can be eaten cooked in salads or other meals. The seeds are edible, they can be washed and dried and used like {{black pepper}}. 
 Pomegranate
+  BREF : Pomegranates come from the {*Punica granatum*}, a fruit-bearing shrub (botanically a berry). Pomegranates can range in color from pink, white, yellow and purple, the most common being the red variety. It is estimated that there are some 500 different cultivars of Pomegranate grown world-wide.
+Pomegranate Seeds
+  PARENT : Pomegranate
+  BREF : The inside of the pomegranate fruit is filled with seeds, technically called {*arils*}. Pomegranate arils are a source of {*vitamin C*}.
+  LONG
+    & {*How to extract the arils*}: Score it with a knife to break it open. The seeds are separated from the peel and internal white pulp membranes. Separating the seeds is easier in a bowl of water because the seeds sink and the inedible pulp floats. The seeds may simply be eaten raw as a snack or added into salads, relishes, garnishes or {{desserts|#Chili pomegranate brownies}}.
 Pomegranate Juice
+  PARENT : Pomegranate
+  BREF : Pomegranate juice is extracted from the arils (seeds) of the fruit of the pomegranate. 
+  LONG
+    & The juice is very flavorful on its own, it can be sweet or sour, but most fruits are moderate in taste. The juice can be reduced down into pomegranate molasses or fermented into pomegranate vinegar.
 Mango
-Lime
+  BREF : Mangoes are stone fruits produced by many species of tropical trees of the genus {*Mangifera*}. They vary in size, taste, shape and color (pale yellow, gold and orange). Mangoes are generally sweet, and are a good source of {*vitamin C*} and {*vitamin A*}.
+  LONG
+    & Unripe mangoes can be made into pickles, or used in chutneys, side dishes or eaten with salt & chili. Ripe mangoes can be eaten raw, baked into cakes, made into preserves, pureed etc. The skin of unripe mango has the potential to cause contact dermatitis of the lips, gums, or tongue in susceptible people. Mangoes that are still firm will continue to ripen if stored at room temperature. Once fully ripe, they can be stored in the refrigerator for about 5 days. 
 Hachiya Persimmon
+  PARENT : Persimmon
+  BREF : Hachiya persimmons are acorn-shaped, it must be completely ripened before consumption. When fully ripe, it develops a sweet flavor. 
+  LONG
+    & The pulp of the hachiya persimmon is used to make sherbets, puddings, cakes, jams and purees. When the fruit is fully ripe, the skin turns a deep orange color. Another indicator of ripeness is that the fruit becomes soft like a water balloon. The consumption of unripened persimmons can cause {{phytobezoars|http://www.persimmonpudding.com/bezoars.html}} to form in the body. 
 Persimmon
+  BREF : The persimmon (or {*kaki*}) is the fruit of many species of trees in the genus {*Diospyros*}. Colors range from light yellow-orange to dark red-orange. They very in size and shape, some varieties can be spherical, acorn or pumpkin-shaped. Persimmons are sweet in taste, and are a good source of {*vitamin C*} and {*vitamin A*}. Some varieties are edible in the crisp, firm state (like an apple) but it has its best flavor when allowed to rest and soften slightly after harvest. Some varieties, like {{hachiya persimmon}}, should not be eaten when unripe. 
 Dates
-  BREF : Date palms have been around for at least 50 million years!
+  BREF : Dates are the fruit of the date palm (or Phoenix dactylifera) of the {*Phoenix*} genus, which contains 19 species of wild date palms. There are 3 classifications of dates: dry, semi-dry and soft. Date fruits range from bright red to bright yellow in color, and are very sweet with a sugar content of about 80% when dried. Dates are a source of {*iron*} and {*protein*}.
+  LONG
+    & Dry dates are often pitted and stuffed with a variety of fillings, like nuts, candied orange, tahini etc.  
 Deglet Noor Dates
   PARENT : Dates
+  BREF : Deglet noor dates are medium-sized with a narrow elongated shape. They have a semi-dry texture, and have less sugar than Medjool dates and offer a complex sweetness. 
+  LONG
+    & Deglet noor dates lend well to baking, due to their moderate sweetness and firmness. They are the preferred variety for the production of date syrup and date sugar. 
 Date caramel
   PARENT : Dates
-  BREF : Date caramel is used to make {{salted caramel carob chip cookies}}, and has a recipe there.
-Pamplemousse
-Rhubarb
+  BREF : A type of plant-based 'caramel' made from {{dates}}.  
 Apricot Jam
-Starfruit
-Mixed fruits
+  BREF : Apricot jam is made from the pureed flesh of the apricot fruit. It's easy to prepare, requiring only fresh apricots, {{sugar}} and {{lemon juice}}. Apricots are a moderate source of {*vitamin A*} and {*vitamin C*}.
 Coconut
-Plums
-Pineapple
+  BREF : Coconuts stem from the coconut tree, or {*Cocos nucifera*}. Coconuts are known for their versatility of uses, ranging from food to cosmetics. The water in young coconuts is very high in electrolytes. They are a good source of {*protein*}, {*iron*} and {*zinc*}.
+  LONG
+    & They are ideal for making deserts, and are used in a variety of dishes like {{ice cream|#hop ice cream}}, beverages, frostings on cakes, smoothies, curry sauces etc. Whole coconuts will keep at room temperature for two weeks. For longer storage, refrigerate.
 
 ~ SPICES
 
 Ao nori
+  PARENT : Seaweed
+  BREF : Aonori {*青海苔*}, or green laver, is a type of edible green seaweed which includes species from the genus {*Monostroma*} and {*Ulva*}. It is referred to as aosa {*アオサ*} in some parts of Japan. The color of the aonori is intense, beautiful green. It has a distinctive fragrant green flavor. This type of seaweed is rich in {*calcium*} and is a moderate source of {*iodine*}.
+  LONG
+    & Aonori is sold dried, and is used in soups and tempura. It is also sprinkled atop a variety of Japanese dishes like yakisoba and {{okonomiyaki|#okonomiyaki}}.
 Kanten powder
-  BREF : A seaweed-based gelling agent derived from tengusa, a specific type of red seaweed. Kanten confections don't dissolve at room temperature, unlike gelatin.
-Turmeric
-  BREF : Turmeric is sometimes used as a fabric dye, namely for Buddhist Monks' robes.
+  PARENT : Seaweed
+  BREF : Kanten is a seaweed-based gelling agent derived from tengusa {*テングサ*}, a specific type of red seaweed. It is semi-translucent, and firm when it solidifies. Kanten is 80% fiber, and has no odor or taste.
+  LONG
+    & It is used to make Japanese confectionery, and unlike gelatin kanten-based confections don't dissolve at room temperature. Kanten is often confused with agar agar. Both are seaweed-based, but they come from different algea. Kanten can be swapped 1:1 with agar agar in a recipe, although the resulting texture will not be the same. Kanten produces a firmer texture than agar. 
+Turmeric Root
+  BREF : Turmeric, or {*Cucurma longa*}, belongs to the {{ginger root}} family. The rhizomes can be used fresh, boiled in water and dried. It's used as a coloring and flavoring agent, and has a bitter black pepper-like taste and earthy mustard-like aroma. Fresh Turmeric's gentle carrot/ginger-like flavor lends itself well to both sweet and savory applications.
 Ground Turmeric
+  PARENT : Turmeric root
+  BREF : Ground turmeric is made from the rhizomes of the turmeric plant, after harvest it is boiled, then dried and ground into a powder.
 Cinnamon
   COLOR : #875A2C
-  BREF : Cinnamon and {{garlic}} and be used to preserve fried foods.
+  BREF : Cinnamon is an aromatic spice from the inner bark of many species of tree from the genus {*Cinnamomum*}. It's a flavouring additive used in both sweet and savoury dishes. It's sold in the form of quills or powdered. Cinnamon is a rich source of {*calcium*} and {*iron*}.
+  LONGmailto:info@specialtyproduce.com
+    & Only a tiny sliver of the inner bark is used. The outer, woody portion is discarded, leaving metre-long cinnamon strips that curl into rolls (referred to as "quills") on drying. The processed bark is dried, and cut into 5-10 cm lengths for sale. There are many varieties of cinnamon, with {*Cinnamomum cassia*} being the most common commercial type. Cassia has a strong, spicy flavor and handles baking conditions well. 
 Rosemary
+  BREF : Rosemary, or {*Salvia rosmarinus*}, is a fragrant evergreen herb with needle-like leaves and white, pink, purple of blue flowers. It's leaves are used to flavor a variety of foods. It's a source of {*vitamin A*} and {*calcium*}.
+  LONG
+    & Rosemary is very potent, and should be used sparingly. A good technique to remove the leaves, is to hold the stem at the top and to run your fingers along the stem backwards. To keep cuttings of rosemary fresh, wrap in a damp towel. Dried rosemary keeps up to 6 months if stored in an airtight container. 
 Basil
+  BREF : Basil, or {*Ocimum basilicum*} is an aromatic plant, with a wide range of fragrances (depending on the variety). The leaves may taste like anise, with a strong smell. The most common type is sweet basil, but there is also thai basil, lemon basil and holy basil. 
+  LONG
+    & In cooking, add it at the last moment, as cooking quickly destroys the flavor. Fresh basil can be used whole, chopped, made into a paste or dried. Basil will keep if dry and refrigerated, but should be used up within a week. When soaked in water, the seeds of several basil varieties become gelatinous.
 Dried Basil
-  BREF : When soaked in water, the seeds of some basil varieties become gelatinous. They are in turn used in drinks and desserts.
-Wasabi
+  BREF : Dried basil loses most of its flavor, and what little flavor remains tastes very different from fresh basil. 
+Wasabi Root
+  BREF : Wasabi, or {*Wasabia japonica*}, is part of the family {*Brassicaea*} which includes horseradish and mustard. It is primarily cultivated for its rhizome, which has a fiery, mustard-like flavor and pungent fragrance.
+  LONG
+    & Wasabi is difficult to grow, which makes it expensive to buy. Wasabi is sold as a rhizome or as a dried powder. Fresh wasabi is served with a grater and served to the table right away, because it loses flavor very quickly once it's made into a paste. Fresh Wasabi root will keep, wrapped and refrigerated, for up to two weeks. 
 Wasabi Powder
-
+  PARENT : Wasabi Root
+  BREF : Wasabi powder is made from the dried, grated flesh of the wasabi root. It has a light lime coloring and sharp, hot taste and aroma. Most of the wasabi powder that is sold internationally is not 100% wasabi, but a mixture of mustard, horseradish and color additives (due to the high cost of the root).
+  LONG
+    & Wasabi powder has a long shelf life, it will retain its taste if kept in a cool and dry place. 
+    & {*How to make wasabi paste:*} To make wasabi paste, mix 1:1 quantity of wasabi powder and water, mix well. The texture should be a bit dry. Cover wasabi and allow to sit for 15 min to allow the enzymes to work, doing this helps bring out the full flavors of the wasabi. 
 Sichuan peppercorns
   BREF : Sichuan peppercorns are a numbing pepper, and are not to be confused with {{black peppeercorns}}.
 Coriander
@@ -820,6 +869,7 @@ Porto
 ~ OILS
 
 Coconut oil
+  PARENT : Coconut
   COLOR : #EFEFEF
   BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
   LONG
@@ -850,6 +900,7 @@ Fresh dill
 ~ MISC
 
 Coconut milk
+  PARENT : Coconut
   BREF : Coconut milk is extracted from the grated pulp of mature coconuts. The rich taste of the milk is due to its high oil content. This high-fat milk is a perfect base for {{ice cream|hop ice cream}}. 
   LONG
     & There are many varieties, differentiated on fat content: coconut cream (up to 50% fat), coconut milk (20% fat) and coconut skim milk (least fat). The terminology is not always described like this in products sold in western countries. Traditionally, coconut milk is made from grating the white inner flesh of mature coconuts and mixing the shredded pulp with a bit of hot water to suspend the fat in the pulp. The grating process was often done by hand. 

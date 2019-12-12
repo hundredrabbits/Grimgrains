@@ -1,6 +1,6 @@
 DATABASE.recipes = `
 
-Tzaziki
+TZAZIKI
   DATE : 2019-12-06
   TAGS
     sauce
@@ -11,7 +11,6 @@ Tzaziki
     & {*Substitutions*}
     & It is possible to use {{sunflower seeds}}, cashews and {{tofu}} to replace the hemp seeds. In this recipe, I used half hemp and half soy, because hemp — while being nutritious — is not cheap. Using just {{shelled hemp seeds}} — wallet permitting — is very possible, although you may have to add more water. 
     & If using cashews or sunflower seeds, you should pre-soak them for a few hours prior to blending (discard the soaking water and rinse them well). If using only tofu, you may not require extra water in the recipe. 
-
   INST
     Preparation 
       - Blend {_1/2 cup_} of {{shelled hemp seeds }} with {_225g_} of {{soft tofu}}, {_3 cloves_} of {{garlic}}, {_1/4 cup_} of {{water}} and the juice of {_1_} {{lemon}}.
@@ -19,7 +18,6 @@ Tzaziki
       - Cut {_1_} cucumber into small cubes. 
       - Add {{fresh dill}}, {{fresh mint}}, the cubed {{persian cucumbers}} and {_1 pinch_} of {{salt}} to the rest of the ingredients and mix well. 
       - Garnish with some {{fresh mint}} and {{fresh dill}} leaves.
-
   INGR
     Main
       Shelled hemp seeds : 1/2 cup
@@ -32,7 +30,7 @@ Tzaziki
       Persian cucumbers : 2
       Salt : pinch
 
-Spicy stirfry chickpeas
+SPICY STIRFRY CHICKPEAS
   DATE : 2019-06-25
   TAGS
     dinner
@@ -45,7 +43,6 @@ Spicy stirfry chickpeas
     & Another plus is that dry chickpeas keep a long, long time. If you keep them in air-tight containers they will last even longer, because moisture and oxygen is the enemy of all beans. Oxygen makes the bean oils rancid overtime. You can store them for 5+ yrs if you add oxygen absorbers (packet consisting of powdered iron oxide) to the containers. I like to buy them in bulk and cook them as needed. An advantage of buying them dry is that it is cheap, and they taste better (honest). Read about {{storing dry beans|https://extension.usu.edu/foodstorage/howdoi/dry_beans}}.
     & {*Recommendations*}
     & Adding a {{bay leaf}}, a bit of {{onion}} or a clove or two of {{garlic}} to the cooking water add a subtle seasoning to the {{chickpeas}} and boost flavor. 
-
   INST
     Marinade overnight
       - Cook {_3/4 cup_} of dried {{chickpeas}} (see {{instructions|#chickpeas}}), or use 1 can (15oz). 
@@ -58,7 +55,6 @@ Spicy stirfry chickpeas
       - Add {_1 tbsp_} of vegetable oil, then warm pan to high heat. When oil is hot, add {_~1-2 tbsp_} of {{chili pepper flakes}} and {_1 tsp_} of {{sichuan peppercorns}}. Stir-fry until they're crisp and that the mixture is spicy and fragrant. Careful not to burn the spices, remove from heat for a bit if overheating.
       - Add the {{chickpeas}}, {{tofu}}, {{carrot}} and {{red cabbage}} and fry over high heat, stirring constantly. {#After a minute#}, add the {{ginger root}}, {{garlic}} and {{scallions}} and stir-fry for {#a few more minutes#}.
       - Stir the sauce, and add it to the pan while stirring and tossing. When the sauce starts to thicken, remove from heat and serve.
-
   INGR
     Main
       Chickpeas : 1.5 cups, cooked
@@ -88,7 +84,7 @@ Spicy stirfry chickpeas
       Sesame oil : 1 tsp
       Arrowroot starch : 1 tbsp
 
-Scrambled chickpeas
+SCRAMBLED CHICKPEAS
   DATE : 2019-06-25
   TAGS
     sidedish
@@ -103,7 +99,6 @@ Scrambled chickpeas
     & {*Recommendations*}
     & I like to eat scrambled chickpeas with a side of sliced avocado, topped with a drizzle of sambal oelek or {{sriracha}}. Sometimes when I make meal salads, I add scrambled chickpeas for bulk. Another meal I enjoy with this recipe is a sort of ovenless deconstructed {{pate chinois}} (quebec-style sheperd's pie), I eat it with mashed potatoes, corn and sambal oelek. You can also make this with cooked chickpeas by smashing them with a fork and mixing them up with nutritional yeast, salt and other flavourings. 
     % recipes/scrambled.chickpeas.3.jpg
-
   INST
     Scrambled chickpeas
       - In a bowl, mix {_1/2 cup_} of {{chickpea flour}}, {_1/4 cup_} of {{nutritional yeast}}, {_1 tbsp_} of {{tahini}} and a {_pinch_} of {{salt}}.
@@ -112,7 +107,6 @@ Scrambled chickpeas
       - When the edges start to cook, flip it and start to break it apart with the side of the spatula.
       - Let it cook {#for a minute#}, then continue to break it apart further. You'll need to do this repeatedly, until the mixture is broken up into smaller bits and until it has become dry and crisp for {#8-10 minutes or so#}. When cooking, it's important to stir often, and to constantly break it up into smaller bits so all sides can can cook. 
       - NOTE: I like to use a spatula and a fork to break it up, and also to brush some of the batter off the spatula (it is very wet in the beginning and is a bit sticky). Serve into salads, or as a side for other dishes. 
-
   INGR
     Main
       Chickpea flour : 1/2 cup
@@ -136,7 +130,6 @@ CHEESE
     & {*Flavors*}
     & For a pepper jack cheese flavor, add {{garlic}}, {{onion powder}} and {{chili pepper flakes}}. You can also add {{black pepper}}, for a bit of spice, or {{pimento olives}}!
     % recipes/cheese.2.jpg
-
   INST
     CHEESE
       - In a bowl, mix {_1/4 cup_} of {{soy milk}}, {_4 tbsp_} of {{nutritional yeast}}, {_2 tbsp_} of {{tahini}}, {_1 tsp_} of {{apple cider vinegar}} and {_1 tsp_} of {{red miso}}.
@@ -144,7 +137,6 @@ CHEESE
       - When content starts to boil, lower to a simmer and add the bowl of mixed ingredients into it. Stir, for {#a minute or two#} and then pour contents of pan into two small bowls. The reason I use two instead of one, is because the cheese will harden quicker.
       - Let mixture rest for {#1 hour or so, 2 is better#} (especially if it's hot where you are).
       - Flip bowls upside down, scoop out cheese and enjoy! This cheese can be grated onto pizza too!
-
   INGR
     Main
       Soy milk : 1 cup
@@ -168,7 +160,6 @@ SWEET AND SOUR LENTILS
     & It's a versatile recipe, so if I don't have any carrots or daikon I'll sometimes put brocoli or fresh green peas instead. For a heartier meal, adding sweet potatoes is also delicious. Sometimes, if I'm out of peanut butter I'll use tahini instead, the flavour is very similar and doesn't change much in the recipe (also nice for those with peanut allergies). This recipe only works with whole lentils, because there's still a bite to them, halved lentils will soften too much and the resulting texture won't be as pleasant.
     & Enjoy this humble, but delicious recipe.
     % recipes/sweet.and.sour.lentils.2.jpg
-
   INST
     SAUCE
       - Mix all liquid ingredients together in a bowl, add {_1 tbsp_} of {{peanut butter}} and stir until dissolved.
@@ -181,7 +172,6 @@ SWEET AND SOUR LENTILS
       - Let mixture simmer for an additional {#10-20 minutes#}, add extra water as needed.
       - If lentils are tender, they are ready. Strain lentils and return to pot with {_1/4 tsp_} of {{salt}}.
       - Pour sauce onto lentils, mix well. Serve into two bowls with some {{chives}}. Eat wrapped in salad or cabbage leaves, or with {{crackers}}.
-
   INGR
     Main
       Brown lentils : 1/2 cup
@@ -215,7 +205,6 @@ COFFEE JELLY
     & {*Quick soy pudding*}
     & Also, I sometimes make a quick 'soy pudding' by heating some soy milk in a pan with some arrowroot starch. The mixture will thicken, it becomes pudding-like and is delicious over coffee jelly.
     % recipes/coffee.jelly.2.jpg
-
   INST
     BASIC
       - Brew a pot of {{coffee}}.
@@ -224,7 +213,6 @@ COFFEE JELLY
       - Pour the mixture into two small bowls, or cups. Let stand for {#30 minutes and up to 1 hour#}. It doesn't need to be refrigerated to solidify, but you can do that if you prefer it cold.
     TOPPINGS
       - You can eat as is, or you can add the cubes in another recipe like a coconut or soy milk pudding. It can also be used as a garnish for other desserts.
-
   INGR
     Main
       Coffee : 350 ml
@@ -434,7 +422,6 @@ NO KNEAD BREAD
       - Once the oven is at temperature, carefully take out the dutch oven with oven mitts — careful, it's hot! Place your bread into the dutch oven. At this point, you can add some seeds overtop of the bread. In this recipe, I used {{sesame seeds}}, but {{poppy seeds}} or {{oats}} would also be good. Cover with lid and place back inside oven.
       - Bake for {#30 minutes#}.
       - After {#30 minutes#}, take the lid off, and let it cook uncovered for {#another 7 minutes#}.
-
   INGR
     Main
       All purpose flour : 2 cups
@@ -1816,7 +1803,7 @@ ARAME SOBA
       Tempeh : 60g or 1/4 of 240g
       Sichuan peppercorns : To taste
 
-Homemade Veganaise
+HOMEMADE VEGANAISE
   DATE : 2019-12-06
   TAGS
     sauce
@@ -1832,7 +1819,6 @@ Homemade Veganaise
   INST
     Preparation
       - Blend {_1 cup_} of {{soft tofu}}, {_3 tbsp_} of olive oil, {_2 tbsp_} {{apple cider vinegar}}, {_3 tbsp_} {{dijon mustard}} and {_1/4 tsp_} {{salt}}. 
-
   INGR
     Preparation
       Soft tofu : 250g
@@ -1841,7 +1827,6 @@ Homemade Veganaise
       Lemon juice : 1 tsp
       Dijon mustard : 3 tbsp
       Salt : 1/4 tsp
-
 
 CHICKPEA SALAD SANDWICH
   DATE : 2016-01-18
