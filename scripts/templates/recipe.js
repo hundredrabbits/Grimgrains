@@ -65,7 +65,7 @@ function RecipeTemplate (id, rect) {
 
     for (const cat in recipe.INGR) {
       for (const id in recipe.INGR[cat]) {
-        if (all_ingredients[id].WARN) {
+        if (all_ingredients[id] && all_ingredients[id].WARN) {
           const warn = all_ingredients[id].WARN
           html += `
             <section id='warn'>
