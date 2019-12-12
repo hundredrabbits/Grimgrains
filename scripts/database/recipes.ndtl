@@ -932,13 +932,10 @@ ROASTED BEET LENTILS
   TIME : 60
   SERV : 2 servings
   DESC
-    & I wasn't always a fan of {{beets}} - that is, until I started to oven-roast them. Since then, I've been making recipes with beets almost every week, including this simple and amazingly delicious beet sauce!
-    & Yes, you could say I'm beet crazy. Trust me, if you're not a fan of this root vegetable, this sauce will make you change your mind. I've had this sauce many times with pasta, or just as a simple vinaigrette for lazy weekday green bowls.
-    & To prepare this recipe, wash the beets and cut them into wedges. Toss them with a bit of oil and herbs, and bake them in the oven for 40 minutes. It's that simple! If they're organic, you can keep the skins on, otherwise peeling them is better.
+    & This recipe is especially good and filling with lentils, but it's also possible to serve it on other grains or even pasta. I used beluga lentils, because they hold their shape better than {{brown lentils}}. 
     % recipes/roasted.beet.lentils.1.jpg
-    & Beets make any dish beautiful, but it can do a number on your hands and fingers. Not to worry though - it doesn't stay ;). You'll just look like you killed something.
-    & Fresh peppermint is key in this recipe! Don't omit it! I wish I had a mint plant growing in my apartment - I had one last summer, but it died. My plants always die, growing plants indoors has always been a challenge for me.
-    & If you have a fresh healthy plant LUCKY YOU! Otherwise, store-bought herbs will do. Know that if you do buy a bouquet of mint, you can keep them fresh longer if you do these simple steps: first, tear off any wilted leaves, wash the mint gently, and then put the stalks in a glass with a bit of water and a plastic bag over the top. Then, stick the lot in the fridge.
+    & Beets make any dish beautiful, but it can stain your skin. Not to worry though - it doesn't stay, you'll just look like you've just killed something.
+    & Fresh peppermint is key in this recipe, don't omit it. If you have a fresh supply at home, that is perfect, otherwise store-bought stalks are fine. You can keep store-bought stalks longer if you do these simple steps: first, tear off any wilted leaves, wash the mint gently, and then put the stalks in a glass with a bit of water and a bag over the top. Then, store it in the refrigerator.
   INST
     Lentils
       - Wash {_1/2 cup_} of {{beluga lentils}}. Put {_1 1/3 cup_} of {{vegetable bouillon}} in a pot, add the lentils, and bring to a boil.
@@ -1010,11 +1007,11 @@ SAVOURY TURMERIC COOKIES
   TIME : 30
   SERV : 16 servings
   DESC
-    & These yellow treats will help brighten up cold, and grey winter days.
+    & These yellow treats will help brighten up cold, and grey winter days. Turmeric powder has a subtle taste, and will also do a good job of making your baked goods yellow!
     % recipes/savoury.turmeric.cookies.1.jpg
-    & Turmeric powder is often used as a dye for clothes, and will also do a good job of making your baked goods yellow! These cookies have the right amount of sweet.
-    & I suggest pairing these with tea, I always drink a ton of it come February. It's the toughest month to go through, temperature is still in the -15C average here in Montreal. Can't go grocery shopping without my hands and feet freezing over.
+    & In these cookies, I use {{spelt flour}} because it's more nutritious than wheat flour. Cookies aren't exactly high on the 'health food' scale though, that I know, but it's a way of sneaking in whole grains which can contribute to good health. When it comes to sugar, there are no true 'healthy' alternatives. Desserts are rare treats, and should be eaten in moderation. 
     % recipes/savoury.turmeric.cookies.2.jpg
+    & It's possible to use chocolate chips, but I like to use {{Carob chips}} because they lack bitterness and contain no caffeine. I'm a coffee drinker, I enjoy a good cup of coffee, but because an excess of caffeine can worsen my anxiety I try and limit my intake, and this includes chocolate products because they contain {*theobromine*}. 
   INST
     Preparation
       - Preheat oven to {#350F#}.

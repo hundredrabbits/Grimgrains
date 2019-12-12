@@ -671,7 +671,9 @@ Garam Masala
 Panko
 Carob
   COLOR : #875A2C
-  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}).
+  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}). 
+  LONG
+    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}.
 Carob Chips
 Peppercorn
   COLOR : #000000
