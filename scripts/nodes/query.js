@@ -46,13 +46,14 @@ const detectBackOrForward = function (onBack, onForward) {
 }
 
 window.addEventListener('hashchange', detectBackOrForward(
-  function () { console.log('back'); Ø('query').bang() },
-  function () { console.log('forward'); Ø('query').bang() }
+  function () { Ø('query').bang() },
+  function () { Ø('query').bang() }
 ))
 
 document.addEventListener('click', (e) => {
-  if (e.target.getAttribute('href')) {
-    Ø('query').bang(e.target.getAttribute('href'))
+  const href = (e.target && e.target.getAttribute('href')) || (e.target && e.target.parentNode && e.target.parentNode.getAttribute('href'))
+  if (href && href.substr(0, 1) === '#') {
+    Ø('query').bang(href)
     e.preventDefault()
   }
 })
