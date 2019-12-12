@@ -13,8 +13,9 @@ function HomeTemplate (id, rect) {
     const sorted_ingredients = sort_ingredients(ingredients)
 
     const html = `
+    <h1>Ingredients <a class='jump' id='jump-ingredients' href='javascript:Š("recipes")'>recipes</a></h1>
     ${make_ingredients(sorted_ingredients, q.tables.ingredients)}
-    <h1>Recipes</h1>
+    <h1 id='recipes_header'>Recipes <a class='jump' id='jump-recipes' href='javascript:Š("ingredients")'>ingredients</a></h1>
     ${make_recipes(q.tables.recipes)}
     `
     return {
