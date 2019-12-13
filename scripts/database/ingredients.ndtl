@@ -257,6 +257,7 @@ Chia seeds
 ~ ROOT VEGETABLES
 
 Nagaimo
+  PARENT : Potatoes
   BREF : Nagaimo is a Chinese yam, the only species that can be consumed raw. It has a bland flavor, and is primarily consumed due to the resulting {*mucilaginous*} texture when sliced or grated. 
   LONG
     & When preparing nagaimo for consumption, gloves should be used because it can cause skin irritation. Nagaimo should be peeled and brieftly soaked in a vinegar-water solution to neutralize the {*oxalate crystals*} found in their skin, then, it can be cut into slices or grated. Grated nagaimo develops a {*mucilaginous*} texture, which can be added to dips for soba noodles, or to {{okonomiyaki|okonomiyaki}}.
@@ -545,7 +546,6 @@ Ground Turmeric
 Cinnamon
   COLOR : #875A2C
   BREF : Cinnamon is an aromatic spice from the inner bark of many species of tree from the genus {*Cinnamomum*}. It's a flavouring additive used in both sweet and savoury dishes. It's sold in the form of quills or powdered. Cinnamon is a rich source of {*calcium*} and {*iron*}.
-  LONGmailto:info@specialtyproduce.com
     & Only a tiny sliver of the inner bark is used. The outer, woody portion is discarded, leaving metre-long cinnamon strips that curl into rolls (referred to as "quills") on drying. The processed bark is dried, and cut into 5-10 cm lengths for sale. There are many varieties of cinnamon, with {*Cinnamomum cassia*} being the most common commercial type. Cassia has a strong, spicy flavor and handles baking conditions well. 
 Rosemary
   BREF : Rosemary, or {*Salvia rosmarinus*}, is a fragrant evergreen herb with needle-like leaves and white, pink, purple of blue flowers. It's leaves are used to flavor a variety of foods. It's a source of {*vitamin A*} and {*calcium*}.
@@ -568,65 +568,113 @@ Wasabi Powder
     & Wasabi powder has a long shelf life, it will retain its taste if kept in a cool and dry place. 
     & {*How to make wasabi paste:*} To make wasabi paste, mix 1:1 quantity of wasabi powder and water, mix well. The texture should be a bit dry. Cover wasabi and allow to sit for 15 min to allow the enzymes to work, doing this helps bring out the full flavors of the wasabi. 
 Sichuan peppercorns
-  BREF : Sichuan peppercorns are a numbing pepper, and are not to be confused with {{black peppeercorns}}.
+  BREF : Sichuan pepper, or {*花椒*}, comes from the seeds of species of trees in the genus {*Zanthoxylum*}. It's a spice from China's southwestern Sichuan Province. It has a unique aroma and flavor that is neither hot nor pungent, with lemony overtones. This pepper create a tingly numbness in the mouth. It is often used in spicy dishes, to create a a flavor known in Mandarin as {*málà 麻辣 "numb-spiciness"*}. 
+  LONG
+    & When cooking sichuan peppercorns, lightly toast them and then then crush them before adding them to food. The spice is added at the last moment. 
 Coriander
+  BREF : Coriander, also known as {*Coriandrum sativum} or cilantro, is an herb cultivated for its leaves and seeds (all parts are edible). Coriander has a tart, lemon/lime taste. Coriander leaves are a source of {*vitamin A*}, {*vitamin C*}. The seeds have a lower count of vitamins but still provide some amounts of {*calcium*} and {*iron*}.
+  LONG
+    & For 3-21% of people, Coriander tastes soapy or rotten. These people have a gene which detects specific compounds in the plant, the most common is {{OR6A2|https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=8590}}, a gene involved in sensing smells.
 Mint
   COLOR : #006633
-  BREF : Oil derived from {{fresh mint}} can be used as a friendly insecticide.
-Fresh Mint
+  BREF : Mint, or {*Mentha*}, is a genus of plants in the family {*Lamiaceae*}. Mints are aromatic plants, with leaf color that ranges from dark green and gray-green to purple, blue, and sometimes pale yellow. The most common mints for commercial cultivation are peppermint, native spearmint, scotch spearmint, apple mint and cornmint.  
+  LONG
+    & Mint oil is also used as an environmentally-friendly {{insecticide|https://web.archive.org/web/20090802082953/https://online.wsj.com/article/SB10001424052970204563304574318231044370704.html}}. 
+Peppermint
   PARENT : Mint
-Cocoa
+  BREF : Peppermint, or {*Mentha balsamea*}, is a hybrid mint, a cross between watermint and spearmint. 
+  LONG
+    & Peppermint is an essential ingredient in candies, chewing gum, toothpaste, candles, extracts and compounds. Fresh leaves are preferable over dried. Harvesting of mint leaves can be done at any time. Fresh leaves should be used immediately or stored up to a few days in plastic bags in a refrigerator. Optionally, leaves can be frozen in ice cube trays. Dried mint leaves should be stored in an airtight container placed in a cool, dark, dry area.
+Cocoa Beans
+  BREF : Cocoa beans (also called cacao) are the dried and fermented seed of {*Theobroma cacao*}. The fruit, called a cacao pod, is ovoid, long and wide, ripening yellow to orange. The pod contains 20 to 60 seeds (or beans) embedded in a white pulp. Each seed contains a significant amount of fat (40–50%) as cocoa butter. The three main varieties of cocoa plant are {*Forastero*} (most common), {*Criollo*} (rarer, a delicacy), and {*Trinitario*}. 
+  LONG
+    & Its seeds are used to make chocolate liquor, cocoa solids, cocoa butter and chocolate. The fruit's active constituent is the stimulant {*theobromine*}, a compound similar to {{caffeine|#coffee}}.
 Cocoa Powder
-  PARENT : Cocoa
+  PARENT : Cocoa Beans
+  WARN
+    & Cocoa powders may contain cadmium, a toxic heavy metal and probable carcinogen, found naturally in high levels in the soil of some regions of cocoa producing countries. The European Union has imposed a {{limit|https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0488&from=EN}} (starting on 1 January 2019) for cadmium in cocoa powder of 0.6 µg per gram of cocoa powder. Refer to the recommendated servings on the label. 
+  BREF : Cocoa powder which is the dry powder made by grinding cocoa seeds and removing the cocoa butter from the cocoa solids, which are dark and bitter. The two basic types of cocoa powder are {*Dutch processed*} and {*Broma processed*}. Cocoa powder a source of {*calcium*} and {*zinc*}.
+  LONG 
+    & Recipes specifically call out whether they require Dutch-process or unsweetened cocoa. It's not a good idea to swap out regular cocoa for Dutch cocoa or vice-versa. Dutch-process cocoa does not react with baking soda like regular cocoa does, so you should only use Dutch-process cocoa in those recipes that have baking powder (see {{ref|https://www.huffpost.com/entry/unsweetened-vs-dutch-cocoa-powder_n_972395?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnJvbWFfcHJvY2Vzcw&guce_referrer_sig=AQAAAH1DFaQsw-T1c1SC1FaZBabMwbVXQ-BHNgG_19L6QijyflUYBgLug1DkfotIIc-TslE9MpvF9-mGqYMTRHlqz2Gy6iPuVPBtAGVOzKcxwGW0cggreoKl_ss_qlyMG2SSNjcMVGbjduavgUiXUTdrsSHcqiUvklahShVUXc44Q5wT}}).
+    & The {*Broma process*} consists of hanging bags of roasted cocoa beans in a very warm room, above the melting point of cocoa butter (slightly above room temperature), and allowing the cocoa butter to drip off the beans, where it is collected, resulting in unsweetened cocoa that is dark brown, acidic and bitter. The {*Dutch process*} differs from the Broma process in that, after the cocoa butter has been drained off the beans as described above, the beans are then soaked in an alkaline solution to make them chemically neutral. Dutch process turns the cocoa a pale reddish brown and makes it chemically nonreactive.
 Cayenne Pepper
-Cayenne Powder
+  BREF : Cayenne pepper is a type of {*Capsicum annuum*}, a moderately hot chili pepper. 
+Cayenne Pepper Powder
   PARENT : Cayenne Pepper
-Anise
-Anise Seeds
+  BREF : Cayenne peppers are generally dried and ground to make cayenne powder, although it may be a blend of different types of peppers, quite often not containing cayenne peppers, and may or may not contain the seeds.
+Anise seeds
+  BREF : Anise, also called aniseed or {*Pimpinella*}, is a spice with a flavor similar to star anise, fennel and liquorice. Anise is sweet and very aromatic. 
+  LONG
+    & It's often used to flavor foods and drinks. The seeds, whole or ground, are used for preparation of teas and tisanes. 
 Nutritional yeast
   COLOR : #FFD800
   BREF : Nutritional yeast is a deactivated yeast, a strain of {{Saccharomyces cerevisiae|https://www.sciencedirect.com/topics/neuroscience/saccharomyces-cerevisiae}}. It is sold as yellow flakes or powder, and has a cheesy, nutty taste and flavor. Fortified nutritional yeast is a good source of {*vitamin B12*}.
   LONG
     & Nutritional yeast is often confused with brewer’s yeast, but the two are distinct. Brewer’s yeast is aptly named, as it was initially offered as a byproduct of the beer brewing industry. It is a key ingredient in vegan cheese sauces, it can also be used as a condiment. Nutritional yeast adds a lot of depth and flavor to a variety of dishes.
 Vanilla
+  BREF : Vanilla is a flavoring derived from orchids of the genus Vanilla, primarily from the Mexican species, flat-leaved vanilla (V. planifolia). It is the second-most expensive spice after saffron because growing the vanilla seed pods is labor-intensive. Despite the expense, vanilla is highly valued for its flavor. 
+  LONG
+    & Three major species of vanilla currently are grown globally: {*V. planifolia*} (being the most common), {*V. tahitensis*} and {*V. pompona*}. In addition to varieties, there are also different grades of vanilla beans. Grade A beans are longer and more moist, and Grade B beans are less pretty and usually recommended for making extract. Grade B beans are less expensive.
+    & Vanilla is widely used in both commercial and domestic baking, perfume manufacture, and aromatherapy. Natural vanilla gives a brown or yellow color to preparations, depending on the concentration.
 Vanilla Extract
+  PARENT : Vanilla
+  BREF : Vanilla extract is used a cheap alternatives to using fresh beans. It's available in alcoholic or occasionally glycerol solution, both pure and imitation forms of vanilla contain at least 35% alcohol. 
+  LONG
+    & To make your own, you need vanilla beans, 35% alcohol (like vodka) and a jar. Use 6 vanilla beans per 8 ounces of alcohol. Cut your vanilla bean pods in half along their length with scissors or a knife, put the sliced beans in a jar and cover with alcohol. If beans are too tall, cut in half. Put a lid on and shake, then store in a cool dark place (shake every week). Soak beans for at least 2 months, or more. 
 Nutmeg
   COLOR : #875A2C
-  BREF : If consumed in high doses, raw nutmeg has psychoactive effects.
+  BREF : Nutmeg is the seed or ground spice of some species of the genus {*Myristica*}. The plant is cultivated for two spices derived from the fruit: nutmeg (seed) and seed (mace). Nutmeg has a sweet flavor, and is used in a variety of dishes. 
+  WARN
+    & If consumed in high doses, raw nutmeg has {{psychoactive effects|https://www.drugs.com/npp/nutmeg.html}}. Consumption of nutmeg at 1 to 2 mg/kg body weight was reported to induce CNS effects. Toxic overdose occurred at a 5 g dose.
 Thyme
   COLOR : #006633
-  BREF : Thyme keeps its flavour better when dried than other herbs.
+  BREF : Thyme is an aromatic herb and member of the genus {*Thymus*}. The most cultivated species is {*Thymus vulgaris*}. It is sold both fresh and dried. Thyme is used to make za'atar and herbes de Provence. Its delivers layers of woodsy, savory and mint flavors.
+  LONG
+    & Leaves may be removed from stems either by scraping with the back of a knife, or by pulling through the fingers or tines of a fork. Thyme keeps its flavour better when dried than other herbs. The fresh form is more flavourful, but also less convenient, storage life is rarely more than a week. However, the fresh form can last many months if carefully frozen (see {{ref|https://www.stilltasty.com/fooditems/index/18499}})
 Poppy seeds
   COLOR : #000000
-  BREF : Poppy seeds are less allergenic than a lot of other seeds or nuts.
+  BREF : Poppy seeds are oilseeds that come from the {*Papaver somniferum*} which also produces {{Opium|https://en.wikipedia.org/wiki/Opium}}. Compared to the seed pod and straw, the seeds contain very low levels of opiates. Since poppy seeds are relatively expensive, they are sometimes mixed with the seeds of {*Amaranthus paniculatus*}, which closely resemble poppy seeds. Poppy seeds are a source of {*calcium*}, {*iron*} and {*zinc*}.
+  LONG
+    & The seeds are used whole or ground into meal, to be used in pastry and bread or to make poppyseed oil. It is also used to make poppy seed pasta, a sweet filling. The poppy seed harvest can be a by-product of cultivation of Papaver somniferum for {*opium*}, poppy straw, or both opium and poppy straw.
 Paprika
   COLOR : #94191C
-  BREF : Paprika is used with henna to give a red tint. It can be {{smoked|smoked paprika}}.
-Smoked Paprika
-Curry
-  COLOR : #FFD800
+  BREF : Paprika is a ground spice made from dried red fruits of the larger and sweeter varieties of the {{Capsicum annuum}}. The most common variety is {*tomato pepper*}, although sometimes both chili peppers and {{cayenne peppers}} are added. Paprika is a source of {*vitamin A*}.
   LONG
-    & The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'.
-    & Curry can be made as {{a powder|curry powder}}, and comes in several colors such as {{green|green curry}} and {{yellow|yellow curry}}.
+    & Paprika can range from mild to hot. Sweet paprika is mostly composed of the pericarp (outer skin), with more than half of the seeds removed, whereas hot paprika contains some seeds, stalks, placentas (where the seeds are attached to the top of the fruit), and calyces (part of stem that connects to top of the chili pepper). Store paprika in an airtight container in a cool, dark place for no more than six months. 
+Smoked Paprika
+  PARENT : Paprika
+  BREF : Smoked paprika, or {*Pimentón de la Vera*}, is paprika that has a distinct smoky flavor and aroma, as it is dried by smoking, typically using oak wood.
 Curry Powder
+  BREF : Curry powder is a spice blend, which contains more or less the same set of ingredients in varying quantities. Most mixes contain coriander, turmeric, cumin, fenugreek, and chili peppers.
+  LONG
+    & Other ingredients included in curry powders include ginger, garlic, asafoetida, fennel seed, caraway, cinnamon, clove, mustard seed, green cardamom, black cardamom, nutmeg, white turmeric, curry leaf, long pepper, and black pepper.
 Tamarind
   COLOR : #875A2C
-  BREF : Tamarinds can be made into a {{paste|tamarind paste}}.
-Cumin
-  COLOR : #875A2C
-  BREF : In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}. It is derived from the {{cumin seed|cumin seeds}}.
+  BREF : Tamarind, or {*Tamarindus indica*} is a leguminous tree that produces pod-like fruit that contains a brown, edible pulp. The fruit has a fleshy, juicy, acidic pulp. It is mature when the flesh is coloured brown or reddish brown. Tamarind flesh is sweet and sour in taste, and is a source of {*calcium*}.
+  LONG
+    & Tamarind is used in Worcestershire sauce, chutneys, curries, and is popular in many sweets in countries like Mexico.
 Cumin Seeds
+  COLOR : #875A2C
+  BREF : Cumin, or {*Cuminum cymimum*} is a plant of the family {*Apiaceae*}. It's seeds are dried and used both whole and ground. Cumin seed is used as a spice for its distinctive flavour and aroma, it imparts an earthy, warming and aromatic character to food. Cumin is a source of {*iron*}.
+  LONG
+    & Cumin is often confused with caraway (Carum carvi), and many European languages don't distinguish between the two. {*Nigella sativa*}, or black cumin, is distantly related and also sometimes confused with cumin. 
 Mustard Seeds
   COLOR : #FFD800
-  BREF : Canada is the top producer of {{mustard seeds}}, producing over 200,700 tonnes per year. One form of mustard is {{dijon mustard}}.
+  BREF : Mustard seeds are small round seeds produced by various mustard plants. They come in a variety of colors, ranging from yellow to white to black. They come from one of three different plants: black mustard (Brassica nigra), brown Indian mustard (B. juncea), or white/yellow mustard (B. hirta/Sinapis alba). 
+  LONG 
+    & Grinding and mixing the seeds with water, vinegar or other liquids creates the yellow condiment known as prepared mustard. 
 Dijon Mustard
-Pepper
-  COLOR : #000000
-  BREF : Historically, {{black pepper}} is the world's most traded spice.
+  PARENT : Mustard Seeds
+  BREF : Dijon mustard is a traditional mustard from France, named after the city of Dijon where it was made. The main ingredients of this condiment are brown mustard seeds and white wine, or a mix of wine vinegar, water and salt. It can be used as an accompaniment to dishes in its usual form as a paste, or it can be mixed with other ingredients to make a sauce.
+  LONG
+    & Dijon mustard does not have a protected geographical indication (PGI). 80% of seeds used to make the mustard come from Canada.
 Black Pepper
+  BREF : Black pepper, or {*Piper nigrum*}, is cultivated for its fruit known as a peppercorn. Peppercorn is dried and used a spice and seasoning. It is ubiquitous in the modern world as a seasoning, and is often paired with salt. There is white peppercorn (sarawak and muntok), black peppercorn (malabar and tellicherry), pink peppercorn and green peppercorn. 
+  LONG
+    & White pepper consists solely of the seed of the ripe fruit of the pepper plant, with the thin darker-coloured skin (flesh) of the fruit removed. Green pepper, like black pepper, is made from unripe drupes. Dried green peppercorns are treated in a way that retains the green colour, such as with sulphur dioxide, canning, or freeze-drying. Pink peppercorns are the fruits of the Peruvian pepper tree {*Schinus molle*}, or its relative, the Brazilian pepper tree, {*Schinus terebinthifolius*}.
 Shichimi togarashi
   COLOR : #94191C
-  BREF : 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
+  BREF : Shichi-mi tōgarashi {*七味唐辛子*}, or {*seven-flavor chili pepper*}, is a common Japanese spice mixture containing seven ingredients: chili pepper, ground sanshou, roasted orange peel, {{black sesame seeds}}, {{white sesame seeds}}, {{hemp seed|#shelled hemp seeds}}, ground ginger, {{aonori}} and {{poppy seeds}}.
 Gojuchang
   COLOR : #94191C
   BREF : Traditionally, gojuchang was fermented outdoors in large earthen pots.
@@ -637,7 +685,9 @@ Garam Masala
 Panko
 Carob
   COLOR : #875A2C
-  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}).
+  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}). 
+  LONG
+    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}.
 Carob Chips
 Peppercorn
   COLOR : #000000
@@ -874,7 +924,7 @@ Coconut oil
   BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
   LONG
     & Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. Fun fact: Coconut oil was used in oil lamps in India before they had electrical lighting.
-Canola oil
+Canola Oil
   BREF : Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
   LONG
     & Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
@@ -889,9 +939,10 @@ Sesame oil
     & Light sesame oil has a high smoking point and is suitable for deep-frying, while darker varieties are used for stir-frying or sauteing food. Sesame oil is sometimes mixed into very hot and spicy food to help neutralize the heat.
     & Sesame oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
 Peppermint oil
-  BREF : Peppermint oil is made from peppermint leaves, obtained by extracting the oils from dried or fresh leaves and the flowering tops of the plant using alcohol. 
+  PARENT : Peppermint
+  BREF : Peppermint oil is made from peppermint leaves, obtained by extracting the oils from dried or fresh leaves and the flowering tops of the plant using alcohol. It has a high concentration of natural pesticides, known to repel pest insects. 
   LONG
-    & Peppermint oil is used as an insect repellent against ants, flying insects and spiders. Peppermint oil is a stronger ingredient than peppermint extract, often used in candy-making. 
+    & Peppermint oil and leaves have a {{cooling effect|https://nccih.nih.gov/health/peppermintoil}} when used topically for muscle pain, nerve pain, relief from itching, or as a fragrance. Peppermint oil is a stronger ingredient than peppermint extract, often used in candy-making. 
 Fresh dill
   BREF : Dill is an herb, a wispy fern-like plant. This herb is a cross of {{lemon}}, parsley and {{anise}}.
   LONG

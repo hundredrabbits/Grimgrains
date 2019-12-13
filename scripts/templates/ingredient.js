@@ -118,8 +118,10 @@ function IngredientTemplate (id, rect) {
       const name = id
       html += `
       <li class='recipe'>
-        <a onclick="Ø('query').bang('${name}')" class='photo' href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
-        <span class='name'>${name.capitalize()}</span>
+        <a href='#${name.to_url()}'>
+          <div class='photo' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></div>
+          <span class='name'>${name.capitalize()}</span>
+        </a>
         <span class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${recipe.INST.length} steps</span>
       </li>`
       if (count > 1) { break }
@@ -170,7 +172,7 @@ function IngredientTemplate (id, rect) {
   function print_ingredient (name) {
     return `
       <li class='ingredient'>
-        <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+        <a href='#${name.to_url()}'>
           <img src='media/ingredients/${name.to_path()}.png'/>
           <span class='name'>${name.capitalize()}</span>
         </a>

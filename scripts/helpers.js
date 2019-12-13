@@ -1,4 +1,3 @@
-
 String.prototype.capitalize = function () {
   return this.charAt(0).toUpperCase() + this.slice(1).toLowerCase()
 }
@@ -30,4 +29,11 @@ String.prototype.to_markup = function () {
     html = html.replace(`{{${content}}}`, external ? `<a href='${target}' class='external' target='_blank'>${name}</a>` : `<a class='local' href="#${target.to_url()}" onclick="Ø('query').bang('${target}')">${name}</a>`)
   }
   return html
+}
+
+function Š (target) {
+  const elem = document.getElementById('jump-' + target)
+  if (!elem) { console.error('Undefined jump target', target); return }
+  elem.scrollIntoView()
+  elem.focus()
 }

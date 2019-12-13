@@ -65,7 +65,7 @@ function RecipeTemplate (id, rect) {
 
     for (const cat in recipe.INGR) {
       for (const id in recipe.INGR[cat]) {
-        if (all_ingredients[id].WARN) {
+        if (all_ingredients[id] && all_ingredients[id].WARN) {
           const warn = all_ingredients[id].WARN
           html += `
             <section id='warn'>
@@ -106,8 +106,10 @@ function RecipeTemplate (id, rect) {
       const recipe = q.tables.recipes[name]
       html += `
       <li class='recipe'>
-        <a class='photo' onclick="Ø('query').bang('${name}')" href='#${name.to_url()}' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></a>
-        <span class='name'>${name.capitalize()}</span>
+        <a href='#${name.to_url()}'>
+          <div class='photo' style='background-image:url(media/recipes/${name.to_path()}.jpg)'></div>
+          <span class='name'>${name.capitalize()}</span>
+        </a>
         <span class='details'><b>${recipe.TIME} minutes</b><br />${count_ingredients(recipe)} ingredients<br />${Object.keys(recipe.INST).length} step${Object.keys(recipe.INST).length > 1 ? 's' : ''}</span>
       </li>`
       if (count > 1) { break }
@@ -152,10 +154,10 @@ function RecipeTemplate (id, rect) {
         const element = elements[name]
         html += `
         <li class='ingredient'>
-          <a onclick="Ø('query').bang('${name}')" href='#${name.to_url()}'>
+          <a href='#${name.to_url()}'>
             <img src='media/ingredients/${name.to_path()}.png'/>
+            <span class='name'>${name.capitalize()}</span>
           </a>
-          <span class='name'>${name.capitalize()}</span>
           <span class='quantity'>${element}</span>
         </li>`
       }
