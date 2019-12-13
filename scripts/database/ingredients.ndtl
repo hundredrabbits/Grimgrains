@@ -546,7 +546,6 @@ Ground Turmeric
 Cinnamon
   COLOR : #875A2C
   BREF : Cinnamon is an aromatic spice from the inner bark of many species of tree from the genus {*Cinnamomum*}. It's a flavouring additive used in both sweet and savoury dishes. It's sold in the form of quills or powdered. Cinnamon is a rich source of {*calcium*} and {*iron*}.
-  LONGmailto:info@specialtyproduce.com
     & Only a tiny sliver of the inner bark is used. The outer, woody portion is discarded, leaving metre-long cinnamon strips that curl into rolls (referred to as "quills") on drying. The processed bark is dried, and cut into 5-10 cm lengths for sale. There are many varieties of cinnamon, with {*Cinnamomum cassia*} being the most common commercial type. Cassia has a strong, spicy flavor and handles baking conditions well. 
 Rosemary
   BREF : Rosemary, or {*Salvia rosmarinus*}, is a fragrant evergreen herb with needle-like leaves and white, pink, purple of blue flowers. It's leaves are used to flavor a variety of foods. It's a source of {*vitamin A*} and {*calcium*}.
@@ -629,38 +628,53 @@ Nutmeg
     & If consumed in high doses, raw nutmeg has {{psychoactive effects|https://www.drugs.com/npp/nutmeg.html}}. Consumption of nutmeg at 1 to 2 mg/kg body weight was reported to induce CNS effects. Toxic overdose occurred at a 5 g dose.
 Thyme
   COLOR : #006633
-  BREF : Thyme keeps its flavour better when dried than other herbs.
+  BREF : Thyme is an aromatic herb and member of the genus {*Thymus*}. The most cultivated species is {*Thymus vulgaris*}. It is sold both fresh and dried. Thyme is used to make za'atar and herbes de Provence. Its delivers layers of woodsy, savory and mint flavors.
+  LONG
+    & Leaves may be removed from stems either by scraping with the back of a knife, or by pulling through the fingers or tines of a fork. Thyme keeps its flavour better when dried than other herbs. The fresh form is more flavourful, but also less convenient, storage life is rarely more than a week. However, the fresh form can last many months if carefully frozen (see {{ref|https://www.stilltasty.com/fooditems/index/18499}})
 Poppy seeds
   COLOR : #000000
-  BREF : Poppy seeds are less allergenic than a lot of other seeds or nuts.
+  BREF : Poppy seeds are oilseeds that come from the {*Papaver somniferum*} which also produces {{Opium|https://en.wikipedia.org/wiki/Opium}}. Compared to the seed pod and straw, the seeds contain very low levels of opiates. Since poppy seeds are relatively expensive, they are sometimes mixed with the seeds of {*Amaranthus paniculatus*}, which closely resemble poppy seeds. Poppy seeds are a source of {*calcium*}, {*iron*} and {*zinc*}.
+  LONG
+    & The seeds are used whole or ground into meal, to be used in pastry and bread or to make poppyseed oil. It is also used to make poppy seed pasta, a sweet filling. The poppy seed harvest can be a by-product of cultivation of Papaver somniferum for {*opium*}, poppy straw, or both opium and poppy straw.
 Paprika
   COLOR : #94191C
-  BREF : Paprika is used with henna to give a red tint. It can be {{smoked|smoked paprika}}.
-Smoked Paprika
-Curry
-  COLOR : #FFD800
+  BREF : Paprika is a ground spice made from dried red fruits of the larger and sweeter varieties of the {{Capsicum annuum}}. The most common variety is {*tomato pepper*}, although sometimes both chili peppers and {{cayenne peppers}} are added. Paprika is a source of {*vitamin A*}.
   LONG
-    & The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'.
-    & Curry can be made as {{a powder|curry powder}}, and comes in several colors such as {{green|green curry}} and {{yellow|yellow curry}}.
+    & Paprika can range from mild to hot. Sweet paprika is mostly composed of the pericarp (outer skin), with more than half of the seeds removed, whereas hot paprika contains some seeds, stalks, placentas (where the seeds are attached to the top of the fruit), and calyces (part of stem that connects to top of the chili pepper). Store paprika in an airtight container in a cool, dark place for no more than six months. 
+Smoked Paprika
+  PARENT : Paprika
+  BREF : Smoked paprika, or {*Pimentón de la Vera*}, is paprika that has a distinct smoky flavor and aroma, as it is dried by smoking, typically using oak wood.
 Curry Powder
+  BREF : Curry powder is a spice blend, which contains more or less the same set of ingredients in varying quantities. Most mixes contain coriander, turmeric, cumin, fenugreek, and chili peppers.
+  LONG
+    & Other ingredients included in curry powders include ginger, garlic, asafoetida, fennel seed, caraway, cinnamon, clove, mustard seed, green cardamom, black cardamom, nutmeg, white turmeric, curry leaf, long pepper, and black pepper.
 Tamarind
   COLOR : #875A2C
-  BREF : Tamarinds can be made into a {{paste|tamarind paste}}.
-Cumin
-  COLOR : #875A2C
-  BREF : In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}. It is derived from the {{cumin seed|cumin seeds}}.
+  BREF : Tamarind, or {*Tamarindus indica*} is a leguminous tree that produces pod-like fruit that contains a brown, edible pulp. The fruit has a fleshy, juicy, acidic pulp. It is mature when the flesh is coloured brown or reddish brown. Tamarind flesh is sweet and sour in taste, and is a source of {*calcium*}.
+  LONG
+    & Tamarind is used in Worcestershire sauce, chutneys, curries, and is popular in many sweets in countries like Mexico.
 Cumin Seeds
+  COLOR : #875A2C
+  BREF : Cumin, or {*Cuminum cymimum*} is a plant of the family {*Apiaceae*}. It's seeds are dried and used both whole and ground. Cumin seed is used as a spice for its distinctive flavour and aroma, it imparts an earthy, warming and aromatic character to food. Cumin is a source of {*iron*}.
+  LONG
+    & Cumin is often confused with caraway (Carum carvi), and many European languages don't distinguish between the two. {*Nigella sativa*}, or black cumin, is distantly related and also sometimes confused with cumin. 
 Mustard Seeds
   COLOR : #FFD800
-  BREF : Canada is the top producer of {{mustard seeds}}, producing over 200,700 tonnes per year. One form of mustard is {{dijon mustard}}.
+  BREF : Mustard seeds are small round seeds produced by various mustard plants. They come in a variety of colors, ranging from yellow to white to black. They come from one of three different plants: black mustard (Brassica nigra), brown Indian mustard (B. juncea), or white/yellow mustard (B. hirta/Sinapis alba). 
+  LONG 
+    & Grinding and mixing the seeds with water, vinegar or other liquids creates the yellow condiment known as prepared mustard. 
 Dijon Mustard
-Pepper
-  COLOR : #000000
-  BREF : Historically, {{black pepper}} is the world's most traded spice.
+  PARENT : Mustard Seeds
+  BREF : Dijon mustard is a traditional mustard from France, named after the city of Dijon where it was made. The main ingredients of this condiment are brown mustard seeds and white wine, or a mix of wine vinegar, water and salt. It can be used as an accompaniment to dishes in its usual form as a paste, or it can be mixed with other ingredients to make a sauce.
+  LONG
+    & Dijon mustard does not have a protected geographical indication (PGI). 80% of seeds used to make the mustard come from Canada.
 Black Pepper
+  BREF : Black pepper, or {*Piper nigrum*}, is cultivated for its fruit known as a peppercorn. Peppercorn is dried and used a spice and seasoning. It is ubiquitous in the modern world as a seasoning, and is often paired with salt. There is white peppercorn (sarawak and muntok), black peppercorn (malabar and tellicherry), pink peppercorn and green peppercorn. 
+  LONG
+    & White pepper consists solely of the seed of the ripe fruit of the pepper plant, with the thin darker-coloured skin (flesh) of the fruit removed. Green pepper, like black pepper, is made from unripe drupes. Dried green peppercorns are treated in a way that retains the green colour, such as with sulphur dioxide, canning, or freeze-drying. Pink peppercorns are the fruits of the Peruvian pepper tree {*Schinus molle*}, or its relative, the Brazilian pepper tree, {*Schinus terebinthifolius*}.
 Shichimi togarashi
   COLOR : #94191C
-  BREF : 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
+  BREF : Shichi-mi tōgarashi {*七味唐辛子*}, or {*seven-flavor chili pepper*}, is a common Japanese spice mixture containing seven ingredients: chili pepper, ground sanshou, roasted orange peel, {{black sesame seeds}}, {{white sesame seeds}}, {{hemp seed|#shelled hemp seeds}}, ground ginger, {{aonori}} and {{poppy seeds}}.
 Gojuchang
   COLOR : #94191C
   BREF : Traditionally, gojuchang was fermented outdoors in large earthen pots.
@@ -910,7 +924,7 @@ Coconut oil
   BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
   LONG
     & Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. Fun fact: Coconut oil was used in oil lamps in India before they had electrical lighting.
-Canola oil
+Canola Oil
   BREF : Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
   LONG
     & Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
