@@ -37,6 +37,12 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 #view #core #content h2.serving { float:right; font-size:32px; line-height: 40px }
 #view #core #content h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 #view #core #content h4 { text-transform: capitalize; font-size:20px; line-height: 45px }
+#view #core #content .jump { padding: 5px 0; text-transform: lowercase; font-size: initial; position: absolute; right: 0; }
+#view #core #content .jump:before { content: '(jump to '; }
+#view #core #content .jump::after { content: ')'; }
+#view #core #content .jump:hover { text-decoration: 2px solid black underline;}
+#view #core #content .jump:focus { text-decoration: 2px solid black underline;}
+
 #view #core #content hr.stroke { border-bottom:2px solid black; max-width: 600px; margin-bottom:30px; }
 #view #core #content p { font-size:18px; margin-bottom: 30px; max-width:600px; line-height: 26px }
 #view #core #content p.bref { font-size:28px; margin-bottom: 45px; line-height: 34px }
@@ -85,7 +91,7 @@ h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin
 
 #view #core #related { width:100%;}
 #view #core #related li { width: calc((100% / 3) - 10px); float:left; overflow: hidden;}
-#view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;} 
+#view #core #related li:nth-child(1), #view #core #related li:nth-child(2) { margin-right:15px;}
 #view #core #related li a.photo { border-radius: 2px; display: block; height:160px; background-size:cover; margin-bottom:15px; background-position: center }
 #view #core #related li span.name { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:16px; margin-bottom: 5px; text-transform: capitalize; line-height: 30px }
 #view #core #related li span.details { display: block; font-family: 'alte_haas_grotesk_regular'; font-size:14px; text-transform: capitalize; line-height: 30px; line-height: 18px }
