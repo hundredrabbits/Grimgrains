@@ -678,27 +678,35 @@ Shichimi togarashi
 Gojuchang
   COLOR : #94191C
   BREF : Traditionally, gojuchang was fermented outdoors in large earthen pots.
-Masala
-  COLOR : #875A2C
-  BREF : Masala is a general term for many spice mixes used in Indian cooking (such as {{garam masala}}).
 Garam Masala
+  BREF : Garam Masala — garam/hot, masala/mixture of ground spices — as its name suggests, is an Indian mixture of varying quantities of ground spices. The choice of spices varies according to region and personal taste. Typical ingredients include fennel, black/white peppercorns, cloves, {{cinnamon}}, mace, cardamom pods, curry leaf, {{cumin}} and {{coriander}}.
+  LONG
+    & A masala may be toasted before use to release its flavours and aromas.
 Panko
+  BREF : Panko, or {*パン粉*}, is a variety of flaky breadcumb used in Japanese cuisine, used as a crunchy coating for frieds foods. It's lighter than and more crispy than breading in Western cuisine, it doesn't absorb oil or grease as readily when fried. 
+  LONG
+    & Panko is made from bread baked by electrical current, which yields a bread without a crust, and then grinding the bread to create fine slivers of crumb (see {{video|https://www.youtube.com/watch?v=bCNU9TrbiRk}}).
 Carob
   COLOR : #875A2C
-  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}). 
+  BREF : The carob, or {*Ceratonia siliqua*}, is a tree in the legume family {*Fabaceae*}. It is cultivated for its edible pods, which when ripe, are sometimes dried, toasted and ground into carob powder. Carob pods are sweet, not bitter, and contain no theobromine or caffeine. 
   LONG
-    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}.
+    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}. Carob seeds is the base ingredients for the product of locus bean gum, a thickening agent used in the food industry. 
 Carob Chips
-Peppercorn
-  COLOR : #000000
-  BREF : There are several types of peppercorn ({{black|black pepper}} and {{sichuan|sichuan peppercorns}}).
+  BREF : Carob chips are the dried, toasted form of {{carob}} pods. 
 Bay leaf
   COLOR : #006633
-Chili
+  BREF : The bay leaf is an aromatic leaf that is both used whole, dried and ground. Bay leaf come from many plants, like the Bay laurel {*Laurus nobilis*}, California bay leaf {*Umbellularia californica*} and Malabathrum {*Cinnamomum tamala*}. Fresh or dried bay leaves are used in cooking for their distinctive flavour and fragrance. 
+  WARN
+    & Some members of the laurel family have leaves that are poisonous to humans and livestock. While these plants are not sold anywhere for culinary use, their visual similarity to bay leaves has led to the oft-repeated belief that bay leaves should be removed from food after cooking because they are poisonous. This is not true, bay leaves may be eaten without toxic effect. However, they may pose a risk of harming the digestive tract or causing choking. Thus, most recipes that use bay leaves will recommend their removal after the cooking process has finished (see {{ref|https://en.wikipedia.org/wiki/Bay_leaf#Safety}})
+Chili pepper flakes
+  PARENT : Chili peppers
   COLOR : #94191C
-  BREF : {{Chili pepper flakes}} have become a table top must over the years, and will often be present on a restaurant table alongside salt and pepper. See also {{green chili}}.
+  BREF : Chili pepper pods, which are berries, are used fresh or dried. Chilies are dried to preserve them for long periods of time. {{Dehydrated chiles|http://scottroberts.org/ultimate-guide-to-drying-hot-peppers/}} pack more fiery punch and ferocity in both solid food and hot sauce recipes than fresh peppers. If kept in a cool, dry place they should keep well for at least one year.
 Green Chili
-Chili Pepper Flakes
+Chili Peppers
+  BREF : Chili peppers, from Nahuatl {*chīlli*}, is the fruit of plants from the genus {*Capsicum*}. They're used in dishes to add heat or spice. There are many varieties of chili peppers, ranging in shape and color from white, yellow, red or purple to black. The 5 domesticated species are {*Capsicum annuum*}(bell peppers, cayenne etc), {*Capsicum frutescens*} (tabasco, thai etc), {*Capsicum chinense*} (habanero, naga etc), {*Capsicum pubescens*} (rocoto) and {*Capsicum babbactum*} (aji).
+  LONG
+    & The substances that give chili peppers their pungency (spicy heat) when ingested or applied topically are capsaicin. The quantity of capsaicin varies by variety, and on growing conditions. The intensity of the "heat" of chili peppers is commonly reported in {{Scoville heat units|https://web.archive.org/web/20100823044606/http://www.tabasco.com/info_booth/faq/scoville_how.cfm}} (SHU).
 Hops
   COLOR : #006633
   BREF : There are many different varieties of hops around, from all corners of the globe.
