@@ -709,21 +709,35 @@ Chili Peppers
     & The substances that give chili peppers their pungency (spicy heat) when ingested or applied topically are capsaicin. The quantity of capsaicin varies by variety, and on growing conditions. The intensity of the "heat" of chili peppers is commonly reported in {{Scoville heat units|https://web.archive.org/web/20100823044606/http://www.tabasco.com/info_booth/faq/scoville_how.cfm}} (SHU).
 Hops
   COLOR : #006633
-  BREF : There are many different varieties of hops around, from all corners of the globe.
+  BREF : Hops are the flowers of the hop plant {*Humulus lupulus*}. They are used a bittering, flavouring and stability agent in beer. While being bitter, hops also impart floral, fruity, or citrus flavours and aromas. Many different varieties are grown around the world, with different types used for particular styles of beer. 
+  LONG
+    & Specific hop varieties are associated with beer regions and styles, with pale largers being brewed with European {*noble hop*} varieties like {*{{Saaz|https://en.wikipedia.org/wiki/Saaz_hops}}*} (Stella Artois) and {*Hallertau*}, British ales with {*Fuggles*} and {*Goldings*}, North American beers with {*{{Cascade hops|https://en.wikipedia.org/wiki/Cascade_hop}}*} (anchor brewing company) and {*Columbus hops*} and New Zealand {*Pacific Gem*} and {*Motueka*}. Hops tend to be unstable when exposed to light or air and lose their potency after a few months' storage. 
+  WARN
+    & Hops are {{toxic|https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hops}} to dogs.
 Dried orange peel
+  BREF : The thick bitter rind of oranges is used in certain recipes as a food flavoring or garnish. It contains oils and has a strong flavor to that of the orange pulp. The peel is a source of {*vitamin C*}.
+  LONG 
+    & To make dried orange peel, wash the fruit well with running water. Dry, and peel the oranges with a sharp knife, and discard as much of the white pith from the skin as possible. Cut into thin, even pieces. Lay on a baking sheet, bake for 30-60 min at 200F. Check peels often so they don't burn (they curl when they're done). Remove from oven, let cool and store in an airtight container. 
 Oregano
-Cardamom
-Ajwain
-Fenugreek
+  BREF : Oregano, or {*Origanum vulgare*} is a plant of the mint family {*Lamiaceae*}. Oregano’s taste is zesty, slightly bitter and strong. It can be found fresh, dried or as an oil.
+  LONG
+    & Oregano leaves store well and are easily dried. Keep them in an airtight container once dried.
 
 ~ WHOLEGRAINS
 
 Whole wheat flour
   PARENT : Flour
-Buckwheat
+  BREF : Whole wheat flour, or wholemeal flour, is a powdery substance derived from grinding wheatberries. It is typically mixed with lighter white flours. This type of flour contains both the bran and germ, and is typically made from hard winter red wheat (in the US).
+Buckwheat groats
+  BREF : Buckwheat groats come from the buckwheat plant, or {*Fagopyrum esculentum*}. Buckwheat is not a wheat, but a 'pseudocereal' that is related to sorrel, knotweed and rhubarb. The groats can also be sprouted and then eaten raw or cooked. Buckwheat groats have a rich, nutty flavor, and are a good source of {*zinc*} and of the protein {*lysine*}. 
+  LONG 
+    & The groats can be processed into flour, made into beer, roasted and brewed as tea to make soba-cha {*そば茶*} and cooked like rice.
 Buckwheat noodles
+  PARENT : Buckwheat groats
+  BREF : Buckwheat noodles are popular in Japan and Korea, the difficulty of making noodles from flour with no gluten has resulted in a traditional art developed around their manufacture by hand. in Japan, they are made from buckwheat flour (juwari 十割), or a combination of buckwheat and wheat flours (nihachi soba 二八). Depending on the shop, the percentage of buckwheat flour in soba noodles typically ranges between 40% and 100%.
 Buckwheat flour
-  PARENT : Flour
+  PARENT : Buckwheat groats
+  BREF : Buckwheat flour is made from ground buckwheat groats. It is often used partially in recipes with wheat flour. Use buckwheat flour for making buckwheat pancakes, noodles, and as a replacement for wheat flour in baked goods. As buckwheat contains no gluten, it may be eaten by people with gluten-related disorders. 
 Quinoa
 Whole wheat
 Einkorn
