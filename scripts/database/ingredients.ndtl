@@ -738,16 +738,21 @@ Buckwheat noodles
 Buckwheat flour
   PARENT : Buckwheat groats
   BREF : Buckwheat flour is made from ground buckwheat groats. It is often used partially in recipes with wheat flour. Use buckwheat flour for making buckwheat pancakes, noodles, and as a replacement for wheat flour in baked goods. As buckwheat contains no gluten, it may be eaten by people with gluten-related disorders. 
-Quinoa
-Whole wheat
-Einkorn
-Einkorn Flour
+Einkorn Wheat Flour
+  BREF : Einkorn wheat, or {*Triticum monococcum*}, was one of the first plants to be domesticated and cultivated. It is low-yielding, but thrives on poor, dry soil and fares better than other wheat in the same situations. Einkorn has more protein than modern red wheats, and is more nutritious. It is a good source of {*protein*} and {*iron*}.
+  LONG
+    & Because Einkorn wheat doesn't have much gluten, it won't rise as well as other wheats, but can be used in a variety of recipes like cookies, chips, pasta, crusts and salads. Two popular brands include Jovial Foods (Italy) and {{Daybreak Mill|https://www.daybreakmill.com/}} (Canadian).
   PARENT : Flour
-Spelt
 Spelt Flour
   PARENT : Flour
+  BREF : Spelt flour, or {*Triticum aestivum*} is an ancient grain, with a different genus than wheat. Spelt is reddish in color, and has a nutty, somewhat sweet and mild taste. Spelt is a wholegrain, rich in {*iron*}, {*zinc*}, {*protein*} and {*calcium*}. 
+  LONG
+    &  It is considered a light grain, meaning it won't weight down baked goods like {{whole wheat flour}} does.  It is also much easier to digest than wheat. The gluten in spelt is more fragile, it breaks down more easily and so it's important to not knead too vigorously (that will result in a crumbly texture). Less gluten also means it won't rise as well, so a starter may be necessary, that, or more baking powder or yeast. ({{ref|https://www.daybreakmill.com/products/spelt-flour?_pos=2&_sid=ee26723e4&_ss=r}})
 Gluten Flour
   PARENT : Flour
+  BREF : Gluten flour is refined gluten protein, used to strengthen flour as needed. To make wheat gluten requires separating wheat flour into starch and protein by rinsing the starch away, leaving raw gluten which can be used in recipes. It can also be dried, as is the case for {{vital wheat gluten|https://www.bobsredmill.com/vital-wheat-gluten.html}}.
+  LONG 
+    & It can be used to make a vegetarian meat substitute known as {{seitan}}. Adding ~1 tsp of gluten flour per cup of {{All purpose flour}} gives the resulting mix the protein content of bread flour. Adding it to wholegrain bread recipes improves the texture and elasticity of the dough, helps retain the gas and steam from baking, and gives more volume to the baked bread.
 Corn
 Cornmeal
   PARENT : Corn
@@ -786,12 +791,12 @@ Rice Flour
 
 Flour
   COLOR : #EFEFEF
-  LONG
-    & {{Plain flour|all purpose flour}} has an average protein content, making it versatile to use in almost any recipe that requires flour.
-    & {{Spelt flour}} was a staple food during the Bronze age all the way up to medieval times.
-    & Brown {{rice flour}} is sometimes used as a base to grow mushrooms.
-    & {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
+  BREF : Flour is a powder made by grinding raw grains, roots, beans, nuts, or seeds. It is used to make many different foods. Cereal flour is the main ingredient of bread, which is a staple food for most cultures. Wheat is the most common base for flour, as is corn flour and rye flour. Cereal flour consists either of the endosperm, germ, and bran together ({{wholegrain wheat flour}}) or of the endosperm alone ({{all purpose flour}}).
+    & The kinds of flour used in cooking include all-purpose flour (also known as plain), self-rising flour (also known as self-raising), and cake flour including bleached flour. The higher the protein content the harder and stronger the flour, and the more it will produce crusty or chewy breads. The lower the protein the softer the flour, which is better for cakes, cookies, and pie crusts.
 All Purpose Flour
+  BREF : All-purpose, or plain flour, has a medium level of gluten protein content. 
+  LONG
+    & AP has enough protein content for many bread and pizza bases, although artisan bakers often use bread flour and special grade 00 Italian flours. "Plain" also refers to AP's lack of any added leavening agent.
   PARENT : Flour
 Breadfruit Flour
   PARENT : Breadfruit
