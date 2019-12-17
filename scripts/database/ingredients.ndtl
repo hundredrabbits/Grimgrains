@@ -756,17 +756,24 @@ Gluten Flour
 Corn
 Cornmeal
   PARENT : Corn
+  BREF : Cornmeal is a coarse flour made from dried corn (maize). It is ground to fine, medium and coarse consistencies for a variety of uses. Steel-ground yellow cornmeal (found in the US) has the husk and germ removed, while stone-ground cornmeal retains some of the hull and germ, giving it more nutrients and flavor. Cornmeal comes in many colors, from blue to violet, yellow and white. 
+  LONG
+    & Cornmeal can be used to flour the baking surface to prevent sticking. Cornmeal can also be boiled (polenta), and be used in baking, to make muffins, flatbreads, breads, desserts (cornbread, cornpone etc). Steel-ground yellow cornmeal keeps for 1 year if stored in a cool, dry place within an airtight container. Stone-ground cornmeal is more perishable, but will store longer if refrigerated or kept in a cool place. 
 Corn Semolina
+  BREF : Corn semolina is the coarse middlings from maize (corn). 
   PARENT : Corn
 
 ~ GRAINS
 
 Oats
   COLOR : #EFEFEF
-  BREF : If oat flour is used alone in baking, the flour won't rise. Best to mix it with other types of flour!
-Ground Oats
-  COLOR : #EFEFEF
-  PARENT : Oats
+  BREF : Oats, or {*Avena sativa*}, is a species of cereal grain grown for its seed. Oats is sold in many forms, as groats (whole), steel-cut (cut groats), {{rolled|#rolled oats}} (flattened), crushed (quick oats) or ground into flour. Oats are a source of {*protein*}, {*thiamine*}, {*iron*}, and are a near equivalent in quality to {{soy protein|#soy beans}}.
+  LONG
+    & Oats are often boiled and eaten as porridge, but can also be baked into savoury foods and desserts, or made into plant milk. 
+Rolled oats
+  BREF : Rolled oats are oat groats that are dehusked and steamed, before being rolled into flat flakes under heavy rollers. 
+  LONG
+    & Thick-rolled oats are large whole flakes, and thin-rolled oats are smaller, fragmented flakes. Rolled whole oats, without further processing, can be cooked into a porridge and eaten as old-fashioned oats. Rolled oats are most often the main ingredient in granola and muesli.
 Rice
   BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
 Basmati Rice
