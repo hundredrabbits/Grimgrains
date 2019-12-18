@@ -777,27 +777,42 @@ Rolled oats
   LONG
     & Thick-rolled oats are large whole flakes, and thin-rolled oats are smaller, fragmented flakes. Rolled whole oats, without further processing, can be cooked into a porridge and eaten as old-fashioned oats. Rolled oats are most often the main ingredient in granola and muesli.
 Rice
-  BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
+  BREF : Rice is the seed of the grass species {*Oryza sativa*} (asian rice) or {*Oryza glaberrima*} (african rice). Rice is the most important grain with regard to human nutrition and caloric intake, providing more than one-fifth of the calories consumed worldwide by humans. Many varieties of rice are fortified to reduce malnutrition. 
+    LONG 
+      & The {{nutrition value|http://apps.who.int/iris/bitstream/handle/10665/272535/9789241550291-eng.pdf?ua=1}} of rice depends on the strain of rice (white, brown, red, and black/purple), the nutrient quality of the soil, whether and how the rice is polished or processed, the manner it is enriched, and how it is prepared before consumption.
+  WARN 
+    & As arsenic is a natural element in soil, water, and air, the United States Food and Drug Administration (FDA) monitors the levels of arsenic in foods, particularly in rice products used commonly for infant food. Rice plants absorb arsenic more readily than other food crops. The amount in rice varies widely. White rice grown in Arkansas, Louisiana, Missouri, and Texas, which account collectively for 76 percent of American-produced rice, had higher levels of arsenic than other regions of the world studied, possibly because of past use of arsenic-based pesticides to control cotton weevils ({{ref|https://www.consumerreports.org/cro/magazine/2012/11/arsenic-in-your-food/index.htm#chart}}). Jasmine rice from Thailand and Basmati rice from Pakistan and India contain the least arsenic among rice varieties ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1892142/}}).
 Basmati Rice
   PARENT : Rice
-White Rice
-  PARENT : Rice
+  BREF : Basmati, meaning {*fragrant*}, is a variety of long, thin-grained aromatic rice traditionally cultivated in India. The rice has a {{pandan|#pandanus}}-like flavor, giving it a spicy fragrance. The level of the compound that gives basmati rice its distinctive aroma decreases in cooking, but if the rice is soaked 30 min before cooking it helps preserve more of it. 
+  LONG 
+    & {*How to cook:*} Ratios of rice to water is 1:1.5 To cook basmati rice, rinse for a few minutes to get rid of the starch that makes the rice sticky. Add a bit of salt to the rice into the rice grains. Pour boiling water over the rice. Set pot over med-high heat, when water boils cover with lid so that no steam escapes. Reduce heat, cook for 15 min. After 15 min, remove from heat and let rest for another 5 min. 
 Short Grain White Rice
-  PARENT : White Rice, Rice
+  PARENT : Rice
+  BREF : Short grain white rice is also known as {*uruchimai*} rice or {*sushi rice*} in the west. It consists of short translucent grains that develop a sticky texture when cooked. The most common cultivars include {*Koshihiraki*}, {*Akitakomachi*}, {*Sasanishiki*} and {*Calrose*}. Calrose is technically a medium-grain rice, but is commonly used in in North American in Japanese cuisine. White short grain rice is milled so that it has its husk, bran and germ removed. Doing this alters the flavor and look of the rice and helps extend its storage life. After the rice is milled, the rice is often polished so that it becomes even more white.
+  LONG
+    & {*How to cook glutinous rice:*} Wash the rice to release excess starch, until water runs clear. Soak for 30 min (in summer) and 2h (in winter). Use a rice to water ratio of 1:1.25. Bring water to a boil, turn heat to low and cover pot with lid. Cook for 10 minutes. Let rest for 10 min. 
 Black Rice
   PARENT : Rice
 Puffed Rice
   PARENT : Rice
-Brown Rice
+  BREF : Puffed rice refers to various foods made by introducing air into rice, typically in such a way that the grains of rice become larger and lighter, while also reducing moisture to achieve a crisp texture consistency. A variety of methods exist to make puffed rice, with varying effects on the final product ({{ref|https://en.wikipedia.org/wiki/Puffed_rice}}).
+Medium Grain Brown Rice
   PARENT : Rice
+  BREF : Brown rice is medium or long-grain rice that has not been polished (still has its bran and germ). The rice is a beige, or light brown color and has not been refined. Brown rice is higher in vitamins, such as B1 (thiamine), but has a longer cooking time. Brown rice has a shelf life of approximately 6 months.
+  LONG
+    & {*How to cook brown rice:*} Use a rice to water ratio of 1:2. Rinse the rice thoroughly. Combine rice and water, stir in some salt. Bring to a boil and reduce heat and cover. Cook for 45 min. Take rice off heat, let rest for 10-15 min. 
+    & {{Germinated brown rice|https://en.wikipedia.org/wiki/Germinated_brown_rice}} has a good nutritional profile, cooks faster than brown rice and has a better overall texture when cooked. 
 Black Glutinous Rice
-  PARENT : Black Rice, Rice
-Wholegrain Brown Rice
-  PARENT : Brown Rice, Rice
-Rice Noodles
+  PARENT : Rice
+  BREF : Black/purple glutinous is unmilled rice, and come from distinct strains from white glutinous rice. It is a dark black/purple color, and has an earthy, nutty taste. This type of rice is rich in {*iron*}.
+  LONG 
+    & {*How to cook:*} Soak the the rice in water overnight, or for at least 6h. Add water to a pot, superimpose steam basket and add rice in it, cover with lid and steam for 40 min. After 40 min, pour a cup of hot water over rice, shake rice, and steam for another 10 min. Remove from heat, keep covered until serving time. 
 Rice Flour
-  PARENT : Rice, Flour
-
+  PARENT : Rice
+  BREF : Rice flour is made from finely milled rice, and is made from both brown and white rice. In Japan, rice flour is called {*komeko 米粉*}, and is available in two forms: glutinous and non-glutinous. 
+  LONG
+    & Glutinous flours are sweet/sticky, and include {*mochigomeko もち米粉*}, made from ground cooked glutinous rice and used as a thickener/to make mochi, and {*shiratamako 白玉粉*}, is produced from ground uncooked glutinous rice and is used to make confectioneries. Non-glutinous flour varieties are used to make flat breads, breads etc
 Flour
   COLOR : #EFEFEF
   BREF : Flour is a powder made by grinding raw grains, roots, beans, nuts, or seeds. It is used to make many different foods. Cereal flour is the main ingredient of bread, which is a staple food for most cultures. Wheat is the most common base for flour, as is corn flour and rye flour. Cereal flour consists either of the endosperm, germ, and bran together ({{wholegrain wheat flour}}) or of the endosperm alone ({{all purpose flour}}).
