@@ -781,7 +781,7 @@ Rice
     LONG 
       & The {{nutrition value|http://apps.who.int/iris/bitstream/handle/10665/272535/9789241550291-eng.pdf?ua=1}} of rice depends on the strain of rice (white, brown, red, and black/purple), the nutrient quality of the soil, whether and how the rice is polished or processed, the manner it is enriched, and how it is prepared before consumption.
   WARN 
-    & As arsenic is a natural element in soil, water, and air, the United States Food and Drug Administration (FDA) monitors the levels of arsenic in foods, particularly in rice products used commonly for infant food. Rice plants absorb arsenic more readily than other food crops. The amount in rice varies widely. White rice grown in Arkansas, Louisiana, Missouri, and Texas, which account collectively for 76 percent of American-produced rice, had higher levels of arsenic than other regions of the world studied, possibly because of past use of arsenic-based pesticides to control cotton weevils ({{ref|https://www.consumerreports.org/cro/magazine/2012/11/arsenic-in-your-food/index.htm#chart}}). Jasmine rice from Thailand and Basmati rice from Pakistan and India contain the least arsenic among rice varieties ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1892142/}}).
+    & As arsenic is a natural element in soil, water, and air, {{the FDA monitors the levels of arsenic in foods|https://wayback.archive-it.org/7993/20171104131921/https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm319948.htm}}, particularly in rice products used commonly for infant food. Rice plants absorb arsenic more readily than other food crops. The amount in rice varies widely. White rice grown in Arkansas, Louisiana, Missouri, and Texas, which account collectively for 76 percent of American-produced rice, had higher levels of arsenic than other regions of the world studied, possibly because of past use of arsenic-based pesticides to control cotton weevils ({{ref|https://www.consumerreports.org/cro/magazine/2012/11/arsenic-in-your-food/index.htm#chart}}). Jasmine rice from Thailand and Basmati rice from Pakistan and India contain the least arsenic among rice varieties ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1892142/}}).
 Basmati Rice
   PARENT : Rice
   BREF : Basmati, meaning {*fragrant*}, is a variety of long, thin-grained aromatic rice traditionally cultivated in India. The rice has a {{pandan|#pandanus}}-like flavor, giving it a spicy fragrance. The level of the compound that gives basmati rice its distinctive aroma decreases in cooking, but if the rice is soaked 30 min before cooking it helps preserve more of it. 
@@ -895,7 +895,11 @@ Maple syrup
   BREF : Quebec is the largest producer of maple syrup in the world!
 Brown rice syrup
   COLOR : #875A2C
-  BREF : Brown rice syrup is used to sweeten rice milk.
+  BREF : Brown rice syrup, or brown rice malt, is a sweetener. Is is made by steeping cooked rice starch with enzymes that break them down, the liquid is then strained off and reduced until the desired consistency is reached.
+  LONG
+    & Rice syrup has a shelf life of about a year, and once opened, should be stored in a cool, dry place. 
+  WARN
+    & One study looked at the arsenic content of organic brown rice syrup. It tested isolated syrups, as well as products sweetened with rice syrup, including infant formulas. Significant levels of arsenic were identified in these products. The FDA claims that {{these amounts are too low to be harmful|https://wayback.archive-it.org/7993/20170404230659/https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm292531.htm}}. When it comes to infants, it’s probably best to completely avoid products sweetened with brown rice syrup. ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346801/}}).
 
 ~ VINEGARS
 Rice vinegar
