@@ -30,7 +30,6 @@ function graph () {
         <li><a class="local home" href="#home">Home</a></li>
         <li><a class="local about" href="#about">About</a></li>
         <li><a class="local tools" href="#tools">Tools</a></li>
-        <li><a class="local gallery" href="#gallery">Gallery</a></li>
         <li><a class="local nutrition" href="#nutrition">Nutrition</a></li>
         <li class='right'><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li>
       </ul>`.to_markup()),
