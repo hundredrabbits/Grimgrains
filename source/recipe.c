@@ -59,10 +59,10 @@ void print_recipe(Recipe *recipe) {
   printf("===========\nParts:\n");
   for(int i = 0; i < recipe->parts_len; ++i) {
     printf("- %s(%d ingredients %d instructions)\n", recipe->parts[i]->name, recipe->parts[i]->servings_len, recipe->parts[i]->instructions_len);
-    // for(int i = 0; i < recipe->parts[i]->instructions_len; ++i) {
-      // printf("-- %s\n", recipe->parts[i]->instructions[i]);
+    for(int i2 = 0; i2 < recipe->parts[i]->instructions_len; ++i2) {
+      printf("-- %s\n", recipe->parts[i]->instructions[i2]);
 
-    // }
+    }
   }
   // printf("===========\nIngredients:\n");
   // for(int i = 0; i < recipe.servings_len; ++i) {
