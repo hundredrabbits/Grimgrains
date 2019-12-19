@@ -8,7 +8,7 @@ int main(void) {
   #include "ingredients.c"
   #include "recipes.c"
 
-  print_recipe(sweet_sour_lentils);
+  print_recipe(&sweet_sour_lentils);
 
   return (0);
 }

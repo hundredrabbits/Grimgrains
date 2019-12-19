@@ -54,13 +54,13 @@ void add_part(Recipe *r, RecipePart *p){
   r->parts_len++;
 }
 
-void print_recipe(Recipe recipe) {
-  printf("name:%s, portions:%s date:%d time:%d\n",recipe.name,recipe.portions,recipe.date,recipe.time);
+void print_recipe(Recipe *recipe) {
+  printf("name:%s, portions:%s date:%d time:%d\n",recipe->name,recipe->portions,recipe->date,recipe->time);
   printf("===========\nParts:\n");
-  for(int i = 0; i < recipe.parts_len; ++i) {
-    printf("- %s(%d ingredients %d instructions)\n", recipe.parts[i]->name, recipe.parts[i]->servings_len, recipe.parts[i]->instructions_len);
-    // for(int i = 0; i < recipe.parts[i].servings_len; ++i) {
-    //   printf("-- %s\n", recipe.parts[i].servings[i].ingredient->name);
+  for(int i = 0; i < recipe->parts_len; ++i) {
+    printf("- %s(%d ingredients %d instructions)\n", recipe->parts[i]->name, recipe->parts[i]->servings_len, recipe->parts[i]->instructions_len);
+    // for(int i = 0; i < recipe->parts[i]->instructions_len; ++i) {
+      // printf("-- %s\n", recipe->parts[i]->instructions[i]);
 
     // }
   }
