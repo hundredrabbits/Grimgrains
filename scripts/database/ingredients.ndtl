@@ -851,8 +851,10 @@ Miso
 Red Miso
   COLOR : #875A2C
 ~ Tell me (microlith57) if this color needs changing.
+  PARENT : Miso
   BREF : Red miso, or {*Akamiso (赤味噌)*}, is salty with some astringency with umami. It is strong-tasting, and the depth of color depends on the formula of the {{soybeans}} and the quantity that is used. Red miso is aged, for a year or more. 
 White Miso
+  PARENT : Miso
   COLOR : #955C19
   BREF : White miso, or {*Shiromiso (白味噌)*}, is the most common type of miso. Its main ingredients include rice, barley, and a small quantity of soybeans. If there was a greater quanity of soybeans, the miso would turn a red or brown color. White miso has a very short fermentation time. It has a sweet taste, with a light umami taste.
 Tofu
@@ -946,22 +948,11 @@ Matcha Powder
   LONG
     & There are different grades of matcha, used for different purposes. There is {*ceremonial grade*}, {*premium grade*} and {*culinary grade*}. In recipes, it is used in desserts and drinks, it adds both bitterness and color to a dish and pairs well with sweet. 
   COLOR : #006633
-  TAGS
-    Tea
-
 Houjicha
   BREF : Houjicha is roasted Japanese green tea. It is roasted in a porcelain pot over charcoal, instead of being steamed like most Japanese teas. The leaves turn from green to brown, and develop a nutty, caramel-like flavor. 
   LONG
     & Houjicha is lower in caffeine than green tea, because of the roasting process. Because of this, it is popular tea to serve in evenings after meals. 
   COLOR : #875A2C
-Hibiscus
-
-Mint tea
-
-Lapsang souchong
-  COLOR : #875A2C
-  TAGS
-    Tea
 
 ~ ALCOHOL
 
@@ -981,10 +972,6 @@ Sake
   LONG
     & There is {*nihonshu-do 日本酒度*}, {*san-do 酸度*}, {*aminosan-do アミノ酸度*}, {*ginjoushu 吟醸酒*} and many, many more. Sake is made by fermenting rice that has been polished to remove the outer bran. The process of sake is more similar to beer than to wine, because the starch is converted into sugars which ferment into alcohol.The serving temperature of sake depends on the type. Sake can be served at room temperature {*hiya 冷や*}, chilled {*reishu 冷酒*} or heated {*atsukan 熱燗*}. 
     & In cooking, you can use a cheaper variety called {*ryorishu 料理酒*} or {*cooking sake*}. Cooking sake has added salt to make it unfit for drinking, so that shop owners can sell it without an alcohol license. Adding regular sake in recipes though is also fine.
-Whisky
-Cider
-Rhum
-Porto
 
 ~ OILS
 
@@ -1030,8 +1017,6 @@ Soy milk
   BREF : {{Soy milk}} is a by-product of the manufacture of {{tofu}}, and an important source of protein, calcium, vitamin D and B12 for vegans. When buying soy milk, prioritize unsweetened enriched varieties. 
   LONG
     & {{Soy milk}} is made from soaking and griding {{soy beans}}, boiling the mixture and filtering out the pulp. Soy milk is a stable emulsion of oil, water and protein. 
-Purple potato powder
-  COLOR : #6620B3
 Baguette
   COLOR : #875A2C
   BREF : Originating in France, baguettes are made from basic lean dough. It is recognizable by its length and crisp crust. 
@@ -1042,9 +1027,6 @@ Vegan butter
   BREF : Vegan butter is made from vegetable oils, and serves as an alternative to cow's milk. 
   LONG
     & Common brands include {{earth balance|https://world.openfoodfacts.org/product/0033776011703/original-buttery-spread-78-vegetable-oils-earth-balance}}. High-fat oils like coconut and olive oil can be used instead.  
-Royal blue colouring
-Violet colouring
-Wholegrain macaroni
 Scoobi do
 Fusilli
 Soy yogurt
@@ -1052,17 +1034,10 @@ Kinako
   BREF : Kinako is roasted soybean flour, used in Japanese cuisine. Kinako means "yellow flour" in Japanese. Kinako contains B vitamins and some protein. 
   LONG
     & Kinako is produced by grinding roasted soybeans into powder, some kinds keep the roasted skin which alters the color of the final product. Kinako is often used to make desserts, like dumplings coated with it, it is also sometimes combined with {{soy milk}}.
-Blue corn tortilla
-Tofurky sausages
 Corn tortillas
-Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and are very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
   BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', as 'stock cube' in Australia, Ireland, New Zealand, South Africa, and the UK, and as 'dehydrated bouillon' in France.
-Macaroni
-Tajin
-Instant noodles
 Water
   BREF : 70% of the fresh water used by people goes to agriculture.
 Sugar
@@ -1088,8 +1063,10 @@ Salt
   LONG
     & Salting is an important method of preserving food, used in many cultures around the world. Salt is produced by evaporating sea water and mineral-rich spring water in shallow pools. Industrial byproducts include caustic soda and chlorine, and is used to manufactur many products like plastics and paper pulp. Two hundred million tonnes of salt are use for human consumption per year. 
 Sea Salt
-  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food. 
+  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food.
   LONG
     & Iodine, an element essential for human health, is present only in small amounts in sea salt.
-Chocolate
+Chocolate chips
+  PARENT : Cocoa Beans
+  BREF : Chocolate chips are small chunks of chocolate, made from roasted and ground {{cocoa beans}}. They often come in a teardrop shape, as flat discs or as square blocks. They were designed to retain their shape when baking, and therefore aren't a substitute for baking chocolate. Chocolate chips come unsweetened, semi-sweetened and sweetened. 
 `
