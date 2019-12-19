@@ -407,7 +407,7 @@ Bamboo shoots
 Breadfruit
   BREF : Breadfruit are prickly with yellow-green skin. Their appearances depends on the variety and growing conditions. When immature, the fruit is hard, and the flesh is starchy and a bit fibrous. Ripe breadfruit becomes soft, with the skin turning a yellow color, it also develops a creamy texture with a sweet aroma. Breadfruit is a high-energy food, containing all 9 EAA's. It's rich in {*protein*}, and contains {*vitamin C*}, {*calcium*} and {*iron*}.
   LONG
-    & Breadfruit trees can grow more than 80 feet tall, they are one of the highest yielding food plants with a single tree producing up to 450 pounds of fruit per year. Because of it's high-yield and energy content, it has the potential to address world hunger. Breadfruit can be baked into cakes and bread, it can also be made into {{pasta|#breadfruit pasta}}, {{pan-fried|#Pan fried breadfruit}}, marinated, pickled, made into chips etc. 
+    & Breadfruit trees can grow more than 80 feet tall, they are one of the highest yielding food plants with a single tree producing up to 450 pounds of fruit per year. Because of it's high-yield and energy content, it has the potential to address world hunger. Breadfruit is a delicious substitute for any starchy root crop, vegetable, {{pasta|#breadfruit pasta}}, {{potato|#breadfruit gnocchi}}, or rice. 
 Scallions
   BREF : Scallions, or green onions, is a term used for multiple varieties that were harvested when young before a bulb appears. They are crisp and juicy and have a milder taste than most onions. Scallions are a source of {*vitamin C*}, {*calcium*} and {*vitamin A*}.
   LONG
@@ -692,7 +692,7 @@ Carob
   COLOR : #875A2C
   BREF : The carob, or {*Ceratonia siliqua*}, is a tree in the legume family {*Fabaceae*}. It is cultivated for its edible pods, which when ripe, are sometimes dried, toasted and ground into carob powder. Carob pods are sweet, not bitter, and contain no theobromine or caffeine. 
   LONG
-    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}. Carob seeds is the base ingredients for the product of locus bean gum, a thickening agent used in the food industry. 
+    & They are non-toxic to animals because they lack {{theobromine|https://en.wikipedia.org/wiki/Theobromine}}. Carob seeds is the base ingredients for the product of locus bean gum, a thickening agent used in the food industry. 
 Carob Chips
   BREF : Carob chips are the dried, toasted form of {{carob}} pods. 
 Bay leaf
@@ -824,10 +824,11 @@ All Purpose Flour
   PARENT : Flour
 Breadfruit Flour
   PARENT : Breadfruit
-  BREF : The product of dried and ground breadfruit. Can be used to make cakes, pasta and a number of other meals.
+  BREF : The product of dried and ground breadfruit. It it used to make cookies, cakes, {{pasta|#breadfruit pasta}} and a number of other recipes. 
 Wheat Semolina
-Oatmeal
-Cornmeal
+  BREF : Wheat semolina is the coarse wheat middlings of durum wheat. It is a pale yellow color, and is often used as the base for dried products (couscous) and to flour baking surfaces to prevent sticking. 
+  LONG
+    & The wheat berries are fed into a mill, and the rollers gradually remove the bran and germ while the endosperm (starch) is cracked into coarse bits. The lot is sifted, and so the endosperm, particles and semolina is separated.
 
 ~ SPECIAL
 
@@ -835,26 +836,42 @@ Beni shouga
   PARENT : Ginger root
   BREF : Beni shouga, or pickled ginger, is a Japanese pickle or {*tsukemono 漬物*}. 
   LONG
-    & Beni shouga is made from thin strips of ginger, pickled in {*umezu 梅酢*} (plum brine). Umezu is the brine that results during the process of making {*umeboshi 梅干*} (pickled plums). Traditionally, the red of the ginger comes from the {*shiso シソ*} plant of the genus {*Perilla*}, although most commercial products use artificial coloring. Beni shouga is commonly served in yakisoba (sauteed buckwheat noodles) and {{okonomiyaki|#okonomiyaki}}. 
+    & Beni shouga is made from thin strips of ginger, pickled in {*umezu 梅酢*} (plum brine). Umezu is the brine that results during the process of making {*umeboshi 梅干*} (pickled plums). Traditionally, the red of the ginger comes from the {*shiso シソ*} plant of the genus {*Perilla*}, although most commercial products use artificial coloring. Beni shouga is commonly served in yakisoba (sauteed buckwheat noodles) and {{okonomiyaki|#okonomiyaki}} 
 Vegemite
   COLOR : #875A2C
-  BREF : It's one of the richest sources of B vitamins, specifically thiamine, riboglavin, niacin and folic acid. It doesn't have any fat, added sugar or animal content.
+  BREF : Vegemite is a thick, dark brown food spread. It's made from leftover brewer's yeast extract with various vegetable and spices added. Vegemite is very salty, with a strong umami, malty flavor. It is a rich source of {*B vitamins*}.
+  LONG 
+    & Vegemite is the Australian cousin of {*Marmite*}, concocted by a chemist during a time where imports of Marmite into Australia were disrupted by the war (see {{story|https://theculturetrip.com/pacific/australia/articles/the-history-of-australias-favourite-spread-vegemite/}}). 
 Miso
-  BREF : Miso can be used to pickle vegetables. It can be different colors such as {{red|red miso}} and {{white|white miso}}.
+  BREF : Miso, or {*みそ*}, is a traditional Japanese seasoning produced by fermenting {{soybeans}} with both salt and koji (fungus {*Aspergillus oryzae*}) and sometimes with {{rice}}, barley and {{seaweed}}. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: {*Shiromiso*} (white), {*Akamiso*} (red) and {*Awasemiso*} (mixed). Miso is a rich source of {*protein*}.
+  LONG
+    & Miso is high in sodium, a known carcinogenic, but is {{safe to consume|https://nutritionfacts.org/video/is-miso-healthy/}} as the carcinogenic effects of the salt are counteracted by the {{anti-carcinogenic effects of the soy|https://www.ncbi.nlm.nih.gov/pubmed/23812102}}. As for risks of hypertention, the salt in miso is squeezing blood pressures up, but the {{soy protein|https://www.ncbi.nlm.nih.gov/pubmed/12097666}} in miso is relaxing blood pressures down. All in all, the anti-hypertensive effects of the soy in the miso exceed the {{hypertensive effects|https://www.ncbi.nlm.nih.gov/pubmed/11195162}} of the salt.
+    & Fermentation time ranges from as little as five days to several years. The color of fermented miso changes from white, to red or black, due to the {{Maillard reaction|https://en.wikipedia.org/wiki/Maillard_reaction}}, a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. Miso typically comes as a paste in a sealed container requiring refrigeration after opening. It is used in soups (miso soup, ramen, nabe, udon etc), traditional confections (mochidango) and to make pickes (misozuke).
+    & {*Cooking notes:*} As natural miso is a living food, it contains many beneficial microorganisms (like {{Tetragenococcus halophilus|https://en.wikipedia.org/wiki/Tetragenococcus_halophilus}}) which can be killed by overcooking. To better conserve these precious microorganisms, miso should be added to soups or other foods just before they're removed from heat. Eating raw miso is even better.  
 Red Miso
   COLOR : #875A2C
 ~ Tell me (microlith57) if this color needs changing.
+  PARENT : Miso
+  BREF : Red miso, or {*Akamiso (赤味噌)*}, is salty with some astringency with umami. It is strong-tasting, and the depth of color depends on the formula of the {{soybeans}} and the quantity that is used. Red miso is aged, for a year or more. 
 White Miso
+  PARENT : Miso
   COLOR : #955C19
+  BREF : White miso, or {*Shiromiso (白味噌)*}, is the most common type of miso. Its main ingredients include rice, barley, and a small quantity of soybeans. If there was a greater quanity of soybeans, the miso would turn a red or brown color. White miso has a very short fermentation time. It has a sweet taste, with a light umami taste.
 Tofu
   COLOR : #EFEFEF
-  BREF : The word {_bean curds_} for tofu has been used in the US since 1840. See also: {{soft tofu}}, {{burmese tofu}}.
+  BREF : Tofu is prepared by coagulating {{soy milk}} and pressing the resulting curds into a solid block of varying softness (silken, soft, firm, extra firm etc). Tofu has a muted flavor, that can be used in both sweet and savory recipes. Tofu is low in calories, and is a rich source of {*protein*}, {*iron*} and {*calcium*} (if the tofu was calcium-set).
+  LONG
+    & Tofu is set using a variety of coagulants, like {*gypsum (calcium sulfate)*}, which produces tofu that is tender but brittle in texture, and {*chloride-type nigari salts (magnesium chloride and calcium chloride)*}, which produces tofu with a smooth and tender texture.
+    & There are many types of processed tofu, including pickled tofu ({{sticky tofu|https://en.wikipedia.org/wiki/Stinky_tofu}}, {{pickled tofu|https://en.wikipedia.org/wiki/Pickled_tofu}}) and frozen tofu (thousand-layer tofu, kori tofu). Tofu byproducts are also very popular, and this includes tofu skin (yuba) and soy pulp (okara).
 Soft tofu
   PARENT : Tofu
-  BREF : Soft tofu, as its name suggests, is a softer version of tofu. It has a high water content, this should be taken into consideration when added to recipes. It is often used to make sauces, or smoothies. 
+  BREF : Soft tofu (嫩豆腐 or silken tofu), as its name suggests, is a softer version of tofu. It is undrained, unpressed and has a high moisture content. Its moisture content should be taken into consideration when added to recipes. It is often used to make sauces, or smoothies. 
 Burmese Tofu
   PARENT : Tofu
   COLOR : #EFEFEF
+  BREF : Burmese tofu is not made from {{soybeans}}, but with besan (chickpea) flour. It's made in a way that is similar to polenta, by mixing flour with water, turmeric and salt. Burmese tofu is yellow, with a jelly texture that doesn't crumbled when cut or sliced. 
+  LONG
+    & Burmese tofu can be fried, eaten in salads, curried etc. It is also used as an alternative to tofu for individuals who are sensitive to soy products. 
 Veganaise
   PARENT : Tofu
   BREF : Venagaise is a brand of plant-based mayonnaise, and it is also a general word used to refer to mayos that don't use animal products. To view the ingredients, see the {{recipe|#homemade veganaise}}.
@@ -931,22 +948,11 @@ Matcha Powder
   LONG
     & There are different grades of matcha, used for different purposes. There is {*ceremonial grade*}, {*premium grade*} and {*culinary grade*}. In recipes, it is used in desserts and drinks, it adds both bitterness and color to a dish and pairs well with sweet. 
   COLOR : #006633
-  TAGS
-    Tea
-
 Houjicha
   BREF : Houjicha is roasted Japanese green tea. It is roasted in a porcelain pot over charcoal, instead of being steamed like most Japanese teas. The leaves turn from green to brown, and develop a nutty, caramel-like flavor. 
   LONG
     & Houjicha is lower in caffeine than green tea, because of the roasting process. Because of this, it is popular tea to serve in evenings after meals. 
   COLOR : #875A2C
-Hibiscus
-
-Mint tea
-
-Lapsang souchong
-  COLOR : #875A2C
-  TAGS
-    Tea
 
 ~ ALCOHOL
 
@@ -966,10 +972,6 @@ Sake
   LONG
     & There is {*nihonshu-do 日本酒度*}, {*san-do 酸度*}, {*aminosan-do アミノ酸度*}, {*ginjoushu 吟醸酒*} and many, many more. Sake is made by fermenting rice that has been polished to remove the outer bran. The process of sake is more similar to beer than to wine, because the starch is converted into sugars which ferment into alcohol.The serving temperature of sake depends on the type. Sake can be served at room temperature {*hiya 冷や*}, chilled {*reishu 冷酒*} or heated {*atsukan 熱燗*}. 
     & In cooking, you can use a cheaper variety called {*ryorishu 料理酒*} or {*cooking sake*}. Cooking sake has added salt to make it unfit for drinking, so that shop owners can sell it without an alcohol license. Adding regular sake in recipes though is also fine.
-Whisky
-Cider
-Rhum
-Porto
 
 ~ OILS
 
@@ -1015,8 +1017,6 @@ Soy milk
   BREF : {{Soy milk}} is a by-product of the manufacture of {{tofu}}, and an important source of protein, calcium, vitamin D and B12 for vegans. When buying soy milk, prioritize unsweetened enriched varieties. 
   LONG
     & {{Soy milk}} is made from soaking and griding {{soy beans}}, boiling the mixture and filtering out the pulp. Soy milk is a stable emulsion of oil, water and protein. 
-Purple potato powder
-  COLOR : #6620B3
 Baguette
   COLOR : #875A2C
   BREF : Originating in France, baguettes are made from basic lean dough. It is recognizable by its length and crisp crust. 
@@ -1027,9 +1027,6 @@ Vegan butter
   BREF : Vegan butter is made from vegetable oils, and serves as an alternative to cow's milk. 
   LONG
     & Common brands include {{earth balance|https://world.openfoodfacts.org/product/0033776011703/original-buttery-spread-78-vegetable-oils-earth-balance}}. High-fat oils like coconut and olive oil can be used instead.  
-Royal blue colouring
-Violet colouring
-Wholegrain macaroni
 Scoobi do
 Fusilli
 Soy yogurt
@@ -1037,17 +1034,10 @@ Kinako
   BREF : Kinako is roasted soybean flour, used in Japanese cuisine. Kinako means "yellow flour" in Japanese. Kinako contains B vitamins and some protein. 
   LONG
     & Kinako is produced by grinding roasted soybeans into powder, some kinds keep the roasted skin which alters the color of the final product. Kinako is often used to make desserts, like dumplings coated with it, it is also sometimes combined with {{soy milk}}.
-Blue corn tortilla
-Tofurky sausages
 Corn tortillas
-Sugar apple
-  BREF : Sugar apples are covered with scale-like protuberances that you can pry off easily when the fruit is ripe. The skin is soft and sweet and can be eaten with a spoon, once the seeds have been removed. Sugar apples are high energy, and are very rich in minerals. They are a good source of calcium, manganese, phosphorus and vitamins B and C.
 Fleur de sel
 Vegetable bouillon
   BREF : Dehydrated vegetable bouillon has many names depending on where you live. In Canada and the US it is known as 'bouillon cube', as 'stock cube' in Australia, Ireland, New Zealand, South Africa, and the UK, and as 'dehydrated bouillon' in France.
-Macaroni
-Tajin
-Instant noodles
 Water
   BREF : 70% of the fresh water used by people goes to agriculture.
 Sugar
@@ -1073,8 +1063,10 @@ Salt
   LONG
     & Salting is an important method of preserving food, used in many cultures around the world. Salt is produced by evaporating sea water and mineral-rich spring water in shallow pools. Industrial byproducts include caustic soda and chlorine, and is used to manufactur many products like plastics and paper pulp. Two hundred million tonnes of salt are use for human consumption per year. 
 Sea Salt
-  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food. 
+  BREF : Sea salt is producted by evaporating seawater, and is used to season foods, in cooking and for preserving food.
   LONG
     & Iodine, an element essential for human health, is present only in small amounts in sea salt.
-Chocolate
+Chocolate chips
+  PARENT : Cocoa Beans
+  BREF : Chocolate chips are small chunks of chocolate, made from roasted and ground {{cocoa beans}}. They often come in a teardrop shape, as flat discs or as square blocks. They were designed to retain their shape when baking, and therefore aren't a substitute for baking chocolate. Chocolate chips come unsweetened, semi-sweetened and sweetened. 
 `
