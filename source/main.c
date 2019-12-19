@@ -60,7 +60,7 @@ void add_serving(Recipe *r, Ingredient *i, char *quantity){
 
 int main(void) {
   Ingredient pepper = create_ingredient("pepper","pepper is good");
-  Recipe cake = create_recipe(16,"cake","Some cake description.");
+  Recipe cake = create_recipe(16,"cake","Some cake description. トチシマクチトシ");
 
   add_serving(&cake,&pepper,"1tbs");
 
