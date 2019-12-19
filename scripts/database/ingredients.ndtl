@@ -546,7 +546,6 @@ Ground Turmeric
 Cinnamon
   COLOR : #875A2C
   BREF : Cinnamon is an aromatic spice from the inner bark of many species of tree from the genus {*Cinnamomum*}. It's a flavouring additive used in both sweet and savoury dishes. It's sold in the form of quills or powdered. Cinnamon is a rich source of {*calcium*} and {*iron*}.
-  LONGmailto:info@specialtyproduce.com
     & Only a tiny sliver of the inner bark is used. The outer, woody portion is discarded, leaving metre-long cinnamon strips that curl into rolls (referred to as "quills") on drying. The processed bark is dried, and cut into 5-10 cm lengths for sale. There are many varieties of cinnamon, with {*Cinnamomum cassia*} being the most common commercial type. Cassia has a strong, spicy flavor and handles baking conditions well. 
 Rosemary
   BREF : Rosemary, or {*Salvia rosmarinus*}, is a fragrant evergreen herb with needle-like leaves and white, pink, purple of blue flowers. It's leaves are used to flavor a variety of foods. It's a source of {*vitamin A*} and {*calcium*}.
@@ -599,6 +598,7 @@ Cocoa Powder
     & Recipes specifically call out whether they require Dutch-process or unsweetened cocoa. It's not a good idea to swap out regular cocoa for Dutch cocoa or vice-versa. Dutch-process cocoa does not react with baking soda like regular cocoa does, so you should only use Dutch-process cocoa in those recipes that have baking powder (see {{ref|https://www.huffpost.com/entry/unsweetened-vs-dutch-cocoa-powder_n_972395?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnJvbWFfcHJvY2Vzcw&guce_referrer_sig=AQAAAH1DFaQsw-T1c1SC1FaZBabMwbVXQ-BHNgG_19L6QijyflUYBgLug1DkfotIIc-TslE9MpvF9-mGqYMTRHlqz2Gy6iPuVPBtAGVOzKcxwGW0cggreoKl_ss_qlyMG2SSNjcMVGbjduavgUiXUTdrsSHcqiUvklahShVUXc44Q5wT}}).
     & The {*Broma process*} consists of hanging bags of roasted cocoa beans in a very warm room, above the melting point of cocoa butter (slightly above room temperature), and allowing the cocoa butter to drip off the beans, where it is collected, resulting in unsweetened cocoa that is dark brown, acidic and bitter. The {*Dutch process*} differs from the Broma process in that, after the cocoa butter has been drained off the beans as described above, the beans are then soaked in an alkaline solution to make them chemically neutral. Dutch process turns the cocoa a pale reddish brown and makes it chemically nonreactive.
 Cayenne Pepper
+  PARENT : Chili peppers
   BREF : Cayenne pepper is a type of {*Capsicum annuum*}, a moderately hot chili pepper. 
 Cayenne Pepper Powder
   PARENT : Cayenne Pepper
@@ -629,131 +629,198 @@ Nutmeg
     & If consumed in high doses, raw nutmeg has {{psychoactive effects|https://www.drugs.com/npp/nutmeg.html}}. Consumption of nutmeg at 1 to 2 mg/kg body weight was reported to induce CNS effects. Toxic overdose occurred at a 5 g dose.
 Thyme
   COLOR : #006633
-  BREF : Thyme keeps its flavour better when dried than other herbs.
+  BREF : Thyme is an aromatic herb and member of the genus {*Thymus*}. The most cultivated species is {*Thymus vulgaris*}. It is sold both fresh and dried. Thyme is used to make za'atar and herbes de Provence. Its delivers layers of woodsy, savory and mint flavors.
+  LONG
+    & Leaves may be removed from stems either by scraping with the back of a knife, or by pulling through the fingers or tines of a fork. Thyme keeps its flavour better when dried than other herbs. The fresh form is more flavourful, but also less convenient, storage life is rarely more than a week. However, the fresh form can last many months if carefully frozen (see {{ref|https://www.stilltasty.com/fooditems/index/18499}})
 Poppy seeds
   COLOR : #000000
-  BREF : Poppy seeds are less allergenic than a lot of other seeds or nuts.
-Paprika
-  COLOR : #94191C
-  BREF : Paprika is used with henna to give a red tint. It can be {{smoked|smoked paprika}}.
-Smoked Paprika
-Curry
-  COLOR : #FFD800
+  BREF : Poppy seeds are oilseeds that come from the {*Papaver somniferum*} which also produces {{Opium|https://en.wikipedia.org/wiki/Opium}}. Compared to the seed pod and straw, the seeds contain very low levels of opiates. Since poppy seeds are relatively expensive, they are sometimes mixed with the seeds of {*Amaranthus paniculatus*}, which closely resemble poppy seeds. Poppy seeds are a source of {*calcium*}, {*iron*} and {*zinc*}.
   LONG
-    & The word curry is derived from the word 'kari' meaning 'sauce' or 'relish for rice'.
-    & Curry can be made as {{a powder|curry powder}}, and comes in several colors such as {{green|green curry}} and {{yellow|yellow curry}}.
+    & The seeds are used whole or ground into meal, to be used in pastry and bread or to make poppyseed oil. It is also used to make poppy seed pasta, a sweet filling. The poppy seed harvest can be a by-product of cultivation of Papaver somniferum for {*opium*}, poppy straw, or both opium and poppy straw.
+Paprika
+  PARENT : Chili peppers
+  COLOR : #94191C
+  BREF : Paprika is a ground spice made from dried red fruits of the larger and sweeter varieties of the {{Capsicum annuum}}. The most common variety is {*tomato pepper*}, although sometimes both chili peppers and {{cayenne peppers}} are added. Paprika is a source of {*vitamin A*}.
+  LONG
+    & Paprika can range from mild to hot. Sweet paprika is mostly composed of the pericarp (outer skin), with more than half of the seeds removed, whereas hot paprika contains some seeds, stalks, placentas (where the seeds are attached to the top of the fruit), and calyces (part of stem that connects to top of the chili pepper). Store paprika in an airtight container in a cool, dark place for no more than six months. 
+Smoked Paprika
+  PARENT : Paprika
+  BREF : Smoked paprika, or {*Pimentón de la Vera*}, is paprika that has a distinct smoky flavor and aroma, as it is dried by smoking, typically using oak wood.
 Curry Powder
+  BREF : Curry powder is a spice blend, which contains more or less the same set of ingredients in varying quantities. Most mixes contain coriander, turmeric, cumin, fenugreek, and chili peppers.
+  LONG
+    & Other ingredients included in curry powders include ginger, garlic, asafoetida, fennel seed, caraway, cinnamon, clove, mustard seed, green cardamom, black cardamom, nutmeg, white turmeric, curry leaf, long pepper, and black pepper.
 Tamarind
   COLOR : #875A2C
-  BREF : Tamarinds can be made into a {{paste|tamarind paste}}.
-Cumin
-  COLOR : #875A2C
-  BREF : In Sanskrit Cumin is known as {_Jira_} which also means {_that which helps digestion_}. It is derived from the {{cumin seed|cumin seeds}}.
+  BREF : Tamarind, or {*Tamarindus indica*} is a leguminous tree that produces pod-like fruit that contains a brown, edible pulp. The fruit has a fleshy, juicy, acidic pulp. It is mature when the flesh is coloured brown or reddish brown. Tamarind flesh is sweet and sour in taste, and is a source of {*calcium*}.
+  LONG
+    & Tamarind is used in Worcestershire sauce, chutneys, curries, and is popular in many sweets in countries like Mexico.
 Cumin Seeds
+  COLOR : #875A2C
+  BREF : Cumin, or {*Cuminum cymimum*} is a plant of the family {*Apiaceae*}. It's seeds are dried and used both whole and ground. Cumin seed is used as a spice for its distinctive flavour and aroma, it imparts an earthy, warming and aromatic character to food. Cumin is a source of {*iron*}.
+  LONG
+    & Cumin is often confused with caraway (Carum carvi), and many European languages don't distinguish between the two. {*Nigella sativa*}, or black cumin, is distantly related and also sometimes confused with cumin. 
 Mustard Seeds
   COLOR : #FFD800
-  BREF : Canada is the top producer of {{mustard seeds}}, producing over 200,700 tonnes per year. One form of mustard is {{dijon mustard}}.
+  BREF : Mustard seeds are small round seeds produced by various mustard plants. They come in a variety of colors, ranging from yellow to white to black. They come from one of three different plants: black mustard (Brassica nigra), brown Indian mustard (B. juncea), or white/yellow mustard (B. hirta/Sinapis alba). 
+  LONG 
+    & Grinding and mixing the seeds with water, vinegar or other liquids creates the yellow condiment known as prepared mustard. 
 Dijon Mustard
-Pepper
-  COLOR : #000000
-  BREF : Historically, {{black pepper}} is the world's most traded spice.
+  PARENT : Mustard Seeds
+  BREF : Dijon mustard is a traditional mustard from France, named after the city of Dijon where it was made. The main ingredients of this condiment are brown mustard seeds and white wine, or a mix of wine vinegar, water and salt. It can be used as an accompaniment to dishes in its usual form as a paste, or it can be mixed with other ingredients to make a sauce.
+  LONG
+    & Dijon mustard does not have a protected geographical indication (PGI). 80% of seeds used to make the mustard come from Canada.
 Black Pepper
+  BREF : Black pepper, or {*Piper nigrum*}, is cultivated for its fruit known as a peppercorn. Peppercorn is dried and used a spice and seasoning. It is ubiquitous in the modern world as a seasoning, and is often paired with salt. There is white peppercorn (sarawak and muntok), black peppercorn (malabar and tellicherry), pink peppercorn and green peppercorn. 
+  LONG
+    & White pepper consists solely of the seed of the ripe fruit of the pepper plant, with the thin darker-coloured skin (flesh) of the fruit removed. Green pepper, like black pepper, is made from unripe drupes. Dried green peppercorns are treated in a way that retains the green colour, such as with sulphur dioxide, canning, or freeze-drying. Pink peppercorns are the fruits of the Peruvian pepper tree {*Schinus molle*}, or its relative, the Brazilian pepper tree, {*Schinus terebinthifolius*}.
 Shichimi togarashi
   COLOR : #94191C
-  BREF : 'shichi' is the japanese word for 7 and 'togarashi' for 'chiles'.
+  BREF : Shichi-mi tōgarashi {*七味唐辛子*}, or {*seven-flavor chili pepper*}, is a common Japanese spice mixture containing seven ingredients: chili pepper, ground sanshou, roasted orange peel, {{black sesame seeds}}, {{white sesame seeds}}, {{hemp seed|#shelled hemp seeds}}, ground ginger, {{aonori}} and {{poppy seeds}}.
 Gojuchang
   COLOR : #94191C
   BREF : Traditionally, gojuchang was fermented outdoors in large earthen pots.
-Masala
-  COLOR : #875A2C
-  BREF : Masala is a general term for many spice mixes used in Indian cooking (such as {{garam masala}}).
 Garam Masala
+  BREF : Garam Masala — garam/hot, masala/mixture of ground spices — as its name suggests, is an Indian mixture of varying quantities of ground spices. The choice of spices varies according to region and personal taste. Typical ingredients include fennel, black/white peppercorns, cloves, {{cinnamon}}, mace, cardamom pods, curry leaf, {{cumin}} and {{coriander}}.
+  LONG
+    & A masala may be toasted before use to release its flavours and aromas.
 Panko
+  BREF : Panko, or {*パン粉*}, is a variety of flaky breadcumb used in Japanese cuisine, used as a crunchy coating for frieds foods. It's lighter than and more crispy than breading in Western cuisine, it doesn't absorb oil or grease as readily when fried. 
+  LONG
+    & Panko is made from bread baked by electrical current, which yields a bread without a crust, and then grinding the bread to create fine slivers of crumb (see {{video|https://www.youtube.com/watch?v=bCNU9TrbiRk}}).
 Carob
   COLOR : #875A2C
-  BREF : Carob trees bear edible pods. The dried pod can be made into a powder often used as a cocoa substitute (for example, in {{carob chips}}).
+  BREF : The carob, or {*Ceratonia siliqua*}, is a tree in the legume family {*Fabaceae*}. It is cultivated for its edible pods, which when ripe, are sometimes dried, toasted and ground into carob powder. Carob pods are sweet, not bitter, and contain no theobromine or caffeine. 
+  LONG
+    & They are non-toxic to animals because they lack {{theobromine}https://en.wikipedia.org/wiki/Theobromine}}. Carob seeds is the base ingredients for the product of locus bean gum, a thickening agent used in the food industry. 
 Carob Chips
-Peppercorn
-  COLOR : #000000
-  BREF : There are several types of peppercorn ({{black|black pepper}} and {{sichuan|sichuan peppercorns}}).
+  BREF : Carob chips are the dried, toasted form of {{carob}} pods. 
 Bay leaf
   COLOR : #006633
-Chili
+  BREF : The bay leaf is an aromatic leaf that is both used whole, dried and ground. Bay leaf come from many plants, like the Bay laurel {*Laurus nobilis*}, California bay leaf {*Umbellularia californica*} and Malabathrum {*Cinnamomum tamala*}. Fresh or dried bay leaves are used in cooking for their distinctive flavour and fragrance. 
+  WARN
+    & Some members of the laurel family have leaves that are poisonous to humans and livestock. While these plants are not sold anywhere for culinary use, their visual similarity to bay leaves has led to the oft-repeated belief that bay leaves should be removed from food after cooking because they are poisonous. This is not true, bay leaves may be eaten without toxic effect. However, they may pose a risk of harming the digestive tract or causing choking. Thus, most recipes that use bay leaves will recommend their removal after the cooking process has finished (see {{ref|https://en.wikipedia.org/wiki/Bay_leaf#Safety}})
+Chili pepper flakes
+  PARENT : Chili peppers
   COLOR : #94191C
-  BREF : {{Chili pepper flakes}} have become a table top must over the years, and will often be present on a restaurant table alongside salt and pepper. See also {{green chili}}.
+  BREF : Chili pepper pods, which are berries, are used fresh or dried. Chilies are dried to preserve them for long periods of time. {{Dehydrated chiles|http://scottroberts.org/ultimate-guide-to-drying-hot-peppers/}} pack more fiery punch and ferocity in both solid food and hot sauce recipes than fresh peppers. If kept in a cool, dry place they should keep well for at least one year.
 Green Chili
-Chili Pepper Flakes
+Chili Peppers
+  BREF : Chili peppers, from Nahuatl {*chīlli*}, is the fruit of plants from the genus {*Capsicum*}. They're used in dishes to add heat or spice. There are many varieties of chili peppers, ranging in shape and color from white, yellow, red or purple to black. The 5 domesticated species are {*Capsicum annuum*}(bell peppers, cayenne etc), {*Capsicum frutescens*} (tabasco, thai etc), {*Capsicum chinense*} (habanero, naga etc), {*Capsicum pubescens*} (rocoto) and {*Capsicum babbactum*} (aji).
+  LONG
+    & The substances that give chili peppers their pungency (spicy heat) when ingested or applied topically are capsaicin. The quantity of capsaicin varies by variety, and on growing conditions. The intensity of the "heat" of chili peppers is commonly reported in {{Scoville heat units|https://web.archive.org/web/20100823044606/http://www.tabasco.com/info_booth/faq/scoville_how.cfm}} (SHU).
 Hops
   COLOR : #006633
-  BREF : There are many different varieties of hops around, from all corners of the globe.
+  BREF : Hops are the flowers of the hop plant {*Humulus lupulus*}. They are used a bittering, flavouring and stability agent in beer. While being bitter, hops also impart floral, fruity, or citrus flavours and aromas. Many different varieties are grown around the world, with different types used for particular styles of beer. 
+  LONG
+    & Specific hop varieties are associated with beer regions and styles, with pale largers being brewed with European {*noble hop*} varieties like {*{{Saaz|https://en.wikipedia.org/wiki/Saaz_hops}}*} (Stella Artois) and {*Hallertau*}, British ales with {*Fuggles*} and {*Goldings*}, North American beers with {*{{Cascade hops|https://en.wikipedia.org/wiki/Cascade_hop}}*} (anchor brewing company) and {*Columbus hops*} and New Zealand {*Pacific Gem*} and {*Motueka*}. Hops tend to be unstable when exposed to light or air and lose their potency after a few months' storage. 
+  WARN
+    & Hops are {{toxic|https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hops}} to dogs.
 Dried orange peel
+  BREF : The thick bitter rind of oranges is used in certain recipes as a food flavoring or garnish. It contains oils and has a strong flavor to that of the orange pulp. The peel is a source of {*vitamin C*}.
+  LONG 
+    & To make dried orange peel, wash the fruit well with running water. Dry, and peel the oranges with a sharp knife, and discard as much of the white pith from the skin as possible. Cut into thin, even pieces. Lay on a baking sheet, bake for 30-60 min at 200F. Check peels often so they don't burn (they curl when they're done). Remove from oven, let cool and store in an airtight container. 
 Oregano
-Cardamom
-Ajwain
-Fenugreek
+  BREF : Oregano, or {*Origanum vulgare*} is a plant of the mint family {*Lamiaceae*}. Oregano’s taste is zesty, slightly bitter and strong. It can be found fresh, dried or as an oil.
+  LONG
+    & Oregano leaves store well and are easily dried. Keep them in an airtight container once dried.
 
 ~ WHOLEGRAINS
 
 Whole wheat flour
   PARENT : Flour
-Buckwheat
+  BREF : Whole wheat flour, or wholemeal flour, is a powdery substance derived from grinding wheatberries. It is typically mixed with lighter white flours. This type of flour contains both the bran and germ, and is typically made from hard winter red wheat (in the US).
+Buckwheat groats
+  BREF : Buckwheat groats come from the buckwheat plant, or {*Fagopyrum esculentum*}. Buckwheat is not a wheat, but a 'pseudocereal' that is related to sorrel, knotweed and rhubarb. The groats can also be sprouted and then eaten raw or cooked. Buckwheat groats have a rich, nutty flavor, and are a good source of {*zinc*} and of the protein {*lysine*}. 
+  LONG 
+    & The groats can be processed into flour, made into beer, roasted and brewed as tea to make soba-cha {*そば茶*} and cooked like rice.
 Buckwheat noodles
+  PARENT : Buckwheat groats
+  BREF : Buckwheat noodles are popular in Japan and Korea, the difficulty of making noodles from flour with no gluten has resulted in a traditional art developed around their manufacture by hand. in Japan, they are made from buckwheat flour (juwari 十割), or a combination of buckwheat and wheat flours (nihachi soba 二八). Depending on the shop, the percentage of buckwheat flour in soba noodles typically ranges between 40% and 100%.
 Buckwheat flour
+  PARENT : Buckwheat groats
+  BREF : Buckwheat flour is made from ground buckwheat groats. It is often used partially in recipes with wheat flour. Use buckwheat flour for making buckwheat pancakes, noodles, and as a replacement for wheat flour in baked goods. As buckwheat contains no gluten, it may be eaten by people with gluten-related disorders. 
+Einkorn Wheat Flour
+  BREF : Einkorn wheat, or {*Triticum monococcum*}, was one of the first plants to be domesticated and cultivated. It is low-yielding, but thrives on poor, dry soil and fares better than other wheat in the same situations. Einkorn has more protein than modern red wheats, and is more nutritious. It is a good source of {*protein*} and {*iron*}.
+  LONG
+    & Because Einkorn wheat doesn't have much gluten, it won't rise as well as other wheats, but can be used in a variety of recipes like cookies, chips, pasta, crusts and salads. Two popular brands include Jovial Foods (Italy) and {{Daybreak Mill|https://www.daybreakmill.com/}} (Canadian).
   PARENT : Flour
-Quinoa
-Whole wheat
-Einkorn
-Einkorn Flour
-  PARENT : Flour
-Spelt
 Spelt Flour
   PARENT : Flour
+  BREF : Spelt flour, or {*Triticum aestivum*} is an ancient grain, with a different genus than wheat. Spelt is reddish in color, and has a nutty, somewhat sweet and mild taste. Spelt is a wholegrain, rich in {*iron*}, {*zinc*}, {*protein*} and {*calcium*}. 
+  LONG
+    &  It is considered a light grain, meaning it won't weight down baked goods like {{whole wheat flour}} does.  It is also much easier to digest than wheat. The gluten in spelt is more fragile, it breaks down more easily and so it's important to not knead too vigorously (that will result in a crumbly texture). Less gluten also means it won't rise as well, so a starter may be necessary, that, or more baking powder or yeast. ({{ref|https://www.daybreakmill.com/products/spelt-flour?_pos=2&_sid=ee26723e4&_ss=r}})
 Gluten Flour
   PARENT : Flour
+  BREF : Gluten flour is refined gluten protein, used to strengthen flour as needed. To make wheat gluten requires separating wheat flour into starch and protein by rinsing the starch away, leaving raw gluten which can be used in recipes. It can also be dried, as is the case for {{vital wheat gluten|https://www.bobsredmill.com/vital-wheat-gluten.html}}.
+  LONG 
+    & It can be used to make a vegetarian meat substitute known as {{seitan}}. Adding ~1 tsp of gluten flour per cup of {{All purpose flour}} gives the resulting mix the protein content of bread flour. Adding it to wholegrain bread recipes improves the texture and elasticity of the dough, helps retain the gas and steam from baking, and gives more volume to the baked bread.
 Corn
 Cornmeal
   PARENT : Corn
+  BREF : Cornmeal is a coarse flour made from dried corn (maize). It is ground to fine, medium and coarse consistencies for a variety of uses. Steel-ground yellow cornmeal (found in the US) has the husk and germ removed, while stone-ground cornmeal retains some of the hull and germ, giving it more nutrients and flavor. Cornmeal comes in many colors, from blue to violet, yellow and white. 
+  LONG
+    & Cornmeal can be used to flour the baking surface to prevent sticking. Cornmeal can also be boiled (polenta), and be used in baking, to make muffins, flatbreads, breads, desserts (cornbread, cornpone etc). Steel-ground yellow cornmeal keeps for 1 year if stored in a cool, dry place within an airtight container. Stone-ground cornmeal is more perishable, but will store longer if refrigerated or kept in a cool place. 
 Corn Semolina
+  BREF : Corn semolina is the coarse middlings from maize (corn). 
   PARENT : Corn
 
 ~ GRAINS
 
 Oats
   COLOR : #EFEFEF
-  BREF : If oat flour is used alone in baking, the flour won't rise. Best to mix it with other types of flour!
-Ground Oats
-  COLOR : #EFEFEF
-  PARENT : Oats
+  BREF : Oats, or {*Avena sativa*}, is a species of cereal grain grown for its seed. Oats is sold in many forms, as groats (whole), steel-cut (cut groats), {{rolled|#rolled oats}} (flattened), crushed (quick oats) or ground into flour. Oats are a source of {*protein*}, {*thiamine*}, {*iron*}, and are a near equivalent in quality to {{soy protein|#soy beans}}.
+  LONG
+    & Oats are often boiled and eaten as porridge, but can also be baked into savoury foods and desserts, or made into plant milk. 
+Rolled oats
+  BREF : Rolled oats are oat groats that are dehusked and steamed, before being rolled into flat flakes under heavy rollers. 
+  LONG
+    & Thick-rolled oats are large whole flakes, and thin-rolled oats are smaller, fragmented flakes. Rolled whole oats, without further processing, can be cooked into a porridge and eaten as old-fashioned oats. Rolled oats are most often the main ingredient in granola and muesli.
 Rice
-  BREF : Preparing puffed rice this way makes it less perishable. Brown rice is a wholegrain rice that has a nutty flavour, and it's more nutritious and chewy than white rice. It is produced by only removing the outermost husk, while white rice has several other layers removed. It is best to soak the rice for a day before cooking it to obtain a more nutritionally complete food, soaking it beforehand activates various enzymes in the rice.
+  BREF : Rice is the seed of the grass species {*Oryza sativa*} (asian rice) or {*Oryza glaberrima*} (african rice). Rice is the most important grain with regard to human nutrition and caloric intake, providing more than one-fifth of the calories consumed worldwide by humans. Many varieties of rice are fortified to reduce malnutrition. 
+    LONG 
+      & The {{nutrition value|http://apps.who.int/iris/bitstream/handle/10665/272535/9789241550291-eng.pdf?ua=1}} of rice depends on the strain of rice (white, brown, red, and black/purple), the nutrient quality of the soil, whether and how the rice is polished or processed, the manner it is enriched, and how it is prepared before consumption.
+  WARN 
+    & As arsenic is a natural element in soil, water, and air, {{the FDA monitors the levels of arsenic in foods|https://wayback.archive-it.org/7993/20171104131921/https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm319948.htm}}, particularly in rice products used commonly for infant food. Rice plants absorb arsenic more readily than other food crops. The amount in rice varies widely. White rice grown in Arkansas, Louisiana, Missouri, and Texas, which account collectively for 76 percent of American-produced rice, had higher levels of arsenic than other regions of the world studied, possibly because of past use of arsenic-based pesticides to control cotton weevils ({{ref|https://www.consumerreports.org/cro/magazine/2012/11/arsenic-in-your-food/index.htm#chart}}). Jasmine rice from Thailand and Basmati rice from Pakistan and India contain the least arsenic among rice varieties ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1892142/}}).
 Basmati Rice
   PARENT : Rice
-White Rice
-  PARENT : Rice
+  BREF : Basmati, meaning {*fragrant*}, is a variety of long, thin-grained aromatic rice traditionally cultivated in India. The rice has a {{pandan|#pandanus}}-like flavor, giving it a spicy fragrance. The level of the compound that gives basmati rice its distinctive aroma decreases in cooking, but if the rice is soaked 30 min before cooking it helps preserve more of it. 
+  LONG 
+    & {*How to cook:*} Ratios of rice to water is 1:1.5 To cook basmati rice, rinse for a few minutes to get rid of the starch that makes the rice sticky. Add a bit of salt to the rice into the rice grains. Pour boiling water over the rice. Set pot over med-high heat, when water boils cover with lid so that no steam escapes. Reduce heat, cook for 15 min. After 15 min, remove from heat and let rest for another 5 min. 
 Short Grain White Rice
-  PARENT : White Rice, Rice
+  PARENT : Rice
+  BREF : Short grain white rice is also known as {*uruchimai*} rice or {*sushi rice*} in the west. It consists of short translucent grains that develop a sticky texture when cooked. The most common cultivars include {*Koshihiraki*}, {*Akitakomachi*}, {*Sasanishiki*} and {*Calrose*}. Calrose is technically a medium-grain rice, but is commonly used in in North American in Japanese cuisine. White short grain rice is milled so that it has its husk, bran and germ removed. Doing this alters the flavor and look of the rice and helps extend its storage life. After the rice is milled, the rice is often polished so that it becomes even more white.
+  LONG
+    & {*How to cook glutinous rice:*} Wash the rice to release excess starch, until water runs clear. Soak for 30 min (in summer) and 2h (in winter). Use a rice to water ratio of 1:1.25. Bring water to a boil, turn heat to low and cover pot with lid. Cook for 10 minutes. Let rest for 10 min. 
 Black Rice
   PARENT : Rice
 Puffed Rice
   PARENT : Rice
-Brown Rice
+  BREF : Puffed rice refers to various foods made by introducing air into rice, typically in such a way that the grains of rice become larger and lighter, while also reducing moisture to achieve a crisp texture consistency. A variety of methods exist to make puffed rice, with varying effects on the final product ({{ref|https://en.wikipedia.org/wiki/Puffed_rice}}).
+Medium Grain Brown Rice
   PARENT : Rice
+  BREF : Brown rice is medium or long-grain rice that has not been polished (still has its bran and germ). The rice is a beige, or light brown color and has not been refined. Brown rice is higher in vitamins, such as B1 (thiamine), but has a longer cooking time. Brown rice has a shelf life of approximately 6 months.
+  LONG
+    & {*How to cook brown rice:*} Use a rice to water ratio of 1:2. Rinse the rice thoroughly. Combine rice and water, stir in some salt. Bring to a boil and reduce heat and cover. Cook for 45 min. Take rice off heat, let rest for 10-15 min. 
+    & {{Germinated brown rice|https://en.wikipedia.org/wiki/Germinated_brown_rice}} has a good nutritional profile, cooks faster than brown rice and has a better overall texture when cooked. 
 Black Glutinous Rice
-  PARENT : Black Rice, Rice
-Wholegrain Brown Rice
-  PARENT : Brown Rice, Rice
-Rice Noodles
+  PARENT : Rice
+  BREF : Black/purple glutinous is unmilled rice, and come from distinct strains from white glutinous rice. It is a dark black/purple color, and has an earthy, nutty taste. This type of rice is rich in {*iron*}.
+  LONG 
+    & {*How to cook:*} Soak the the rice in water overnight, or for at least 6h. Add water to a pot, superimpose steam basket and add rice in it, cover with lid and steam for 40 min. After 40 min, pour a cup of hot water over rice, shake rice, and steam for another 10 min. Remove from heat, keep covered until serving time. 
 Rice Flour
-  PARENT : Rice, Flour
-
+  PARENT : Rice
+  BREF : Rice flour is made from finely milled rice, and is made from both brown and white rice. In Japan, rice flour is called {*komeko 米粉*}, and is available in two forms: glutinous and non-glutinous. 
+  LONG
+    & Glutinous flours are sweet/sticky, and include {*mochigomeko もち米粉*}, made from ground cooked glutinous rice and used as a thickener/to make mochi, and {*shiratamako 白玉粉*}, is produced from ground uncooked glutinous rice and is used to make confectioneries. Non-glutinous flour varieties are used to make flat breads, breads etc
 Flour
   COLOR : #EFEFEF
-  LONG
-    & {{Plain flour|all purpose flour}} has an average protein content, making it versatile to use in almost any recipe that requires flour.
-    & {{Spelt flour}} was a staple food during the Bronze age all the way up to medieval times.
-    & Brown {{rice flour}} is sometimes used as a base to grow mushrooms.
-    & {{Einkorn|einkorn flour}} wheat was one of the first plants to be domesticated and cultivated. It has a high percentage of protein, more than regular wheat. It also has high levels of fat, phosphorus, potassium, pyridoxine (a form of vitamin b6) and beta-carotene, making it more nutritious than other kinds of grains. Another great thing about einkorn is that it isn't as toxic to people on gluten-free diets, it as yet to be proven but it should definitely be looked into!
+  BREF : Flour is a powder made by grinding raw grains, roots, beans, nuts, or seeds. It is used to make many different foods. Cereal flour is the main ingredient of bread, which is a staple food for most cultures. Wheat is the most common base for flour, as is corn flour and rye flour. Cereal flour consists either of the endosperm, germ, and bran together ({{wholegrain wheat flour}}) or of the endosperm alone ({{all purpose flour}}).
+    & The kinds of flour used in cooking include all-purpose flour (also known as plain), self-rising flour (also known as self-raising), and cake flour including bleached flour. The higher the protein content the harder and stronger the flour, and the more it will produce crusty or chewy breads. The lower the protein the softer the flour, which is better for cakes, cookies, and pie crusts.
 All Purpose Flour
+  BREF : All-purpose, or plain flour, has a medium level of gluten protein content. 
+  LONG
+    & AP has enough protein content for many bread and pizza bases, although artisan bakers often use bread flour and special grade 00 Italian flours. "Plain" also refers to AP's lack of any added leavening agent.
   PARENT : Flour
 Breadfruit Flour
   PARENT : Breadfruit
@@ -828,7 +895,11 @@ Maple syrup
   BREF : Quebec is the largest producer of maple syrup in the world!
 Brown rice syrup
   COLOR : #875A2C
-  BREF : Brown rice syrup is used to sweeten rice milk.
+  BREF : Brown rice syrup, or brown rice malt, is a sweetener. Is is made by steeping cooked rice starch with enzymes that break them down, the liquid is then strained off and reduced until the desired consistency is reached.
+  LONG
+    & Rice syrup has a shelf life of about a year, and once opened, should be stored in a cool, dry place. 
+  WARN
+    & One study looked at the arsenic content of organic brown rice syrup. It tested isolated syrups, as well as products sweetened with rice syrup, including infant formulas. Significant levels of arsenic were identified in these products. The FDA claims that {{these amounts are too low to be harmful|https://wayback.archive-it.org/7993/20170404230659/https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm292531.htm}}. When it comes to infants, it’s probably best to completely avoid products sweetened with brown rice syrup. ({{ref|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346801/}}).
 
 ~ VINEGARS
 Rice vinegar
@@ -908,7 +979,7 @@ Coconut oil
   BREF : Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling. 
   LONG
     & Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. Fun fact: Coconut oil was used in oil lamps in India before they had electrical lighting.
-Canola oil
+Canola Oil
   BREF : Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etc
   LONG
     & Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly. 
