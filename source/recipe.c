@@ -1,14 +1,20 @@
 
 typedef struct {
   char *name;
-  char *portions;
-  char *description;
-  int date;
-  int time;
   int instructions_len;
   char *instructions[256];
   int servings_len;
   Serving servings[10];
+} RecipePart;
+
+typedef struct {
+  char *name;
+  char *portions;
+  char *description;
+  int date;
+  int time;
+  int parts_len;
+  RecipePart *parts[10];
 } Recipe;
 
 Recipe create_recipe(char *name, char *portions, int date, int time) {
@@ -17,6 +23,14 @@ Recipe create_recipe(char *name, char *portions, int date, int time) {
   a.portions = portions;
   a.date = date;
   a.time = time;
+  a.parts_len = 0;
+  return a;
+}
+
+RecipePart create_recipe_part(char *name) {
+  RecipePart a;
+  a.name = name;
+  a.instructions_len = 0;
   a.servings_len = 0;
   return a;
 }
@@ -25,28 +39,33 @@ void add_recipe_description(Recipe *r, char *description){
   r->description = description;
 }
 
-void add_recipe_instruction(Recipe *r, char *instruction){
-  r->instructions[r->instructions_len] = instruction;
-  r->instructions_len++;
+void add_part_instruction(RecipePart *p, char *instruction){
+  p->instructions[p->instructions_len] = instruction;
+  p->instructions_len++;
 }
 
-void add_recipe_serving(Recipe *r, Ingredient *i, char *quantity){
-  r->servings[r->servings_len] = create_serving(i,quantity);
-  r->servings_len++;
+void add_part_serving(RecipePart *p, Ingredient *i, char *quantity){
+  p->servings[p->servings_len] = create_serving(i,quantity);
+  p->servings_len++;
 }
 
-void add_recipe_part(Recipe *r, Part *p) {
-
+void add_part(Recipe *r, RecipePart *p){
+  r->parts[r->parts_len] = p;
+  r->parts_len++;
 }
 
 void print_recipe(Recipe recipe) {
   printf("name:%s, portions:%s date:%d time:%d\n",recipe.name,recipe.portions,recipe.date,recipe.time);
-  printf("===========\nInstructions:\n");
-  for(int i = 0; i < recipe.instructions_len; ++i) {
-    printf("%s\n", recipe.instructions[i]);
+  printf("===========\nParts:\n");
+  for(int i = 0; i < recipe.parts_len; ++i) {
+    printf("- %s(%d ingredients %d instructions)\n", recipe.parts[i]->name, recipe.parts[i]->servings_len, recipe.parts[i]->instructions_len);
+    // for(int i = 0; i < recipe.parts[i].servings_len; ++i) {
+    //   printf("-- %s\n", recipe.parts[i].servings[i].ingredient->name);
+
+    // }
   }
-  printf("===========\nIngredients:\n");
-  for(int i = 0; i < recipe.servings_len; ++i) {
-    printf("%s %s\n", recipe.servings[i].ingredient->name,recipe.servings[i].quantity);
-  }
+  // printf("===========\nIngredients:\n");
+  // for(int i = 0; i < recipe.servings_len; ++i) {
+  //   printf("%s %s\n", recipe.servings[i].ingredient->name,recipe.servings[i].quantity);
+  // }
 }
