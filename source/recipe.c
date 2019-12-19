@@ -35,6 +35,10 @@ void add_recipe_serving(Recipe *r, Ingredient *i, char *quantity){
   r->servings_len++;
 }
 
+void add_recipe_part(Recipe *r, Part *p) {
+
+}
+
 void print_recipe(Recipe recipe) {
   printf("name:%s, portions:%s date:%d time:%d\n",recipe.name,recipe.portions,recipe.date,recipe.time);
   printf("===========\nInstructions:\n");
