@@ -40,5 +40,20 @@ void print_ingredient(Ingredient *ingredient){
 void build_ingredient_page(Ingredient *ingredient){
   char ingredient_path[1024];
   to_lowercase(ingredient->name, ingredient_path);
-  printf("%s -> %s\n", ingredient->name, ingredient_path);
+
+
+
+  char ingredient_filepath[1024];
+
+  sprintf(ingredient_filepath, "../site/%s.txt", ingredient_path);
+  printf("%s -> %s\n", ingredient->name, ingredient_filepath);
+
+
+  // FILE *myfile = fopen("../site/somefile.txt", "w");
+
+  // fprintf(myfile, "hello!\n");
+
+  // fclose(myfile);
+
+
 }
