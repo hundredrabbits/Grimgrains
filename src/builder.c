@@ -4,8 +4,6 @@ int recipes_len = sizeof recipes / sizeof recipes[0];
 
 printf("Found Ingredients: %d, Recipes: %d\n",ingredients_len,recipes_len);
 
-
-
 for(int i = 0; i < ingredients_len; ++i) {
   build_ingredient_page(ingredients[i]);
 }

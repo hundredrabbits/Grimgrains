@@ -74,7 +74,6 @@ void print_recipe(Recipe *recipe) {
   // }
 }
 
-
 void build_recipe_page(Recipe *recipe){
   char recipe_path[1024];
   to_lowercase(recipe->name, recipe_path);
@@ -86,7 +85,22 @@ void build_recipe_page(Recipe *recipe){
 
   FILE *myfile = fopen(recipe_filepath, "w");
 
-  fprintf(myfile, "%s!\n", recipe_path);
+  fprintf(myfile, "<h1>%s</h1>\n", recipe->name);
+  for(int i = 0; i < recipe->parts_len; ++i) {
+    fprintf(myfile, "<h2>%s</h2>\n", recipe->parts[i]->name);
+    fputs("<ul>\n", myfile);
+    for(int i2 = 0; i2 < recipe->parts[i]->instructions_len; ++i2) {
+      fprintf(myfile, "<li>%s</li>\n", recipe->parts[i]->instructions[i2]);
+    }
+    fputs("</ul>\n", myfile);
+  // fputs("<ul>", myfile);
+  //   fputs("<li>", myfile);
+  //   fputs(recipe->parts[i]->name, myfile);
+  //   fputs("</li>", myfile);
+  }
+  // fputs("</ul>", myfile);
+
+  // fprintf(myfile, "%s!\n", recipe_path);
 
   fclose(myfile);
 }
