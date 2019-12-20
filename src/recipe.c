@@ -2,9 +2,9 @@
 typedef struct {
   char *name;
   int instructions_len;
-  char *instructions[10];
+  char *instructions[16];
   int servings_len;
-  Serving servings[10];
+  Serving servings[16];
 } RecipePart;
 
 typedef struct {
