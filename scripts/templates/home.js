@@ -8,8 +8,8 @@ function HomeTemplate (id, rect) {
   this.answer = function (q) {
     const ingredients = find_ingredients(q.tables.recipes)
 
-    translate_ingredients(q.tables.ingredients)
-    // translate_recipes(q.tables.recipes)
+    // translate_ingredients(q.tables.ingredients)
+    translate_recipes(q.tables.recipes)
 
     ingredients.coffee = 1
 
@@ -115,7 +115,7 @@ function HomeTemplate (id, rect) {
         }
         txt += `add_part(&${snake_name}, &${part_name});\n`
       }
-      txt += '\n\n'
+      txt += '\n'
     }
 
     console.log(txt)

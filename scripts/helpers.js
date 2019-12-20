@@ -39,7 +39,7 @@ function Š (target) {
 }
 
 String.prototype.to_markup2 = function () {
-  html = this
+  html = this.replace(/\"/g,'\\"')
   html = html.replace(/{_/g, '<i>').replace(/_}/g, '</i>')
   html = html.replace(/{\*/g, '<b>').replace(/\*}/g, '</b>')
   html = html.replace(/{\#/g, "<u>").replace(/\#}/g, '</u>')
