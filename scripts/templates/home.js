@@ -127,11 +127,13 @@ function HomeTemplate (id, rect) {
   function translate_ingredients (ingredients) {
 
     let txt = ''
+    let each_ingr = ''
 
     console.log(ingredients)
 
     for(const name in ingredients){
-      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()      
+      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()    
+      each_ingr += `&${snake_name}, `  
       let desc = ingredients[name].BREF ? ingredients[name].BREF.to_markup2() : 'Missing description.'
       desc += ingredients[name].LONG ? ingredients[name].LONG.reduce((acc,item) => { return `${acc}${item.substr(2).to_markup2().trim()}<br /><br />`},'') : ''
       txt += `Ingredient ${snake_name} = create_ingredient("${name.toLowerCase()}", "${desc}");\n`
@@ -140,7 +142,6 @@ function HomeTemplate (id, rect) {
 
     txt += `// Parenting\n\n`
 
-
     for(const name in ingredients){
       if(!ingredients[name].PARENT){ continue; }
       const snake_name = name.toLowerCase().replace(/ /g,'_').trim()      
@@ -148,6 +149,8 @@ function HomeTemplate (id, rect) {
       
     }
     txt += `\n`
+
+    txt += `Ingredient *ingredients[] = {${each_ingr}};`
 
     console.log(txt)
   }
