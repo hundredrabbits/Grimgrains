@@ -8,6 +8,8 @@ function HomeTemplate (id, rect) {
   this.answer = function (q) {
     const ingredients = find_ingredients(q.tables.recipes)
 
+    translate(q.tables.recipes)
+
     ingredients.coffee = 1
 
     const sorted_ingredients = sort_ingredients(ingredients)
@@ -16,8 +18,8 @@ function HomeTemplate (id, rect) {
     <h1>Ingredients <a class='jump' id='jump-ingredients' href='javascript:Š("recipes")'>recipes</a></h1>
     ${make_ingredients(sorted_ingredients, q.tables.ingredients)}
     <h1 id='recipes_header'>Recipes <a class='jump' id='jump-recipes' href='javascript:Š("ingredients")'>ingredients</a></h1>
-    ${make_recipes(q.tables.recipes)}
-    `
+    ${make_recipes(q.tables.recipes)}`
+
     return {
       title: 'GrimGrains — Home',
       view: {
@@ -79,6 +81,41 @@ function HomeTemplate (id, rect) {
     }
     return Object.keys(ingredients).length
   }
+
+
+
+
+
+  function translate (recipes) {
+
+    let txt = ''
+
+    for(const name of Object.keys(recipes)){
+
+      const recipe = recipes[name]
+      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()
+
+      txt += `Recipe ${snake_name} = create_recipe("${name.toLowerCase()}", "${recipe.TAGS[0]}", "${recipe.SERV}", ${recipe.DATE.replace(/-/g,'')}, ${recipe.TIME});\n`
+
+      for(const part in recipe.INST){
+        if(!recipe.INGR[part]){ console.warn(snake_name,part) }
+        txt += `RecipePart ${snake_name+'_'+part.toLowerCase().replace(/ /g,'_').trim()} = create_part("${part.toLowerCase()}");\n`
+      }
+      txt += '\n\n'
+      console.log(recipe)
+    }
+
+
+
+    console.log(txt)
+  }
+
+
+
+
+
+
+
 
   function make_recipes (recipes) {
     let html = ''
