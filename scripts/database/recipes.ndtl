@@ -560,7 +560,7 @@ BORSCHT WITH TOFU SOUR CREAM
 DARK YAKI GYOZA
   DATE : 2014-12-17
   TAGS
-    sidedish
+    Experimental
   TIME : 60
   SERV : 40 wrappers
   DESC
@@ -757,7 +757,7 @@ MASON JAR BREAD PUDDING
 BASIC BLACK BREAD
   DATE : 2015-01-11
   TAGS
-    bread
+    Experimental
   TIME : 140
   SERV : 1 loaf
   DESC
@@ -909,7 +909,7 @@ POTATO GNOCCHI
       Sugar : 4 tsp
       Shichimi togarashi : 1 tbsp
 
-ROASTED BEET LENTILS
+LENTILS WITH ROASTED BEET SAUCE
   DATE : 2015-02-02
   TAGS
     dinner
@@ -1073,30 +1073,29 @@ BLACK SESAME RICE PANCAKES
   TIME : 20
   SERV : 12 servings
   DESC
-    & Black sesame rice pancakes, with a generous dollop of mango. Because sometimes, we all need a break from maple syrup — okay. No we don't, but here's something different anyway.
-    & Made matcha rice pancakes for Devine a few days ago, since I made a double recipe we ended up having left-over batter. It doesn't keep well, so we ate it that same night.
-    & I paired the remaining 2 pancakes with a bit of fresh mango and it tastes amazing together.
-    & Using fruit, instead of syrup is a nice change, and looks beautiful on a plate. For matcha pancakes, omit the black sesame seeds and add 1 tbsp of {*matcha powder*}!
+    & Black sesame rice pancakes, for those who share my love of sesame.
+    & Photo is with a generous dollop of {{mango}}, because sometimes I need a break from maple syrup — okay. No I don't, but here's something different anyway. The real reason I added mango, was because I enjoyed the contrast of colors. Most times, I top my pancakes with {{maple syrup}}.
+    & {*Substitutions:*} For matcha pancakes, omit the black sesame seeds and add 1 tbsp of matcha powder.
   INST
     Pancake
-      - Heat {_1/4 cup_} of {{black sesame seeds}}, in a non-stick pan at medium heat. Remove once they start to pop. Let cool, then crush into a powder with a mortar and pestle.
-      - Mix {_1 1/4 cup_} of {{soy milk}}, {#1 tsp#} of {{vanilla extract}} and {_1/4 cup_} of ground {{black sesame seeds}}. Blend, until you get a smooth grey liquid.
-      - Mix {_1 cup_} of {{rice flour}}, {_1/4 tsp_} of {{salt}}, {_1 tsp_} of {{baking powder}} and {_1 tbsp_} of {{whole cane sugar}} together.
-      - Pour wet ingredients into the dry ones, and mix until smooth, make it as lump-free as you can.
-      - Heat up non-stick pan at medium heat, spoon a portion of batter into it. Flip once the bottoms have browned, and little bubbles appear at the top.
+      - Measure {_1 1/4 cups_} of {{soy milk}}, add {_2 tbsp_} of {{apple cider vinegar}}. Let sit for {#5 minutes#}. 
+      - Heat {_1/4 cup_} of {{black sesame seeds}}, in a non-stick pan at medium heat. Remove once they start to pop. Let cool, then crush into a powder with a mortar and pestle or immersion blender.
+      - Mix the soured soy milk with {#1 tsp#} of {{vanilla extract}}, {_1 tbsp_} of {{canola oil}} and {_1/4 cup_} of ground {{black sesame seeds}}. Blend until you get a smooth grey liquid.
+      - In another bowl, mix {_1 cup_} of {{rice flour}}, {_1/4 tsp_} of {{salt}}, {_1 tsp_} of {{baking powder}} and {_1 tbsp_} of {{whole cane sugar}} together.
+      - Pour wet ingredients into the dry ones, and mix until smooth. Make it as lump-free as you can.
+      - Heat up non-stick pan at medium heat, add {_1 tbsp_} of {{canola oil}}. Spoon about {_1/4 cup_} of batter into the pan. Flip once the bottoms have browned, and little bubbles appear at the top.
       - Repeat for the rest of the pancake mix.
-    Topping
-      - Scoop flesh out of the {{mango}}, purée. Serve over pancakes!
   INGR
-    Sauce
-      Mango : 1
     Pancakes
+      Soy milk : 1 1/4 cup
+      Apple cider vinegar : 2 tbsp
+      Vanilla extract : 1 tsp
+      Canola oil : 1 tbsp
       Rice flour : 1 cup
       Baking powder : 1 tsp
       Black sesame seeds : 1/4 cup
       Whole cane sugar : 1 tbsp
-      Soy milk : 1 1/4 cup
-      Vanilla extract : 1 tsp
+      Salt : pinch
 
 MUSHROOM ZUCCHINI PASTA
   DATE : 2015-03-03
@@ -1217,31 +1216,6 @@ CHILI POMEGRANATE BROWNIES
       Cayenne pepper powder : 1 tsp
     Topping
       Pomegranate seeds : 1 cup
-
-FRENCH TOAST
-  DATE : 2015-03-23
-  TAGS
-    breakfast
-  TIME : 20
-  SERV : 4 servings
-  DESC
-    & I baked a beautiful loaf of sandwich bread with a soft texture that is perfect for french toast.
-    & It was my first time baking bread in a bread pan. I usually opt for free-form loaves, but for sandwich and french toast purposes, it works better if it has a constrained shape.
-    & You can make your own soft bread using my {{Basic black bread}} recipe - it's very easy to make. You can omit the {{bamboo charcoal}} if you don't want your dough to be black.
-    & Using bananas makes for a consistent morning meal, and adds a bit of sweetness to it. Bananas become sweeter when heated in a pan, they caramelize and develop a very pleasant taste. Adding a banana to the soy milk helps to thicken the mix and will make the bread become a 'golden' color.
-  INST
-    Preparation
-      - Purée {_1_} {{banana}}, {_3/4 cup_} of {{soy milk}} and {_1/2 tsp_} of {{vanilla extract}}.
-      - Melt {_1 tsp_} of oil in a pan at medium heat, dip slice into the banana purée batter. Pan-fry bread until golden and crispy on both sides.
-      - Serve with slices of {{kiwifruit}}, or a fruit of your choice, along with a generous serving of maple syrup!
-    Black bread
-      - If you want to make black bread please refer to my {{basic black bread}} recipe. Follow the recipe, be sure to place it in a loaf pan for the second rise for a proper 'bread shape'.
-  INGR
-    Main
-      Banana : 1
-      Soy milk : 3/4 cup
-      Vanilla extract : 1/2 tsp
-      Maple syrup : to taste
 
 PANKO CHICKPEA FINGERS
   DATE : 2015-03-30
@@ -1414,25 +1388,24 @@ WASABI SWIRL CHOCOLATE COOKIES
       Wasabi powder : 1 tbsp
       Soy milk : 1 1/2 tbsp
 
-MANGO ICE CREAM WITH BLACK SESAME SYRUP
+BLACK SESAME SYRUP
   DATE : 2015-06-01
   TAGS
-    dessert
+    sauce
   TIME : 120
   SERV : 2 servings
   DESC
-    & I've made ice cream with other bases, like banana or coconut milk. Both are good dairy-free alternatives. Using just fruit is nice because of how little preparation is required. Whether you're using bananas, watermelon, strawberries... all you need to do is cut the fruit up into chunks, and freeze it for a few hours, although depending on the fruit, it may take longer. If like me, you don't have a food processor, you can cut it up into smaller chunks to make it easier to break down with an immersion blender.
     & I like making syrups, or juice reductions a lot. It's simple, and you can use it in many other recipes afterwards! Reductions that aren't sweetened with sugar, you can use as add-on to sauces, or alone as a 'glaze'. 
-    % recipes/mango.ice.cream.with.black.sesame.syrup.1.jpg
     & I used a technique by the cook {{Mike Case|https://discoginferno.wordpress.com/tag/sesame-seed-syrup}}, he made a white sesame syrup to use in cocktails. I liked not requiring a blender to make it, blending sesame seeds into a smooth liquid is hard, my immersion blender can't grind seeds finely. Boiling the seeds, and then straining them out is simple. And since you can re-use the seeds afterwards, there's no waste! The fact the seeds are toasted beforehand helps to bring out the nutty flavour, so whatever you do, don't skip that step!
+    & This syrup pairs well with ice cream, especially those with subtle flavors like coconut and vanilla. It's also delicious on fruit ice cream. To make fruit ice cream, slice fruit of choice thinly. Lay a sheet of parchment paper over a plate, and lay your fruit overtop (this will keep the fruit from sticking). Let them freeze for a few hours, then run them through an immersion blender. You can use almost any fruit to make it, but it works especially well for {{mango}} and {{bananas}}.
+    & You can use the left-over seeds to bake into desserts, or to add as an extra topping.
   INST
     Preparation
-      - Peel and cut {_1 ripe_} {{mango}} into chunks, lay pieces over a plate lined with parchment paper. Put in the freezer for at least {#2h#}. I put parchment paper because sometimes the fruit will stick too much to the plate and is hard to remove.
       - Put {_1 cup_} of {{black sesame seeds}} in a pan, bring to medium heat and toast them until they start to pop.
       - In a pot, combine {_1 cup_} of {{water}} with the {{black sesame seeds}}. Bring to a boil and let simmer for {#10-15 minutes#}.
       - Strain liquid from sesame seeds using a cheese cloth or with a mesh strainer, squeezing out as much liquid as you can. Reserve sesame seeds for later use.
       - Return liquid to pot, add {_1/2 cup_} of {whole cane sugar}} and bring to medium heat. Stir to dissolve the sugar. Remove from heat and let cool.
-      - Purée frozen mango using an immersion blender, separate in 2 bowls and serve with {_2 tbsp_} of {{black sesame syrup}} and some black sesame seeds reserved from before. Keep the sesame seeds! They're still good, you can use them in other dishes!
+      - Serve of fresh fruit, or fruit ice cream. 
   INGR
     Main
       Mango : 1
