@@ -3,6 +3,7 @@ typedef struct {
   int id;
   char *name;
   char *description;
+  struct Ingredient *parent;
 } Ingredient;
 
 typedef struct {
@@ -25,5 +26,5 @@ Serving create_serving(Ingredient *ingredient, char *quantity) {
 }
 
 void set_parent(Ingredient *child, Ingredient *parent) {
-  // printf("")
+  child->parent = parent;
 }
