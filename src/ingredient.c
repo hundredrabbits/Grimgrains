@@ -23,3 +23,7 @@ Serving create_serving(Ingredient *ingredient, char *quantity) {
   a.quantity = quantity;
   return a;
 }
+
+void set_parent(Ingredient *child, Ingredient *parent) {
+  // printf("")
+}

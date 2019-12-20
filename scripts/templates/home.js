@@ -8,7 +8,8 @@ function HomeTemplate (id, rect) {
   this.answer = function (q) {
     const ingredients = find_ingredients(q.tables.recipes)
 
-    translate(q.tables.recipes)
+    translate_ingredients(q.tables.ingredients)
+    // translate_recipes(q.tables.recipes)
 
     ingredients.coffee = 1
 
@@ -85,27 +86,68 @@ function HomeTemplate (id, rect) {
 
 
 
-
-  function translate (recipes) {
+  function translate_recipes (recipes) {
 
     let txt = ''
 
     for(const name of Object.keys(recipes)){
-
       const recipe = recipes[name]
       const snake_name = name.toLowerCase().replace(/ /g,'_').trim()
 
+      txt += `// ${name.toLowerCase()}\n`
       txt += `Recipe ${snake_name} = create_recipe("${name.toLowerCase()}", "${recipe.TAGS[0]}", "${recipe.SERV}", ${recipe.DATE.replace(/-/g,'')}, ${recipe.TIME});\n`
+      txt += `set_description(&${snake_name}, "${recipe.DESC.reduce((acc,item) => { return `${acc}${item.substr(2).to_markup2().trim()}<br /><br />`},'')}");\n`
 
       for(const part in recipe.INST){
         if(!recipe.INGR[part]){ console.warn(snake_name,part) }
-        txt += `RecipePart ${snake_name+'_'+part.toLowerCase().replace(/ /g,'_').trim()} = create_part("${part.toLowerCase()}");\n`
+        const part_name = snake_name+'_'+part.toLowerCase().replace(/ /g,'_').trim()
+        txt += `RecipePart ${part_name} = create_part("${part.toLowerCase()}");\n`
+        // instructions
+        for(const inst of recipe.INST[part]){
+          txt += `add_instruction(&${part_name}, "${inst.substr(2).to_markup2()}");\n`
+        }
+        // instructions
+        if(recipe.INGR[part]){
+          for(const ingr in recipe.INGR[part]){
+            const ingr_name = ingr.toLowerCase().replace(/ /g,'_').trim()
+            txt += `add_serving(&${part_name}, &${ingr_name}, "${recipe.INGR[part][ingr]}");\n`
+          }
+        }
+        txt += `add_part(&${snake_name}, &${part_name});\n`
       }
       txt += '\n\n'
-      console.log(recipe)
     }
 
+    console.log(txt)
+  }
 
+
+
+
+  function translate_ingredients (ingredients) {
+
+    let txt = ''
+
+    console.log(ingredients)
+
+    for(const name in ingredients){
+      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()      
+      let desc = ingredients[name].BREF ? ingredients[name].BREF.to_markup2() : 'Missing description.'
+      desc += ingredients[name].LONG ? ingredients[name].LONG.reduce((acc,item) => { return `${acc}${item.substr(2).to_markup2().trim()}<br /><br />`},'') : ''
+      txt += `Ingredient ${snake_name} = create_ingredient("${name.toLowerCase()}", "${desc}");\n`
+      txt += `\n`
+    }
+
+    txt += `// Parenting\n\n`
+
+
+    for(const name in ingredients){
+      if(!ingredients[name].PARENT){ continue; }
+      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()      
+      txt += `set_parent(&${snake_name}, &${ingredients[name].PARENT.toLowerCase().replace(/ /g,'_').trim().replace(/\"/g,'\"')  });\n`
+      
+    }
+    txt += `\n`
 
     console.log(txt)
   }

@@ -37,7 +37,7 @@ RecipePart create_part(char *name) {
   return a;
 }
 
-void add_description(Recipe *r, char *description){
+void set_description(Recipe *r, char *description){
   r->description = description;
 }
 
