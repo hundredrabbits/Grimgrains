@@ -10,14 +10,6 @@ for(int i = 0; i < ingredients_len; ++i) {
   build_ingredient_page(ingredients[i]);
 }
 
-/*
-FILE *myfile = fopen("../site/somefile.txt", "w");
-
-fprintf(myfile, "hello!\n");
-
-fclose(myfile);
-
-*/
-
-
-
+for(int i = 0; i < recipes_len; ++i) {
+  build_recipe_page(recipes[i]);
+}

@@ -73,3 +73,20 @@ void print_recipe(Recipe *recipe) {
   //   printf("%s %s\n", recipe.servings[i].ingredient->name,recipe.servings[i].quantity);
   // }
 }
+
+
+void build_recipe_page(Recipe *recipe){
+  char recipe_path[1024];
+  to_lowercase(recipe->name, recipe_path);
+
+  char recipe_filepath[1024];
+  sprintf(recipe_filepath, "../site/%s.html", recipe_path);
+
+  printf("%s -> %s\n", recipe->name, recipe_filepath);
+
+  FILE *myfile = fopen(recipe_filepath, "w");
+
+  fprintf(myfile, "%s!\n", recipe_path);
+
+  fclose(myfile);
+}
