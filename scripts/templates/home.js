@@ -126,6 +126,7 @@ function HomeTemplate (id, rect) {
 
     for (const name in recipes) {
       const recipe = recipes[name]
+      if(!recipe.TAGS){ console.warn(name,"broken"); continue; }
       if (!categorized[recipe.TAGS[0]]) { categorized[recipe.TAGS[0]] = [] }
       recipe.name = name
       categorized[recipe.TAGS[0]].push(recipe)
