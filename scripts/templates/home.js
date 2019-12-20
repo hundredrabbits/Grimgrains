@@ -8,8 +8,8 @@ function HomeTemplate (id, rect) {
   this.answer = function (q) {
     const ingredients = find_ingredients(q.tables.recipes)
 
-    // translate_ingredients(q.tables.ingredients)
-    translate_recipes(q.tables.recipes)
+    translate_ingredients(q.tables.ingredients)
+    // translate_recipes(q.tables.recipes)
 
     ingredients.coffee = 1
 
@@ -136,19 +136,16 @@ function HomeTemplate (id, rect) {
       each_ingr += `&${snake_name}, `  
       let desc = ingredients[name].BREF ? ingredients[name].BREF.to_markup2() : 'Missing description.'
       desc += ingredients[name].LONG ? ingredients[name].LONG.reduce((acc,item) => { return `${acc}${item.substr(2).to_markup2().trim()}<br /><br />`},'') : ''
-      txt += `Ingredient ${snake_name} = create_ingredient("${name.toLowerCase()}", "${desc}");\n`
+
+      if(ingredients[name].PARENT){
+        const parent_snake = ingredients[name].PARENT.toLowerCase().replace(/ /g,'_').trim()  
+        txt += `Ingredient ${snake_name} = create_child_ingredient(&${parent_snake}, "${name.toLowerCase()}", "${desc}");\n`
+      }
+      else{
+        txt += `Ingredient ${snake_name} = create_ingredient("${name.toLowerCase()}", "${desc}");\n`
+      }
       txt += `\n`
     }
-
-    txt += `// Parenting\n\n`
-
-    for(const name in ingredients){
-      if(!ingredients[name].PARENT){ continue; }
-      const snake_name = name.toLowerCase().replace(/ /g,'_').trim()      
-      txt += `set_parent(&${snake_name}, &${ingredients[name].PARENT.toLowerCase().replace(/ /g,'_').trim().replace(/\"/g,'\"')  });\n`
-      
-    }
-    txt += `\n`
 
     txt += `Ingredient *ingredients[] = {${each_ingr}};`
 
