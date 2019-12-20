@@ -104,7 +104,7 @@ add_serving(&sweet_and_sour_lentils_sauce, &peanut_butter, "1 tbsp");
 add_serving(&sweet_and_sour_lentils_sauce, &maple_syrup, "2 tbsp");
 add_serving(&sweet_and_sour_lentils_sauce, &sesame_oil, "1 tsp");
 add_serving(&sweet_and_sour_lentils_sauce, &garlic, "3 cloves, minced");
-add_serving(&sweet_and_sour_lentils_sauce, &ginger_root, "1", minced");
+add_serving(&sweet_and_sour_lentils_sauce, &ginger_root, "1\", minced");
 add_serving(&sweet_and_sour_lentils_sauce, &arrowroot_starch, "1 tbsp");
 add_part(&sweet_and_sour_lentils, &sweet_and_sour_lentils_sauce);
 RecipePart sweet_and_sour_lentils_lentils = create_part("lentils");
@@ -117,7 +117,7 @@ add_instruction(&sweet_and_sour_lentils_lentils, "Pour sauce onto lentils, mix w
 add_serving(&sweet_and_sour_lentils_lentils, &brown_lentils, "1/2 cup");
 add_serving(&sweet_and_sour_lentils_lentils, &vegetable_bouillon, "1 1/2 cups");
 add_serving(&sweet_and_sour_lentils_lentils, &carrots, "1, cubed");
-add_serving(&sweet_and_sour_lentils_lentils, &daikon, "2", cubed");
+add_serving(&sweet_and_sour_lentils_lentils, &daikon, "2\", cubed");
 add_serving(&sweet_and_sour_lentils_lentils, &chives, "3 stalks");
 add_serving(&sweet_and_sour_lentils_lentils, &salt, "1/4 tsp");
 add_part(&sweet_and_sour_lentils, &sweet_and_sour_lentils_lentils);
@@ -1278,7 +1278,7 @@ add_serving(&papaya_bruschetta_topping_bruschetta, &salt, "to taste");
 add_part(&papaya_bruschetta_topping, &papaya_bruschetta_topping_bruschetta);
 
 // pan fried breadfruit
-Recipe pan_fried_breadfruit = create_recipe("pan fried breadfruit", "dinner", "4 people", 20170703, 1 Hour 30);
+Recipe pan_fried_breadfruit = create_recipe("pan fried breadfruit", "dinner", "4 people", 20170703, 90);
 set_description(&pan_fried_breadfruit, "<b>Recipe location:</b> Huahine, Society Islands. French Polynesia.<br /><br />Breadfruit trees are everywhere in French Polynesia, but sometimes the fruit aren’t mature enough to pick. To make things more difficult, grocery stores don’t sell them (they don’t sell fruit at all). The Polynesians don't buy fruit, they don't have to! They have plenty growing on their property. Getting our hands on a breadfruit was no simple task, on every island we would ask the locals, but again the fruit weren’t ready to pick off just yet.<br /><br />Devine and I had breadfruit when we first arrived in Nuku Hiva, the owner of Snack Vaeki prepared some for us. The chef cooked it outside, over hot coals. The taste is hard to describe, it's very potato-ey. We had the cooked breadfruit with some fresh coconut milk - extracted from a fresh coconut before our very eyes. Since then, we’ve been looking to cook it ourselves.<br /><br />recipes/pan.fried.breadfruit.1.jpg<br /><br />Then finally we got our chance! We bought a breadfruit at the Fare street market in Huahine. The seller at the fruit stand gave it a few knocks, and told us it was ready to eat! It was delicious with coconut milk, but we wanted to try something different. We cut the breadfruit into wedges and pan-fried it. We then served it with some button mushrooms, coated with sweetened soy sauce.<br /><br />");
 RecipePart pan_fried_breadfruit_breadfruit = create_part("breadfruit");
 add_instruction(&pan_fried_breadfruit_breadfruit, "Preheat oven to <u>425F</u>.");
