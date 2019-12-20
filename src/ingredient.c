@@ -32,3 +32,13 @@ Serving create_serving(Ingredient *ingredient, char *quantity) {
   a.quantity = quantity;
   return a;
 }
+
+void print_ingredient(Ingredient *ingredient){
+  printf("%s\n", ingredient->name);
+}
+
+void build_ingredient_page(Ingredient *ingredient){
+  char ingredient_path[1024];
+  to_lowercase(ingredient->name, ingredient_path);
+  printf("%s -> %s\n", ingredient->name, ingredient_path);
+}

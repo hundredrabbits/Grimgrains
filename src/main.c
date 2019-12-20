@@ -1,5 +1,7 @@
-#include "stdio.h"
+#include <stdio.h>
+#include <ctype.h>
 
+#include "helpers.c"
 #include "ingredient.c"
 #include "recipe.c"
 
@@ -9,8 +11,6 @@ int main(void) {
   #include "recipes.c"
 
   #include "builder.c"
-
-  // print_recipe(&sweet_sour_lentils);
 
   return (0);
 }
