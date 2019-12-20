@@ -8,8 +8,8 @@ function HomeTemplate (id, rect) {
   this.answer = function (q) {
     const ingredients = find_ingredients(q.tables.recipes)
 
-    translate_ingredients(q.tables.ingredients)
-    // translate_recipes(q.tables.recipes)
+    // translate_ingredients(q.tables.ingredients)
+    translate_recipes(q.tables.recipes)
 
     ingredients.coffee = 1
 
@@ -89,11 +89,13 @@ function HomeTemplate (id, rect) {
   function translate_recipes (recipes) {
 
     let txt = ''
+    let each_recipe = ''
 
     for(const name of Object.keys(recipes)){
       const recipe = recipes[name]
       const snake_name = name.toLowerCase().replace(/ /g,'_').trim()
 
+      each_recipe += `&${snake_name}, `
       txt += `// ${name.toLowerCase()}\n`
       txt += `Recipe ${snake_name} = create_recipe("${name.toLowerCase()}", "${recipe.TAGS[0]}", "${recipe.SERV}", ${recipe.DATE.replace(/-/g,'')}, ${recipe.TIME});\n`
       txt += `set_description(&${snake_name}, "${recipe.DESC.reduce((acc,item) => { return `${acc}${item.substr(2).to_markup2().trim()}<br /><br />`},'')}");\n`
@@ -117,6 +119,8 @@ function HomeTemplate (id, rect) {
       }
       txt += '\n'
     }
+
+    txt += `Recipe *recipes[] = {${each_recipe}}`
 
     console.log(txt)
   }
