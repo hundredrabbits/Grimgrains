@@ -1,6 +1,6 @@
 
 Recipe sweet_sour_lentils = create_recipe("sweet and sour lentils","dinner","2 servings",20190602,30);
-add_description(&sweet_sour_lentils, "In my galley I have a few recipes that I consider staples, that I'm always in the mood to eat. I usually rotate these throughout the week, adding maybe a new recipe or two to change things up. This sweet and sour lentils recipe is one of these, a favourite of ours.");
+set_description(&sweet_sour_lentils, "In my galley I have a few recipes that I consider staples, that I'm always in the mood to eat. I usually rotate these throughout the week, adding maybe a new recipe or two to change things up. This sweet and sour lentils recipe is one of these, a favourite of ours.");
 RecipePart sweet_sour_lentils_sauce = create_part("sauce");
 add_instruction(&sweet_sour_lentils_sauce, "Mix all liquid ingredients together in a bowl, add {_1 tbsp_} of {{peanut butter}} and stir until dissolved.");
 add_instruction(&sweet_sour_lentils_sauce, "Stir in {_1 tbsp_} of {{arrowroot starch}} (to help thicken sauce).");
