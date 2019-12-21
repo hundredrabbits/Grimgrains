@@ -2,20 +2,20 @@
 Recipe veggie_pate = create_recipe("veggie pate", sidedish, "4 blocks", 20191220, 60);
 set_description(&veggie_pate, "Végé pâté is a quebec staple food, it's also one of those things that most people never think to make yourself. Every picnic I had this summer included this, it's great with veggies, on crackers and in sandwiches too! Purchasing it pre-made can be expensive, and not all brands are good. <br /><br /><b>Recommendations</b><br /><br />A lot of végé pâté recipes call for whole wheat flour, I've made pâté with it before with great results. If you don't have oats, you can use whole wheat flour instead. Using oats as a substitute works great, I always have a bucket-load of rolled oats lying around. To grind the rolled or quick oats oats down into flour, I use my mortar and pestle, but a handstick blender would work well too.<br /><br />");
 RecipePart veggie_pate_preparation = create_part("preparation");
-add_instruction(&veggie_pate_preparation, "Soak <i>1 cup</i> of raw unsalted <a href='sunflower_seeds'>sunflower seeds</a> in water for <u>2 hours</u>. Then, drain and rinse well and transfer to a big bowl. Using an immersion blender, puree the seeds. Set aside.");
+add_instruction(&veggie_pate_preparation, "Soak <i>1 cup</i> of raw unsalted <a href='sunflower_seeds'>sunflower seeds</a> in water for <u>2 hours</u>. Then, drain, rinse well and transfer to a big bowl. Puree the seeds using an immersion blender. Set aside.");
 add_instruction(&veggie_pate_preparation, "Preheat oven to <u>350F</u>.");
-add_instruction(&veggie_pate_preparation, "Grate enough <a href='sweet_potatoes.html'>Sweet potatoes</a> to fill <i>2 cups</i>, then pour into the big bowl with the sunflower seeds.");
-add_instruction(&veggie_pate_preparation, "Chop <i>1</i> of <a href=yellow.onion.html'>yellow onion</a> and <i>3</i> <a href='garlic.html'>garlic cloves</a>. Bring a pan to medium heat, add <i>1 tbsp</i> of <a href='olive_oil.html'>olive oil</a> and the chopped yellow onion. Sautée until browned, then add minced garlic and cook for another minute. Pour contents of pan into the big bowl.");
-add_instruction(&veggie_pate_preparation, "Pulse <i>3/4 cup<i> of <a href='rolled_oats'>rolled oats</a> into a fine powder using an immersion blender or mortar and pestle, this should give you <i>1/2 cup</i> of oat powder. Add oat powder into the big bowl.");
-add_instruction(&veggie_pate_preparation, "Add <i>2 tbsp</i> of <a href='soy_sauce.html'>soy sauce</a>, <i>1 tsp</i> of <a href='lemon_juice'>lemon juice</a>, <i>1 tsp</i> of <a href='thyme.html'>dried thyme</a>, <i>1/3 cup</i> of <a href='water.html'>water</a> to the rest of the ingredients. Blend everything using an immersion blender. Then add <i>a pinch</i> of <a href='black pepper'>black pepper</a> <i>1/4 cup</i> of <a href='nutritional_yeast'>nutritional yeast</a>, and mix it in with a spoon. ");
-add_instruction(&veggie_pate_preparation, "Pour mixture into a grease 8x8 baking dish, and bake for <u>50 minutes</u>. Let cool before serving. Keeps for a week in the fridge, and even longer if frozen.");
+add_instruction(&veggie_pate_preparation, "Grate enough <a href='sweet_potatoes.html'>Sweet potatoes</a> to fill <i>1 1/2 cups</i>, then pour into the big bowl with the sunflower seeds.");
+add_instruction(&veggie_pate_preparation, "Chop <i>1</i> of <a href=yellow.onion.html'>yellow onion</a> and <i>3</i> <a href='garlic.html'>garlic cloves</a>. Bring a pan to medium heat, add <i>1 tbsp</i> of <a href='olive_oil.html'>olive oil</a> and the chopped yellow onion. Sautée until browned, then add the minced garlic and cook for another minute. Pour contents of pan into the big bowl.");
+add_instruction(&veggie_pate_preparation, "Pulse <i>3/4 cup</i> of <a href='rolled_oats'>rolled oats</a> into a fine powder using an immersion blender or mortar and pestle, this should give you <i>1/2 cup</i> of oat powder. Add oat powder into the big bowl.");
+add_instruction(&veggie_pate_preparation, "Add <i>3 tbsp</i> of <a href='soy_sauce.html'>soy sauce</a>, <i>1 tsp</i> of <a href='lemon_juice'>lemon juice</a>, <i>1 tsp</i> of <a href='thyme.html'>dried thyme</a> and <i>1/3 cup</i> of <a href='water.html'>water</a> to the rest of the ingredients. Blend everything using an immersion blender, then add <i>a pinch</i> of <a href='black pepper'>black pepper</a> and <i>1/4 cup</i> of <a href='nutritional_yeast'>nutritional yeast</a>. Mix it in with a spoon. ");
+add_instruction(&veggie_pate_preparation, "Pour mixture into a greased 8x8 baking dish, and bake for <u>50 minutes</u>. Let cool before serving. Keeps for a week in the fridge, and even longer if frozen.");
 add_serving(&veggie_pate_preparation, &sunflower_seeds, "1 cup");
-add_serving(&veggie_pate_preparation, &sweet_potatoes, "2 cups, grated");
+add_serving(&veggie_pate_preparation, &sweet_potatoes, "1 1/2 cups, grated");
 add_serving(&veggie_pate_preparation, &olive_oil, "1 tsp");
 add_serving(&veggie_pate_preparation, &yellow_onion, "1");
 add_serving(&veggie_pate_preparation, &garlic, "3 cloves");
 add_serving(&veggie_pate_preparation, &rolled_oats, "3/4 cup, ground");
-add_serving(&veggie_pate_preparation, &soy_sauce, "2 tbsp");
+add_serving(&veggie_pate_preparation, &soy_sauce, "3 tbsp");
 add_serving(&veggie_pate_preparation, &lemon_juice, "1 tsp");
 add_serving(&veggie_pate_preparation, &thyme, "1 tsp");
 add_serving(&veggie_pate_preparation, &black_pepper, "to taste");
@@ -477,33 +477,6 @@ add_serving(&raisin_beet_bread_sweet_bread, &water, "1 cup");
 add_serving(&raisin_beet_bread_sweet_bread, &vanilla_extract, "1/2 tsp");
 add_serving(&raisin_beet_bread_sweet_bread, &red_beets, "1 cup, puréed");
 add_part(&raisin_beet_bread, &raisin_beet_bread_sweet_bread);
-
-// miso veggie pate
-Recipe miso_veggie_pate = create_recipe("miso veggie pate", sidedish, "4 blocks", 20141228, 60);
-set_description(&miso_veggie_pate, "Végé pâté is a quebec staple food, it's also one of those things that most people never think to make yourself. Every picnic I had this summer included this, it's great with veggies, on crackers and in sandwiches too! Purchasing it pre-made can be expensive, and not all brands are good. This summer, I decided to learn to make it myself.<br /><br /><b>Recommendations</b><br /><br />A lot of végé pâté recipes call for whole wheat flour, I've made pâté with it before with great results. If you don't have oats, you can use whole wheat flour instead. Using oats as a substitute works great, I always have a bucket-load of rolled oats lying around. To grind the rolled or quick oats oats down into flour, I use my mortar and pestle, but a handstick blender would work well too.<br /><br />");
-RecipePart miso_veggie_pate_veggie_pate = create_part("veggie pate");
-add_instruction(&miso_veggie_pate_veggie_pate, "Soak <a href='sunflower_seeds.html'>sunflower seeds</a> in water, for <u>1-2h</u> (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4325021/' target='_blank'>ref</a>).");
-add_instruction(&miso_veggie_pate_veggie_pate, "Preheat oven to <u>350F</u>.");
-add_instruction(&miso_veggie_pate_veggie_pate, "Put a few inches of water in a pot, add steamer basket and bring to a boil. Add <i>1/3 cup</i> of peeled <a href='pumpkin.html'>pumpkin</a> cubes (or sweet potato). Cover, and let steam until softened.");
-add_instruction(&miso_veggie_pate_veggie_pate, "Combine <a href='sunflower_seeds.html'>sunflower seeds</a> with <i>1/2 cup</i> of finely ground oats, <i>1 large diced</i> <a href='carrot.html'>carrot</a> (or two medium), the <a href='pumpkin.html'>pumpkin</a> (or sweet potato), <i>2 minced cloves</i> of <a href='garlic.html'>garlic</a>, <i>1 tbsp minced</i> <a href='ginger_root.html'>ginger root</a>, <i>2 chopped</i> <a href='scallions.html'>scallions</a>, <i>1/4 cup</i> fresh <a href='coriander.html'>coriander</a>, <i>2 tbsp</i> <a href='soy_sauce.html'>soy sauce</a>, <i>1 tsp</i> <a href='lemon_juice.html'>lemon juice</a>, <i>2 tbsp</i> <a href='white_miso.html'>white miso</a> and <i>1/3 cup</i> of <a href='water.html'>water</a>. Purée with a food processor until smooth.");
-add_instruction(&miso_veggie_pate_veggie_pate, "Stir in <i>1/4 cup</i> of <a href='nutritional_yeast.html'>nutritional yeast</a>, and season with <a href='black_pepper.html'>black pepper</a> to taste.");
-add_instruction(&miso_veggie_pate_veggie_pate, "Put in a greased 8x8 pyrex baking dish, pour mixture in and flatten it with a spatula.");
-add_instruction(&miso_veggie_pate_veggie_pate, "Bake for <u>50 minutes</u>, let cool. Cut into 4 squares and store in the refrigerator. Best eaten the next day! Keeps for a week in the fridge, up to a month frozen.");
-add_serving(&miso_veggie_pate_veggie_pate, &sunflower_seeds, "1 cup");
-add_serving(&miso_veggie_pate_veggie_pate, &carrots, "1 large");
-add_serving(&miso_veggie_pate_veggie_pate, &pumpkin, "1/3 cup, cubed");
-add_serving(&miso_veggie_pate_veggie_pate, &garlic, "2 cloves");
-add_serving(&miso_veggie_pate_veggie_pate, &ginger_root, "1 tbsp");
-add_serving(&miso_veggie_pate_veggie_pate, &scallions, "2 branches");
-add_serving(&miso_veggie_pate_veggie_pate, &coriander, "1/4 cup");
-add_serving(&miso_veggie_pate_veggie_pate, &nutritional_yeast, "1/4 cup");
-add_serving(&miso_veggie_pate_veggie_pate, &rolled_oats, "1/2 cup, ground");
-add_serving(&miso_veggie_pate_veggie_pate, &soy_sauce, "2 tbsp");
-add_serving(&miso_veggie_pate_veggie_pate, &lemon_juice, "1 tsp");
-add_serving(&miso_veggie_pate_veggie_pate, &white_miso, "2 tbsp");
-add_serving(&miso_veggie_pate_veggie_pate, &water, "1/3 cup");
-add_serving(&miso_veggie_pate_veggie_pate, &black_pepper, "pinch");
-add_part(&miso_veggie_pate, &miso_veggie_pate_veggie_pate);
 
 // persimmon curry
 Recipe persimmon_curry = create_recipe("persimmon curry", dinner, "2 servings", 20150103, 30);
@@ -1511,4 +1484,4 @@ add_serving(&crackers_extras, &black_sesame_seeds, "1 tbsp");
 add_serving(&crackers_extras, &flax_seeds, "1 tbsp");
 add_part(&crackers, &crackers_extras);
 
-Recipe *recipes[] = {&tzaziki, &spicy_stirfry_chickpeas, &scrambled_chickpeas, &cheese, &sweet_and_sour_lentils, &coffee_jelly, &okonomiyaki, &seitan, &spinach_pajeon, &houjicha_overnight_oatmeal, &wakame_bites, &no_knead_bread, &roasted_carrots_with_beluga_lentils, &black_sesame_brittle, &spinach_oatmeal_cookies, &borscht_with_tofu_sour_cream, &dark_gyoza, &raisin_beet_bread, &miso_veggie_pate, &persimmon_curry, &mason_jar_bread_pudding, &basic_black_bread, &shichimi_togarashi_crackers, &roasted_pumpkin_seeds, &potato_gnocchi, &lentils_with_roasted_beet_sauce, &teriyaki_carrot_patties, &savoury_turmeric_cookies, &sweet_mock_eel_nigiri, &black_sesame_rice_pancakes, &mushroom_zucchini_pasta, &pate_chinois, &chili_pomegranate_brownies, &panko_chickpea_fingers, &uzumaki_hummus_bites, &anise_bread_with_sweet_pear_sauce, &wasabi_swirl_chocolate_cookies, &black_sesame_syrup, &hop_ice_cream, &sunflower_heirloom_carrot_pasta, &carrot_kinpira_onigirazu, &balsamic_banana_ice_cream, &fresh_pesto_pasta, &vegemite_caramel, &halloween_pumpkin_cookies, &salted_caramel_carob_chip_cookies, &arame_soba, &homemade_veganaise, &chickpea_salad_sandwich, &beer_bread, &stovetop_popcorn, &basic_toothpaste, &papaya_bruschetta_topping, &pan_fried_breadfruit, &corn_dumplings, &breadfruit_gnocchi, &spinach_faux_cheese_ravioli, &breadfruit_pasta, &pandanus_fruit_bread, &mustard_from_seed, &crackers, &buckwheat_tea};
+Recipe *recipes[] = {&tzaziki, &spicy_stirfry_chickpeas, &scrambled_chickpeas, &cheese, &sweet_and_sour_lentils, &coffee_jelly, &okonomiyaki, &seitan, &spinach_pajeon, &houjicha_overnight_oatmeal, &wakame_bites, &no_knead_bread, &roasted_carrots_with_beluga_lentils, &black_sesame_brittle, &spinach_oatmeal_cookies, &borscht_with_tofu_sour_cream, &dark_gyoza, &raisin_beet_bread, &persimmon_curry, &mason_jar_bread_pudding, &basic_black_bread, &shichimi_togarashi_crackers, &roasted_pumpkin_seeds, &potato_gnocchi, &lentils_with_roasted_beet_sauce, &teriyaki_carrot_patties, &savoury_turmeric_cookies, &sweet_mock_eel_nigiri, &black_sesame_rice_pancakes, &mushroom_zucchini_pasta, &pate_chinois, &chili_pomegranate_brownies, &panko_chickpea_fingers, &uzumaki_hummus_bites, &anise_bread_with_sweet_pear_sauce, &wasabi_swirl_chocolate_cookies, &black_sesame_syrup, &hop_ice_cream, &sunflower_heirloom_carrot_pasta, &carrot_kinpira_onigirazu, &balsamic_banana_ice_cream, &fresh_pesto_pasta, &vegemite_caramel, &halloween_pumpkin_cookies, &salted_caramel_carob_chip_cookies, &arame_soba, &homemade_veganaise, &chickpea_salad_sandwich, &beer_bread, &stovetop_popcorn, &basic_toothpaste, &papaya_bruschetta_topping, &pan_fried_breadfruit, &corn_dumplings, &breadfruit_gnocchi, &spinach_faux_cheese_ravioli, &breadfruit_pasta, &pandanus_fruit_bread, &mustard_from_seed, &crackers, &buckwheat_tea, &veggie_pate};
