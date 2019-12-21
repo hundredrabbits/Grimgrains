@@ -71,7 +71,7 @@ void build_ingredient(Ingredient *ingredient){
   fclose(myfile);
 }
 
-void build_home(Ingredient *ingredients[], Recipe *recipes[], int ingredients_len, int recipes_len){
+void build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len){
 
   printf("%d\n", ingredients_len);
   // New strings
