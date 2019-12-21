@@ -22,6 +22,21 @@ add_serving(&veggie_pate_preparation, &black_pepper, "to taste");
 add_serving(&veggie_pate_preparation, &water, "1/3 cup");
 add_part(&veggie_pate, &veggie_pate_preparation);
 
+// buckwheat tea
+Recipe buckwheat_tea = create_recipe("buckwheat_tea", "sidedish", "1 teapot", 20191206, 10);
+set_description(&buckwheat_tea, "A friend from Japan gave us some soba cha <b>そば茶</b> last month, it's something we've had before but that we never thought of making ourselves. It's a type of tea that is served in some soba shops. It has a very subtle flavor, and is pleasant to drink after dinner as it doesn't have any caffeine.<br /><br /><img src='../media/recipes/buckwheat_tea_1.jpg'><br /><br /> I like to roast the groats as I need them, but it's possible to prepare a larger batch ahead of time. The roasted buckwheat groats will store for a few months if kept in a cool and dry place. When roasting a larger batch, use a larger pan so that the groats don't sit atop of each other. The groats must be in a single layer so they can cook evenly.<br /><br />");
+RecipePart buckwheat_tea_roasting = create_part("roasting");
+add_instruction(&buckwheat_tea_roasting, "Bring a pan to medium heat, add <i>2 tbsp</i> of <a href='buckwheat_groats'>raw buckwheat groats</a>. ");
+add_instruction(&buckwheat_tea_roasting, "Toast the buckwheat_groats until they're fragrant and lightly browned, all while stirring constantly, for about <u>5-6 minutes</u>. Lower heat, and continue to toast the groats until they turn a deep brown color, stirring still — be careful they don't burn. ");
+add_instruction(&buckwheat_tea_roasting, "Transfer to a bowl, let cool. ");
+add_serving(&buckwheat_tea_roasting, &buckwheat_groats, "1/2 cup");
+add_part(&buckwheat_tea, &buckwheat_tea_roasting);
+RecipePart buckwheat_tea_infusion = create_part("infusion");
+add_instruction(&buckwheat_tea_infusion, "Add <i>2 tbsp</i> of <a href='buckwheat_groats'>roasted buckwheat groats</a> into the tea strainer of a teapot, and pour <i>3 cups</i> of hot water overtop. Let tea infuse for 5 minutes.");
+add_serving(&buckwheat_tea_infusion, &buckwheat_groats, "2 tbsp, roasted");
+add_serving(&buckwheat_tea_infusion, &water, "250ml, hot");
+add_part(&buckwheat_tea, &buckwheat_tea_infusion);
+
 // tzaziki
 Recipe tzaziki = create_recipe("tzaziki", sauce, "8 servings", 20191206, 10);
 set_description(&tzaziki, "Making tzaziki is easy. This is a basic recipe that works well enough with all kinds of substitutions, depending on dietary restrictions.<br /><br /><b>Substitutions</b><br /><br />It is possible to use <a href='sunflower_seeds.html'>sunflower seeds</a> and <a href='tofu.html'>tofu</a> to replace the hemp seeds. In this recipe, I used half hemp and half soy, because hemp, while being nutritious, is not cheap. Using just <a href='shelled_hemp_seeds.html'>shelled hemp seeds</a> is very possible.<br /><br />If using sunflower seeds, you should pre-soak them for 1-2h prior to blending. If using only tofu, you may not require extra water in the recipe.<br /><br />");
