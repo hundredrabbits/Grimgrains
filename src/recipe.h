@@ -17,27 +17,28 @@ typedef struct {
   RecipePart *parts[10];
 } Recipe;
 
-int recipes_sauce_len = 0; char *recipes_sauce[16];
-int recipes_dinner_len = 0; char *recipes_dinner[16];
-int recipes_basic_len = 0; char *recipes_basic[16];
-int recipes_sidedish_len = 0; char *recipes_sidedish[16];
 int recipes_breakfast_len = 0; char *recipes_breakfast[16];
-int recipes_bread_len = 0; char *recipes_bread[16];
+int recipes_dinner_len = 0; char *recipes_dinner[16];
+int recipes_sidedish_len = 0; char *recipes_sidedish[16];
 int recipes_dessert_len = 0; char *recipes_dessert[16];
-int recipes_snack_len = 0; char *recipes_snack[16];
+int recipes_sauce_len = 0; char *recipes_sauce[16];
+int recipes_bread_len = 0; char *recipes_bread[16];
 int recipes_pasta_len = 0; char *recipes_pasta[16];
-int recipes_cookies_len = 0; char *recipes_cookies[16];
+int recipes_basic_len = 0; char *recipes_basic[16];
+int recipes_snack_len = 0; char *recipes_snack[16];
+int recipes_lifestyle_len = 0; char *recipes_lifestyle[16];
 
 void categorize_recipe(char *name, enum RecipeType type) {
-  if(type == sauce){ recipes_sauce[recipes_sauce_len] = name; recipes_sauce_len++;  }
-  // else if(strcmp(type,"dinner") == 0){ recipes_dinner[recipes_dinner_len] = name; recipes_dinner_len++;  }
-  // else if(strcmp(type,"basic") == 0){ recipes_basic[recipes_basic_len] = name; recipes_basic_len++;  }
-  // else if(strcmp(type,"sidedish") == 0){ recipes_sidedish[recipes_sidedish_len] = name; recipes_sidedish_len++;  }
-  // else if(strcmp(type,"breakfast") == 0){ recipes_breakfast[recipes_breakfast_len] = name; recipes_breakfast_len++;  }
-  // else if(strcmp(type,"bread") == 0){ recipes_bread[recipes_bread_len] = name; recipes_bread_len++;  }
-  // else if(strcmp(type,"dessert") == 0){ recipes_dessert[recipes_dessert_len] = name; recipes_dessert_len++;  }
-  // else if(strcmp(type,"pasta") == 0){ recipes_pasta[recipes_pasta_len] = name; recipes_pasta_len++;  }
-  // else if(strcmp(type,"cookies") == 0){ recipes_cookies[recipes_cookies_len] = name; recipes_cookies_len++;  }
+  if(type == breakfast){ recipes_breakfast[recipes_breakfast_len] = name; recipes_breakfast_len++;  }
+  else if(type == dinner){ recipes_dinner[recipes_dinner_len] = name; recipes_dinner_len++;  }
+  else if(type == sauce){ recipes_sauce[recipes_sauce_len] = name; recipes_sauce_len++;  }
+  else if(type == sidedish){ recipes_sidedish[recipes_sidedish_len] = name; recipes_sidedish_len++;  }
+  else if(type == dessert){ recipes_dessert[recipes_dessert_len] = name; recipes_dessert_len++;  }
+  else if(type == basic){ recipes_basic[recipes_basic_len] = name; recipes_basic_len++;  }
+  else if(type == bread){ recipes_bread[recipes_bread_len] = name; recipes_bread_len++;  }
+  else if(type == pasta){ recipes_pasta[recipes_pasta_len] = name; recipes_pasta_len++;  }
+  else if(type == snack){ recipes_snack[recipes_snack_len] = name; recipes_snack_len++;  }
+  else if(type == lifestyle){ recipes_lifestyle[recipes_lifestyle_len] = name; recipes_lifestyle_len++;  }
   else{ printf("Unknown type: %s -> %d\n", name, type); }
 }
 

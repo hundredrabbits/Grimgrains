@@ -23,7 +23,7 @@ add_serving(&veggie_pate_preparation, &water, "1/3 cup");
 add_part(&veggie_pate, &veggie_pate_preparation);
 
 // buckwheat tea
-Recipe buckwheat_tea = create_recipe("buckwheat_tea", "sidedish", "1 teapot", 20191206, 10);
+Recipe buckwheat_tea = create_recipe("buckwheat_tea", sidedish, "1 teapot", 20191206, 10);
 set_description(&buckwheat_tea, "A friend from Japan gave us some soba cha <b>そば茶</b> last month, it's something we've had before but that we never thought of making ourselves. It's a type of tea that is served in some soba shops. It has a very subtle flavor, and is pleasant to drink after dinner as it doesn't have any caffeine.<br /><br /><img src='../media/recipes/buckwheat_tea_1.jpg'><br /><br /> I like to roast the groats as I need them, but it's possible to prepare a larger batch ahead of time. The roasted buckwheat groats will store for a few months if kept in a cool and dry place. When roasting a larger batch, use a larger pan so that the groats don't sit atop of each other. The groats must be in a single layer so they can cook evenly.<br /><br />");
 RecipePart buckwheat_tea_roasting = create_part("roasting");
 add_instruction(&buckwheat_tea_roasting, "Bring a pan to medium heat, add <i>2 tbsp</i> of <a href='buckwheat_groats'>raw buckwheat groats</a>. ");
@@ -361,7 +361,7 @@ add_serving(&black_sesame_brittle_brittle, &vanilla_extract, "1/4 tsp");
 add_part(&black_sesame_brittle, &black_sesame_brittle_brittle);
 
 // spinach oatmeal cookies
-Recipe spinach_oatmeal_cookies = create_recipe("spinach oatmeal cookies", cookies, "5 pieces", 20141113, 20);
+Recipe spinach_oatmeal_cookies = create_recipe("spinach oatmeal cookies", dessert, "5 pieces", 20141113, 20);
 set_description(&spinach_oatmeal_cookies, "When making green cookies, spinach is an obvious choice. It adds colour, nutrition, and doesn't alter the flavour of the food.<br /><br />I've been having a lot of baking failures as of late, I needed something simple to make that didnt involve flour.<br /><br />This recipe also doesn't take very long to make. It makes 5 small cookies, it's easy and doesn't make a mess. I never bake huge batches of desserts, but if you want more you can double or triple the recipe easily.<br /><br />");
 RecipePart spinach_oatmeal_cookies_cookies = create_part("cookies");
 add_instruction(&spinach_oatmeal_cookies_cookies, "Preheat oven to <u>350F</u>");
@@ -710,7 +710,7 @@ add_serving(&teriyaki_carrot_patties_sauce, &whole_cane_sugar, "1 tsp");
 add_part(&teriyaki_carrot_patties, &teriyaki_carrot_patties_sauce);
 
 // savoury turmeric cookies
-Recipe savoury_turmeric_cookies = create_recipe("savoury turmeric cookies", cookies, "16 servings", 20150219, 30);
+Recipe savoury_turmeric_cookies = create_recipe("savoury turmeric cookies", dessert, "16 servings", 20150219, 30);
 set_description(&savoury_turmeric_cookies, "These yellow treats will help brighten up cold, and grey winter days. Turmeric powder has a subtle taste, and will also do a good job of making your baked goods yellow!<br /><br />In these cookies, I use <a href='spelt_flour.html'>spelt flour</a> because it's more nutritious than wheat flour. Cookies aren't exactly high on the 'health food' scale though, that I know, but it's a way of sneaking in whole grains which can contribute to good health. When it comes to sugar, there are no true 'healthy' alternatives. Desserts are rare treats, and should be eaten in moderation. The same goes for oil. I used canola oil because it imparts little flavor, and because it's a source of <a href='#nutrition.html'>omega3</a>.<br /><br /><img src='../media/recipes/savoury_turmeric_cookies_2.jpg'/><br /><br />It's possible to use chocolate chips, but I like to use <a href='Carob_chips.html'>Carob chips</a> because they lack bitterness and contain no caffeine. I'm a coffee drinker, I enjoy a good cup of coffee, but because an excess of caffeine can worsen my anxiety I try and limit my intake, and this includes chocolate products because they contain <b>theobromine</b>.<br /><br />");
 RecipePart savoury_turmeric_cookies_cookies = create_part("cookies");
 add_instruction(&savoury_turmeric_cookies_cookies, "Preheat oven to <u>350F</u>.");
@@ -968,7 +968,7 @@ add_serving(&anise_bread_with_sweet_pear_sauce_sauce, &maple_syrup, "1 tbsp");
 add_part(&anise_bread_with_sweet_pear_sauce, &anise_bread_with_sweet_pear_sauce_sauce);
 
 // wasabi swirl chocolate cookies
-Recipe wasabi_swirl_chocolate_cookies = create_recipe("wasabi swirl chocolate cookies", cookies, "13 cookies", 20150518, 30);
+Recipe wasabi_swirl_chocolate_cookies = create_recipe("wasabi swirl chocolate cookies", dessert, "13 cookies", 20150518, 30);
 set_description(&wasabi_swirl_chocolate_cookies, "Black sesame chocolate cookies with a wasabi glaze, it's surprising how well these two things go together.<br /><br /><img src='../media/recipes/wasabi_swirl_chocolate_cookies_2.jpg'/><br /><br />I wanted to mix the wasabi directly in the cookies at first, but after reading a lot about baking wasabi, I decided to apply it after in the form of a glaze because the taste of wasabi fades significantly when heated.<br /><br />It doesn't taste too strong, and adds just the right amount of kick.<br /><br /><b>Quick Yogurt:</b> To make quick yogurt or sour milk, add apple cider vinegar to soy milk, 1 1/4 tbsp for every 1 1/4 cup of milk. The vinegar makes soy curdle and thicken, and adds sourness that makes it taste more complex.<br /><br />");
 RecipePart wasabi_swirl_chocolate_cookies_cookies = create_part("cookies");
 add_instruction(&wasabi_swirl_chocolate_cookies_cookies, "Preheat oven to <u>350F</u>.");
@@ -1147,7 +1147,7 @@ add_serving(&vegemite_caramel_caramel, &vanilla_extract, "1 tsp");
 add_part(&vegemite_caramel, &vegemite_caramel_caramel);
 
 // halloween pumpkin cookies
-Recipe halloween_pumpkin_cookies = create_recipe("halloween pumpkin cookies", cookies, "15 cookies", 20151010, 30);
+Recipe halloween_pumpkin_cookies = create_recipe("halloween pumpkin cookies", dessert, "15 cookies", 20151010, 30);
 set_description(&halloween_pumpkin_cookies, "Been a while since I've baked cookies. It being pumpkin season, the choice was obvious - pumpkin cookies it is.<br /><br /><img src='../media/recipes/halloween_pumpkin_cookies_2.jpg'/><br /><br />These are not very sweet, namely because of the addition of coconut sugar which has a subtle and more complex taste. Coconut sugar will make your cookies a darker shade of orange, almost brown, and I think it fits nicely with the toned-down color of the pumpkin seeds. If you want a bold orange color, use white cane sugar instead.<br /><br /><b>Left over chocolate:</b> This recipe makes more chocolate than is needed for the recipe. If you want to keep it for later, pour it in a chocolate mold or shallow container and put it in the freezer. It will become solid and you'll have delicious homemade chocolate on the side for later times! Once it's solid, pop it out of the mold and put it in a closed container. Keep it in the freezer until you're ready to eat it!<br /><br />");
 RecipePart halloween_pumpkin_cookies_cookie_dough = create_part("cookie dough");
 add_instruction(&halloween_pumpkin_cookies_cookie_dough, "Preheat oven to <u>350F</u>.");
@@ -1178,7 +1178,7 @@ add_serving(&halloween_pumpkin_cookies_chocolate, &sea_salt, "pinch");
 add_part(&halloween_pumpkin_cookies, &halloween_pumpkin_cookies_chocolate);
 
 // salted caramel carob chip cookies
-Recipe salted_caramel_carob_chip_cookies = create_recipe("salted caramel carob chip cookies", cookies, "20 cookies", 20151115, 20);
+Recipe salted_caramel_carob_chip_cookies = create_recipe("salted caramel carob chip cookies", dessert, "20 cookies", 20151115, 20);
 set_description(&salted_caramel_carob_chip_cookies, "<b>Recipe location:</b> Montreal, QC. Canada<br /><br />Einkorn was one of the first domesticated and cultivated plants in the world. It has a higher percentage of protein than regular wheat, and a number of nutrients.<br /><br />It has a strong nutty taste, making it more flavorful than regular wheat, and pairs well with the caramel taste of carob chips and date caramel.<br /><br /><img src='../media/recipes/salted_caramel_carob_chip_cookies_1.jpg'/><br /><br />");
 RecipePart salted_caramel_carob_chip_cookies_date_caramel = create_part("date caramel");
 add_instruction(&salted_caramel_carob_chip_cookies_date_caramel, "To make date caramel, soak <i>1/2 cup</i> of <a href='deglet_noor_dates.html'>deglet noor dates</a> in boiling water for <u>5-10 minutes</u>. Drain, purée using a hand blender or food processor with <i>1/2 tsp</i> <a href='lemon_juice.html'>lemon juice</a>, <i>2 tbsp</i> <a href='soy_milk.html'>soy milk</a> and <i>1/2 tsp</i> <a href='vanilla_extract.html'>vanilla extract</a>. Set aside.");
