@@ -5,52 +5,29 @@ permalink: /404.html
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Loading...</title>
-  <style>
-    .fadein {
-      -webkit-animation: fadein 3s linear 0s 1;
-      animation: fadein 3s linear 0s 1;
-    }
-
-    @-webkit-keyframes fadein {
-      0%   {opacity: 0;}
-      50%  {opacity: 0;}
-      100% {opacity: 1;}
-    }
-    @keyframes fadein {
-      0%   {opacity: 0;}
-      50%  {opacity: 0;}
-      100% {opacity: 1;}
-    }
-    
-    body {
-      font-family: 'Helvetica Neue', Helvetica, Arial;
-    }
-  </style>
+  <meta name="description" content="Grim Grains is an illustrated food blog, it features plant-based (vegan) recipes.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@RekkaBell">
+  <meta name="twitter:title" content="Grimgrains">
+  <meta name="twitter:description" content="An illustrated food blog.">
+  <meta name="twitter:creator" content="@RekkaBell">
+  <meta name="twitter:image" content="https://grimgrains.com/media/services/icon.jpg">
+  <!-- Facebook -->
+  <meta property="og:title" content="Grimgrains" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://grimgrains.com/" />
+  <meta property="og:image" content="https://grimgrains.com/media/services/icon.jpg" />
+  <meta property="og:description" content="An illustrated food blog." />
+  <meta property="og:site_name" content="Grimgrains" />
+  <link rel="stylesheet" type="text/css" href="links/reset.css"/>
+  <link rel="stylesheet" type="text/css" href="links/main.css"/>
+  <link rel="stylesheet" type="text/css" href="links/fonts.css"/>
+  <meta http-equiv = "refresh" content = "1; url=site/home.html" />
+  <title>GrimGrains</title>
 </head>
-<body style='background:black; color:white'>
-  <script>
-    // Find current path (relative to grimgrains.com)
-    let target = decodeURI(window.location.pathname);
-    
-    // Fancy slugify regex bit
-    target = target.toLowerCase();
-    target = target.replace(/[\s·\\/_'",:;\.-]+/g, '+'); // Replace whitespace and "·\/_'",:;.-" to "+"
-    target = target.replace(/^\++|\++$/g, '');         // Remove "+"es at start and end
-    
-    document.location.href = document.location.origin + "/#" + target; // Go to grimgrains.com/#target
-  </script>
-  
-  <h1 class="fadein">
-    Loading, please wait.
-    <br />
-    If this takes a long time, please check your Javascript settings.
-  </h1>
-  
-  <noscript>
-    <h2 class="fadein">
-      This website requires Javascript. To view the content, please enable it in your browser settings.
-    </h2>
-  </noscript>
+<body>
+  Entering <a href='site/home.html'>Grimgrains</a>, please hold.. 
 </body>
 </html>
