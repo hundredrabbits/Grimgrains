@@ -1,4 +1,3 @@
-
 typedef struct {
   char *name;
   int instructions_len;
@@ -9,7 +8,7 @@ typedef struct {
 
 typedef struct {
   char *name;
-  char *type;
+  enum RecipeType type;
   char *portions;
   char *description;
   int date;
@@ -18,7 +17,31 @@ typedef struct {
   RecipePart *parts[10];
 } Recipe;
 
-Recipe create_recipe(char *name, char *type, char *portions, int date, int time) {
+int recipes_sauce_len = 0; char *recipes_sauce[16];
+int recipes_dinner_len = 0; char *recipes_dinner[16];
+int recipes_basic_len = 0; char *recipes_basic[16];
+int recipes_sidedish_len = 0; char *recipes_sidedish[16];
+int recipes_breakfast_len = 0; char *recipes_breakfast[16];
+int recipes_bread_len = 0; char *recipes_bread[16];
+int recipes_dessert_len = 0; char *recipes_dessert[16];
+int recipes_snack_len = 0; char *recipes_snack[16];
+int recipes_pasta_len = 0; char *recipes_pasta[16];
+int recipes_cookies_len = 0; char *recipes_cookies[16];
+
+void categorize_recipe(char *name, enum RecipeType type) {
+  if(type == sauce){ recipes_sauce[recipes_sauce_len] = name; recipes_sauce_len++;  }
+  // else if(strcmp(type,"dinner") == 0){ recipes_dinner[recipes_dinner_len] = name; recipes_dinner_len++;  }
+  // else if(strcmp(type,"basic") == 0){ recipes_basic[recipes_basic_len] = name; recipes_basic_len++;  }
+  // else if(strcmp(type,"sidedish") == 0){ recipes_sidedish[recipes_sidedish_len] = name; recipes_sidedish_len++;  }
+  // else if(strcmp(type,"breakfast") == 0){ recipes_breakfast[recipes_breakfast_len] = name; recipes_breakfast_len++;  }
+  // else if(strcmp(type,"bread") == 0){ recipes_bread[recipes_bread_len] = name; recipes_bread_len++;  }
+  // else if(strcmp(type,"dessert") == 0){ recipes_dessert[recipes_dessert_len] = name; recipes_dessert_len++;  }
+  // else if(strcmp(type,"pasta") == 0){ recipes_pasta[recipes_pasta_len] = name; recipes_pasta_len++;  }
+  // else if(strcmp(type,"cookies") == 0){ recipes_cookies[recipes_cookies_len] = name; recipes_cookies_len++;  }
+  else{ printf("Unknown type: %s -> %d\n", name, type); }
+}
+
+Recipe create_recipe(char *name, enum RecipeType type, char *portions, int date, int time) {
   Recipe a;
   a.name = name;
   a.type = type;
@@ -26,6 +49,7 @@ Recipe create_recipe(char *name, char *type, char *portions, int date, int time)
   a.date = date;
   a.time = time;
   a.parts_len = 0;
+  categorize_recipe(name, type);
   return a;
 }
 
@@ -54,18 +78,4 @@ void add_serving(RecipePart *p, Ingredient *i, char *quantity){
 void add_part(Recipe *r, RecipePart *p){
   r->parts[r->parts_len] = p;
   r->parts_len++;
-}
-
-void print_recipe(Recipe *recipe) {
-  printf("name:%s(%s), portions:%s date:%d time:%d\n",recipe->name,recipe->type,recipe->portions,recipe->date,recipe->time);
-  printf("===========\nParts:\n");
-  for(int i = 0; i < recipe->parts_len; ++i) {
-    printf("-- %s(%d ingredients %d instructions)\n", recipe->parts[i]->name, recipe->parts[i]->servings_len, recipe->parts[i]->instructions_len);
-    for(int i2 = 0; i2 < recipe->parts[i]->instructions_len; ++i2) {
-      printf("---- %s\n", recipe->parts[i]->instructions[i2]);
-    }
-    for(int i2 = 0; i2 < recipe->parts[i]->servings_len; ++i2) {
-      printf("------ %s\n", recipe->parts[i]->servings[i2].ingredient->name);
-    }
-  }
 }

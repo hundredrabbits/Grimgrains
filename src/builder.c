@@ -98,12 +98,13 @@ void build_home(Ingredient *ingredients[], Recipe *recipes[], int ingredients_le
   fprintf(myfile, "<h1>%d Recipes</h1>", recipes_len);
 
   fputs("<ul class='recipes col3'>", myfile);
-  for(int i = 0; i < recipes_len; ++i) {
+  fputs("<h3>Breakfast</h3>", myfile);
+
+  for(int i = 0; i < recipes_breakfast_len; ++i) {
     char recipe_path[1024];
-    to_lowercase(recipes[i]->name, recipe_path);
-    fprintf(myfile, "<li><a href='%s.html'>%s</a></li>", recipe_path, recipes[i]->name);
+    to_lowercase(recipes_breakfast[i], recipe_path);
+    fprintf(myfile, "<li><a href='%s.html'>%s</a></li>", recipe_path, recipes_breakfast[i]);
   }
-  fputs("</ul>", myfile);
 
   fputs("</main>", myfile);
 
