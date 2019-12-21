@@ -27,7 +27,7 @@ void build_recipe(Recipe *recipe){
     for(int i2 = 0; i2 < recipe->parts[i]->servings_len; ++i2) {
       char ingr_path[1024];
       to_lowercase(recipe->parts[i]->servings[i2].ingredient->name, ingr_path);
-      fprintf(myfile, "<dt><a href='%s.html'><img src='../media/ingredients/%s.png'/><b>%s</b><u>%s</u></a></dt>", ingr_path, ingr_path, recipe->parts[i]->servings[i2].ingredient->name, recipe->parts[i]->servings[i2].quantity);
+      fprintf(myfile, "<dt><a href='%s.html'><img src='../media/ingredients/%s.png'/><b>%s</b> <u>%s</u></a></dt>", ingr_path, ingr_path, recipe->parts[i]->servings[i2].ingredient->name, recipe->parts[i]->servings[i2].quantity);
     }
     fputs("</dl>", myfile);
     fputs("<ul class='instructions'>", myfile);
