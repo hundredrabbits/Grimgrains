@@ -68,39 +68,4 @@ void print_recipe(Recipe *recipe) {
       printf("------ %s\n", recipe->parts[i]->servings[i2].ingredient->name);
     }
   }
-  // printf("===========\nIngredients:\n");
-  // for(int i = 0; i < recipe.servings_len; ++i) {
-  //   printf("%s %s\n", recipe.servings[i].ingredient->name,recipe.servings[i].quantity);
-  // }
-}
-
-void build_recipe_page(Recipe *recipe){
-  char recipe_path[1024];
-  to_lowercase(recipe->name, recipe_path);
-
-  char recipe_filepath[1024];
-  sprintf(recipe_filepath, "../site/%s.html", recipe_path);
-
-  printf("%s -> %s\n", recipe->name, recipe_filepath);
-
-  FILE *myfile = fopen(recipe_filepath, "w");
-
-  fprintf(myfile, "<h1>%s</h1>\n", recipe->name);
-  for(int i = 0; i < recipe->parts_len; ++i) {
-    fprintf(myfile, "<h2>%s</h2>\n", recipe->parts[i]->name);
-    fputs("<ul>\n", myfile);
-    for(int i2 = 0; i2 < recipe->parts[i]->instructions_len; ++i2) {
-      fprintf(myfile, "<li>%s</li>\n", recipe->parts[i]->instructions[i2]);
-    }
-    fputs("</ul>\n", myfile);
-  // fputs("<ul>", myfile);
-  //   fputs("<li>", myfile);
-  //   fputs(recipe->parts[i]->name, myfile);
-  //   fputs("</li>", myfile);
-  }
-  // fputs("</ul>", myfile);
-
-  // fprintf(myfile, "%s!\n", recipe_path);
-
-  fclose(myfile);
 }

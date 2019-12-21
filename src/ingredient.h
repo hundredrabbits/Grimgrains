@@ -4,6 +4,8 @@ typedef struct Ingredient {
   char *name;
   char *description;
   struct Ingredient *parent;
+  // int children_len;
+  // struct Ingredient *children[16];
 } Ingredient;
 
 typedef struct {
@@ -23,6 +25,8 @@ Ingredient create_child_ingredient(Ingredient *parent, char *name, char *descrip
   a.name = name;
   a.description = description;
   a.parent = parent;
+  // parent->children[parent->children_len] = a;
+  // parent->children_len++;
   return a;
 }
 
@@ -35,20 +39,4 @@ Serving create_serving(Ingredient *ingredient, char *quantity) {
 
 void print_ingredient(Ingredient *ingredient){
   printf("%s\n", ingredient->name);
-}
-
-void build_ingredient_page(Ingredient *ingredient){
-  char ingredient_path[1024];
-  to_lowercase(ingredient->name, ingredient_path);
-
-  char ingredient_filepath[1024];
-  sprintf(ingredient_filepath, "../site/%s.html", ingredient_path);
-
-  printf("%s -> %s\n", ingredient->name, ingredient_filepath);
-
-  FILE *myfile = fopen(ingredient_filepath, "w");
-
-  fprintf(myfile, "%s!\n", ingredient_path);
-
-  fclose(myfile);
 }
