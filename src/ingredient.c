@@ -4,8 +4,6 @@ typedef struct Ingredient {
   char *name;
   char *description;
   struct Ingredient *parent;
-  // int children_len;
-  // struct Ingredient *children[16];
 } Ingredient;
 
 typedef struct {
@@ -17,6 +15,7 @@ Ingredient create_ingredient(char *name, char *description) {
   Ingredient a;
   a.name = name;
   a.description = description;
+  a.parent = NULL;
   return a;
 }
 
@@ -25,8 +24,6 @@ Ingredient create_child_ingredient(Ingredient *parent, char *name, char *descrip
   a.name = name;
   a.description = description;
   a.parent = parent;
-  // parent->children[parent->children_len] = a;
-  // parent->children_len++;
   return a;
 }
 
