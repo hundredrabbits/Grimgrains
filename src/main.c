@@ -2,7 +2,18 @@
 #include <ctype.h>
 #include <string.h>
 
-enum RecipeType { breakfast, dinner, sidedish, dessert, sauce, pasta, bread, snack, basic, lifestyle }; 
+enum RecipeType { 
+  breakfast, 
+  dinner, 
+  sidedish, 
+  dessert, 
+  sauce, 
+  pasta, 
+  bread, 
+  snack, 
+  basic, 
+  lifestyle 
+}; 
 
 #include "helpers.c"
 #include "ingredient.c"
