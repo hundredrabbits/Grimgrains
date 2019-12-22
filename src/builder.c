@@ -189,10 +189,15 @@ void build_about() {
   fputs(html_nav, myfile);
 
   fputs("<main class='about'>", myfile);
-  fputs("<h1>About</h1><p>We started <b>Grimgrains</b> to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps measure our progress, while giving us another creative output. We cook and travel, and adapt to the local produce whenever possible. All of the recipes we make are plant-based, and tree-nut free.</p>", myfile);
-  fputs("<p>We are <a href='http://kokorobot.ca/' class='external' target='_blank'>Rekka Bellum</a>, an illustrator, and <a href='http://xxiivv.com' class='external' target='_blank'>Devine Lu Linvega</a>, an artist/musician, living on a small sailboat somewhere on the shores of the Pacific Ocean. Hundredrabbits is the name of our <a href='http://100r.co' class='external' target='_blank'>floating studio</a>, we make <a href='https://100r.co/pages/games.html' class='external' target='_blank'>games</a>, <a href='https://100r.co/pages/tools.html' class='external' target='_blank'>tools</a> and delicious recipes as we travel.</p>", myfile);
-  fputs("<p>This website showcases our favourite creations, along with hand-drawn illustrations for <a href='home.html'>each ingredient</a>. You can contact us on our twitter <a href='http://twitter.com/grimgrains' class='external' target='_blank'>@grimgrains</a> or via <a rel='me' href='https://merveilles.town/@rek'>Mastodon</a></p>", myfile);
-  fputs("<h3>Copyright policy</h3><p>You may adapt our recipes, but a link back or mention would be nice :).</p>", myfile);
+  fputs("<h1>About</h1><p>We started <b>Grimgrains</b> to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps track our habits as we adapt to the localy available produce. All of these recipes are plant-based, and tree-nut free.</p><img src= '../media/pages/about/galley.jpg'/>"
+
+    "<p>We are <a href='http://kokorobot.ca/' class='external' target='_blank'>Rekka Bellum</a>(illustrator) and <a href='http://xxiivv.com' class='external' target='_blank'>Devine Lu Linvega</a>(developer), living on a small sailboat somewhere on the shores of the Pacific Ocean. <a href='http://100r.co' class='external' target='_blank'>Hundredrabbits</a> is the name of our floating studio, we write softwares and recipes as we sail around the world looking for new ingredients.</p>"
+
+    "<p>This website showcases our favourite creations, along with hand-drawn illustrations for each ingredient. The pages were generated entirely in the classic C99 programming language, and the sources can be found on <a href='https://github.com/hundredrabbits/Grimgrains' class='external' target='_blank'>Github</a>.</p>"
+
+    "<p>If you have any question, you can find us on on <a rel='me' href='https://merveilles.town/@rek'>Mastodon</a>.</p>"
+
+    "<h3>Copyright policy</h3><p>You may adapt our recipes, but a link back or mention would be nice :).</p>", myfile);
   fputs("<p>The assets of grimgrains.com, unless stated otherwise, are <a href='http://100r.co/' class='external' target='_blank'>©hundredrabbits</a>. Photographs, drawings or text should not be used, published, reprinted or modified without our permission. The source code of the website is under the <a href='https://github.com/hundredrabbits/Grimgrains/blob/master/LICENSE' class='external' target='_blank'>MIT License</a>.</p>", myfile);
   fputs("<p>All recipes featured on grimgrains.com are our own, unless stated otherwise. The information is for food enthusiasts like ourselves, we do not claim to be all-knowing. Nor are we health professionals. Our views are our own, we encourage openness and curiosity whenever possible.</p>", myfile);
   fputs("<h3>Privacy statement</h3><p>We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.</p>", myfile);
