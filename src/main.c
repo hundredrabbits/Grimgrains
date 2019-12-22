@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <ctype.h>
+#include <string.h>
+
+enum RecipeType { breakfast, dinner, sidedish, dessert, sauce, pasta, bread, snack, basic, lifestyle }; 
 
 #include "helpers.c"
-#include "ingredient.h"
-#include "recipe.h"
+#include "ingredient.c"
+#include "recipe.c"
 
 #include "builder.c"
 
@@ -26,7 +29,7 @@ int main(void) {
   }
   printf("Built %d recipes\n", recipes_len);
 
-  build_home(ingredients, recipes, ingredients_len, recipes_len);
+  build_home(ingredients, ingredients_len, recipes_len);
   printf("Built home\n");
 
   build_about();

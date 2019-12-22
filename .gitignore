@@ -1,2 +1,4 @@
 
 .DS*
+*.plist
+src/main.dSYM/Contents/Resources/DWARF/main
