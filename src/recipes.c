@@ -24,7 +24,7 @@ add_serving(&veggie_pate_preparation, &water, "1/3 cup");
 add_part(&veggie_pate, &veggie_pate_preparation);
 
 // buckwheat tea
-Recipe buckwheat_tea = create_recipe("buckwheat tea", sidedish, "1 teapot", 20191206, 10);
+Recipe buckwheat_tea = create_recipe("buckwheat tea", sidedish, "1 teapot", 20191206, 15);
 set_description(&buckwheat_tea, "A friend from Japan gave us some soba cha <b>そば茶</b> last month, it's something we've had before but that we never thought of making ourselves. It's a type of tea that is served in some soba shops, as a companion drink to buckwheat noodles. It has a subtle nutty flavor, and is perfect to drink after dinner or later at night as it doesn't have any caffeine.<br /><br /><img src='../media/recipes/buckwheat_tea_1.jpg'><br /><br /> I like to roast the groats as I need them, but it's possible to prepare a larger batch ahead of time. The roasted buckwheat groats will store for a few months if kept in a cool and dry place. When roasting a larger batch, use a larger pan so that the groats don't sit atop of each other. The groats must be in a single layer so they can cook evenly.<br /><br /> <b>Re-using the softened groats:</b> It's possible to re-use the softened groats by pouring more water onto them, although the flavor will not be as strong. If you like to minimize food waste, it's possible to incorporate the soft groats in other meals. For example, you can mix it into rice, cookies, breads etc. ");
 RecipePart buckwheat_tea_roasting = create_part("roasting");
 add_instruction(&buckwheat_tea_roasting, "Bring a pan to medium heat, add <i>2 tbsp</i> of <a href='buckwheat_groats'>raw buckwheat groats</a>. ");
