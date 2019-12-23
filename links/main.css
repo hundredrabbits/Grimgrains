@@ -62,7 +62,7 @@ main ul.recipes h3:first-child { margin-top:0px; }
 main ul.recipes li { font-size:14px; line-height: 25px; margin-bottom: 0px }
 main ul.recipes li a { text-decoration: none; text-transform: capitalize; }
 main ul.recipes li a:hover { text-decoration: underline; }
-footer { max-width: 800px; margin: 0px auto; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; background-image: url(../media/interface/toast.svg); background-repeat: no-repeat; background-size: 40px; background-position: center right; }
+footer { max-width: 800px; margin: 0px auto; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; }
 footer a:hover { text-decoration: underline; cursor: pointer }
 footer a:focus { text-decoration: underline; cursor: pointer }
 
