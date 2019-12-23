@@ -6,11 +6,9 @@ void to_lowercase(char *str, char *target, size_t tsize) {
     }
     if (target[i] == ' ') {
       target[i] = '_';
-    }
-    else {
+    } else {
       target[i] = tolower(target[i]);
     }
   }
   target[tsize - 1] = '\0';
 }
-

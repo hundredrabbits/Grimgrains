@@ -19,7 +19,8 @@ Ingredient create_ingredient(char *name, char *description) {
   return a;
 }
 
-Ingredient create_child_ingredient(Ingredient *parent, char *name, char *description) {
+Ingredient create_child_ingredient(Ingredient *parent, char *name,
+                                   char *description) {
   Ingredient a;
   a.name = name;
   a.description = description;
@@ -34,6 +35,6 @@ Serving create_serving(Ingredient *ingredient, char *quantity) {
   return a;
 }
 
-void print_ingredient(Ingredient *ingredient){
+void print_ingredient(Ingredient *ingredient) {
   printf("%s\n", ingredient->name);
 }
