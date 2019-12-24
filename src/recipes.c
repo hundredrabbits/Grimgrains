@@ -10,7 +10,7 @@ add_instruction(&cookie_mix, "In a bowl, cream <i>6 tbsp</i> of <a href='granula
 add_instruction(&cookie_mix, "Add the wet ingredients to the dry, and mix well (but don't over do it).");
 add_instruction(&cookie_mix, "Add <i>1/2 cup</i> of <a href='chocolate_chips.html'>chocolate chips</a>, distribute evenly.");
 add_instruction(&cookie_mix, "Scoop up generous balls of dough and lay on a baking tray, leave plenty of room inbetween. ");
-add_instruction(&cookie_mix, "Bake cookies until they start to brown and crisp at the edges, depending on your oven this may take <u>10-16 minutes</u>. My oven is old so I need to bake them for <u>16min</u>, see notes in above description.");
+add_instruction(&cookie_mix, "Bake cookies until they start to brown and crisp at the edges, depending on your oven this may take <u>10-16 minutes</u>. My oven is old and bakes at lower temperatures (and has no thermometer) so I need to bake them for the longer time. See notes in above description.");
 add_serving(&cookie_mix, &all_purpose_flour, "1 cup");
 add_serving(&cookie_mix, &baking_soda, "1/2 tsp");
 add_serving(&cookie_mix, &salt, "1/4 tsp");
