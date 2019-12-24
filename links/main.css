@@ -29,6 +29,7 @@ main > p a:hover { text-decoration: none; }
 main > p a:focus { text-decoration: dotted underline; }
 main > p a.external:after { content:"*"; color:#999; }
 main > p b { font-weight: bold; }
+main > p b.head { text-transform: capitalize;font-size: 24px;line-height: 45px;display: block;margin: 30px 0px; }
 main > ul { display: block; margin-bottom:30px; position: relative; }
 main > ul > li { max-width:550px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px; font-size:18px; }
 main > ul > li:before { content:"•"; position: absolute; margin-left:-30px; }
