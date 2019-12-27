@@ -4,7 +4,7 @@ char *html_head = "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><m
 
 char *html_header = "<header><a id='logo' href='home.html'><img src='../media/interface/logo.png' alt='Grimgrains'></a></header>";
 
-char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='right'><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li></ul></nav>";
+char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='recipes'><a href='home.html#recipes'>Recipes</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='right'><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li></ul></nav>";
 
 char *html_footer =
     "<footer><a href='about.html'>Grimgrains</a> © 2014—2019<br><a "
@@ -27,7 +27,7 @@ void build_recipe(Recipe *recipe) {
   fprintf(myfile, "<h1>%s</h1>", recipe->name);
   fprintf(myfile, "<h2>%s — %d minutes</h2>", recipe->portions, recipe->time);
   fprintf(myfile, "<img src='../media/recipes/%s.jpg'/>", filename);
-  fprintf(myfile, "<p class='col2 small'>%s</p>", recipe->description);
+  fprintf(myfile, "<p class='col2'>%s</p>", recipe->description);
   for (int i = 0; i < recipe->parts_len; ++i) {
     fputs("<dl class='ingredients'>", myfile);
     fprintf(myfile, "<h3>%s</h3>", recipe->parts[i]->name);
@@ -111,7 +111,7 @@ void build_home(Ingredient *ingredients[], int ingredients_len,
   }
   fputs("</dl>", myfile);
 
-  fprintf(myfile, "<h1>%d Recipes</h1>", recipes_len);
+  fprintf(myfile, "<h1 id='recipes'>%d Recipes</h1>", recipes_len);
 
   fputs("<ul class='recipes col3'>", myfile);
 
