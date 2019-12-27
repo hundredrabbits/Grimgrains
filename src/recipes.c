@@ -52,7 +52,7 @@ add_part(&veggie_pate, &veggie_pate_preparation);
 
 // buckwheat tea
 Recipe buckwheat_tea = create_recipe("buckwheat tea", sidedish, "1 teapot", 20191206, 15);
-set_description(&buckwheat_tea, "A friend from Japan gave us some soba cha <b>そば茶</b> last month, it's something we've had before but that we never thought of making ourselves. It's a type of tea that is served in some soba shops, as a companion drink to buckwheat noodles. It has a subtle nutty flavor, and is perfect to drink after dinner or later at night as it doesn't have any caffeine.<br /><br /><img src='../media/recipes/buckwheat_tea_1.jpg'><br /><br /> I like to roast the groats as I need them, but it's possible to prepare a larger batch ahead of time. The roasted buckwheat groats will store for a few months if kept in a cool and dry place. When roasting a larger batch, use a larger pan so that the groats don't sit atop of each other. The groats must be in a single layer so they can cook evenly.<br /><br /> <b>Re-using the softened groats:</b> It's possible to re-use the softened groats by pouring more water onto them, although the flavor will not be as strong. If you like to minimize food waste, it's possible to incorporate the soft groats in other meals. For example, you can mix it into rice, cookies, breads etc. ");
+set_description(&buckwheat_tea, "A friend from Japan gave us some soba cha <b>そば茶</b> last month, it's something we've had before but that we never thought of making ourselves. It's a type of tea that is served in some soba shops, as a companion drink to buckwheat noodles. It has a subtle nutty flavor, and is perfect to drink after dinner or later at night as it doesn't have any caffeine.<br /><br /><img src='../media/recipes/buckwheat_tea_1.jpg'><br /><br /> I like to roast the groats as I need them, but it's possible to prepare a larger batch ahead of time. The roasted buckwheat groats will store for a few months if kept in a cool and dry place. <br /><br /><b>Roasting a larger batch:</b> When roasting a larger batch, use a larger pan so that the groats don't sit atop of each other. The groats must be in a single layer so they can cook evenly.<br /><br /> <b>Re-using the softened groats:</b> It's possible to re-use the softened groats by pouring more water onto them, although the flavor will not be as strong. If you like to minimize food waste, it's possible to incorporate the soft groats in other meals. For example, you can mix it into rice, cookies, breads etc.<br /><br /> <b>Cooking groats using oven:</b> You can roast your buckwheat groats in your oven. Roast them at 180C for 50 minutes, while stirring on occasion.");
 RecipePart buckwheat_tea_roasting = create_part("roasting");
 add_instruction(&buckwheat_tea_roasting, "Bring a pan to medium heat, add <i>2 tbsp</i> of <a href='buckwheat_groats'>raw buckwheat groats</a>. ");
 add_instruction(&buckwheat_tea_roasting, "Toast the buckwheat_groats until they're fragrant and lightly browned, all while stirring constantly. Do this for about <u>5 minutes</u>. Then, lower the heat and continue to toast the groats until they turn a deep brown color (~5 minutes, depending on the temperature of the pan). Continue stirring, and watch them so they don't burn. ");
@@ -539,16 +539,17 @@ set_description(&mason_jar_bread_pudding, "Bread pudding was one of my favourite
 RecipePart mason_jar_bread_pudding_bread_pudding = create_part("bread pudding");
 add_instruction(&mason_jar_bread_pudding_bread_pudding, "Preheat oven at <u>350F</u>");
 add_instruction(&mason_jar_bread_pudding_bread_pudding, "Combine <i>1/4 cup</i> of <a href='tofu.html'>tofu</a> (or soft tofu), <i>1/3 cup</i> of <a href='soy_milk.html'>soy milk</a> and <i>1/4 tsp</i> of <a href='vanilla_extract.html'>vanilla extract</a>. Blend until smooth.");
-add_instruction(&mason_jar_bread_pudding_bread_pudding, "Take a <i>1/2 pint</i> wide-mouthed mason jar. Fill it up halfway with <a href='bread_crusts.html'>bread crusts</a>. Add a bit of <a href='dried_raisins.html'>dried raisins</a>, pour liquid to cover Until it's at a level with bread crusts");
+add_instruction(&mason_jar_bread_pudding_bread_pudding, "Take a <i>1/2 pint</i> wide-mouthed mason jar. Fill it up halfway with <a href='bread_crusts.html'>bread crusts</a>. Add a <i>1/2 cubed</i> <a href='apple.html'>apple</a> and <a href='dried_raisins.html'>dried raisins</a>. Pour liquid to cover Until it's level with the bread crusts");
 add_instruction(&mason_jar_bread_pudding_bread_pudding, "Cover with more bread crusts and dried raisins. Pour more liquid onto it, until the jar is about 3/4 full.");
-add_instruction(&mason_jar_bread_pudding_bread_pudding, "Sprinkle <i>1 tsp</i> of <a href='whole_cane_sugar.html'>whole cane sugar</a> on top, decorate with slices of <a href='apple.html'>apple</a> and add <a href='cinnamon.html'>cinnamon</a> to taste.");
+add_instruction(&mason_jar_bread_pudding_bread_pudding, "Sprinkle <i>1 tsp</i> of <a href='brown_sugar.html'>brown sugar</a> on top, decorate with the rest of the cubed <a href='apple.html'>apples</a> and add <a href='cinnamon.html'>cinnamon</a> and <a href='maple_syrup'>maple syrup</a> to taste.");
 add_instruction(&mason_jar_bread_pudding_bread_pudding, "Cook for <u>20-25 minutes</u>, or until top is browned. Let cool, drizzle with some <a href='maple_syrup.html'>maple syrup</a> and enjoy!");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &bread_crusts, "1/2 cup, packed");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &dried_raisins, "1 tbsp");
+add_serving(&mason_jar_bread_pudding_bread_pudding, &apple, "1, small");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &soft_tofu, "1/4 cup");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &soy_milk, "1/3 cup");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &vanilla_extract, "1/4 tsp");
-add_serving(&mason_jar_bread_pudding_bread_pudding, &whole_cane_sugar, "1 tsp");
+add_serving(&mason_jar_bread_pudding_bread_pudding, &brown_sugar, "1 tsp");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &cinnamon, "1/2 tsp");
 add_serving(&mason_jar_bread_pudding_bread_pudding, &maple_syrup, "1 tbsp");
 add_part(&mason_jar_bread_pudding, &mason_jar_bread_pudding_bread_pudding);
@@ -1112,7 +1113,7 @@ add_part(&balsamic_banana_ice_cream, &balsamic_banana_ice_cream_banana_ice_cream
 
 // fresh pesto pasta
 Recipe fresh_pesto_pasta = create_recipe("fresh pesto pasta", pasta, "2 servings", 20150922, 20);
-set_description(&fresh_pesto_pasta, "Summer is over, temperature in Montreal started to dip into the lower 20's. Colder times means collecting the remaining fresh herbs from my balcony garden. This year, I'm happy to say that my plants have thrived.<br /><br />My basil plant was a real beauty, I harvested all I could from it and made pesto. With it, I made this recipe.<br /><br />The combination of carrots and zucchinis look beautiful on a plate. To complete the dish, I added some roasted pumpkin seeds, and topped it off with cherry tomatoes. For bulk, I added scoobi do pasta to this dish. Scoobi do pasta happens to be my favorite pasta cut (I'm a sucker for shapes)<br /><br />See how to roast your own <a href='roasted_pumpkin_seeds.html'>pumpkin seeds</a>.<br /><br />");
+set_description(&fresh_pesto_pasta, "Summer is over, temperature in Montreal started to dip into the lower 20's. Colder times means collecting the remaining fresh herbs from my balcony garden. This year, I'm happy to say that my plants have thrived.<br /><br />My basil plant was a real beauty, I harvested all I could from it and made pesto. With it, I made this recipe.<br /><br />The combination of carrots and zucchinis look beautiful on a plate. To complete the dish, I added some roasted pumpkin seeds, and topped it off with cherry tomatoes. For bulk, I added cavatappi pasta to this dish. Cavatappi pasta (or scoobi-doo) happens to be my favorite pasta cut (I'm a sucker for shapes)<br /><br />See how to roast your own <a href='roasted_pumpkin_seeds.html'>pumpkin seeds</a>.<br /><br />");
 RecipePart fresh_pesto_pasta_pesto = create_part("pesto");
 add_instruction(&fresh_pesto_pasta_pesto, "Blend the following ingredients in a food processor or blender: <i>2 cups</i> of <a href='fresh_basil.html'>fresh basil</a>, <i>3 cloves</i> of <a href='garlic.html'>garlic</a>, <i>1/4 cup</i> of <a href='nutritional_yeast.html'>nutritional yeast</a>, <i>1/4 tsp</i> of <a href='salt.html'>salt</a> and a dash of <a href='black_pepper.html'>black pepper</a>.");
 add_instruction(&fresh_pesto_pasta_pesto, "Add <i>1/4 cup</i> of <a href='olive_oil.html'>olive oil</a> and blend again until smooth. Set aside.");
@@ -1124,12 +1125,12 @@ add_serving(&fresh_pesto_pasta_pesto, &sea_salt, "1/4 tsp");
 add_serving(&fresh_pesto_pasta_pesto, &black_pepper, "1/4 tsp");
 add_part(&fresh_pesto_pasta, &fresh_pesto_pasta_pesto);
 RecipePart fresh_pesto_pasta_main = create_part("main");
-add_instruction(&fresh_pesto_pasta_main, "Bring a pot of <a href='water.html'>water</a> to a boil, add <i>1 1/2 cups</i> of <a href='scoobi_do.html'>scoobi do</a> pasta and cook until tender. While the pasta is cooking julienne <i>2</i> <a href='carrots.html'>carrots</a> and <i>1</i> <a href='zucchini.html'>zucchini</a>.");
+add_instruction(&fresh_pesto_pasta_main, "Bring a pot of <a href='water.html'>water</a> to a boil, add <i>1 1/2 cups</i> of <a href='cavatappi.html'>cavatappi</a> pasta and cook until tender. While the pasta is cooking julienne <i>2</i> <a href='carrots.html'>carrots</a> and <i>1</i> <a href='zucchini.html'>zucchini</a>.");
 add_instruction(&fresh_pesto_pasta_main, "Drizzle some <a href='olive_oil.html'>olive oil</a> in a pan and bring up to medium heat. Add the vegetable strips and cook for <u>2-3 minutes</u>.");
 add_instruction(&fresh_pesto_pasta_main, "Remove from heat, add the cooked pasta as well as a few tablespoons of pesto! The recipe makes about 1 cup of pesto, which you can keep and use for future meals.");
 add_instruction(&fresh_pesto_pasta_main, "Season pasta with <a href='salt.html'>salt</a> and <a href='black_pepper.html'>black pepper</a>. Finally, top it all off with <a href='roasted_pumpkin_seeds.html'>roasted pumpkin seeds</a> and <a href='small_heirloom_tomatoes.html'>small heirloom tomatoes</a>!");
 add_serving(&fresh_pesto_pasta_main, &carrots, "2");
-add_serving(&fresh_pesto_pasta_main, &scoobi_do, "1 1/2 cups");
+add_serving(&fresh_pesto_pasta_main, &cavatappi, "1 1/2 cups");
 add_serving(&fresh_pesto_pasta_main, &zucchini, "1 large");
 add_serving(&fresh_pesto_pasta_main, &small_heirloom_tomatoes, "6");
 add_part(&fresh_pesto_pasta, &fresh_pesto_pasta_main);
