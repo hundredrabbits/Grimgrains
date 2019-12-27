@@ -27,7 +27,7 @@ void build_recipe(Recipe *recipe) {
   fprintf(myfile, "<h1>%s</h1>", recipe->name);
   fprintf(myfile, "<h2>%s — %d minutes</h2>", recipe->portions, recipe->time);
   fprintf(myfile, "<img src='../media/recipes/%s.jpg'/>", filename);
-  fprintf(myfile, "<p>%s</p>", recipe->description);
+  fprintf(myfile, "<p class='col2 small'>%s</p>", recipe->description);
   for (int i = 0; i < recipe->parts_len; ++i) {
     fputs("<dl class='ingredients'>", myfile);
     fprintf(myfile, "<h3>%s</h3>", recipe->parts[i]->name);
