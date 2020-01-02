@@ -7,7 +7,7 @@ char *html_header = "<header><a id='logo' href='home.html'><img src='../media/in
 char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='recipes'><a href='home.html#recipes'>Recipes</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='right'><a href='http://twitter.com/grimgrains' target='_blank'>Twitter</a></li></ul></nav>";
 
 char *html_footer =
-    "<footer><a href='about.html'>Grimgrains</a> © 2014—2019<br><a "
+    "<footer><a href='about.html'>Grimgrains</a> © 2014—2020<br><a "
     "href='http://100r.co/' target='_blank'>Hundred "
     "Rabbits</a></footer></body></html>";
 
