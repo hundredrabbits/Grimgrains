@@ -30,7 +30,7 @@ set_description(&veggie_pate, "Végé pâté is Quebec staple food. It's great w
 RecipePart veggie_pate_preparation = create_part("preparation");
 add_instruction(&veggie_pate_preparation, "Soak <i>480g (1 cup)</i> of raw unsalted <a href='sunflower_seeds'>sunflower seeds</a> in water for <u>2 hours</u>. Then, drain, rinse well and transfer to a big bowl. Puree the seeds using an immersion blender. Set aside.");
 add_instruction(&veggie_pate_preparation, "Preheat oven to <u>190°C (375°F)</u>.");
-add_instruction(&veggie_pate_preparation, "Skin, and grate <i>1 large</> <a href='sweet_potatoes.html'>potatoes</a>, or enough to fill <i>1 1/2 cups</i>. Also, grate <i>1</i> large <a href='carrots.html'>carrot</a>. Then transfer both the grated carrot and potatoes into the big bowl with the sunflower seeds.");
+add_instruction(&veggie_pate_preparation, "Skin, and grate <i>1 large</i> <a href='sweet_potatoes.html'>potatoes</a>, or enough to fill <i>1 1/2 cups</i>. Also, grate <i>1</i> large <a href='carrots.html'>carrot</a>. Then transfer both the grated carrot and potatoes into the big bowl with the sunflower seeds.");
 add_instruction(&veggie_pate_preparation, "Chop <i>1 medium</i> <a href=yellow.onion.html'>yellow onion</a> and <i>3</i> <a href='garlic.html'>garlic cloves</a>. Bring a pan to medium heat, add vegetable oil and the chopped yellow onion. Sautée until browned, then add the minced garlic and cook for another minute. Pour contents of pan into the big bowl.");
 add_instruction(&veggie_pate_preparation, "Pulse <i>65g</i> of <a href='rolled_oats'>rolled oats</a> into a fine powder using an immersion blender or mortar and pestle. Add oat powder into the big bowl.");
 add_instruction(&veggie_pate_preparation, "Add <i>30 ml (2 tbsp)</i> of <a href='canola_oil.html'>canola oil</a>, <i>45 ml (3 tbsp)</i> of <a href='soy_sauce.html'>soy sauce</a>, <i>5ml (1 tsp)</i> of <a href='lemon_juice'>lemon juice</a>, <i>5 ml (1 tsp)</i> of <a href='oregano.html'>dried oregano</a>, <i>5 ml (1 tsp)</i> of <a href='thyme.html'>dried thyme</a> and <i>80 ml (1/3 cup)</i> of <a href='water.html'>water</a> to the rest of the ingredients. Blend everything using an immersion blender, then add <i>a pinch</i> of <a href='black pepper'>black pepper</a> and <i>40g (1/4 cup)</i> of <a href='nutritional_yeast'>nutritional yeast</a>. Mix it in with a spoon. ");
@@ -41,13 +41,13 @@ add_serving(&veggie_pate_preparation, &carrots, "1, grated");
 add_serving(&veggie_pate_preparation, &canola_oil, "2 tbsp");
 add_serving(&veggie_pate_preparation, &yellow_onion, "1");
 add_serving(&veggie_pate_preparation, &garlic, "3 cloves");
-add_serving(&veggie_pate_preparation, &rolled_oats, "3/4 cup, ground");
-add_serving(&veggie_pate_preparation, &soy_sauce, "3 tbsp");
-add_serving(&veggie_pate_preparation, &lemon_juice, "1 tsp");
-add_serving(&veggie_pate_preparation, &thyme, "1 tsp");
-add_serving(&veggie_pate_preparation, &oregano, "1 tsp");
+add_serving(&veggie_pate_preparation, &rolled_oats, "65 g");
+add_serving(&veggie_pate_preparation, &soy_sauce, "45 ml");
+add_serving(&veggie_pate_preparation, &lemon_juice, "5 ml");
+add_serving(&veggie_pate_preparation, &thyme, "5 ml");
+add_serving(&veggie_pate_preparation, &oregano, "5 ml");
 add_serving(&veggie_pate_preparation, &black_pepper, "to taste");
-add_serving(&veggie_pate_preparation, &water, "1/3 cup");
+add_serving(&veggie_pate_preparation, &water, "80 ml");
 add_part(&veggie_pate, &veggie_pate_preparation);
 
 // buckwheat tea
