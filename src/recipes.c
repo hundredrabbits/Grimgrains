@@ -593,12 +593,12 @@ add_part(&fresh_pesto_pasta, &fresh_pesto_pasta_main);
 Recipe homemade_veganaise = create_recipe("homemade veganaise", sauce, "1.5 cup", 20191206, 5);
 set_description(&homemade_veganaise, "<b>Recipe location:</b> Montreal, QC. Canada<br /><br />Making mayo is easy. This is a basic recipe that can be prepared right before eating, and that requires few tools.<br /><br />It's possible to add other spices and ingredients to augment the flavor of this homemade plant-based mayonnaise, ingredients like smoked paprika, garlic or fresh herbs.<br /><br /><b>Substitutions</b><br /><br />In this recipe it's possible to use <a href='olive_oil.html'>olive oil</a> instead of canola. I used canola oil because it has a neutral flavor, while olive oil does not.<br /><br />Instead of using <a href='dijon_mustard.html'>dijon mustard</a>, you can sub with 5 ml (1 tsp) of mustard powder. If you have a spice grinder or a coffee grinder, you can grind your own mustard powder from whole mustard seeds. If you use mustard powder, you'll have to add 1 extra tbsp of apple cider vinegar to the recipe. In this recipe, I used old style <a href='dijon_mustard.html'>dijon mustard</a> with mustard seeds, which explains the texture present in the veganaise. If you want to know how to make old-style dijon mustard, check out <a href='#mustard_from_seed.html'>my recipe</a>.<br /><br />If you prefer sweeter venagaise, add 2.5 ml (1/2 tsp) of a sweetener.<br /><br />");
 RecipePart homemade_veganaise_veganaise = create_part("veganaise");
-add_instruction(&homemade_veganaise_veganaise, "Blend <i>250 g (1 cup)</i> of <a href='soft_tofu.html'>soft tofu</a>, <i>45 ml (3 tbsp)</i> of olive oil, <i>30 ml (2 tbsp)</i> <a href='apple_cider_vinegar.html'>apple cider vinegar</a>, <i>45 g (3 tbsp)</i> <a href='dijon_mustard.html'>dijon mustard</a> and <i>1.25 ml (1/4 tsp)</i> <a href='salt.html'>salt</a>.");
+add_instruction(&homemade_veganaise_veganaise, "Blend <i>250 g (1 cup)</i> of <a href='soft_tofu.html'>soft tofu</a>, <i>45 ml (3 tbsp)</i> of <a href='canola_oil.html'>canola oil</a>, <i>30 ml (2 tbsp)</i> <a href='apple_cider_vinegar.html'>apple cider vinegar</a>, <i>45 g (3 tbsp)</i> <a href='dijon_mustard.html'>dijon mustard</a> and <i>1.25 ml (1/4 tsp)</i> <a href='salt.html'>salt</a>.");
 add_serving(&homemade_veganaise_veganaise, &soft_tofu, "250 g");
 add_serving(&homemade_veganaise_veganaise, &canola_oil, "45 ml");
 add_serving(&homemade_veganaise_veganaise, &apple_cider_vinegar, "15 ml");
 add_serving(&homemade_veganaise_veganaise, &lemon_juice, "5 ml");
-add_serving(&homemade_veganaise_veganaise, &dijon_mustard, "45 g");
+add_serving(&homemade_veganaise_veganaise, &salt, "1.25 g");
 add_part(&homemade_veganaise, &homemade_veganaise_veganaise);
 
 // hop ice cream
