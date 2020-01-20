@@ -430,7 +430,7 @@ add_instruction(&cookie_mix, "Add the wet ingredients to the dry, and mix well (
 add_instruction(&cookie_mix, "Add <i>170 g (1 cup)</i> of <a href='chocolate_chips.html'>chocolate chips</a>, distribute evenly.");
 add_instruction(&cookie_mix, "Scoop up generous balls of dough and lay on a baking sheet, leave plenty of room inbetween. ");
 add_instruction(&cookie_mix, "Bake cookies until they start to brown and crisp at the edges, depending on your oven this may take <u>10-15 minutes</u>. My oven is old and bakes at lower temperatures so I need to bake them for the longer time. See notes in above description.");
-add_serving(&cookie_mix, &all_purpose_flour, "250 g");
+add_serving(&cookie_mix, &all_purpose_flour, "125 g");
 add_serving(&cookie_mix, &baking_soda, "2.5 g");
 add_serving(&cookie_mix, &salt, "1.25 g");
 add_serving(&cookie_mix, &granulated_sugar, "75 g");
