@@ -284,25 +284,21 @@ void build_about() {
   fputs(html_header, myfile);
   fputs(html_nav, myfile);
 
-  fputs("<main class='about'>"
+  fputs("<main>", myfile);
+  char buffer[4096];
+  FILE *fp = fopen("inc/about.htm", "r");
+  if(fp == NULL){ return; }
 
-    "<h1>About</h1><p>We started <b>Grimgrains</b> to teach ourselves how to cook. This blog, which now doubles as a travel diary, helps track our habits as we adapt to the localy available produce. All of these recipes are plant-based, and tree-nut free.</p><img src= '../media/pages/about/galley.jpg'/>"
-
-    "<p>We are <a href='http://kokorobot.ca/' class='external' target='_blank'>Rekka Bellum</a>(illustrator) and <a href='http://xxiivv.com' class='external' target='_blank'>Devine Lu Linvega</a>(developer), living on a small sailboat somewhere on the shores of the Pacific Ocean. <a href='http://100r.co' class='external' target='_blank'>Hundredrabbits</a> is the name of our floating studio, we write softwares and recipes as we sail around the world looking for new ingredients.</p>"
-
-    "<p>This website showcases our favourite creations, along with hand-drawn illustrations for each ingredient. The pages were generated entirely in the classic C99 programming language, and the sources can be found on <a href='https://github.com/hundredrabbits/Grimgrains' class='external' target='_blank'>Github</a>.</p>"
-
-    "<p>If you have any question, you can find us on on <a rel='me' href='https://merveilles.town/@rek'>Mastodon</a>.</p><img src= '../media/interface/toast.jpg' width='300'/>"
-
-    "<h3>Copyright policy</h3><p>You may adapt our recipes, but a link back or mention would be nice :).</p>"
-
-    "<p>The assets of grimgrains.com, unless stated otherwise, are <a href='http://100r.co/' class='external' target='_blank'>©hundredrabbits</a>. Photographs, drawings or text should not be used, published, reprinted or modified without our permission. The source code of the website is under the <a href='https://github.com/hundredrabbits/Grimgrains/blob/master/LICENSE' class='external' target='_blank'>MIT License</a>.</p>"
-
-    "<p>All recipes featured on grimgrains.com are our own, unless stated otherwise. The information is for food enthusiasts like ourselves, we do not claim to be all-knowing. Nor are we health professionals. Our views are our own, we encourage openness and curiosity whenever possible.</p>"
-
-    "<h3>Privacy statement</h3><p>We reserve the right to alter the blog at our own discretion. Words addressed to us in private will not be shared, nor will we use any of it in future publications.</p>"
-
-    "</main>", myfile);
+  for (;;) {
+    size_t sz = fread(buffer, 1, sizeof(buffer), fp);
+    if (sz) {
+      fwrite(buffer, 1, sz, myfile);
+    } else if (feof(fp) || ferror(fp)) {
+      break;
+    }
+  }   
+  fclose(fp);
+  fputs("</main>", myfile);
 
   fputs(html_footer, myfile);
 
