@@ -158,43 +158,43 @@ void build_recipe(Recipe *recipe) {
   to_lowercase(recipe->name, filename, STR_BUF_LEN);
   char filepath[STR_BUF_LEN];
   snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
+  FILE *f = fopen(filepath, "w");
 
-  fprintf(myfile, html_head, recipe->name, "recipe");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
+  fprintf(f, html_head, recipe->name, "recipe");
+  fputs(html_header, f);
+  fputs(html_nav, f);
 
-  fputs("<main class='recipe'>", myfile);
-  fprintf(myfile, "<h1>%s</h1>", recipe->name);
-  fprintf(myfile, "<h2>%s — %d minutes</h2>", recipe->portions, recipe->time);
-  fprintf(myfile, "<img src='../media/recipes/%s.jpg'/>", filename);
-  fprintf(myfile, "<p class='col2'>%s</p>", recipe->description);
+  fputs("<main class='recipe'>", f);
+  fprintf(f, "<h1>%s</h1>", recipe->name);
+  fprintf(f, "<h2>%s — %d minutes</h2>", recipe->portions, recipe->time);
+  fprintf(f, "<img src='../media/recipes/%s.jpg'/>", filename);
+  fprintf(f, "<p class='col2'>%s</p>", recipe->description);
   for (int i = 0; i < recipe->parts_len; ++i) {
-    fputs("<dl class='ingredients'>", myfile);
-    fprintf(myfile, "<h3>%s</h3>", recipe->parts[i]->name);
+    fputs("<dl class='ingredients'>", f);
+    fprintf(f, "<h3>%s</h3>", recipe->parts[i]->name);
     for (int i2 = 0; i2 < recipe->parts[i]->servings_len; ++i2) {
       char ingr_path[STR_BUF_LEN];
       to_lowercase(recipe->parts[i]->servings[i2].ingredient->name, ingr_path,
                    STR_BUF_LEN);
-      fprintf(myfile,
+      fprintf(f,
               "<dt><a href='%s.html'><img "
               "src='../media/ingredients/%s.png'/><b>%s</b> <u>%s</u></a></dt>",
               ingr_path, ingr_path,
               recipe->parts[i]->servings[i2].ingredient->name,
               recipe->parts[i]->servings[i2].quantity);
     }
-    fputs("</dl>", myfile);
-    fputs("<ul class='instructions'>", myfile);
+    fputs("</dl>", f);
+    fputs("<ul class='instructions'>", f);
     for (int i2 = 0; i2 < recipe->parts[i]->instructions_len; ++i2) {
-      fprintf(myfile, "<li>%s</li>", recipe->parts[i]->instructions[i2]);
+      fprintf(f, "<li>%s</li>", recipe->parts[i]->instructions[i2]);
     }
-    fputs("</ul>", myfile);
+    fputs("</ul>", f);
   }
-  fputs("</main>", myfile);
+  fputs("</main>", f);
 
-  fputs(html_footer, myfile);
+  fputs(html_footer, f);
 
-  fclose(myfile);
+  fclose(f);
 }
 
 void build_ingredient(Ingredient *ingredient) {
@@ -203,27 +203,27 @@ void build_ingredient(Ingredient *ingredient) {
   to_lowercase(ingredient->name, filename, STR_BUF_LEN);
   char filepath[STR_BUF_LEN];
   snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
+  FILE *f = fopen(filepath, "w");
 
-  fprintf(myfile, html_head, ingredient->name, "ingredient");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
+  fprintf(f, html_head, ingredient->name, "ingredient");
+  fputs(html_header, f);
+  fputs(html_nav, f);
 
-  fputs("<main class='ingredient'>", myfile);
-  fprintf(myfile, "<h1>%s</h1>", ingredient->name);
-  fprintf(myfile, "<img class='right' src='../media/ingredients/%s.png'/>",
+  fputs("<main class='ingredient'>", f);
+  fprintf(f, "<h1>%s</h1>", ingredient->name);
+  fprintf(f, "<img class='right' src='../media/ingredients/%s.png'/>",
           filename);
-  fprintf(myfile, "<p>%s</p>", ingredient->description);
+  fprintf(f, "<p>%s</p>", ingredient->description);
   if (ingredient->parent) {
-    fprintf(myfile, "<h2>%s</h2>", ingredient->parent->name);
-    fprintf(myfile, "<p class='small'>%s</p>", ingredient->parent->description);
+    fprintf(f, "<h2>%s</h2>", ingredient->parent->name);
+    fprintf(f, "<p class='small'>%s</p>", ingredient->parent->description);
   }
-  fputs("<hr/>", myfile);
-  fputs("</main>", myfile);
+  fputs("<hr/>", f);
+  fputs("</main>", f);
 
-  fputs(html_footer, myfile);
+  fputs(html_footer, f);
 
-  fclose(myfile);
+  fclose(f);
 }
 
 void build_home(Ingredient *ingredients[], int ingredients_len,
@@ -232,173 +232,79 @@ void build_home(Ingredient *ingredients[], int ingredients_len,
   char *filename = "home";
   char filepath[STR_BUF_LEN];
   snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
+  FILE *f = fopen(filepath, "w");
 
-  fprintf(myfile, html_head, "Home", "home");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
+  fprintf(f, html_head, "Home", "home");
+  fputs(html_header, f);
+  fputs(html_nav, f);
 
-  fputs("<main class='home'>", myfile);
-  fprintf(myfile, "<h1>%d Ingredients</h1>", ingredients_len);
+  fputs("<main class='home'>", f);
+  fprintf(f, "<h1>%d Ingredients</h1>", ingredients_len);
 
-  fputs("<dl class='ingredients'>", myfile);
+  fputs("<dl class='ingredients'>", f);
   for (int i = 0; i < ingredients_len; ++i) {
     char ingr_path[STR_BUF_LEN];
     to_lowercase(ingredients[i]->name, ingr_path, STR_BUF_LEN);
-    fprintf(myfile,
+    fprintf(f,
             "<dt><a href='%s.html'><img "
             "src='../media/ingredients/%s.png'/><b>%s</b></a></dt>",
             ingr_path, ingr_path, ingredients[i]->name);
   }
-  fputs("</dl>", myfile);
+  fputs("</dl>", f);
 
-  fprintf(myfile, "<h1 id='recipes'>%d Recipes</h1>", recipes_len);
+  fprintf(f, "<h1 id='recipes'>%d Recipes</h1>", recipes_len);
 
-  fputs("<ul class='recipes col3'>", myfile);
+  fputs("<ul class='recipes col3'>", f);
 
   for (int i = 0; i < lifestyle + 1; ++i) {
-    fprintf(myfile, "<h3>%s</h3>", recipe_type_names[i]);
+    fprintf(f, "<h3>%s</h3>", recipe_type_names[i]);
     for (int j = 0; j < recipes_by_types_len[i]; ++j) {
       char recipe_path[STR_BUF_LEN];
       to_lowercase(recipes_by_types[i][j], recipe_path, STR_BUF_LEN);
-      fprintf(myfile, "<li><a href='%s.html'>%s</a></li>", recipe_path,
+      fprintf(f, "<li><a href='%s.html'>%s</a></li>", recipe_path,
               recipes_by_types[i][j]);
     }
   }
 
-  fputs("</main>", myfile);
+  fputs("</main>", f);
 
-  fputs(html_footer, myfile);
+  fputs(html_footer, f);
 
-  fclose(myfile);
+  fclose(f);
 }
 
-void build_about() {
-// New strings
-  char *filename = "about";
+void build_inc(char *name) {
+  char *filename = name;
   char filepath[STR_BUF_LEN];
   snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
+  FILE *f = fopen(filepath, "w");
 
-  fprintf(myfile, html_head, "About", "about");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
+  char incpath[STR_BUF_LEN];
+  snprintf(incpath, STR_BUF_LEN, "inc/%s.htm", filename);
 
-  fputs("<main>", myfile);
+  fprintf(f, html_head, name, name);
+  fputs(html_header, f);
+  fputs(html_nav, f);
+
+  fprintf(f, "<main class='%s'>", name);
   char buffer[4096];
-  FILE *fp = fopen("inc/about.htm", "r");
+  FILE *fp = fopen(incpath, "r");
   if(fp == NULL){ return; }
 
   for (;;) {
     size_t sz = fread(buffer, 1, sizeof(buffer), fp);
     if (sz) {
-      fwrite(buffer, 1, sz, myfile);
+      fwrite(buffer, 1, sz, f);
     } else if (feof(fp) || ferror(fp)) {
       break;
     }
   }   
   fclose(fp);
-  fputs("</main>", myfile);
+  fputs("</main>", f);
 
-  fputs(html_footer, myfile);
+  fputs(html_footer, f);
 
-  fclose(myfile);
-}
-
-void build_meals() {
-// New strings
-  char *filename = "meals";
-  char filepath[STR_BUF_LEN];
-  snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
-
-  fprintf(myfile, html_head, "Meals", "meals");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
-
-  fputs("<main>", myfile);
-  char buffer[4096];
-  FILE *fp = fopen("inc/meals.htm", "r");
-  if(fp == NULL){ return; }
-
-  for (;;) {
-    size_t sz = fread(buffer, 1, sizeof(buffer), fp);
-    if (sz) {
-      fwrite(buffer, 1, sz, myfile);
-    } else if (feof(fp) || ferror(fp)) {
-      break;
-    }
-  }   
-  fclose(fp);
-  fputs("</main>", myfile);
-
-  fputs(html_footer, myfile);
-
-  fclose(myfile);
-}
-
-void build_nutrition() {
-// New strings
-  char *filename = "nutrition";
-  char filepath[STR_BUF_LEN];
-  snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
-
-  fprintf(myfile, html_head, "Nutrition", "nutrition");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
-
-  fputs("<main class='nutrition'>", myfile);
-  char buffer[4096];
-  FILE *fp = fopen("inc/nutrition.htm", "r");
-  if(fp == NULL){ return; }
-
-  for (;;) {
-    size_t sz = fread(buffer, 1, sizeof(buffer), fp);
-    if (sz) {
-      fwrite(buffer, 1, sz, myfile);
-    } else if (feof(fp) || ferror(fp)) {
-      break;
-    }
-  }   
-  fclose(fp);
-  fputs("</main>", myfile);
-
-  fputs(html_footer, myfile);
-
-  fclose(myfile);
-}
-
-void build_tools() {
-// New strings
-  char *filename = "tools";
-  char filepath[STR_BUF_LEN];
-  snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
-  FILE *myfile = fopen(filepath, "w");
-
-  fprintf(myfile, html_head, "Tools", "tools");
-  fputs(html_header, myfile);
-  fputs(html_nav, myfile);
-
-  fputs("<main class='tools'>", myfile);
-  char buffer[4096];
-  FILE *fp = fopen("inc/tools.htm", "r");
-  if(fp == NULL){ return; }
-
-  for (;;) {
-    size_t sz = fread(buffer, 1, sizeof(buffer), fp);
-    if (sz) {
-      fwrite(buffer, 1, sz, myfile);
-    } else if (feof(fp) || ferror(fp)) {
-      break;
-    }
-  }   
-  fclose(fp);
-  fputs("</main>", myfile);
-
-  fputs(html_footer, myfile);
-
-  fclose(myfile);
+  fclose(f);
 }
 
 int main(void) {
@@ -423,17 +329,10 @@ int main(void) {
   build_home(ingredients, ingredients_len, recipes_len);
   printf("Built home\n");
 
-  build_about();
-  printf("Built about\n");
-
-  build_nutrition();
-  printf("Built nutrition\n");
-
-  build_tools();
-  printf("Built tools\n");
-
-  build_meals();
-  printf("Built meals\n");
+  build_inc("about");
+  build_inc("nutrition");
+  build_inc("tools");
+  build_inc("meals");
 
   return (0);
 }
