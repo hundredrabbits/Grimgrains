@@ -211,7 +211,7 @@ RecipePart cheese_cheese = create_part("cheese");
 add_instruction(&cheese_cheese, "Soak <i>140 g (1 cup)</i> of <a href='sunflower_seeds.html'>raw unsalted sunflower seeds</a> in water for <u>2 hours</u>, or overnight.");
 add_instruction(&cheese_cheese, "Drain and rinse sunflower seeds, and blend with <i>240 ml (1 cup)</i> of <a href='water.html'>water</a>, <i>1.25 g (1/4 tsp)</i> of <a href='salt.html'>salt</a>, <i>30 g (2 tbsp)</i> of <a href='nutritional_yeast.html'>nutritional yeast</a>, <i>2.5 g (1/2 tsp)</i> of <a href='onion_powder.html'>onion powder</a>, <i>5 ml (1 tsp)</i> of <a href='apple_cider_vinegar.html'>apple cider vinegar</a> and <i>5 g (1 tsp)</i> of <a href='white_miso.html'>white miso</a>.");
 add_instruction(&cheese_cheese, "In a small bowl, dissolve <i>30 g (2 tbsp)</i> of <a href='arrowroot_starch.html'>arrowroot starch</a> (or 30 g of tapioca starch) with <i>30 ml (2 tbsp) of water</i>. Keep aside.");
-add_instruction(&cheese_cheese, "Heat a saucepan at medium heat, pour <i>120 ml (1/2 cup)</i> of <a href='soy_milk.html'>soy milk</a> (or water) and sprinkle <i>6 g (~1 tbsp)</i> of <a href='kanten_powder.html'>kanten powder</a> (or equal amount of <a href='agar_agar_powder.html'>agar agar powder</a>)</a>. Stir well.");
+add_instruction(&cheese_cheese, "Heat a saucepan at medium heat, pour <i>120 ml (1/2 cup)</i> of <a href='water.html'>water</a> (or soy milk for richer taste) and sprinkle <i>6 g (~1 tbsp)</i> of <a href='kanten_powder.html'>kanten powder</a> (or equal amount of <a href='agar_agar_powder.html'>agar agar powder</a>)</a>. Stir well.");
 add_instruction(&cheese_cheese, "When content starts to boil, lower to a simmer and pour the sunflower cheese mix into it. Stir, for <u>1-2 minutes</u>, then add the arrowroot starch mix. Continue whisking until mixture is thick and shiny. Pour contents of pan into container of choice (I like to use 2 small bowls).");
 add_instruction(&cheese_cheese, "Let mixture rest for <u>2 hours</u>.");
 add_instruction(&cheese_cheese, "Flip bowls upside down, scoop out cheese and enjoy! This cheese can be grated onto pizza too!");
@@ -223,7 +223,7 @@ add_serving(&cheese_cheese, &onion_powder, "2.5 g");
 add_serving(&cheese_cheese, &apple_cider_vinegar, "5 ml");
 add_serving(&cheese_cheese, &white_miso, "5 g");
 add_serving(&cheese_cheese, &arrowroot_starch, "30 g");
-add_serving(&cheese_cheese, &soy_milk, "120 ml");
+add_serving(&cheese_cheese, &water, "120 ml");
 add_serving(&cheese_cheese, &kanten_powder, "6 g");
 add_part(&cheese, &cheese_cheese);
 
