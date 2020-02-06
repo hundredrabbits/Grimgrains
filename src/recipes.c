@@ -1028,6 +1028,30 @@ add_serving(&roasted_carrots_with_beluga_lentils_lentils, &beluga_lentils, "115 
 add_serving(&roasted_carrots_with_beluga_lentils_lentils, &vegetable_bouillon, "375 ml");
 add_part(&roasted_carrots_with_beluga_lentils, &roasted_carrots_with_beluga_lentils_lentils);
 
+// roasted eggplant dip
+Recipe roasted_eggplant_dip = create_recipe("roasted eggplant dip", sidedish, "4 servings", 2090206, 50);
+set_description(&roasted_eggplant_dip, "A simple roasted eggplant dip recipe. Roasted the garlic is optional, but it gives the dip a deeper, more complex flavor, while diminishing the pungency of the garlic.<br /><br />This recipe is ideal when served with flat bread or raw vegetables, it's also good if served with <a href='crackers.html'>crackers</a>. Optionally, you can add roasted green peppers and other vegetables to further augment the flavor and nutrition of the dip.");
+RecipePart roasted_eggplant_dip_garlic = create_part("roasted garlic");
+add_instruction(&roasted_eggplant_dip_garlic, "Preheat oven to <u>240 °C (460 °F)</u>.");
+add_instruction(&roasted_eggplant_dip_garlic, "Remove outer leaves of whole garlic head, keep the inner skins on and don't pick the cloves apart. Slice off the tip of each garlic clove, so that some flesh is exposed, and rub the tops and sides with some <a href='olive_oil.html'>vegetable oil</a>.");
+add_instruction(&roasted_eggplant_dip_garlic, "Wrap garlic head in tin foil. Keep aside.");
+add_serving(&roasted_eggplant_dip_garlic, &garlic, "1, whole head");
+add_serving(&roasted_eggplant_dip_garlic, &olive_oil, "5 ml");
+add_part(&roasted_eggplant_dip, &roasted_eggplant_dip_garlic);
+RecipePart roasted_eggplant_dip_eggplant_dip = create_part("eggplant dip");
+add_instruction(&roasted_eggplant_dip_eggplant_dip, "With a fork, poke some holes in <i>2</i> large <a href='eggplant.html'>eggplants</a>, and lay them over a baking tray along with the garlic head in tin foil. Roast garlic head for <u>45 minutes</u>, eggplant may require an additional <u>10 minutes</u> (depending on your oven).");
+add_instruction(&roasted_eggplant_dip_eggplant_dip, "Allow the eggplant and the garlic to cool.");
+add_instruction(&roasted_eggplant_dip_eggplant_dip, "Remove the flesh from the skins of both the roasted garlic cloves and eggplants. Transfer them to a food processor. Add <i>30 ml (2 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>15 ml (1 tbsp)</i> of <a href='olive_oil.html'>olive oil</a> and <i>30 ml (2 tbsp)</i> of <a href='lemon_juice.html'>lemon juice</a>, and process into a smooth puree.");
+add_instruction(&roasted_eggplant_dip_eggplant_dip, "Season with <i>1.25 g (1/4 tsp)</i> of <a href='salt.html'>salt</a>, <a href='black_pepper.html'>black pepper</a> and some <a href='smoked_paprika.html'>smoked paprika</a>.");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &eggplant, "2 large");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &tahini, "30 ml");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &olive_oil, "15 ml");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &lemon_juice, "30 ml");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &salt, "1.25 g");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &black_pepper, "1.25 g");
+add_serving(&roasted_eggplant_dip_eggplant_dip, &smoked_paprika, "15 g");
+add_part(&roasted_eggplant_dip, &roasted_eggplant_dip_eggplant_dip);
+
 // roasted pumpkin seeds
 Recipe roasted_pumpkin_seeds = create_recipe("roasted pumpkin seeds", snack, "6 servings", 20150118, 30);
 set_description(&roasted_pumpkin_seeds, "Pumpkin seeds can be prepared in many ways, one of the best ones is oven-roasted! It doesn't take a lot of time, and it makes a nice snack or add-on to soups or other meals.<br /><br />I don't buy raw shelled pumpkin seeds often, because they're expensive. It helps to buy them in bulk, you pay less in the end.<br /><br />Roasted pumpkin seeds are delicious with almost anything, the sweet of the maple syrup with the spicy taste of the paprika is perfect. Subtle, but very good.<br /><br />");
@@ -1545,4 +1569,4 @@ add_serving(&wasabi_swirl_chocolate_cookies_glaze, &wasabi_powder, "15 g");
 add_serving(&wasabi_swirl_chocolate_cookies_glaze, &soy_milk, "30 ml");
 add_part(&wasabi_swirl_chocolate_cookies, &wasabi_swirl_chocolate_cookies_glaze);
 
-Recipe *recipes[] = {&anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_rice_pancakes, &black_sesame_syrup, &breaded_veggie_fingers, &brownies, &carrot_kinpira_onigirazu, &cheese, &cheese_and_spinach_ravioli, &basic_black_bread, &basic_toothpaste, &beer_bread, &borscht_with_tofu_sour_cream, &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &dark_gyoza, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mushroom_zucchini_pasta, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &pate_chinois, &persimmon_curry, &potato_gnocchi, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpeas, &spicy_brownies_with_pomegranate_syrup, &sunflower_heirloom_carrot_pasta, &sweet_mock_eel_nigiri, &teriyaki_veggie_patties, &turmeric_cookies, &tzaziki, &salted_caramel_carob_chip_cookies, &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies, &spinach_pajeon, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &veggie_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies };
+Recipe *recipes[] = {&roasted_eggplant_dip, &anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_rice_pancakes, &black_sesame_syrup, &breaded_veggie_fingers, &brownies, &carrot_kinpira_onigirazu, &cheese, &cheese_and_spinach_ravioli, &basic_black_bread, &basic_toothpaste, &beer_bread, &borscht_with_tofu_sour_cream, &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &dark_gyoza, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mushroom_zucchini_pasta, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &pate_chinois, &persimmon_curry, &potato_gnocchi, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpeas, &spicy_brownies_with_pomegranate_syrup, &sunflower_heirloom_carrot_pasta, &sweet_mock_eel_nigiri, &teriyaki_veggie_patties, &turmeric_cookies, &tzaziki, &salted_caramel_carob_chip_cookies, &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies, &spinach_pajeon, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &veggie_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies };
