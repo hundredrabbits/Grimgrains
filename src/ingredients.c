@@ -429,7 +429,7 @@ Ingredient sake = create_ingredient("sake", "Sake is Japanese rice beer, and it 
 
 Ingredient coconut_oil = create_child_ingredient(&coconut, "coconut oil", "Coconut oil is an edible oil extracted from the meat of mature coconuts. It has a high-fat content, which makes it resistant to rancidification, lasting up to 6 months without spoiling.<br /><br />Coconut oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly.<br /><br />");
 
-Ingredient canola_oil = create_ingredient("canola oil", "Canola oil is a good source of Omega-3's, it is derived from a variety of rapeseed. Canola oil has many non food uses, it is used in candles, lipsticks, inks etcCanola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly.<br /><br />");
+Ingredient canola_oil = create_ingredient("canola oil", "Canola oil, also known as rapeseed oil, is a vegetable oil developed in the 70's from several cultivars of plants in the Brassicaceae family (Brassica napus, Brassica rapa or Brassica juncea). Canola oil is high in monounsaturated fats, has low levels of saturated fat and a neutral flavor due to low levels of erucic acid. In plantbased diet, it's a good source of Omega-3's. Canola oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly.");
 
 Ingredient olive_oil = create_ingredient("olive oil", "Olive oil is produced by pressing whole olives, and is used in frying or as salad dressings. It also has cosmetic and pharmaceutical uses. Olive oil, as is the case for most cooking oils, isn't essential to good health and should be used sparingly.<br /><br />");
 
