@@ -655,18 +655,18 @@ add_serving(&hop_ice_cream_hop_ice_cream, &vanilla_extract, "5 ml");
 add_part(&hop_ice_cream, &hop_ice_cream_hop_ice_cream);
 
 // houjicha overnight oatmeal
-Recipe houjicha_overnight_oatmeal = create_recipe("houjicha overnight oatmeal", breakfast, "1 serving", 20140904, 10);
-set_description(&houjicha_overnight_oatmeal, "Mornings are made better with the nutty and earthy flavour of houjicha oatmeal. If you're not familiar with houjicha, visit a tea shop and ask for it, it's a Japanese roasted tea that is often served with sweet and savoury dishes. It's a good low-caffeine alternative to most teas, and adds just the right amount of flavour to oatmeal without overpowering it.<br /><br />");
+Recipe houjicha_overnight_oatmeal = create_recipe("houjicha overnight oatmeal", breakfast, "2 servings", 20140904, 10);
+set_description(&houjicha_overnight_oatmeal, "Mornings are made better with the nutty and earthy flavour of houjicha oatmeal. If you're not familiar with houjicha, visit a tea shop and ask for it, it's a Japanese roasted tea that is often served with sweet and savoury dishes. It's a good low-caffeine alternative to most teas, and adds just the right amount of flavour to oatmeal without overpowering it.<br /><br /><b>Suggestions</b><br /><br />If your nut milk is sweetened, you may not need an added sweetener. It's also possible to use a tea strainer instead of a cloth bag, by just puttin the loose leaves in it and letting it sit in a shallow pan. Just keep an eye on it to make sure it doesn't tip!");
 RecipePart houjicha_overnight_oatmeal_oatmeal = create_part("oatmeal");
-add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Boil <i>240 ml (1 cup)</i> of <a href='water.html'>water</a>, then infuse <i>10 g (2 tsp)</i> of <a href='houjicha_leaves.html'>houjicha leaves</a> in a tea strainer. You can leave it anywhere from <u>1-3 min</u>, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.");
-add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Remove the tea leaves and let cool.");
-add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Add <i>1</i> chopped <a href='banana.html'>banana</a> (to cut the bitterness of the tea), as well as <i>7 g (1 tbsp)</i> of ground <a href='flax_seeds.html'>flax seeds</a> (for added nutrition), blend until smooth.");
-add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Mix in <i>35 g (~1/3 cup)</i> of <a href='rolled_oats.html'>rolled oats</a>, stir well, and then put it in the fridge overnight. Enjoy for breakfast the next day!");
-add_serving(&houjicha_overnight_oatmeal_oatmeal, &water, "240 ml");
-add_serving(&houjicha_overnight_oatmeal_oatmeal, &houjicha, "10 g");
-add_serving(&houjicha_overnight_oatmeal_oatmeal, &banana, "1");
-add_serving(&houjicha_overnight_oatmeal_oatmeal, &flax_seeds, "7 g, ground");
-add_serving(&houjicha_overnight_oatmeal_oatmeal, &rolled_oats, "35 g");
+add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Put <i>20 g (4 tsp)</i> of <a href='houjicha_leaves.html'>houjicha leaves</a> in a thin cloth bag, or in a thin cloth with the four corners tied into a bundle. Keep aside.");
+add_instruction(&houjicha_overnight_oatmeal_oatmeal, "In a small pot, bring <i>370 ml (1 1/2 cup)</i> of <a href='soy_milk.html'>soy milk</a> to a boil. Reduce heat, place cloth bag and and let tea infuse for <u>5 min</u>, or longer, it depends how strong you like your tea to be. The longer you brew houjicha the nuttier it'll taste.");
+add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Remove the tea bag, press all liquid out of the cloth bag and leaves with your hands to get all of the flavour out. Stir <i>30 ml (2 tbsp)</i> of <a href='maple_syrup.html'>maple syrup</a> (or other sweetener) , <i>1.25 g (1/4 tsp)</i> of <a href='salt.html'>salt</a> and stir until well mixed.");
+add_instruction(&houjicha_overnight_oatmeal_oatmeal, "Stir in <i>100 g (~1 cup)</i> of <a href='rolled_oats.html'>rolled oats</a>, cover and let sit for <u>4-5 hours or overnight</u>. Enjoy for breakfast the next day with toppings like fresh fruit, ground flax seeds or other nuts and seeds.");
+add_serving(&houjicha_overnight_oatmeal_oatmeal, &soy_milk, "370 ml");
+add_serving(&houjicha_overnight_oatmeal_oatmeal, &houjicha, "20 g");
+add_serving(&houjicha_overnight_oatmeal_oatmeal, &maple_syrup, "30 ml");
+add_serving(&houjicha_overnight_oatmeal_oatmeal, &salt, "1.25 g");
+add_serving(&houjicha_overnight_oatmeal_oatmeal, &rolled_oats, "100 g");
 add_part(&houjicha_overnight_oatmeal, &houjicha_overnight_oatmeal_oatmeal);
 
 // halloween pumpkin cookies
