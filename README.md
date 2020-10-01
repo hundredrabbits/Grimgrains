@@ -1,4 +1,5 @@
-# Grimgrains
+# Hi,Everyone..
+# Checkout this amazing Grimgrains website..
 
 This repository is the sources for the Grimgrains website. The website is written in C, and requires `gcc` to build. To rebuild the site, go to `src` and run the build script:
 
