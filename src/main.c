@@ -9,7 +9,7 @@ enum RecipeType {
   dinner,
   sidedish,
   dessert,
-  sauce,
+  toppings,
   pasta,
   bread,
   snack,
@@ -91,7 +91,7 @@ typedef struct {
 } Recipe;
 
 char recipe_type_names[20][32] = {
-    "breakfast", "dinner", "sidedish", "dessert", "sauce",
+    "breakfast", "dinner", "sidedish", "dessert", "toppings",
     "pasta",     "bread",  "snack",    "basic",   "lifestyle"};
 
 int recipes_by_types_len[lifestyle + 1] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
