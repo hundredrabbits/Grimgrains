@@ -634,11 +634,11 @@ add_part(&veganaise, &veganaise_veganaise);
 
 // soybean hummus with jalapenos
 Recipe soybean_hummus_with_jalapenos = create_recipe("soybean hummus with jalapenos", sauce, "3 servings", 20200210, 5);
-set_description(&soybean_hummus_with_jalapenos, "While in Japan, we didn't have access to chickpeas and so we started to make hummus with soybeans. The result is amazing, and both of us now prefer this version. Soybeans have a rich, creamy texture, and a neutral flavor. Adding white miso adds depth, and jalapeno peppers add kick.<br /><br /><b>Recommendations</b><br /><br />I sometimes add lime, or apple cider vinegar if I don't have access to lemon. Doing this doesn't alter the flavor. It is possible to make hummus with any bean, but the taste and texture will differ. I have made hummus with red lentils too in the past, with good results.");
+set_description(&soybean_hummus_with_jalapenos, "While in Japan, we didn't have access to chickpeas and so we started to make hummus with soybeans. The result is amazing, and both of us now prefer this version. Soybeans have a rich, creamy texture, and a neutral flavor.<br /><br /><b>Recommendations</b><br /><br />I sometimes add lime, or apple cider vinegar if I don't have access to lemon. Doing this doesn't alter the flavor. It is possible to make hummus with any bean, but the taste and texture will differ. I have made hummus with red lentils too in the past, with good results.<br /><br />It's better to use white miso rather than red, as the flavor is milder. Adding white miso adds depth, and jalapeno peppers add kick.");
 RecipePart soybean_hummus_with_jalapenos_hummus = create_part("hummus");
 add_instruction(&soybean_hummus_with_jalapenos_hummus, "Soak <i>150 g</i> of <a href='soybeans.html'>dry soybeans</a> (yields 300 g cooked beans) <u>overnight</u>, or for a minimum of <u>8 h</u>. Then, cook in a pressure cooker for <u>15 minutes</u>. Strain beans, rinse and transfer to a bowl.");
 add_instruction(&soybean_hummus_with_jalapenos_hummus, "In this bowl, puree the <a href='soybeans.html'>cooked soybeans</a> with <i>45 ml (3 tbsp)</i> <a href='tahini.html'>tahini</a>, the juice of <i>1/2</i> a <a href='lemon.html'>lemon</a>, <i>15 ml (1 tbsp)</i> of <a href='white_miso.html'>white miso</a> and <i>30 ml (2-3 tbsp)</i> of <a href='water.html'>water</a>. I used a potato masher, but any blending tool will do.");
-add_instruction(&soybean_hummus_with_jalapenos_hummus, "Bring a pan to medium heat, add <i>15 ml (1 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, then add <i>4 cloves</i> of <a href='garlic.html'>chopped garlic</a>. Pan-fry for <u>2-3 minutes</u>, then add <i>2 chopped</i> <a href='jalapeno_peppers.html'>jalapeno peppers</a> and continue to pan-fry for an additional <u>5 minutes</u> or until well-cooked. Add mixture overtop of soybean hummus, and season with salt and black pepper.");
+add_instruction(&soybean_hummus_with_jalapenos_hummus, "Bring a pan to medium heat, add <i>15 ml (1 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, then add <i>4 cloves</i> of <a href='garlic.html'>chopped garlic</a>. Pan-fry for <u>2-3 minutes</u>, then add <i>2 chopped</i> <a href='jalapeno_peppers.html'>jalapeno peppers</a> and continue to pan-fry for an additional <u>5 minutes</u> or until well-cooked. Add mixture overtop of soybean hummus, and season with black pepper.");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &soy_beans, "150 g, dry");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &tahini, "45 ml");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &lemon, "1/2, juiced");
@@ -646,7 +646,6 @@ add_serving(&soybean_hummus_with_jalapenos_hummus, &white_miso, "15 ml");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &olive_oil, "15 ml");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &garlic, "4 cloves");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &jalapeno_peppers, "2");
-add_serving(&soybean_hummus_with_jalapenos_hummus, &salt, "1.25 g");
 add_serving(&soybean_hummus_with_jalapenos_hummus, &black_pepper, "5 g");
 add_part(&soybean_hummus_with_jalapenos, &soybean_hummus_with_jalapenos_hummus);
 
