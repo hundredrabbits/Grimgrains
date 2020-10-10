@@ -5,15 +5,13 @@
 #define STR_BUF_LEN 64
 
 enum RecipeType {
-  breakfast,
-  dinner,
+  maindish,
   sidedish,
-  dessert,
+  sweet,
   toppings,
-  pasta,
-  bread,
   snack,
   basic,
+  tropical,
   lifestyle
 };
 
@@ -91,10 +89,10 @@ typedef struct {
 } Recipe;
 
 char recipe_type_names[20][32] = {
-    "breakfast", "dinner", "sidedish", "dessert", "toppings",
-    "pasta",     "bread",  "snack",    "basic",   "lifestyle"};
+    "main", "sidedish", "sweet", "toppings",
+    "snack",    "basic",  "tropical", "lifestyle"};
 
-int recipes_by_types_len[lifestyle + 1] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+int recipes_by_types_len[lifestyle + 1] = {0, 0, 0, 0, 0, 0, 0, 0};
 char *recipes_by_types[lifestyle + 1][100];
 
 void categorize_recipe(char *name, enum RecipeType type) {
