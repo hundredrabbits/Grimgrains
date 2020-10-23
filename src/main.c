@@ -444,7 +444,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 		fputs("  <dc:creator><![CDATA[Rekka Bellum]]></dc:creator>\n", f);
 		fputs("  <description>\n", f);
 		fputs("<![CDATA[", f);
-		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg'/>\n", filename);
+		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg' width='600'/>\n", filename);
 		fprintf(f, "<p>%s</p>", r->description);
 		fprintf(f, "<p><a href='" DOMAIN "site/%s.html'>Continue reading</a></p>", filename, r->description);
 		fputs("]]>\n", f);
