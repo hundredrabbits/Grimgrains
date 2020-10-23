@@ -129,8 +129,8 @@ intdate(int date)
 	int m = (date / 100) % 100;
 	int d = date % 100;
 	str_time.tm_year = y - 1900;
-	str_time.tm_mon = m;
-	str_time.tm_mday = d;
+	str_time.tm_mon = m - 1;
+	str_time.tm_mday = d - 1;
 	str_time.tm_hour = 0;
 	str_time.tm_min = 0;
 	str_time.tm_sec = 0;
