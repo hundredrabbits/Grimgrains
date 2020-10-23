@@ -128,7 +128,7 @@ intdate(int date)
 	int y = date / 10000;
 	int m = (date / 100) % 100;
 	int d = date % 100;
-	str_time.tm_year = (2000 + y) - 1900;
+	str_time.tm_year = y - 1900;
 	str_time.tm_mon = m;
 	str_time.tm_mday = d;
 	str_time.tm_hour = 0;
@@ -446,6 +446,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 		fputs("<![CDATA[", f);
 		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg'/>\n", filename);
 		fprintf(f, "<p>%s</p>", r->description);
+		fprintf(f, "<p><a href='" DOMAIN "site/%s.html'>Continue reading</a></p>", filename, r->description);
 		fputs("]]>\n", f);
 		fputs("  </description>\n", f);
 		fputs("</item>\n", f);
