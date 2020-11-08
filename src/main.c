@@ -272,7 +272,7 @@ build_recipe(Recipe *recipe)
 			char ingr_path[STR_BUF_LEN];
 			to_lowercase(recipe->parts[i]->servings[i2].ingredient->name, ingr_path, STR_BUF_LEN);
 			fprintf(f,
-				"<dt><a href='%s.html'><img src='../media/ingredients/%s.png'/><b>%s</b> <u>%s</u></a></dt>",
+				"<dt><a href='%s.html'><img src='../media/ingredients/%s.png'/><b>%s</b></a><u>%s</u></dt>",
 				ingr_path,
 				ingr_path,
 				recipe->parts[i]->servings[i2].ingredient->name,
