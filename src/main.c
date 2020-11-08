@@ -356,7 +356,7 @@ build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len)
 		char ingr_path[STR_BUF_LEN];
 		to_lowercase(ingredients[i]->name, ingr_path, STR_BUF_LEN);
 		fprintf(f,
-			"<dt><a href='%s.html'><img src='../media/ingredients/%s.png'/><b>%s</b></a></dt>",
+			"<dt><a href='%s.html'><img src='../media/ingredients/%s.png' loading='lazy'/><b>%s</b></a></dt>",
 			ingr_path,
 			ingr_path,
 			ingredients[i]->name);
