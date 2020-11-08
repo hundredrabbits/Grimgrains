@@ -363,10 +363,9 @@ build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len)
 	}
 	fputs("</dl>", f);
 
-	fprintf(f, "<h1 id='recipes'>%d Recipes</h1>", recipes_len);
+	fprintf(f, "<h2 id='recipes'>%d Recipes</h2>", recipes_len);
 
 	fputs("<ul class='recipes col3'>", f);
-
 	for(int i = 0; i < lifestyle + 1; ++i) {
 		fprintf(f, "<h3>%s</h3>", recipe_type_names[i]);
 		for(int j = 0; j < recipes_by_types_len[i]; ++j) {
@@ -375,6 +374,7 @@ build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len)
 			fprintf(f, "<li><a href='%s.html'>%s</a></li>", recipe_path, recipes_by_types[i][j]);
 		}
 	}
+	fputs("</ul>", f);
 
 	fputs("</main>", f);
 
