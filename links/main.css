@@ -1,4 +1,4 @@
-* { margin:0;padding:0;border:0;outline:0;text-decoration:none;font-weight:inherit;font-style:inherit;color:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;list-style:none;border-collapse:collapse;border-spacing:0; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+* { margin:0;padding:0;border:0;text-decoration:none;font-weight:inherit;font-style:inherit;color:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;list-style:none;border-collapse:collapse;border-spacing:0; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 @font-face { font-family: 'alte_haas_grotesk_regular'; src: url('../media/fonts/alte_haas_grotesk_regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'alte_haas_grotesk_bold'; src: url('../media/fonts/alte_haas_grotesk_bold.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 body { font-family: 'Helvetica Neue', Helvetica, Arial; margin: 0px;padding: 45px 30px;background: white; border-top:45px solid black; margin-top:-40px; }
