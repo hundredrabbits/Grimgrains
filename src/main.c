@@ -419,7 +419,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 	fputs("<channel>\n", f);
 	fputs("<title>" NAME "</title>\n", f);
 	fputs("<link>" DOMAIN "</link>\n", f);
-	fputs("<description>The Nataniev Library</description>\n", f);
+	fputs("<description>Grimgrains — a plantbased cooking blog</description>\n", f);
 	/* Date */
 	fputs("<lastBuildDate>", f);
 	fpRFC2822(f, time(&now));
@@ -427,7 +427,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 	/* Image */
 	fputs("<image>\n", f);
 	fputs("  <url>" DOMAIN "media/services/rss.jpg</url>\n", f);
-	fputs("  <title>The Nataniev Library</title>\n", f);
+	fputs("  <title>Grimgrains — a plantbased cooking blog</title>\n", f);
 	fputs("  <link>" DOMAIN "</link>\n", f);
 	fputs("</image>\n", f);
 	for(i = 0; i < len; ++i) {
