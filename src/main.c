@@ -57,7 +57,7 @@ int
 slen(char *s)
 {
 	int i = 0;
-	while(s[i] != '\0' && s[++i])
+	while(s[i] && s[++i])
 		;
 	return i;
 }
@@ -72,9 +72,19 @@ char *
 scpy(char *src, char *dst)
 {
 	int i = 0;
-	while((dst[i] = src[i]) != '\0')
+	while((dst[i] = src[i]))
 		i++;
 	return dst;
+}
+
+int
+scmp(char *a, char *b)
+{
+	int i = 0;
+	while(a[i] == b[i])
+		if(!a[i++])
+			return 1;
+	return 0;
 }
 
 char *
@@ -100,14 +110,12 @@ to_lowercase(char *str, char *target, size_t tsize)
 {
 	for(size_t i = 0; i < tsize; i++) {
 		target[i] = str[i];
-		if(target[i] == '\0') {
+		if(!target[i])
 			break;
-		}
-		if(target[i] == ' ') {
+		if(target[i] == ' ')
 			target[i] = '_';
-		} else {
+		else
 			target[i] = tolower(target[i]);
-		}
 	}
 	target[tsize - 1] = '\0';
 }
@@ -169,15 +177,7 @@ create_serving(Ingredient *ingredient, char *quantity)
 	return a;
 }
 
-void
-print_ingredient(Ingredient *ingredient)
-{
-	printf("%s\n", ingredient->name);
-}
-
-char recipe_type_names[20][32] = {
-	"main", "sidedish", "sweet", "toppings", "snack", "basic", "tropical", "lifestyle"};
-
+char recipe_type_names[20][32] = {"main", "sidedish", "sweet", "toppings", "snack", "basic", "tropical", "lifestyle"};
 int recipes_by_types_len[lifestyle + 1] = {0, 0, 0, 0, 0, 0, 0, 0};
 char *recipes_by_types[lifestyle + 1][100];
 
@@ -250,7 +250,6 @@ char *html_footer = "<footer><a href='about.html'>Grimgrains</a> © 2014—2020<
 void
 build_recipe(Recipe *recipe)
 {
-	// New strings
 	char filename[STR_BUF_LEN];
 	to_lowercase(recipe->name, filename, STR_BUF_LEN);
 	char filepath[STR_BUF_LEN];
@@ -294,9 +293,8 @@ build_recipe(Recipe *recipe)
 }
 
 void
-build_ingredient(Ingredient *ingredient)
+build_ingredient(Recipe *recipes[], int recipes_len, Ingredient *ingredient)
 {
-	// New strings
 	char filename[STR_BUF_LEN];
 	to_lowercase(ingredient->name, filename, STR_BUF_LEN);
 	char filepath[STR_BUF_LEN];
@@ -315,6 +313,21 @@ build_ingredient(Ingredient *ingredient)
 		fprintf(f, "<h2>%s</h2>", ingredient->parent->name);
 		fprintf(f, "<p class='small'>%s</p>", ingredient->parent->description);
 	}
+	/* Related recipes */
+	fputs("<ul>", f);
+	for(int i = 0; i < recipes_len; ++i) {
+		for(int j = 0; j < recipes[i]->parts_len; ++j) {
+			for(int k = 0; k < recipes[i]->parts[j]->servings_len; ++k) {
+				if(scmp(ingredient->name, recipes[i]->parts[j]->servings[k].ingredient->name)) {
+					char recipe_filename[STR_BUF_LEN];
+					to_lowercase(recipes[i]->name, recipe_filename, STR_BUF_LEN);
+					fprintf(f, "<li><a href='%s.html'>%s</a></li>", recipe_filename, recipes[i]->name);
+				}
+			}
+		}
+	}
+	fputs("</ul>", f);
+
 	fputs("<hr/>", f);
 	fputs("</main>", f);
 
@@ -326,7 +339,6 @@ build_ingredient(Ingredient *ingredient)
 void
 build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len)
 {
-	// New strings
 	char *filename = "home";
 	char filepath[STR_BUF_LEN];
 	snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
@@ -389,17 +401,15 @@ build_inc(char *name)
 	fprintf(f, "<main class='%s'>", name);
 	char buffer[4096];
 	FILE *fp = fopen(incpath, "r");
-	if(fp == NULL) {
+	if(!fp)
 		return;
-	}
 
 	for(;;) {
 		size_t sz = fread(buffer, 1, sizeof(buffer), fp);
-		if(sz) {
+		if(sz)
 			fwrite(buffer, 1, sz, f);
-		} else if(feof(fp) || ferror(fp)) {
+		else if(feof(fp) || ferror(fp))
 			break;
-		}
 	}
 	fclose(fp);
 	fputs("</main>", f);
@@ -446,7 +456,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 		fputs("<![CDATA[", f);
 		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg' width='600'/>\n", filename);
 		fprintf(f, "<p>%s</p>", r->description);
-		fprintf(f, "<p><a href='" DOMAIN "site/%s.html'>Continue reading</a></p>", filename, r->description);
+		fprintf(f, "<p><a href='" DOMAIN "site/%s.html'>Continue reading</a></p>", filename);
 		fputs("]]>\n", f);
 		fputs("  </description>\n", f);
 		fputs("</item>\n", f);
@@ -468,7 +478,7 @@ main(void)
 	printf("Found Ingredients: %d, Recipes: %d\n", ingredients_len, recipes_len);
 
 	for(int i = 0; i < ingredients_len; ++i) {
-		build_ingredient(ingredients[i]);
+		build_ingredient(recipes, recipes_len, ingredients[i]);
 	}
 	printf("Built %d ingredients\n", ingredients_len);
 
