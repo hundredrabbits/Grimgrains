@@ -264,7 +264,7 @@ build_recipe(Recipe *recipe)
 	fprintf(f, "<h1>%s</h1>", recipe->name);
 	fprintf(f, "<h2>%s — %d minutes</h2>", recipe->portions, recipe->time);
 	fprintf(f, "<img src='../media/recipes/%s.jpg'/>", filename);
-	fprintf(f, "<p class='col2'>%s</p>", recipe->description);
+	fprintf(f, "<div class='col2'>%s</div>", recipe->description);
 	for(int i = 0; i < recipe->parts_len; ++i) {
 		fputs("<dl class='ingredients'>", f);
 		fprintf(f, "<h3>%s</h3>", recipe->parts[i]->name);
@@ -308,10 +308,10 @@ build_ingredient(Recipe *recipes[], int recipes_len, Ingredient *ingredient)
 	fputs("<main class='ingredient'>", f);
 	fprintf(f, "<h1>%s</h1>", ingredient->name);
 	fprintf(f, "<img class='right' src='../media/ingredients/%s.png'/>", filename);
-	fprintf(f, "<p>%s</p>", ingredient->description);
+	fprintf(f, "<div>%s</div>", ingredient->description);
 	if(ingredient->parent) {
 		fprintf(f, "<h2>%s</h2>", ingredient->parent->name);
-		fprintf(f, "<p class='small'>%s</p>", ingredient->parent->description);
+		fprintf(f, "<div class='small'>%s</div>", ingredient->parent->description);
 	}
 	/* Related recipes */
 	fputs("<ul>", f);
@@ -455,7 +455,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 		fputs("  <description>\n", f);
 		fputs("<![CDATA[", f);
 		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg' width='600'/>\n", filename);
-		fprintf(f, "<p>%s</p>", r->description);
+		fprintf(f, "<div>%s</div>", r->description);
 		fprintf(f, "<p><a href='" DOMAIN "site/%s.html'>Continue reading</a></p>", filename);
 		fputs("]]>\n", f);
 		fputs("  </description>\n", f);
