@@ -21,9 +21,10 @@ main h2 { text-transform: capitalize; font-size:28px; }
 main h2.serving { float:right; font-size:32px; line-height: 40px }
 main h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 main h4 { text-transform: capitalize; font-size:20px; line-height: 45px }
+main > div { margin-bottom: 45px }
 main > div > p { margin-bottom: 45px; font-size: 18px; line-height: 30px; max-width: 600px }
 main > div > p.small { font-size:14px; line-height: 22px; max-width: 500px }
-main > div > p.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
+main > div.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
 main > div > p > img { display: inline-block; }
 main > div > p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
 main > div > p a:hover { text-decoration: none; }
