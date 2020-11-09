@@ -5,6 +5,10 @@ body { font-family: 'Helvetica Neue', Helvetica, Arial; margin: 0px;padding: 45p
 hr { clear:both; }
 ul { display: block; }
 img { max-width: 100% }
+p { margin-bottom: 25px; font-size: 18px; line-height: 30px; max-width: 600px }
+p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
+p a:hover { text-decoration: none; }
+p a:focus { text-decoration: dotted underline; }
 h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin-bottom: 30px }
 header a { cursor: pointer; transition: all 250ms; max-width: 800px; margin: 0px auto; }
 header a:hover { opacity: 0.7 }
@@ -22,7 +26,7 @@ main h2.serving { float:right; font-size:32px; line-height: 40px }
 main h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 main h4 { text-transform: capitalize; font-size:20px; line-height: 45px }
 main > div { margin-bottom: 45px }
-main > div > p { margin-bottom: 15px; font-size: 18px; line-height: 30px; max-width: 600px }
+main > div > p { margin-bottom: 25px; font-size: 18px; line-height: 30px; max-width: 600px }
 main > div > p.small { font-size:14px; line-height: 22px; max-width: 500px }
 main > div.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
 main > div > p > img { display: inline-block; }
