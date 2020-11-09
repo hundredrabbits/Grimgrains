@@ -21,16 +21,16 @@ main h2 { text-transform: capitalize; font-size:28px; }
 main h2.serving { float:right; font-size:32px; line-height: 40px }
 main h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 main h4 { text-transform: capitalize; font-size:20px; line-height: 45px }
-main > p { margin-bottom: 45px; font-size: 18px; line-height: 30px; max-width: 600px }
-main > p.small { font-size:14px; line-height: 22px; max-width: 500px }
-main > p.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
-main > p > img { display: inline-block; }
-main > p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
-main > p a:hover { text-decoration: none; }
-main > p a:focus { text-decoration: dotted underline; }
-main > p a.external:after { content:"*"; color:#999; }
-main > p b { font-weight: bold; }
-main > p b.head { text-transform: capitalize;font-size: 24px;line-height: 45px;display: block;margin: 30px 0px; }
+main > div > p { margin-bottom: 45px; font-size: 18px; line-height: 30px; max-width: 600px }
+main > div > p.small { font-size:14px; line-height: 22px; max-width: 500px }
+main > div > p.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
+main > div > p > img { display: inline-block; }
+main > div > p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
+main > div > p a:hover { text-decoration: none; }
+main > div > p a:focus { text-decoration: dotted underline; }
+main > div > p a.external:after { content:"*"; color:#999; }
+main > div > p b { font-weight: bold; }
+main > div > p b.head { text-transform: capitalize;font-size: 24px;line-height: 45px;display: block;margin: 30px 0px; }
 main > ul { display: block; margin-bottom:30px; position: relative; }
 main > ul > li { max-width:550px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px; font-size:18px; position: relative;}
 main > ul > li:before { content:"•"; position: absolute; margin-left:-30px; }
