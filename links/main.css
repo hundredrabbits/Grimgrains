@@ -50,7 +50,7 @@ main dl.ingredients h3 { margin-left:-20px; }
 main dl.ingredients dt { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
 main dl.ingredients dt a:hover span.name { text-decoration: underline; }
 main dl.ingredients dt a:focus span.name { text-decoration: underline; border: 1px dotted black; }
-main dl.ingredients dt img { max-width: 100%; display: block }
+main dl.ingredients dt img { max-width: 100%; display: block;}
 main dl.ingredients dt b { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
 main dl.ingredients dt u { display: block; font-size:12px; }
 main ul.instructions { margin-bottom:30px; position: relative;}
