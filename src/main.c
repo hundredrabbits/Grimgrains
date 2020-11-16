@@ -243,7 +243,7 @@ char *html_head = "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><m
 
 char *html_header = "<header><a id='logo' href='home.html'><img src='../media/interface/logo.png' alt='Grimgrains'></a></header>";
 
-char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='recipes'><a href='home.html#recipes'>Recipes</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='right'><a href='https://grimgrains.com/links/rss.xml'>RSS feed</a> | <a href='https://merveilles.town/@rek' target='_blank'>Mastodon</a></li></ul></nav>";
+char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='recipes'><a href='home.html#recipes'>Recipes</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='sprouting'><a href='sprouting.html'>Sprouting</a></li><li class='right'><a href='https://grimgrains.com/links/rss.xml'>RSS feed</a> | <a href='https://merveilles.town/@rek' target='_blank'>Mastodon</a></li></ul></nav>";
 
 char *html_footer = "<footer><a href='about.html'>Grimgrains</a> © 2014—2020<br><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a></footer></body></html>";
 
@@ -492,6 +492,7 @@ main(void)
 
 	build_inc("about");
 	build_inc("nutrition");
+	build_inc("sprouting");
 	build_inc("tools");
 	build_inc("meals");
 	build_rss(fopen("../links/rss.xml", "w"), recipes, recipes_len);
