@@ -1117,7 +1117,7 @@ add_serving(&roasted_carrots_with_beluga_lentils_lentils, &vegetable_bouillon, "
 add_part(&roasted_carrots_with_beluga_lentils, &roasted_carrots_with_beluga_lentils_lentils);
 
 // roasted eggplant dip
-Recipe roasted_eggplant_dip = create_recipe("roasted eggplant dip", sidedish, "4 servings", 2090206, 50);
+Recipe roasted_eggplant_dip = create_recipe("roasted eggplant dip", sidedish, "4 servings", 20090206, 50);
 set_description(&roasted_eggplant_dip, "<p>A simple roasted eggplant dip recipe. Roasted the garlic is optional, but it gives the dip a deeper, more complex flavor, while diminishing the pungency of the garlic.</p><p>This recipe is ideal when served with flat bread or raw vegetables, it's also good if served with <a href='crackers.html'>crackers</a>. Optionally, you can add roasted green peppers and other vegetables to further augment the flavor and nutrition of the dip.</p><p><b>Add-ins : </b> Add 20 g (~1/2 cup) of chopped parsley and/or 2 diced tomatoes for extra texture and flavor. For a more complex (and sweet) taste, add 45 ml (~3 tbsp) of pomegranate molasses. You can also use grape molasses.</p><p><b>Garlic : </b> The garlic doesn't need to be roasted, you can use it fresh. If you do this, you will have to use ~4-5 cloves instead of the whole head. Use a mortar and pestle to crush the peeled garlic into a paste before adding it to the rest of the ingredients.</p>");
 RecipePart roasted_eggplant_dip_garlic = create_part("roasted garlic");
 add_instruction(&roasted_eggplant_dip_garlic, "Preheat oven to <u>240 °C (460 °F)</u>.");
