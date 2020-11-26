@@ -80,8 +80,16 @@ main img.characters {max-width: 100px;}
 
 body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: black }
 
-@media (max-width: 850px) {
+@media (max-width: 650px) {
   main ul.recipes { columns:1; }
   main p.col2 { columns:1; }
   main > div.col2 { columns: 1; }
+  header a img { max-width: 200px; }
+  main dl.ingredients { display: block; }
+  main dl.ingredients dt { display:block; min-height: auto;text-align: left;border: 0; width: auto; line-height: 20px } 
+  main dl.ingredients dt > * { display: inline-block !important } 
+  main dl.ingredients dt b { display: inline !important; margin:0;padding:0px 10px 0px 0px; } 
+  main dl.ingredients dt img { display: none !important }
+  main dl.ingredients dt u { display: inline-block; font-size:12px; }
+
 }
