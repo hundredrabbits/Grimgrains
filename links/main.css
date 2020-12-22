@@ -1,78 +1,78 @@
 * { margin:0;padding:0;border:0;text-decoration:none;font-weight:inherit;font-style:inherit;color:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;list-style:none;border-collapse:collapse;border-spacing:0; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
-@font-face { font-family: 'alte_haas_grotesk_regular'; src: url('../media/fonts/alte_haas_grotesk_regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'alte_haas_grotesk_bold'; src: url('../media/fonts/alte_haas_grotesk_bold.ttf') format('truetype'); font-weight: normal; font-style: normal; }
-body { font-family: 'Helvetica Neue', Helvetica, Arial; margin: 0px;padding: 45px 30px;background: white; border-top:45px solid black; margin-top:-40px; }
-hr { clear:both; }
-ul { display: block; }
+@font-face { font-family: 'alte_haas_grotesk_regular'; src: url('../media/fonts/alte_haas_grotesk_regular.ttf') format('truetype'); font-weight: normal; font-style: normal }
+@font-face { font-family: 'alte_haas_grotesk_bold'; src: url('../media/fonts/alte_haas_grotesk_bold.ttf') format('truetype'); font-weight: normal; font-style: normal }
+body { font-family: 'Helvetica Neue', Helvetica, Arial; margin: 0px;padding: 45px 30px;background: white; border-top:45px solid black; margin-top:-40px }
+hr { clear:both }
+ul { display: block }
 img { max-width: 100% }
 p { margin-bottom: 25px; font-size: 18px; line-height: 30px; max-width: 600px }
-p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
-p a:hover { text-decoration: none; }
-p a:focus { text-decoration: dotted underline; }
+p a { font-weight: bold; cursor: pointer; text-decoration: underline }
+p a:hover { text-decoration: none }
+p a:focus { text-decoration: dotted underline }
 h1,h2,h3,h4 { font-weight: normal; font-family: 'alte_haas_grotesk_bold'; margin-bottom: 30px }
-header a { cursor: pointer; transition: all 250ms; max-width: 800px; margin: 0px auto; }
+header a { cursor: pointer; transition: all 250ms; max-width: 800px; margin: 0px auto }
 header a:hover { opacity: 0.7 }
 header a:focus { opacity: 0.7 }
-header a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px; }
+header a img { max-width: 240px; display: block; margin:0px auto; margin-bottom:30px }
 nav { margin-bottom: 30px }
-nav ul { display: block;line-height: 40px; border-bottom: 2px solid black;  overflow: hidden;min-height: 40px; max-width: 800px; margin: 0px auto; }
-nav ul li { display: inline-block; margin-right:15px; margin-bottom: -2px; line-height: 40px; border-bottom: 5px solid white; }
+nav ul { display: block;line-height: 40px; border-bottom: 2px solid black;  overflow: hidden;min-height: 40px; max-width: 800px; margin: 0px auto }
+nav ul li { display: inline-block; margin-right:15px; margin-bottom: -2px; line-height: 40px; border-bottom: 5px solid white }
 nav ul li a { display: inline-block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; line-height: 40px; border-bottom:2px solid transparent }
 nav ul li.right { float: right;margin-right:0px;margin-left:10px }
-main { max-width: 800px; margin: 0px auto; }
-main h1 { text-transform: capitalize; font-size:36px; max-width:400px; max-width: 600px; margin-bottom:30px; }
-main h2 { text-transform: capitalize; font-size:28px; }
+main { max-width: 800px; margin: 0px auto }
+main h1 { text-transform: capitalize; font-size:36px; max-width:400px; max-width: 600px; margin-bottom:30px }
+main h2 { text-transform: capitalize; font-size:28px }
 main h2.serving { float:right; font-size:32px; line-height: 40px }
 main h3 { text-transform: capitalize; font-size:24px; border-bottom:2px solid black; line-height: 45px }
 main h4 { text-transform: capitalize; font-size:20px; line-height: 45px }
-main > p.notes { text-transform: small; font-size: 12px; line-height: 15px; padding-bottom: 15px}
+main > p.notice { background: #eee;padding: 20px;line-height: 20px;font-size: 14px }
 main > div { margin-bottom: 45px }
 main > div > p { margin-bottom: 25px; font-size: 18px; line-height: 30px; max-width: 600px }
 main > div > p.small { font-size:14px; line-height: 22px; max-width: 500px }
-main > div.col2 { columns: 2; max-width: 800px; column-gap: 45px; }
-main > div > p > img { display: inline-block; }
-main > div > p a { font-weight: bold; cursor: pointer; text-decoration: underline; }
-main > div > p a:hover { text-decoration: none; }
-main > div > p a:focus { text-decoration: dotted underline; }
-main > div > p a.external:after { content:"*"; color:#999; }
-main > div > p b { font-weight: bold; }
-main > p b { font-weight: bold; }
-main > div > p b.head { text-transform: capitalize;font-size: 24px;line-height: 45px;display: block;margin: 30px 0px; }
-main > ul.col2 { columns: 2; margin-bottom:30px; position: relative; }
-main > ul { display: block; margin-bottom:30px; position: relative; }
+main > div.col2 { columns: 2; max-width: 800px; column-gap: 45px }
+main > div > p > img { display: inline-block }
+main > div > p a { font-weight: bold; cursor: pointer; text-decoration: underline }
+main > div > p a:hover { text-decoration: none }
+main > div > p a:focus { text-decoration: dotted underline }
+main > div > p a.external:after { content:"*"; color:#999 }
+main > div > p b { font-weight: bold }
+main > p b { font-weight: bold }
+main > div > p b.head { text-transform: capitalize;font-size: 24px;line-height: 45px;display: block;margin: 30px 0px }
+main > ul.col2 { columns: 2; margin-bottom:30px; position: relative }
+main > ul { display: block; margin-bottom:30px; position: relative }
 main > ul > li { max-width:550px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 24px; font-size:18px; position: relative;}
-main > ul > li:before { content:"•"; position: absolute; margin-left:-30px; }
-main > ul > li > b { font-weight: bold; }
-main > ul > li > a { font-weight: bold; cursor: pointer; text-decoration: underline; }
-main > ul > li > a:hover { text-decoration: none; }
-main > ul > li > a:focus { text-decoration: dotted underline; }
+main > ul > li:before { content:"•"; position: absolute; margin-left:-30px }
+main > ul > li > b { font-weight: bold }
+main > ul > li > a { font-weight: bold; cursor: pointer; text-decoration: underline }
+main > ul > li > a:hover { text-decoration: none }
+main > ul > li > a:focus { text-decoration: dotted underline }
 main > img { margin-bottom: 30px }
-main > img.right { float:right; width:130px; }
-main dl.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px; }
-main dl.ingredients h3 { margin-left:-20px; }
-main dl.ingredients dt { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px; }
-main dl.ingredients dt a:hover span.name { text-decoration: underline; }
-main dl.ingredients dt a:focus span.name { text-decoration: underline; border: 1px dotted black; }
+main > img.right { float:right; width:130px }
+main dl.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px }
+main dl.ingredients h3 { margin-left:-20px }
+main dl.ingredients dt { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px }
+main dl.ingredients dt a:hover span.name { text-decoration: underline }
+main dl.ingredients dt a:focus span.name { text-decoration: underline; border: 1px dotted black }
 main dl.ingredients dt img { max-width: 100%; display: block;}
 main dl.ingredients dt b { display: block; font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-bottom: 5px;padding:0px 10px }
-main dl.ingredients dt u { display: block; font-size:12px; }
+main dl.ingredients dt u { display: block; font-size:12px }
 main ul.instructions { margin-bottom:30px; position: relative;}
 main ul.instructions li { max-width:600px; margin-bottom:15px; font-size:18px; padding-left:30px; line-height: 30px}
-main ul.instructions li:before { content:"•"; position: absolute; margin-left:-30px; }
+main ul.instructions li:before { content:"•"; position: absolute; margin-left:-30px }
 main ul.instructions li a { font-weight: bold }
-main ul.instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px; }
+main ul.instructions note { max-width:700px; margin-bottom:15px; font-size:18px; padding-left:30px; display: block; font-style: italic; font-size:14px; margin-bottom:30px }
 main ul.instructions a { font-weight: bold;  }
 main ul.instructions a:hover { text-decoration: underline; cursor: pointer }
 main ul.instructions a:focus { text-decoration: underline; cursor: pointer }
-main ul.instructions i { font-weight: bold; }
+main ul.instructions i { font-weight: bold }
 main ul.instructions u { font-size: 12px;text-transform: uppercase;padding: 3px 5.5px;display: inline-block;font-weight: bold;border-radius: 3px;border: 2px solid black;line-height: 15px}
 main ul.recipes { columns: 3;  }
-main ul.recipes h3 { margin-top:20px; }
-main ul.recipes h3:first-child { margin-top:0px; }
+main ul.recipes h3 { margin-top:20px }
+main ul.recipes h3:first-child { margin-top:0px }
 main ul.recipes li { font-size:14px; line-height: 25px; margin-bottom: 0px }
-main ul.recipes li a { text-decoration: none; text-transform: capitalize; }
-main ul.recipes li a:hover { text-decoration: underline; }
-footer { max-width: 800px; margin: 0px auto; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px; }
+main ul.recipes li a { text-decoration: none; text-transform: capitalize }
+main ul.recipes li a:hover { text-decoration: underline }
+footer { max-width: 800px; margin: 0px auto; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px }
 footer a:hover { text-decoration: underline; cursor: pointer }
 footer a:focus { text-decoration: underline; cursor: pointer }
 
@@ -81,15 +81,15 @@ main img.characters {max-width: 100px;}
 body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: black }
 
 @media (max-width: 650px) {
-  main ul.recipes { columns:1; }
-  main p.col2 { columns:1; }
-  main > div.col2 { columns: 1; }
-  header a img { max-width: 200px; }
-  main dl.ingredients { display: block; }
+  main ul.recipes { columns:1 }
+  main p.col2 { columns:1 }
+  main > div.col2 { columns: 1 }
+  header a img { max-width: 200px }
+  main dl.ingredients { display: block }
   main dl.ingredients dt { display:block; min-height: auto;text-align: left;border: 0; width: auto; line-height: 20px } 
   main dl.ingredients dt > * { display: inline-block !important } 
-  main dl.ingredients dt b { display: inline !important; margin:0;padding:0px 10px 0px 0px; } 
+  main dl.ingredients dt b { display: inline !important; margin:0;padding:0px 10px 0px 0px } 
   main dl.ingredients dt img { display: none !important }
-  main dl.ingredients dt u { display: inline-block; font-size:12px; }
+  main dl.ingredients dt u { display: inline-block; font-size:12px }
 
 }
