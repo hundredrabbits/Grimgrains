@@ -249,7 +249,7 @@ add_instruction(&cheese_and_spinach_ravioli_ravioli, "Dip your finger into a bow
 add_instruction(&cheese_and_spinach_ravioli_ravioli, "Place the second sheet of rolled-out pasta on top of the first one, pressing down firmly around the filling and along the wetted lines.");
 add_instruction(&cheese_and_spinach_ravioli_ravioli, "With a knife (or ravioli cutter, if you feel fancy), cut the pasta into squares along the wetted lines. Keep separated pieces of ravioli aside.");
 add_instruction(&cheese_and_spinach_ravioli_ravioli, "Bring a pot of water to a boil, and add the ravioli. Stir them gently to keep them from sticking to another another or on the bottom of the pot. Cook for <u>7-8 minutes</u> or until fork tender.");
-add_instruction(&cheese_and_spinach_ravioli_ravioli, "Serve with a light sauce, we made one with <a href='chilis_pepper_flakes.html'>chilis pepper flakes</a>, fresh <a href='basil.html'>basil</a> and <a href='olive_oil.html'>olive oil</a>. A light tomato sauce would also be delicious.");
+add_instruction(&cheese_and_spinach_ravioli_ravioli, "Serve with a light sauce, we made one with <a href='chili_pepper_flakes.html'>chili pepper flakes</a>, fresh <a href='basil.html'>basil</a> and <a href='olive_oil.html'>olive oil</a>. A light tomato sauce would also be delicious.");
 add_serving(&cheese_and_spinach_ravioli_ravioli, &all_purpose_flour, "120 g");
 add_serving(&cheese_and_spinach_ravioli_ravioli, &water, "160 ml");
 add_serving(&cheese_and_spinach_ravioli_ravioli, &salt, "1.25 g");
