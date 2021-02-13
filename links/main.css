@@ -99,4 +99,5 @@ body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools
   body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: white }
   nav ul {border-bottom-color: white;}
   .monochrome {filter: invert(1);}
+  main > p.notice {background: black;color:white;}
 }
