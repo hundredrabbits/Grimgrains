@@ -94,10 +94,13 @@ body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools
   }
 
 @media (prefers-color-scheme: dark){
-  body {background: black; color: white;}
-  header a img {filter: invert(1);}
+  body {background: #111; color: white;}
+  header a img {filter: invert(1)}
   body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: white }
   nav ul {border-bottom-color: white;}
   .monochrome {filter: invert(1);}
-  main > p.notice {background: black;color:white;}
+  main > p.notice {background: #111;color:white;}
+  main ul.instructions u { border: 2px solid white;}
+  main h3 { border-bottom:2px solid white;}
+
 }
