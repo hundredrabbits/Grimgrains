@@ -976,7 +976,7 @@ add_instruction(&shepherds_pie_shepherds_pie, "When cooked, press tofu mix into 
 add_instruction(&shepherds_pie_shepherds_pie, "Cover tofu mix with the contents of <i>400 g (1 can)</i> of of <a href='green_peas.html'>green peas</a> (reserve a few for the top) and top with the puréed cauliflower/sweet potato mixture.");
 add_instruction(&shepherds_pie_shepherds_pie, "Smooth with a spatula, decorate with some <a href='green_peas.html'>green peas</a> and sprinkle with <a href='smoked_paprika.html'>smoked paprika</a>.");
 add_instruction(&shepherds_pie_shepherds_pie, "Bake for <u>30 minutes</u>, then broil on high for <u>3-5 minutes</u> to brown the top. Let rest for <u>10 minutes</u> before serving.");
-add_instruction(&shepherds_pie_shepherds_pie, "Serve with some <a href='sambal_oelek.html'>sambal oelek</a> or some other spicy condiment! Keeps in the fridge for 5 days or can be frozen for 2-3 months.");
+add_instruction(&shepherds_pie_shepherds_pie, "Serve with some sambal oelek or some other spicy condiment! Keeps in the fridge for 5 days or can be frozen for 2-3 months.");
 add_serving(&shepherds_pie_shepherds_pie, &white_cauliflower, "1 head, small");
 add_serving(&shepherds_pie_shepherds_pie, &sweet_potatoes, "1, large");
 add_serving(&shepherds_pie_shepherds_pie, &green_peas, "400 g");
