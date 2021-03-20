@@ -1,4 +1,4 @@
-MIT License
+The source code of GrimGrains is under a MIT License
 
 Copyright (c) 2021 GrimGrains
 
