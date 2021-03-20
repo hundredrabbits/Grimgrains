@@ -14,6 +14,7 @@ This repository is the sources for the Grimgrains website. The website is writte
 INGREDIENT(beans, "MissingDescription");
 CHILD_INGREDIENT(beans, coffee, "Coffee is life");
 ```
-# Licenses
+# Extras
 
-The source code of GrimGrains is licensed under **MIT** (see [license](LICENSE.mit.md)) and the **images, text and assets** (see [license](LICENSE.by-nc-sa-4.0.md)) are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
+- The source code of GrimGrains is licensed under **MIT** (see [license](LICENSE.mit.md)) and the **images, text and assets** (see [license](LICENSE.by-nc-sa-4.0.md)) are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
+- Support this project through [Patreon](https://patreon.com/100).
