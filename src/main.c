@@ -245,7 +245,7 @@ char *html_header = "<header><a id='logo' href='home.html'><img src='../media/in
 
 char *html_nav = "<nav><ul><li class='home'><a href='home.html'>Home</a></li><li class='recipes'><a href='home.html#recipes'>Recipes</a></li><li class='about'><a href='about.html'>About</a></li><li class='tools'><a href='tools.html'>Tools</a></li><li class='nutrition'><a href='nutrition.html'>Nutrition</a></li><li class='sprouting'><a href='sprouting.html'>Sprouting</a></li><li class='right'><a href='https://grimgrains.com/links/rss.xml'>RSS feed</a> | <a href='https://merveilles.town/@rek' target='_blank'>Mastodon</a></li></ul></nav>";
 
-char *html_footer = "<footer><a href='about.html'>Grimgrains</a> © 2014—2021<br><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a></footer></body></html>";
+char *html_footer = "<footer><a href='about.html'>Grimgrains</a> © 2014—2021 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank'> BY-NC-SA-4.0</a><br><a href='http://100r.co/' target='_blank'>Hundred Rabbits</a></footer></body></html>";
 
 void
 build_recipe(Recipe *recipe)
