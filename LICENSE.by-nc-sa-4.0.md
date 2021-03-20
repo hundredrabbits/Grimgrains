@@ -1,8 +1,6 @@
-The assets and text content of GrimGrains © 2021 are under the BY-NC-SA4.0 License.
+The assets and text content of Dotgrid are under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
-**Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
-
-This is a human-readable summary of (and not a substitute for) the license (listed below). Disclaimer.
+This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
 
 You are free to:
 
@@ -26,7 +24,7 @@ Under the following terms:
     More info.
     that legally restrict others from doing anything the license permits.
     
-**License**
+# License
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
