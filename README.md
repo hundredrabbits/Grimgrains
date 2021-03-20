@@ -16,4 +16,4 @@ CHILD_INGREDIENT(beans, coffee, "Coffee is life");
 ```
 # Licenses
 
-This website's source code is licensed under **MIT** and the **images, text and assets** are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
+The source code of GrimGrains is licensed under **MIT** (see LICENSE.mit.md) and the **images, text and assets** (see LICENSE.by-nc-sa-4.0.md) are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
