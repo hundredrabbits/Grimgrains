@@ -1437,7 +1437,6 @@ add_instruction(&sourdough_spelt_flatbread_dough, "In the meantime, preheat a ca
 add_instruction(&sourdough_spelt_flatbread_dough, "Sprinkle flour on your working surface, and roll out your first ball to a thickness of about <i>6 mm (1/4 in)</i>. If dough sticks to your rolling pin, add a light coat of oil over its surface.");
 add_instruction(&sourdough_spelt_flatbread_dough, "Transfer dough to hot cast iron pan, and cook on each side for <u>1-2 minutes</u>.");
 add_instruction(&sourdough_spelt_flatbread_dough, "Transfer cooked flatbread to a cooling rack, or towel, and repeat for the rest of the dough balls. When cool, cover flatbreads so they don't dry out.");
-add_instruction(&sourdough_spelt_flatbread_dough, "Let cool, snap pieces apart and enjoy!");
 add_serving(&sourdough_spelt_flatbread_dough, &spelt_flour, "340 g");
 add_serving(&sourdough_spelt_flatbread_dough, &salt, "5 g");
 add_serving(&sourdough_spelt_flatbread_dough, &starter, "110 g");
