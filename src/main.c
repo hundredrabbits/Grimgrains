@@ -252,8 +252,8 @@ build_recipe(Recipe *recipe)
 {
 	char filename[STR_BUF_LEN];
 	to_lowercase(recipe->name, filename, STR_BUF_LEN);
-	char filepath[STR_BUF_LEN];
-	snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
+	char filepath[128];
+	snprintf(filepath, 128, "../site/%s.html", filename);
 	FILE *f = fopen(filepath, "w");
 
 	fprintf(f, html_head, recipe->name, "recipe");
@@ -297,8 +297,8 @@ build_ingredient(Recipe *recipes[], int recipes_len, Ingredient *ingredient)
 {
 	char filename[STR_BUF_LEN];
 	to_lowercase(ingredient->name, filename, STR_BUF_LEN);
-	char filepath[STR_BUF_LEN];
-	snprintf(filepath, STR_BUF_LEN, "../site/%s.html", filename);
+	char filepath[128];
+	snprintf(filepath, 128, "../site/%s.html", filename);
 	FILE *f = fopen(filepath, "w");
 
 	fprintf(f, html_head, ingredient->name, "ingredient");
