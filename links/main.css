@@ -48,6 +48,7 @@ main > ul > li > a:hover { text-decoration: none }
 main > ul > li > a:focus { text-decoration: dotted underline }
 main > img { margin-bottom: 30px }
 main > img.right { float:right; width:130px }
+main img.detail { max-width: 80px; float: left;padding: 20px;margin: 0px 20px 20px 0px; }
 main dl.ingredients { display: inline-block; margin-right:15px; font-size:0; padding-left:20px; margin-bottom:30px }
 main dl.ingredients h3 { margin-left:-20px }
 main dl.ingredients dt { width: 100px;margin-left:-20px;min-height: 210px;display: inline-block;text-align: center;vertical-align: top;border: 2px dashed transparent;border-radius: 10px }
@@ -76,6 +77,12 @@ main sub {vertical-align: sub; font-size: smaller;}
 footer { max-width: 800px; margin: 0px auto; padding:15px 0px;font-family: 'alte_haas_grotesk_bold'; font-size:14px; margin-top:60px }
 footer a:hover { text-decoration: underline; cursor: pointer }
 footer a:focus { text-decoration: underline; cursor: pointer }
+main > table.col tr th { text-align: left}
+main > table.col tr td { border-right:1.5px solid white}
+main > table.col tr > * { padding:5px 20px}
+main > table.col tr td:last-child { border-right: 0px }
+main > table.col tr > *:first-child { padding-left: 0px }
+main > table.col b { font-weight: bold }
 
 main img.characters {max-width: 100px;}
 
