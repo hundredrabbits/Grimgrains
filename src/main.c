@@ -21,7 +21,7 @@ enum RecipeType {
 };
 
 typedef struct Ingredient {
-	int id;
+	int id, featured;
 	char *name;
 	char *description;
 	struct Ingredient *parent;
@@ -149,21 +149,23 @@ intdate(int date)
 /* Generics */
 
 Ingredient
-create_ingredient(char *name, char *description)
+create_ingredient(char *name, char *description, int featured)
 {
 	Ingredient a;
 	a.name = name;
 	a.description = description;
+	a.featured = featured;
 	a.parent = NULL;
 	return a;
 }
 
 Ingredient
-create_child_ingredient(Ingredient *parent, char *name, char *description)
+create_child_ingredient(Ingredient *parent, char *name, char *description, int featured)
 {
 	Ingredient a;
 	a.name = name;
 	a.description = description;
+	a.featured = featured;
 	a.parent = parent;
 	return a;
 }
@@ -349,10 +351,10 @@ build_home(Ingredient *ingredients[], int ingredients_len, int recipes_len)
 	fputs(html_nav, f);
 
 	fputs("<main class='home'>", f);
-	fprintf(f, "<h1>%d Ingredients</h1>", ingredients_len);
-
 	fputs("<dl class='ingredients'>", f);
 	for(int i = 0; i < ingredients_len; ++i) {
+		if(!ingredients[i]->featured)
+			continue;
 		char ingr_path[STR_BUF_LEN];
 		to_lowercase(ingredients[i]->name, ingr_path, STR_BUF_LEN);
 		fprintf(f,
