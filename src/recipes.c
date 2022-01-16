@@ -1435,25 +1435,25 @@ add_serving(&turmeric_cookies_cookies, &soy_milk, "90 mold");
 add_serving(&turmeric_cookies_cookies, &carob_chips, "20");
 add_part(&turmeric_cookies, &turmeric_cookies_cookies);*/
 
-// tzaziki
-Recipe tzaziki = create_recipe("tzaziki", toppings, "8 servings", 20191206, 10);
-set_description(&tzaziki, "<p>Making tzaziki is easy. This is a basic recipe that works well enough with all kinds of substitutions, depending on dietary restrictions.</p><p><b class='head'>Substitutions</b></p><p>It is possible to use <a href='sunflower_seeds.html'>sunflower seeds</a> and <a href='tofu.html'>tofu</a> to replace the hemp seeds. In this recipe, we used half hemp and half soy, because hemp, while being nutritious, is not cheap. Using just <a href='shelled_hemp_seeds.html'>shelled hemp seeds</a> is very possible.</p><p>If using sunflower seeds, it is better to pre-soak them for 1-2h prior to blending. If using only tofu, you may not require extra water in the recipe.</p>");
-RecipePart tzaziki_sauce = create_part("sauce");
-add_instruction(&tzaziki_sauce, "Blend <i>170 g (1/2 cup)</i> of <a href='shelled_hemp_seeds_.html'>shelled hemp seeds </a> with <i>225 g</i> of <a href='soft_tofu.html'>soft tofu</a>, <i>3 cloves</i> of <a href='garlic.html'>garlic</a>, <i>60 ml (1/4 cup)</i> of <a href='water.html'>water</a> and the juice of <i>1</i> <a href='lemon.html'>lemon</a>.");
-add_instruction(&tzaziki_sauce, "Mince the <a href='fresh_dill.html'>fresh dill</a> and <a href='peppermint.html'>peppermint</a>, set aside.");
-add_instruction(&tzaziki_sauce, "Cut <i>1</i> cucumber into small cubes.");
-add_instruction(&tzaziki_sauce, "Add <a href='fresh_dill.html'>fresh dill</a>, <a href='peppermint.html'>peppermint</a>, the cubed <a href='persian_cucumbers.html'>persian cucumbers</a> and <i>1 pinch</i> of <a href='salt.html'>salt</a> to the rest of the ingredients and mix well.");
-add_instruction(&tzaziki_sauce, "Garnish with some <a href='peppermint.html'>peppermint</a> and <a href='fresh_dill.html'>fresh dill</a> leaves.");
-add_serving(&tzaziki_sauce, &shelled_hemp_seeds, "170 g");
-add_serving(&tzaziki_sauce, &soft_tofu, "250 g");
-add_serving(&tzaziki_sauce, &garlic, "2 cloves");
-add_serving(&tzaziki_sauce, &water, "60 ml");
-add_serving(&tzaziki_sauce, &lemon, "1, juiced");
-add_serving(&tzaziki_sauce, &fresh_dill, "15 g");
-add_serving(&tzaziki_sauce, &peppermint, "15 g");
-add_serving(&tzaziki_sauce, &persian_cucumbers, "2");
-add_serving(&tzaziki_sauce, &salt, "pinch");
-add_part(&tzaziki, &tzaziki_sauce);
+// tzatziki
+Recipe tzatziki = create_recipe("tzatziki", toppings, "8 servings", 20191206, 10);
+set_description(&tzatziki, "<p>Making tzatziki is easy. This is a basic recipe that works well enough with all kinds of substitutions, depending on dietary restrictions.</p><p><b class='head'>Substitutions</b></p><p>It is possible to use <a href='sunflower_seeds.html'>sunflower seeds</a> and <a href='tofu.html'>tofu</a> to replace the hemp seeds. In this recipe, we used half hemp and half soy, because hemp, while being nutritious, is not cheap. Using just <a href='shelled_hemp_seeds.html'>shelled hemp seeds</a> is very possible.</p><p>If using sunflower seeds, it is better to pre-soak them for 1-2h prior to blending. If using only tofu, you may not require extra water in the recipe.</p>");
+RecipePart tzatziki_sauce = create_part("sauce");
+add_instruction(&tzatziki_sauce, "Blend <i>170 g (1/2 cup)</i> of <a href='shelled_hemp_seeds_.html'>shelled hemp seeds </a> with <i>225 g</i> of <a href='soft_tofu.html'>soft tofu</a>, <i>3 cloves</i> of <a href='garlic.html'>garlic</a>, <i>60 ml (1/4 cup)</i> of <a href='water.html'>water</a> and the juice of <i>1</i> <a href='lemon.html'>lemon</a>.");
+add_instruction(&tzatziki_sauce, "Mince the <a href='fresh_dill.html'>fresh dill</a> and <a href='peppermint.html'>peppermint</a>, set aside.");
+add_instruction(&tzatziki_sauce, "Cut <i>1</i> cucumber into small cubes.");
+add_instruction(&tzatziki_sauce, "Add <a href='fresh_dill.html'>fresh dill</a>, <a href='peppermint.html'>peppermint</a>, the cubed <a href='persian_cucumbers.html'>persian cucumbers</a> and <i>1 pinch</i> of <a href='salt.html'>salt</a> to the rest of the ingredients and mix well.");
+add_instruction(&tzatziki_sauce, "Garnish with some <a href='peppermint.html'>peppermint</a> and <a href='fresh_dill.html'>fresh dill</a> leaves.");
+add_serving(&tzatziki_sauce, &shelled_hemp_seeds, "170 g");
+add_serving(&tzatziki_sauce, &soft_tofu, "250 g");
+add_serving(&tzatziki_sauce, &garlic, "2 cloves");
+add_serving(&tzatziki_sauce, &water, "60 ml");
+add_serving(&tzatziki_sauce, &lemon, "1, juiced");
+add_serving(&tzatziki_sauce, &fresh_dill, "15 g");
+add_serving(&tzatziki_sauce, &peppermint, "15 g");
+add_serving(&tzatziki_sauce, &persian_cucumbers, "2");
+add_serving(&tzatziki_sauce, &salt, "pinch");
+add_part(&tzatziki, &tzatziki_sauce);
 
 /*// salted caramel carob chip cookies
 Recipe salted_caramel_carob_chip_cookies = create_recipe("salted caramel carob chip cookies", sweet, "20 cookies", 20151115, 20);
@@ -1799,4 +1799,4 @@ add_serving(&wasabi_swirl_chocolate_cookies_glaze, &wasabi_powder, "15 g");
 add_serving(&wasabi_swirl_chocolate_cookies_glaze, &soy_milk, "30 ml");
 add_part(&wasabi_swirl_chocolate_cookies, &wasabi_swirl_chocolate_cookies_glaze);
 
-Recipe *recipes[] = {&chunky_apple_jam, &quick_flat_bread, &roasted_eggplant_dip, &anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_rice_pancakes, &black_sesame_syrup, &breaded_chickpea_tofu_fingers, &brownies, &carrot_kinpira_onigirazu, &corn_pone, &quick_cheese, &cheese_and_spinach_ravioli, &choco_peanut_blondies, &basic_black_bread,&basic_toothpaste, &beer_bread,  /*&borscht_with_tofu_sour_cream,*/ &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_dumplings, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &soy_flour_tofu, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &red_lentil_stew, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &shepherds_pie/*, &persimmon_curry*/, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpea_flour, &spicy_brownies_with_pomegranate_syrup, &stovetop_blackberry_cake, &stovetop_choco_oat_cookies, &cheesy_sunflower_seed_sauce, &sourdough_spelt_flatbread, &sweet_mock_eel_nigiri /*&teriyaki_veggie_patties, &turmeric_cookies*/, &tzaziki, /*&salted_caramel_carob_chip_cookies,*/ &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies/*, &spinach_pajeon*/, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &vege_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies, &golden_bread, &sourdough_starter, &soybean_hummus_with_jalapenos};
+Recipe *recipes[] = {&chunky_apple_jam, &quick_flat_bread, &roasted_eggplant_dip, &anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_rice_pancakes, &black_sesame_syrup, &breaded_chickpea_tofu_fingers, &brownies, &carrot_kinpira_onigirazu, &corn_pone, &quick_cheese, &cheese_and_spinach_ravioli, &choco_peanut_blondies, &basic_black_bread,&basic_toothpaste, &beer_bread,  /*&borscht_with_tofu_sour_cream,*/ &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_dumplings, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &soy_flour_tofu, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &red_lentil_stew, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &shepherds_pie/*, &persimmon_curry*/, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpea_flour, &spicy_brownies_with_pomegranate_syrup, &stovetop_blackberry_cake, &stovetop_choco_oat_cookies, &cheesy_sunflower_seed_sauce, &sourdough_spelt_flatbread, &sweet_mock_eel_nigiri /*&teriyaki_veggie_patties, &turmeric_cookies*/, &tzatziki, /*&salted_caramel_carob_chip_cookies,*/ &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies/*, &spinach_pajeon*/, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &vege_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies, &golden_bread, &sourdough_starter, &soybean_hummus_with_jalapenos};
