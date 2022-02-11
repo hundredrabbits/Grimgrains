@@ -498,6 +498,7 @@ main(void)
 	build_inc("tools");
 	build_inc("meals");
 	build_inc("lactofermentation");
+	build_inc("pressurecooker");
 	build_rss(fopen("../links/rss.xml", "w"), recipes, recipes_len);
 
 	return (0);
