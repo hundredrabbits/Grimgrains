@@ -1,31 +1,3 @@
-
-// bean chili
-Recipe bean_chili = create_recipe("bean chili", maindish, "6 portions", 20220220, 25);
-set_description(&bean_chili, "<p>A hearty, warm dish. The above photo is the day-after portion.</p><p>When making chili, we swap vegetables in and out depending on what we have. For instance, we might add only carrots, or two parsnips, or potatoes. Parnips, like carrots, are cheap and plentiful in winter. Celery is common in chili recipes, but we omit it because Devine isn't a fan.<p><p><b>Beans</b>. For beans, we try and use black beans as the bulk of the recipe, but we like to add chickpeas. Chickpeas in chili is not common, but it's a legume that we always have on hand and that we both love (we don't keep pinto, or kidney beans). Swapping chickpeas for lentils would also be delicious.</p><p><b>Canned beans?</b> It is possible to use canned beans, but buying dry beans is cheaper, and means less weight on the boat. For those who insist on using cans, <b>1 drained 425 g (15 oz) can of chickpeas</b> and <b>1 drained 425 g (15 oz) cans of black beans</b> is fine for this recipe.</p><p><b>Beer?</b> Beer provides a great flavorful medium for the beans and vegetables to simmer in, it adds depth of flavor. Dark, stouts and amber beer lend well to chili. You can omit the broth or beer and exchange for <b>350 ml</b> of extra tomatoes and their juices.</p><p><b>Chile powder</b>. This is different than chili powder. Chile powder refers to pure dried, crushed (and sometimes smoked) chipotle, habanero, ancho, guajillo, piri piri, kashmiri, etc. There are no other added ingredients. To make your own, see <a href='chile_powder.html'>this recipe</a>.</p><p><b>Cocoa powder</b>. Adding cocoa powder is a trick we learned from making Japanese curry roux. Japanese cooks like to add chocolate. It pairs well with chili. Like beer, it adds depth to the dish.</a>.</p><p><b>Pressure cooker</b>. We use our pressure cooker to prepare our chili because it helps us save on fuel (our boat uses LPG), and because we prepare beans from dry. Adjust cooking times for your altitude.</p><p><b>Fresh tomatoes</b>. If you have plenty of chopped fresh tomatoes available, or if you can your own, you can use <b>800 g</b> (roughly 10 to 12 whole, although it depends on the kind of tomato, e.g., cherry vs roma) of chopped fresh tomatoes instead of a can.</p>");
-RecipePart bean_chili_chili = create_part("chili");
-add_instruction(&bean_chili_chili, "Soak <i>125 g (3/4 cup)</i> of <a href='chickpeas.html'>dry chickpeas</a> and <i>125 g (3/4 cup)</i> <a href='black_beans.html'>black beans</a> in water for <u>4-8 hours</u> (I soak them in separate bowls). Drain.");
-add_instruction(&bean_chili_chili, "In a small skillet, toast <i>6 g (1 tbsp)</i> of whole cumin seeds until fragrant. Using a mortar and pestle, grind to a powder. Set ground cumin aside.");
-add_instruction(&bean_chili_chili, "Bring pressure cooker pot (or regular pot if not using a pressure cooker) to <u>medium-high heat</u>, add <i>30 ml (2 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, <i>1</i> chopped <a href='yellow_onion.html'>yellow onion</a>, <i>4</i> minced <a href='garlic.html'>garlic cloves</a>, <i>2</i> stemmed, seeded and chopped <a href='jalapeno_peppers.html'>jalapeños</a>, <i>10 g (2 tbsp)</i> of chile powder (I use either chipotle, ancho or habanero), the ground cumin powder and <i>3 g (1 tbsp)</i> of <a href='oregano.html'>dried oregano</a>. Cook the mixture for <u>5-7 minutes</u>, or until onion is well-browned."); 
-add_instruction(&bean_chili_chili, "Add the <i>1</i> chopped <a href='parsnip.html'>parsnip</a>, <i>1</i> chopped <a href='carrot.html'>carrot</a>, the drained <a href='chickpeas.html'>chickpeas</a> and drained <a href='black_beans.html'>black beans</a>, <i>796 g (or 28 oz can, 10-12 whole tomatoes)</i> of <a href='tomato_can.html'>diced tomatoes</a>, <i>2.5 g (1 tsp)</i> of <a href='cocoa_powder.html'>cocoa powder</a> (or 1 chocolate square), <i>750 ml (3 cups)</i> of <a href='water.html'>water</a> (or broth, also possible to sub 350 ml for beer). Cook in a pressure cooker for <u>7-8 minutes</u>, let pressure release naturally. If not using a pressure cooker, lower heat, and simmer for <u>1 1/2 hours</u>.");
-add_instruction(&bean_chili_chili, "Optionally, add <i>15 g (1 tbsp)</i> of <a href='natural_brown_sugar.html'>sugar</a> (or maple syrup), and a dash of <a href='lemon_juice.html'>lemon juice</a> to help balance the sauce. Season with <a href='salt.html'>salt</a> and <a href='black_pepper.html'>black pepper</a>. For a thicker chili, transfer half of the mixture into another bowl and mash it with a potato masher. Serve immediately or let cool. The chili tastes best the day after it is made. We usually have it on the same day, and then again for lunch the next day *chef's kiss*.");
-add_serving(&bean_chili_chili, &black_beans, "375 g, cooked");
-add_serving(&bean_chili_chili, &chickpeas, "250 g, cooked");
-add_serving(&bean_chili_chili, &olive_oil, "30 ml");
-add_serving(&bean_chili_chili, &yellow_onion, "1");
-add_serving(&bean_chili_chili, &carrots, "1");
-add_serving(&bean_chili_chili, &parsnips, "1");
-add_serving(&bean_chili_chili, &garlic, "4 cloves, minced");
-add_serving(&bean_chili_chili, &jalapeno_peppers, "2");
-add_serving(&bean_chili_chili, &chile_powder, "10 g");
-add_serving(&bean_chili_chili, &cumin_seeds, "6 g");
-add_serving(&bean_chili_chili, &oregano, "3 g, dry");
-add_serving(&bean_chili_chili, &tomato_can, "796 g");
-add_serving(&bean_chili_chili, &cocoa_powder, "2.5 g");
-add_serving(&bean_chili_chili, &water, "750 ml");
-add_serving(&bean_chili_chili, &natural_brown_sugar, "15 g");
-add_serving(&bean_chili_chili, &lemon_juice, "to taste");
-add_part(&bean_chili, &bean_chili_chili);
-
 // anise bread with sweet pear sauce
 Recipe anise_bread_with_sweet_pear_sauce = create_recipe("anise bread with sweet pear sauce", sweet, "2 mini loaves", 20150514, 40);
 set_description(&anise_bread_with_sweet_pear_sauce, "<p>Since getting those mini silicone pans, we've been making mini everything. This time, we made some anise sweet bread topped with a sauce, and loaded with caramelized pear chunks.</p><p>My bag of anise seeds has been sitting in my pantry, for way too long, begging for purpose. We are happy to report that the taste of anise pairs very well with pears.</p>");
@@ -96,6 +68,34 @@ add_serving(&balsamic_banana_ice_cream_banana_ice_cream, &banana, "2");
 add_serving(&balsamic_banana_ice_cream_banana_ice_cream, &soy_milk, "60 ml");
 add_serving(&balsamic_banana_ice_cream_banana_ice_cream, &vanilla_extract, "1.25 ml");
 add_part(&balsamic_banana_ice_cream, &balsamic_banana_ice_cream_banana_ice_cream);
+
+
+// bean chili
+Recipe bean_chili = create_recipe("bean chili", maindish, "6 portions", 20220220, 25);
+set_description(&bean_chili, "<p>A hearty, warm dish. The above photo is the day-after portion.</p><p>When making chili, we swap vegetables in and out depending on what we have. For instance, we might add only carrots, or two parsnips, or potatoes. Parnips, like carrots, are cheap and plentiful in winter. Celery is common in chili recipes, but we omit it because Devine isn't a fan.<p><p><b>Beans</b>. For beans, we try and use black beans as the bulk of the recipe, but we like to add chickpeas. Chickpeas in chili is not common, but it's a legume that we always have on hand and that we both love (we don't keep pinto, or kidney beans). Swapping chickpeas for lentils would also be delicious.</p><p><b>Canned beans?</b> It is possible to use canned beans, but buying dry beans is cheaper, and means less weight on the boat. For those who insist on using cans, <b>1 drained 425 g (15 oz) can of chickpeas</b> and <b>1 drained 425 g (15 oz) cans of black beans</b> is fine for this recipe.</p><p><b>Beer?</b> Beer provides a great flavorful medium for the beans and vegetables to simmer in, it adds depth of flavor. Dark, stouts and amber beer lend well to chili. You can omit the broth or beer and exchange for <b>350 ml</b> of extra tomatoes and their juices.</p><p><b>Chile powder</b>. This is different than chili powder. Chile powder refers to pure dried, crushed (and sometimes smoked) chipotle, habanero, ancho, guajillo, piri piri, kashmiri, etc. There are no other added ingredients. To make your own, see <a href='chile_powder.html'>this recipe</a>.</p><p><b>Cocoa powder</b>. Adding cocoa powder is a trick we learned from making Japanese curry roux. Japanese cooks like to add chocolate. It pairs well with chili. Like beer, it adds depth to the dish.</a>.</p><p><b>Pressure cooker</b>. We use our pressure cooker to prepare our chili because it helps us save on fuel (our boat uses LPG), and because we prepare beans from dry. Adjust cooking times for your altitude.</p><p><b>Fresh tomatoes</b>. If you have plenty of chopped fresh tomatoes available, or if you can your own, you can use <b>800 g</b> (roughly 10 to 12 whole, although it depends on the kind of tomato, e.g., cherry vs roma) of chopped fresh tomatoes instead of a can.</p>");
+RecipePart bean_chili_chili = create_part("chili");
+add_instruction(&bean_chili_chili, "Soak <i>125 g (3/4 cup)</i> of <a href='chickpeas.html'>dry chickpeas</a> and <i>125 g (3/4 cup)</i> <a href='black_beans.html'>black beans</a> in water for <u>4-8 hours</u> (I soak them in separate bowls). Drain.");
+add_instruction(&bean_chili_chili, "In a small skillet, toast <i>6 g (1 tbsp)</i> of whole cumin seeds until fragrant. Using a mortar and pestle, grind to a powder. Set ground cumin aside.");
+add_instruction(&bean_chili_chili, "Bring pressure cooker pot (or regular pot if not using a pressure cooker) to <u>medium-high heat</u>, add <i>30 ml (2 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, <i>1</i> chopped <a href='yellow_onion.html'>yellow onion</a>, <i>4</i> minced <a href='garlic.html'>garlic cloves</a>, <i>2</i> stemmed, seeded and chopped <a href='jalapeno_peppers.html'>jalapeños</a>, <i>10 g (2 tbsp)</i> of chile powder (I use either chipotle, ancho or habanero), the ground cumin powder and <i>3 g (1 tbsp)</i> of <a href='oregano.html'>dried oregano</a>. Cook the mixture for <u>5-7 minutes</u>, or until onion is well-browned."); 
+add_instruction(&bean_chili_chili, "Add the <i>1</i> chopped <a href='parsnip.html'>parsnip</a>, <i>1</i> chopped <a href='carrot.html'>carrot</a>, the drained <a href='chickpeas.html'>chickpeas</a> and drained <a href='black_beans.html'>black beans</a>, <i>796 g (or 28 oz can, 10-12 whole tomatoes)</i> of <a href='tomato_can.html'>diced tomatoes</a>, <i>2.5 g (1 tsp)</i> of <a href='cocoa_powder.html'>cocoa powder</a> (or 1 chocolate square), <i>750 ml (3 cups)</i> of <a href='water.html'>water</a> (or broth, also possible to sub 350 ml for beer). Cook in a pressure cooker for <u>7-8 minutes</u>, let pressure release naturally. If not using a pressure cooker, lower heat, and simmer for <u>1 1/2 hours</u>.");
+add_instruction(&bean_chili_chili, "Optionally, add <i>15 g (1 tbsp)</i> of <a href='natural_brown_sugar.html'>sugar</a> (or maple syrup), and a dash of <a href='lemon_juice.html'>lemon juice</a> to help balance the sauce. Season with <a href='salt.html'>salt</a> and <a href='black_pepper.html'>black pepper</a>. For a thicker chili, transfer half of the mixture into another bowl and mash it with a potato masher. Serve immediately or let cool. The chili tastes best the day after it is made. We usually have it on the same day, and then again for lunch the next day *chef's kiss*.");
+add_serving(&bean_chili_chili, &black_beans, "375 g, cooked");
+add_serving(&bean_chili_chili, &chickpeas, "250 g, cooked");
+add_serving(&bean_chili_chili, &olive_oil, "30 ml");
+add_serving(&bean_chili_chili, &yellow_onion, "1");
+add_serving(&bean_chili_chili, &carrots, "1");
+add_serving(&bean_chili_chili, &parsnips, "1");
+add_serving(&bean_chili_chili, &garlic, "4 cloves, minced");
+add_serving(&bean_chili_chili, &jalapeno_peppers, "2");
+add_serving(&bean_chili_chili, &chile_powder, "10 g");
+add_serving(&bean_chili_chili, &cumin_seeds, "6 g");
+add_serving(&bean_chili_chili, &oregano, "3 g, dry");
+add_serving(&bean_chili_chili, &tomato_can, "796 g");
+add_serving(&bean_chili_chili, &cocoa_powder, "2.5 g");
+add_serving(&bean_chili_chili, &water, "750 ml");
+add_serving(&bean_chili_chili, &natural_brown_sugar, "15 g");
+add_serving(&bean_chili_chili, &lemon_juice, "to taste");
+add_part(&bean_chili, &bean_chili_chili);
 
 // black sesame brittle
 Recipe black_sesame_brittle = create_recipe("black sesame brittle", sweet, "10 pieces", 20141106, 20);
