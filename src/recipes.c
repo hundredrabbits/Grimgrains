@@ -836,7 +836,7 @@ set_description(&red_lentil_stew, "<p>A recipe we've prepared several times on l
 RecipePart red_lentil_stew_lentils = create_part("lentils");
 add_instruction(&red_lentil_stew_lentils, "Heat a pot at medium heat, then coat bottom with <i>15 ml (1 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>. Add <i>113 g (1 small, diced)</i> <a href='yellow_onion.html'>yellow onion</a>, sautée for <u>5 minutes</u>.");
 add_instruction(&red_lentil_stew_lentils, "Add <a href='black_pepper.html'>black pepper</a>, <i>2 g (1/2 tsp)</i> <a href='cumin_seeds.html'>whole cumin seeds</a> and <i>1.25 g (1/4 tsp)</i> of <a href='ground_turmeric.html'>turmeric powder</a>.");
-add_instruction(&red_lentil_stew_lentils, "Add <i>60 g (1 medium, diced)</i> <a href='carrot.html'>carrot</a>, <i>290 g (2 medium, chopped into small cubes)</i> <a href='potatoes.html'>potatoes</a> and <i>227 g (1/4 head, chopped)</i> of <a href='green_cabbage.html'>green cabbage</a>. Mix well, lower heat, cover and cook for <u>5-7 minutes</u>. Add water if vegetables are sticking to the bottom.");
+add_instruction(&red_lentil_stew_lentils, "Add <i>60 g (1 medium, diced)</i> <a href='carrot.html'>carrot</a>, <i>290 g (2 medium, chopped into small cubes)</i> <a href='potatoes.html'>potatoes</a> and <i>230 g (1/4 head, chopped)</i> of <a href='green_cabbage.html'>green cabbage</a>. Mix well, lower heat, cover and cook for <u>5-7 minutes</u>. Add water if vegetables are sticking to the bottom.");
 add_instruction(&red_lentil_stew_lentils, "Mix in <i>100 g (1/2 cup)</i> of <a href='red_lentils.html'>red lentils</a> and <i>350 ml (1 1/2 cups)</i> of <a href='vegetable_bouillon.html'>vegetable bouillon</a>. Mix well, and bring to a boil. Lower heat to a simmer, cover and cook for <u>10 minutes</u>. When ready, season with <a href='salt.html'>salt</a>.");
 add_instruction(&red_lentil_stew_lentils, "Eat as is, or serve over <a href='basmati_rice.html'>basmati rice</a> or <a href='quick_flat_bread.html'>flat bread</a>.");
 add_serving(&red_lentil_stew_lentils, &olive_oil, "15 ml");
@@ -846,7 +846,7 @@ add_serving(&red_lentil_stew_lentils, &cumin_seeds, "2 g");
 add_serving(&red_lentil_stew_lentils, &ground_turmeric, "1.25 g");
 add_serving(&red_lentil_stew_lentils, &carrots, "1 medium");
 add_serving(&red_lentil_stew_lentils, &potatoes, "2, medium");
-add_serving(&red_lentil_stew_lentils, &green_cabbage, "375 ml");
+add_serving(&red_lentil_stew_lentils, &green_cabbage, "230 g");
 add_serving(&red_lentil_stew_lentils, &salt, "1.25 g");
 add_serving(&red_lentil_stew_lentils, &red_lentils, "100 g");
 add_serving(&red_lentil_stew_lentils, &vegetable_bouillon, "350 ml");
