@@ -86,7 +86,7 @@ main > table.col b { font-weight: bold }
 
 main img.characters {max-width: 100px;}
 
-body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: black }
+body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting, body.lactofermentation nav ul li.lactofermentation { border-bottom-color: black }
 
 @media (max-width: 650px){
   main ul.recipes { columns:1 }
