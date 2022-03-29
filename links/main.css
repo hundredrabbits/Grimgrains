@@ -104,7 +104,7 @@ body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools
 @media (prefers-color-scheme: dark){
   body {background: #111; color: white;}
   header a img {filter: invert(1)}
-  body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting { border-bottom-color: white }
+  body.home nav ul li.home, body.about nav ul li.about, body.tools nav ul li.tools, body.nutrition nav ul li.nutrition, body.sprouting nav ul li.sprouting, body.lactofermentation nav ul li.lactofermentation { border-bottom-color: white }
   nav ul {border-bottom-color: white;}
   .monochrome {filter: invert(1);}
   main > p.notice {background: #111;color:white;}
