@@ -1758,7 +1758,7 @@ add_serving(&uzumaki_hummus_bites_beet_hummus, &balsamic_vinegar, "15 ml");
 add_serving(&uzumaki_hummus_bites_beet_hummus, &olive_oil, "30 ml");
 add_part(&uzumaki_hummus_bites, &uzumaki_hummus_bites_beet_hummus);
 RecipePart uzumaki_hummus_bites_tortillas = create_part("tortillas");
-add_instruction(&uzumaki_hummus_bites_tortillas, "Put <i>360 g (3 cups)</i> of <a href='all_purpose_flour.html'>all purpose flour</a>, <i>5 g (1 tsp)</i> <a href='bamboo_powder.html'>bamboo powder</a> and <i>1.25 g (1/4tsp)</i> of <a href='salt.html'>salt</a> in a bowl. Mix well.");
+add_instruction(&uzumaki_hummus_bites_tortillas, "Put <i>360 g (3 cups)</i> of <a href='all_purpose_flour.html'>all purpose flour</a>, <i>5 g (1 tsp)</i> <a href='bamboo_charcoal_powder.html'>bamboo charcoal powder</a> and <i>1.25 g (1/4tsp)</i> of <a href='salt.html'>salt</a> in a bowl. Mix well.");
 add_instruction(&uzumaki_hummus_bites_tortillas, "Add <i>60 ml (1/4 cup)</i> of <a href='olive_oil.html'>olive oil</a> and <i>180 ml (3/4 cup)</i> of <a href='cold_water.html'>cold water</a>.");
 add_instruction(&uzumaki_hummus_bites_tortillas, "Knead into a smooth dough, and separate into <i>11 balls</i>. Dust the balls lightly with flour, and let rest for <u>5 minutes</u>.");
 add_instruction(&uzumaki_hummus_bites_tortillas, "Roll the balls out into circles. Put the tortillas under a moist cloth until you're ready to cook them so they don't dry up (I usually spray a bit of water over the cloth).");
