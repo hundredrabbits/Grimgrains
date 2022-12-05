@@ -145,20 +145,19 @@ add_serving(&black_sesame_syrup_syrup, &natural_brown_sugar, "100 g");
 add_part(&black_sesame_syrup, &black_sesame_syrup_syrup);
 
 // breaded veggie fingers
-Recipe breaded_chickpea_tofu_fingers = create_recipe("breaded chickpea tofu fingers", sidedish, "24 servings", 20150330, 90);
-set_description(&breaded_chickpea_tofu_fingers, "<p>Was in the mood for some baked veggie fingers, didn't have tofu, but what we did have was a jar full of chickpea flour. We prepared a batch of spicy, green scallion 'chickpea tofu' and coated it with breadcrumbs.</p><p>The lemon juice adds flavor to the crumbs, no need for eggs or flour.</p><p>We served these with sambal oelek, it's spicy but works well with the dish. We've been pairing this condiment with a lot of foods lately, we are sure these would also be good with a sweet mustard dip</p><p>Left-over breading will keep for weeks if stored in an airtight container.</p>");
+Recipe breaded_chickpea_tofu_fingers = create_recipe("breaded chickpea tofu fingers", sidedish, "20 servings", 20150330, 90);
+set_description(&breaded_chickpea_tofu_fingers, "<p>Was in the mood for some baked veggie fingers, didn't have tofu, but what we did have was a jar full of chickpea flour. We prepared a batch of spicy, green scallion 'chickpea tofu' and coated it with breadcrumbs.</p><p>The lemon juice adds flavor to the crumbs, no need for eggs or flour.</p><p>We served these with sambal oelek, it's spicy but works well with the dish. We've been pairing this condiment with a lot of foods lately, we are sure these would also be good with a sweet mustard dip</p><p>Left-over breading will keep for weeks if stored in an airtight container.</p><p>If using besan(gram) flour, add 2 extra tablespoons of flour.");
 RecipePart breaded_chickpea_tofu_fingers_chickpea_tofu = create_part("chickpea tofu");
-add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "In a pot, add <i>360 ml (1 1/2 cups)</i> of <a href='vegetable_bouillon.html'>vegetable bouillon</a> and bring to a rolling boil.");
-add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Mix <i>85 g (1 cup)</i> of <a href='chickpea_flour.html'>chickpea flour</a> with <i>1.25 g (1/4 tsp)</i> of <a href='salt.html'>salt</a>, <i>2.5 g (1/2 tsp)</i> of <a href='ground_turmeric.html'>ground turmeric</a> and <i>15 g (1 tbsp)</i> of <a href='chili_pepper_flakes.html'>chili pepper flakes</a>. Add <i>360 ml (1 1/2 cups)</i> of <a href='water.html'>water</a> and stir until the mixture is lump-free.");
+add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "In a pot, add <i>250 ml (1 cups)</i> of <a href='vegetable_bouillon.html'>vegetable bouillon</a> and bring to a rolling boil.");
+add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Mix <i>125g (1 cup)</i> of <a href='chickpea_flour.html'>chickpea flour</a> with <i>1.25 g (1/4 tsp)</i> of <a href='salt.html'>salt</a>, <i>2.5 g (1/2 tsp)</i> of <a href='ground_turmeric.html'>ground turmeric</a> and <i>15 g (1 tbsp)</i> of <a href='chili_pepper_flakes.html'>chili pepper flakes</a>. Add <i>250 ml (1 cup)</i> of <a href='water.html'>vegetable bouillon(or water)</a> and stir until the mixture is lump-free.");
 add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Lower heat to medium, and pour in chickpea batter. Whisk continuously for <u>5-10 minutes</u> until the mixture has thickened.");
 add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Remove from heat, add <i>2 stalks</i> of chopped <a href='scallions.html'>scallions</a> and mix well. Pour into a 8x8 baking dish lined with a baking mat. Smooth out top with the back of a wooden spoon.");
-add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Let cool and set for <u>1 hour</u>, then refrigerate for a little while longer before cutting. <i>Cut into 24 strips</i>.");
-add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &vegetable_bouillon, "360 ml");
-add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &chickpea_flour, "85 g");
+add_instruction(&breaded_chickpea_tofu_fingers_chickpea_tofu, "Let cool and set for <u>1 hour</u>, then refrigerate for a little while longer before cutting. <i>Cut into strips</i>.");
+add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &vegetable_bouillon, "250 ml");
+add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &chickpea_flour, "125 g");
 add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &salt, "1.25 g");
 add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &ground_turmeric, "2.5 g");
 add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &chili_pepper_flakes, "15 g");
-add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &water, "360 ml");
 add_serving(&breaded_chickpea_tofu_fingers_chickpea_tofu, &scallions, "2 stalks");
 add_part(&breaded_chickpea_tofu_fingers, &breaded_chickpea_tofu_fingers_chickpea_tofu);
 RecipePart breaded_chickpea_tofu_fingers_breading = create_part("breading");
@@ -170,7 +169,7 @@ RecipePart breaded_chickpea_tofu_fingers_breading_mix = create_part("breading mi
 add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Preheat oven to <u>220 °C (425 °F)</u>.");
 add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Mix <i>150 g (1 cup)</i> of dried breadcrumbs with <i>15 g (1/4 cup)</i> of <a href='nutritional_yeast.html'>nutritional yeast</a>. Spread out thinly onto a plate.");
 add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Pour <i>45 ml (3 tbsp)</i> of <a href='lemon_juice.html'>lemon juice</a> in a separate plate.");
-add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Take a slice of the <a href='chickpea_tofu.html'>chickpea tofu</a> and dip into the <a href='lemon_juice.html'>lemon juice</a>, making sure all sides are covered, then dip into the breadming mix. Make sure all sides are well coated.");
+add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Take a slice of the chickpea tofu and dip into the <a href='lemon_juice.html'>lemon juice</a>, making sure all sides are covered, then dip into the breadming mix. Make sure all sides are well coated.");
 add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Place on baking sheet lined a baking mat, season with <a href='black_pepper.html'>black pepper</a> and <a href='salt.html'>salt</a>. Spray lightly with <a href='olive_oil.html'>olive oil</a>.");
 add_instruction(&breaded_chickpea_tofu_fingers_breading_mix, "Bake for <u>15 minutes</u>, flip, bake for another <u>15 minutes</u>. Serve with dipping sauce of choice!");
 add_serving(&breaded_chickpea_tofu_fingers_breading_mix, &nutritional_yeast, "15 g");
