@@ -453,7 +453,7 @@ build_rss(FILE *f, Recipe **recipes, int len)
 		fputs("  <pubDate>", f);
 		fpRFC2822(f, intdate(r->date));
 		fputs("</pubDate>\n", f);
-		fputs("  <dc:creator><![CDATA[Rekka Bellum]]></dc:creator>\n", f);
+		fputs("  <dc:creator><![CDATA[Rek Bell]]></dc:creator>\n", f);
 		fputs("  <description>\n", f);
 		fputs("<![CDATA[", f);
 		fprintf(f, "<img src='" DOMAIN "media/recipes/%s.jpg' width='600'/>\n", filename);
