@@ -720,7 +720,7 @@ add_serving(&quick_grilled_cheese_cheese, &nutritional_yeast, "15 g");
 add_serving(&quick_grilled_cheese_cheese, &garlic_powder, "3 g");
 add_serving(&quick_grilled_cheese_cheese, &miso, "10 g");
 add_serving(&quick_grilled_cheese_cheese, &tahini, "35 g");
-add_serving(&quick_grilled_cheese_cheese, &dijon_mustard, "15 g");
+add_serving(&quick_grilled_cheese_cheese, &dijon_mustard, "5 g");
 add_serving(&quick_grilled_cheese_cheese, &soy_milk, "60 ml");
 add_serving(&quick_grilled_cheese_cheese, &olive_oil, "to taste");
 add_serving(&quick_grilled_cheese_cheese, &fresh_bread, "4 slices");
@@ -891,6 +891,26 @@ add_serving(&red_lentil_stew_lentils, &salt, "1.25 g");
 add_serving(&red_lentil_stew_lentils, &red_lentils, "100 g");
 add_serving(&red_lentil_stew_lentils, &vegetable_bouillon, "350 ml");
 add_part(&red_lentil_stew, &red_lentil_stew_lentils);
+
+// mac_and_faux_cheese
+Recipe mac_and_faux_cheese = create_recipe("mac and faux cheese", maindish, "2 servings", 20230323, 15);
+set_description(&mac_and_faux_cheese, "<p>Meals with faux-cheese doesn't always have to include nutritional yeast. We love nutritional yeast, but it's not cheap to buy, so we use it sparingly. Mixing a few other simple ingredients together we find is enough to make a good and satisfying cheesy sauce.</p><p>In the above image, we added brussel sprouts. It's not part of the recipe because it is a strange ingredient to add to mac and cheese, but we like it in everything. Whenever we cook rice, or pasta, we add halved and stemmed brussel sprouts(with the outer leaves removed) to the cooking water. If you like boiled brussel sprouts, give it a shot.</p><p><b>Substitutions</b></p><p><b>Plant milk</b>: If you don't like soy milk, any non-dairy milk will do. We've had mac and cheese with full-fat coconut milk and it was heavenly. Coconut milk alters the flavor of the faux-cheese in a very good way.</p><p><b>Miso</b>: We always have miso on the boat, and we use whatever kind we happen to have. We've made the mixture with white and red miso. The red miso has a stronger, deeper taste.</p><p><b>Turmeric</b>: turmeric is an optional ingredient, but it gives the sauce a pop of colour and it is very good for you. It's possible to use fresh turmeric, 10 g (1 tsp) of dried turmeric is equal to roughly 15g (1 tbsp) of fresh turmeric.</p>");
+RecipePart mac_and_faux_cheese_sauce = create_part("sauce");
+add_instruction(&mac_and_faux_cheese_sauce, "In a small bowl, add i>35 g (2 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>1.5 g (1/2 tsp)</i> of <a href='ground_turmeric.html'>turmeric powder</a>(dry), <i>1.5 g (1/2 tsp)</i> of <a href='garlic_powder.html'>garlic powder</a>, <i>10 g (1 tsp)</i> of <a href='miso.html'>white miso</a>, <i>5 g (1 tsp)</i> of <a href='dijon_mustard.html'>dijon mustard</a> (see <a href='mustard_from_seed.html'>to make your own mustard</a>). Add <i>125 ml (1/2 cup)</i> of <a href='soy_milk.html'>soy milk</a> gradually, the mixture should be runny, but not watery.");
+add_instruction(&mac_and_faux_cheese_sauce, "Heat a pan at medium heat, add some <a href='olive_oil.html'>olive oil</a>. When the oil is hot, add <i>1 small</i> diced <a href='yellow_onion.html'>yellow onion</a> and cook until browned, then add <i>1</i> fresh <a href='jalapeno_peppers.html'>jalapeno pepper</a> and cook for an additional <u>5 minutes</u>. Set aside.");
+add_instruction(&mac_and_faux_cheese_sauce, "Cook <i>115 g (1 cup, or 4 oz)</i> of <a href='wholegrain_macaroni.html'>macaroni (elbow) pasta</a> until tender. Drain the noodles and return to the pot. Mix in the faux-cheese sauce, until all the ingredients are well-coated, top with the yellow onion and jalapeno mix, some fresh <a href='small_heirloom_tomatoes.html'>cherry tomatoes</a>, and season with a pinch of salt and black pepper.");
+add_serving(&mac_and_faux_cheese_sauce, &tahini, "35 g");
+add_serving(&mac_and_faux_cheese_sauce, &garlic_powder, "1.5 g");
+add_serving(&mac_and_faux_cheese_sauce, &ground_turmeric, "1.5 g");
+add_serving(&mac_and_faux_cheese_sauce, &miso, "10 g");
+add_serving(&mac_and_faux_cheese_sauce, &dijon_mustard, "5 g");
+add_serving(&mac_and_faux_cheese_sauce, &soy_milk, "125 ml");
+add_serving(&mac_and_faux_cheese_sauce, &olive_oil, "15 ml");
+add_serving(&mac_and_faux_cheese_sauce, &yellow_onion, "1, diced");
+add_serving(&mac_and_faux_cheese_sauce, &jalapeno_peppers, "1");
+add_serving(&mac_and_faux_cheese_sauce, &small_heirloom_tomatoes, "4 per bowl");
+add_serving(&mac_and_faux_cheese_sauce, &wholegrain_macaroni, "115 g");
+add_part(&mac_and_faux_cheese, &mac_and_faux_cheese_sauce);
 
 // mason jar bread pudding
 Recipe mason_jar_bread_pudding = create_recipe("mason jar bread pudding", sweet, "1 serving", 20150108, 30);
@@ -1186,6 +1206,17 @@ add_serving(&quick_parmesan_mix, &nutritional_yeast, "12 g");
 add_serving(&quick_parmesan_mix, &garlic_powder, "5 g");
 add_serving(&quick_parmesan_mix, &salt, "1.25 g");
 add_part(&quick_sunflower_seed_parmesan, &quick_parmesan_mix);
+
+// rice burger bun
+// Recipe rice_burger_bun = create_recipe("rice burger bun", sidedish, "2 servings", 20230317, 20);
+// set_description(&rice_burger_bun, "<p>When we lived in Japan we would sometimes go to Mos Burgers, because they had an item on menu that was burgers with a rice bun. We always liked that idea. Once in a while, when we're too lazy to make bread, we cook up some sticky rice and make rice buns.</p><p>When making rice buns, it is necessary to compress the rice enough so that the bun doesn't come apart. It is possible to do this by hand, but the rice needs</p>");
+// RecipePart rice_burger_bun_bun = create_part("balsamic reduction");
+// add_instruction(&rice_burger_bun_bun, "Put <i>240 ml (1 cup)</i> of <a href='balsamic_vinegar.html'>balsamic vinegar</a> in a non-stick pan.");
+// add_instruction(&rice_burger_bun_bun, "Bring up to medium high heat, once it starts to boil bring down to medium low and let simmer until the vinegar has been reduced by a little more than half. Stir it on occasion. Make sure you have an open window or the overhead fan running because boiling vinegar has a really strong smell!");
+// add_instruction(&rice_burger_bun_bun, "Transfer to a bowl and let cool completely, then store in the refrigerator. It will thicken when it gets cold. This recipe makes a lot of balsamic reduction, it's hard to make very little. It keeps in the refrigerator for a while so you can easily use it in other recipes. It's great when served over fruit.");
+// add_serving(&rice_burger_bun_bun, &short_grain_white_rice, "1 cup");
+// add_part(&rice_burger_bun, &rice_burger_bun_bun);
+
 
 // raisin beet bread
 Recipe raisin_beet_bread = create_recipe("raisin beet bread", sweet, "1 loaf", 20141220, 60);
@@ -1866,4 +1897,4 @@ add_serving(&wasabi_swirl_chocolate_cookies_glaze, &wasabi_powder, "15 g");
 add_serving(&wasabi_swirl_chocolate_cookies_glaze, &soy_milk, "30 ml");
 add_part(&wasabi_swirl_chocolate_cookies, &wasabi_swirl_chocolate_cookies_glaze);
 
-Recipe *recipes[] = {&chunky_apple_jam, &quick_flat_bread, &roasted_eggplant_dip, &anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_syrup, &breaded_chickpea_tofu_fingers, &brownies, &carrot_kinpira_onigirazu, &corn_pone, &quick_cheese, &cheese_and_spinach_ravioli, &choco_peanut_blondies, &basic_black_bread, &basic_toothpaste, &beer_bread, &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_dumplings, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &soy_flour_tofu, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &red_lentil_stew, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &shepherds_pie, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpea_flour, &spicy_brownies_with_pomegranate_syrup, &stovetop_blackberry_cake, &stovetop_choco_oat_cookies, &cheesy_sunflower_seed_sauce, &sourdough_spelt_flatbread, &sweet_mock_eel_nigiri, &tzatziki, &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &vege_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies, &golden_bread, &sourdough_starter, &soybean_hummus_with_jalapenos, &bean_chili, &quick_grilled_cheese, &beet_sauce_pasta};
+Recipe *recipes[] = {&mac_and_faux_cheese, &chunky_apple_jam, &quick_flat_bread, &roasted_eggplant_dip, &anise_bread_with_sweet_pear_sauce, &arame_soba, &balsamic_banana_ice_cream, &black_sesame_brittle, &black_sesame_syrup, &breaded_chickpea_tofu_fingers, &brownies, &carrot_kinpira_onigirazu, &corn_pone, &quick_cheese, &cheese_and_spinach_ravioli, &choco_peanut_blondies, &basic_black_bread, &basic_toothpaste, &beer_bread, &breadfruit_gnocchi, &breadfruit_pasta, &buckwheat_dumplings, &buckwheat_tea, &chickpea_salad_sandwich, &chocolate_chip_cookies, &coffee_jelly, &corn_dumplings, &crackers, &soy_flour_tofu, &fresh_pesto_pasta, &halloween_pumpkin_cookies, &veganaise, &hop_ice_cream, &houjicha_overnight_oatmeal, &red_lentil_stew, &lentils_with_roasted_beet_sauce, &mason_jar_bread_pudding, &mustard_from_seed, &no_knead_bread, &okonomiyaki, &pandanus_fruit_bread, &pan_fried_breadfruit, &papaya_bruschetta_topping, &shepherds_pie, &quick_sunflower_seed_parmesan, &raisin_beet_bread, &roasted_carrots_with_beluga_lentils, &roasted_pumpkin_seeds, &scrambled_chickpea_flour, &spicy_brownies_with_pomegranate_syrup, &stovetop_blackberry_cake, &stovetop_choco_oat_cookies, &cheesy_sunflower_seed_sauce, &sourdough_spelt_flatbread, &sweet_mock_eel_nigiri, &tzatziki, &seitan, &shichimi_togarashi_crackers, &spicy_stirfry_chickpeas, &spinach_oatmeal_cookies, &stovetop_popcorn, &sweet_and_sour_lentils, &uzumaki_hummus_bites, &vegemite_caramel, &vege_pate, &wakame_bites, &wasabi_swirl_chocolate_cookies, &golden_bread, &sourdough_starter, &soybean_hummus_with_jalapenos, &bean_chili, &quick_grilled_cheese, &beet_sauce_pasta};
