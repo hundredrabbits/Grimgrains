@@ -898,7 +898,7 @@ set_description(&mac_and_faux_cheese, "<p>Meals with faux-cheese doesn't always 
 RecipePart mac_and_faux_cheese_sauce = create_part("sauce");
 add_instruction(&mac_and_faux_cheese_sauce, "In a small bowl, add <i>35 g (2 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>1.5 g (1/2 tsp)</i> of <a href='ground_turmeric.html'>turmeric powder</a>(dry), <i>1.5 g (1/2 tsp)</i> of <a href='garlic_powder.html'>garlic powder</a>, <i>10 g (1 tsp)</i> of <a href='miso.html'>white miso</a>, <i>5 g (1 tsp)</i> of <a href='dijon_mustard.html'>dijon mustard</a> (see <a href='mustard_from_seed.html'>to make your own mustard</a>). Add <i>125 ml (1/2 cup)</i> of <a href='soy_milk.html'>soy milk</a> gradually, the mixture should be runny, but not watery.");
 add_instruction(&mac_and_faux_cheese_sauce, "Heat a pan at medium heat, add some <a href='olive_oil.html'>olive oil</a>. When the oil is hot, add <i>1 small</i> diced <a href='yellow_onion.html'>yellow onion</a> and cook until browned, then add <i>1</i> fresh <a href='jalapeno_peppers.html'>jalapeno pepper</a> and cook for an additional <u>5 minutes</u>. Set aside.");
-add_instruction(&mac_and_faux_cheese_sauce, "Cook <i>115 g (1 cup, or 4 oz)</i> of <a href='wholegrain_macaroni.html'>macaroni (elbow) pasta</a> until tender. Drain the noodles and return to the pot. Mix in the faux-cheese sauce, until all the ingredients are well-coated, top with the yellow onion and jalapeno mix, some fresh <a href='small_heirloom_tomatoes.html'>cherry tomatoes</a>, and season with a pinch of salt and black pepper.");
+add_instruction(&mac_and_faux_cheese_sauce, "Cook <i>115 g (1 cup, or 4 oz)</i> of dry <a href='wholegrain_macaroni.html'>macaroni (elbow) pasta</a> until tender. Drain the noodles and return to the pot. Mix in the faux-cheese sauce, until all the ingredients are well-coated, top with the yellow onion and jalapeno mix, some fresh <a href='small_heirloom_tomatoes.html'>cherry tomatoes</a>, and season with a pinch of salt and black pepper.");
 add_serving(&mac_and_faux_cheese_sauce, &tahini, "35 g");
 add_serving(&mac_and_faux_cheese_sauce, &garlic_powder, "1.5 g");
 add_serving(&mac_and_faux_cheese_sauce, &ground_turmeric, "1.5 g");
@@ -909,7 +909,7 @@ add_serving(&mac_and_faux_cheese_sauce, &olive_oil, "15 ml");
 add_serving(&mac_and_faux_cheese_sauce, &yellow_onion, "1, diced");
 add_serving(&mac_and_faux_cheese_sauce, &jalapeno_peppers, "1");
 add_serving(&mac_and_faux_cheese_sauce, &small_heirloom_tomatoes, "4 per bowl");
-add_serving(&mac_and_faux_cheese_sauce, &wholegrain_macaroni, "115 g");
+add_serving(&mac_and_faux_cheese_sauce, &wholegrain_macaroni, "115 g(dry)");
 add_part(&mac_and_faux_cheese, &mac_and_faux_cheese_sauce);
 
 // mason jar bread pudding
