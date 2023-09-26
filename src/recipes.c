@@ -546,6 +546,7 @@ add_serving(&cookie_mix, &vegan_butter, "113 g");
 add_serving(&cookie_mix, &soy_milk, "45 ml");
 add_serving(&cookie_mix, &apple_cider_vinegar, "2.5 ml");
 add_serving(&cookie_mix, &flax_seeds, "7 g, ground");
+add_serving(&cookie_mix, &water, "45 ml");
 add_serving(&cookie_mix, &chocolate_chips, "170 g");
 add_part(&chocolate_chip_cookies, &cookie_mix);
 
