@@ -17,7 +17,7 @@ add_serving(&anise_bread_with_sweet_pear_sauce_bread, &soy_milk, "150 ml");
 add_part(&anise_bread_with_sweet_pear_sauce, &anise_bread_with_sweet_pear_sauce_bread);
 RecipePart anise_bread_with_sweet_pear_sauce_sauce = create_part("sauce");
 add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Cut your <a href='bosc_pear.html'>bosc pear</a> into cubes.");
-add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Heat a pan at medium to high heat, add <i>60 ml (1/4 cup)</i> of <a href='canola_oil.html'>canola oil</a>. Once melted, add <i>15 g (1 tbsp)</i> of <a href='granulated_sugar.html'>sugar</a> and <i>15 ml (1 tbsp)</i> of <a href='maple_syrup.html'>maple syrup</a>.");
+add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Heat a pan at medium heat, add <i>15 ml (1 tbsp)</i> of <a href='canola_oil.html'>canola oil</a>. Once hot, add <i>15 g (1 tbsp)</i> of <a href='granulated_sugar.html'>sugar</a> and <i>15 ml (1 tbsp)</i> of <a href='maple_syrup.html'>maple syrup</a>.");
 add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Once it starts to boil, add the cubed <a href='bosc_pear.html'>bosc pear</a> and lower the heat. Let it bathe in the sweet mixture for <u>3-5 minutes</u>.");
 add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Pour the sauce over the 2 mini loaves, bake for <u>30 minutes</u>.");
 add_instruction(&anise_bread_with_sweet_pear_sauce_sauce, "Let cool and serve!");
