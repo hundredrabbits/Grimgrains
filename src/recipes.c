@@ -1468,7 +1468,7 @@ set_description(&stovetop_zaatar_pizza, "<p>First off, forgive the so-so, unphot
 RecipePart stovetop_zaatar_pizza_topping = create_part("topping");
 add_instruction(&stovetop_zaatar_pizza_topping, "Cut <i>1 medium</i> <a href='yellow_onion.html'>yellow onions</a> into thin slices. Pan-fry the onion slices in <a href='olive_oil.html'>olive oil</a> at medium-heat until the onions are lightly browned and tender. Set aside. (I like to add a very tiny pinch of baking soda to hasten the browning of the onions, with <a href='https://www.onions-usa.org/onionista/faster-caramelized-onions-with-baking-soda/' target='_blank'>this technique</a> it takes <u>8 to 10 minutes</u>, otherwise it can take 45 minutes).");
 add_instruction(&stovetop_zaatar_pizza_topping, "Slice some <a href='black_olives.html'>black olives</a> (I cut whole pitted olives lengthwise in 3's), as well as some thinly-sliced <a href='sun_dried_tomatoes.html'>sun-dried tomatoes</a>(or fresh tomatoes). Set aside.");
-add_instruction(&stovetop_zaatar_pizza_topping, "<b>Cheese</b>: In a small bowl, add <i>35 g (2 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>1.5 g (1/2 tsp)</i> of <a href='turmeric_powder.html'>turmeric powder(dry)</a>, <i>1.5 g (1/2 tsp)</i> of <a href='garlic_powder.html'>garlic powder</a>, <i>10 g (1 tsp)</i> of <a href='white_miso.html'>white miso</a>, <i>5 g (1 tsp)</i> of <a href='dijon_mustard.html'>dijon mustard</a> (see to <a href='mustard_from_seed.html'>make your own mustard</a>). Add <i>80 ml (1/3 cup)</i> of <a href='soy_milk.html'>soy milk</a> gradually, the mixture should be runny, but not too watery. Reserve for later.");
+add_instruction(&stovetop_zaatar_pizza_topping, "<b>Cheese</b>: In a small bowl, add <i>35 g (2 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>1.5 g (1/2 tsp)</i> of <a href='turmeric_powder.html'>turmeric powder(dry)</a>, <i>1.5 g (1/2 tsp)</i> of <a href='garlic_powder.html'>garlic powder</a>, <i>10 g (1 tsp)</i> of <a href='white_miso.html'>white miso</a>, <i>5 g (1 tsp)</i> of <a href='dijon_mustard.html'>dijon mustard</a> (see to <a href='mustard_from_seed.html'>make your own mustard</a>). Add <i>60 ml (1/4 cup)</i> of <a href='soy_milk.html'>soy milk</a> gradually, the mixture should be runny, but not too watery. Reserve for later.");
 add_serving(&stovetop_zaatar_pizza_topping, &yellow_onion, "1, medium");
 add_serving(&stovetop_zaatar_pizza_topping, &olive_oil, "15 ml");
 add_serving(&stovetop_zaatar_pizza_topping, &black_olives, "7 whole olives");
@@ -1478,7 +1478,7 @@ add_serving(&stovetop_zaatar_pizza_topping, &ground_turmeric, "1.5 g");
 add_serving(&stovetop_zaatar_pizza_topping, &garlic_powder, "1.5 g");
 add_serving(&stovetop_zaatar_pizza_topping, &white_miso, "10 g");
 add_serving(&stovetop_zaatar_pizza_topping, &dijon_mustard, "5 g");
-add_serving(&stovetop_zaatar_pizza_topping, &soy_milk, "80 ml");
+add_serving(&stovetop_zaatar_pizza_topping, &soy_milk, "60 ml");
 add_part(&stovetop_zaatar_pizza, &stovetop_zaatar_pizza_topping);
 RecipePart stovetop_zaatar_pizza_dough = create_part("dough");
 add_instruction(&stovetop_zaatar_pizza_dough, "Measure <i>250 ml (1 cup)</i> of warm <a href='water.html'>water</a>, dissolve <i>7 g (1/2 tbsp)</i> of <a href='granulated_sugar.html'>sugar</a>, then add <i>2.70 g (roughly 1/2 tsp)</i> of <a href='instant_yeast.html'>instant yeast</a> and let it foam and bloom for <u>5-10 minutes</u>(to proof it). Mix in <i>30 ml (2 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>.");
