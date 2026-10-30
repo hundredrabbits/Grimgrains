@@ -1833,29 +1833,30 @@ add_part(&sweet_and_sour_lentils, &sweet_and_sour_lentils_lentils);
 
 // vege pate
 Recipe vege_pate = create_recipe("vege pate", sidedish, "4 blocks", 20191220, 60);
-set_description(&vege_pate, "<p>Végé pâté is Quebec staple food. It's great with veggies, on crackers and in sandwiches. My recipe is grainy because of the use of rolled oats, but don't worry, it still holds itself well together.</p><p>Purchasing it pre-made can be expensive, and not all brands are good. Making your own is no trouble, and if frozen, it can keep for a long, long time.</p><p><b class='head'>Substitutions</b></p><p>A lot of végé pâté recipes call for whole wheat flour, we've made pâté with it before with great results. Using flour will result in a smoother pâté. If you don't have oats, you can use whole wheat flour, or other wholegrain flours instead.</p><p>It's also possible to use regular potatoes, or pumpkin instead of sweet potatoes.</p>");
+set_description(&vege_pate, "<p>Végé pâté is Quebec staple food. It's great with veggies, on crackers and in sandwiches. My recipe is grainy because of the use of rolled oats, but don't worry, it still holds itself well together.</p><p>Purchasing it pre-made can be expensive, and not all brands are good. Making your own is no trouble, and if frozen, it can keep for a long, long time.</p><p><b class='head'>Substitutions</b></p><p>A lot of végé pâté recipes call for whole wheat flour, we've made pâté with it before with great results. Using flour will result in a smoother pâté. If you don't have oats, you can use whole wheat flour, or other wholegrain flours instead.</p><p>It's also possible to use sweet potatoes, or pumpkin instead of regular potatoes, i usually use whatever I have on hand.</p><p><b class='head'>No Oven Version</b></p><p>I have prepared this on the stovetop in a cast iron pan, it works well, but I usually cook the onion, garlic and potatoes separately first(all together in a pan), then blend everything using either an immersion blender or a little hand-operated food processor. Cooking the pate in a pan involves first coating it with oil, bringing the pan up to high-heat, adding the contents, adding a lid overtop and cooking at the lowest possible temperature for an hour or so with a lid on. I like to flip the whole thing every 15 minutes using a spatula, I usually split it in half, or thirds, and flip it that way (doing the whole thing at once isn't easy). In the end, I turn the heat off, keep the lid on and add a rag overtop to help keep the heat, then let it cool completely before serving.</p>");
 RecipePart vege_pate_preparation = create_part("preparation");
 add_instruction(&vege_pate_preparation, "Soak <i>140 g (1 cup)</i> of raw unsalted <a href='sunflower_seeds'>sunflower seeds</a> in water for <u>2 hours</u>. Then, drain, rinse well and transfer to a big bowl. Puree the seeds using an immersion blender. Set aside.");
 add_instruction(&vege_pate_preparation, "Preheat oven to <u>190 °C (375 °F)</u>.");
-add_instruction(&vege_pate_preparation, "Skin, and grate <i>1 large</i> <a href='sweet_potatoes.html'>potatoes</a>. Also, grate <i>1</i> large <a href='carrots.html'>carrot</a>. Then transfer both the grated carrot and potatoes into the big bowl with the sunflower seeds.");
+add_instruction(&vege_pate_preparation, "Skin, and grate <i>1 large</i> <a href='potatoes.html'>potato</a>. Also, grate <i>1</i> large <a href='carrots.html'>carrot</a>. Then transfer both the grated carrot and potatoes into the big bowl with the sunflower seeds.");
 add_instruction(&vege_pate_preparation, "Chop <i>1 medium</i> <a href=yellow.onion.html'>yellow onion</a> and <i>3</i> <a href='garlic.html'>garlic cloves</a>. Bring a pan to medium heat, add some vegetable oil and the chopped yellow onion. Sautée until browned, then add the minced garlic and cook for another minute. Pour contents of pan into the big bowl.");
 add_instruction(&vege_pate_preparation, "Pulse <i>60 g (1/2 cup)</i> of <a href='rolled_oats'>rolled oats</a> into a fine powder using an immersion blender or mortar and pestle. Add oat powder into the big bowl.");
-add_instruction(&vege_pate_preparation, "Add <i>30 ml (2 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, <i>45 ml (3 tbsp)</i> of <a href='soy_sauce.html'>soy sauce</a>, <i>5 ml (1 tbsp)</i> of <a href='lemon_juice'>lemon juice</a>, <i>5 g (1 tsp)</i> of <a href='oregano.html'>dried oregano</a>, <i>5 g (1 tsp)</i> of <a href='thyme.html'>dried thyme</a> and <i>80 ml (1/3 cup)</i> of <a href='water.html'>water</a> to the rest of the ingredients. Blend everything using an immersion blender, then add <i>a pinch</i> of <a href='black pepper'>black pepper</a> and <i>15 g (1/4 cup)</i> of <a href='nutritional_yeast'>nutritional yeast</a>. Mix it in with a spoon. ");
+add_instruction(&vege_pate_preparation, "Add <i>30 ml (2 tbsp)</i> of <a href='olive_oil.html'>olive oil</a>, <i>45 ml (3 tbsp)</i> of <a href='soy_sauce.html'>soy sauce</a>, <i>15 ml (1 tbsp)</i> of <a href='tomato_paste.html'>tomato paste</a>, <i>12 g (1 tbsp)</i> of <a href='tahini.html'>tahini</a>, <i>5 ml (1 tbsp)</i> of <a href='lemon_juice.html'>lemon juice</a>, <i>5 g (1 tsp)</i> of <a href='oregano.html'>dried oregano</a>, <i>5 g (1 tsp)</i> of <a href='thyme.html'>dried thyme</a> and <i>80 ml (1/3 cup)</i> of <a href='water.html'>water</a> to the rest of the ingredients. Blend everything using an immersion blender, then add <i>a pinch</i> of <a href='black pepper'>black pepper</a> and <i>15 g (1/4 cup)</i> of <a href='nutritional_yeast'>nutritional yeast</a>. Mix it in with a spoon. ");
 add_instruction(&vege_pate_preparation, "Pour mixture into a greased 8x8 baking dish, and bake for <u>50 minutes</u>. Let cool before serving. Keeps for a week in the fridge, and even longer if frozen.");
 add_serving(&vege_pate_preparation, &sunflower_seeds, "140 g");
-add_serving(&vege_pate_preparation, &sweet_potatoes, "1 large, grated");
+add_serving(&vege_pate_preparation, &potatoes, "1 large, grated");
 add_serving(&vege_pate_preparation, &carrots, "1 large, grated");
 add_serving(&vege_pate_preparation, &olive_oil, "30 ml");
 add_serving(&vege_pate_preparation, &yellow_onion, "1");
 add_serving(&vege_pate_preparation, &garlic, "3 cloves");
 add_serving(&vege_pate_preparation, &rolled_oats, "60 g");
 add_serving(&vege_pate_preparation, &soy_sauce, "45 ml");
+add_serving(&vege_pate_preparation, &tomato_paste, "15 ml");
+add_serving(&vege_pate_preparation, &tahini, "12 g");
 add_serving(&vege_pate_preparation, &lemon_juice, "5 ml");
 add_serving(&vege_pate_preparation, &thyme, "5 g");
 add_serving(&vege_pate_preparation, &oregano, "5 g");
 add_serving(&vege_pate_preparation, &water, "80 ml");
 add_serving(&vege_pate_preparation, &black_pepper, "to taste");
-add_serving(&vege_pate_preparation, &nutritional_yeast, "15 g");
 add_part(&vege_pate, &vege_pate_preparation);
 
 // spinach oatmeal cookies
